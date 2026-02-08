@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Claude Blog (Unofficial RSS)</title>
+    <link>https://claude.com</link>
+    <description>Auto-generated feed for https://claude.com/blog</description>
+    <item>
+      <title>A complete guide to building skills for Claude</title>
+      <link>https://claude.com/blog/complete-guide-to-building-skills-for-claude</link>
+      <guid isPermaLink="true">https://claude.com/blog/complete-guide-to-building-skills-for-claude</guid>
+      <description>A complete guide to building skills for Claude A complete guide to building skills for Claude</description>
+    </item>
+    <item>
+      <title>Advancing finance with Claude Opus 4.6</title>
+      <link>https://claude.com/blog/opus-4-6-finance</link>
+      <guid isPermaLink="true">https://claude.com/blog/opus-4-6-finance</guid>
+      <description>Advancing finance with Claude Opus 4.6 Advancing finance with Claude Opus 4.6</description>
+    </item>
+    <item>
+      <title>Agents</title>
+      <link>https://claude.com/blog/category/agents</link>
+      <guid isPermaLink="true">https://claude.com/blog/category/agents</guid>
+    </item>
+    <item>
+      <title>Building agents with Skills: Equipping agents for specialized work</title>
+      <link>https://claude.com/blog/building-agents-with-skills-equipping-agents-for-specialized-work</link>
+      <guid isPermaLink="true">https://claude.com/blog/building-agents-with-skills-equipping-agents-for-specialized-work</guid>
+      <description>Building agents with Skills: Equipping agents for specialized work Building agents with Skills: Equipping agents for specialized work</description>
+    </item>
+    <item>
+      <title>Building multi-agent systems: when and how to use them</title>
+      <link>https://claude.com/blog/building-multi-agent-systems-when-and-how-to-use-them</link>
+      <guid isPermaLink="true">https://claude.com/blog/building-multi-agent-systems-when-and-how-to-use-them</guid>
+      <description>Building multi-agent systems: when and how to use them Building multi-agent systems: when and how to use them</description>
+    </item>
+    <item>
+      <title>Claude Code</title>
+      <link>https://claude.com/blog/category/claude-code</link>
+      <guid isPermaLink="true">https://claude.com/blog/category/claude-code</guid>
+    </item>
+    <item>
+      <title>Customize Cowork with plugins</title>
+      <link>https://claude.com/blog/cowork-plugins</link>
+      <guid isPermaLink="true">https://claude.com/blog/cowork-plugins</guid>
+      <description>Customize Cowork with plugins Customize Cowork with plugins</description>
+    </item>
+    <item>
+      <title>Eight trends defining how software gets built in 2026</title>
+      <link>https://claude.com/blog/eight-trends-defining-how-software-gets-built-in-2026</link>
+      <guid isPermaLink="true">https://claude.com/blog/eight-trends-defining-how-software-gets-built-in-2026</guid>
+      <description>Eight trends defining how software gets built in 2026 Eight trends defining how software gets built in 2026</description>
+    </item>
+    <item>
+      <title>Enterprise AI</title>
+      <link>https://claude.com/blog/category/enterprise-ai</link>
+      <guid isPermaLink="true">https://claude.com/blog/category/enterprise-ai</guid>
+    </item>
+    <item>
+      <title>Extending Claude’s capabilities with skills and MCP servers</title>
+      <link>https://claude.com/blog/extending-claude-capabilities-with-skills-mcp-servers</link>
+      <guid isPermaLink="true">https://claude.com/blog/extending-claude-capabilities-with-skills-mcp-servers</guid>
+      <description>Extending Claude’s capabilities with skills and MCP servers Extending Claude’s capabilities with skills and MCP servers</description>
+    </item>
+    <item>
+      <title>How Anthropic's Growth Marketing team cut ad creation time from 30 minutes to 30 seconds with Claude Code</title>
+      <link>https://claude.com/blog/how-anthropic-uses-claude-marketing</link>
+      <guid isPermaLink="true">https://claude.com/blog/how-anthropic-uses-claude-marketing</guid>
+      <description>How Anthropic's Growth Marketing team cut ad creation time from 30 minutes to 30 seconds with Claude Code How Anthropic's Growth Marketing team cut ad creation time from 30 minutes to 30 seconds with Claude Code</description>
+    </item>
+    <item>
+      <title>How leading retailers are turning AI pilots into enterprise-wide transformation</title>
+      <link>https://claude.com/blog/how-leading-retailers-are-turning-ai-pilots-into-enterprise-wide-transformation</link>
+      <guid isPermaLink="true">https://claude.com/blog/how-leading-retailers-are-turning-ai-pilots-into-enterprise-wide-transformation</guid>
+      <description>How leading retailers are turning AI pilots into enterprise-wide transformation How leading retailers are turning AI pilots into enterprise-wide transformation</description>
+    </item>
+    <item>
+      <title>Making Claude a better electrical engineer</title>
+      <link>https://claude.com/blog/making-claude-a-better-electrical-engineer</link>
+      <guid isPermaLink="true">https://claude.com/blog/making-claude-a-better-electrical-engineer</guid>
+      <description>Making Claude a better electrical engineer Making Claude a better electrical engineer</description>
+    </item>
+    <item>
+      <title>Product announcements</title>
+      <link>https://claude.com/blog/category/announcements</link>
+      <guid isPermaLink="true">https://claude.com/blog/category/announcements</guid>
+    </item>
+    <item>
+      <title>Read more</title>
+      <link>https://claude.com/blog/building-ai-agents-in-financial-services</link>
+      <guid isPermaLink="true">https://claude.com/blog/building-ai-agents-in-financial-services</guid>
+      <description>Read more Read more</description>
+    </item>
+    <item>
+      <title>Read more</title>
+      <link>https://claude.com/blog/claude-and-slack</link>
+      <guid isPermaLink="true">https://claude.com/blog/claude-and-slack</guid>
+      <description>Read more Read more</description>
+    </item>
+    <item>
+      <title>Read more</title>
+      <link>https://claude.com/blog/claude-code-on-the-web</link>
+      <guid isPermaLink="true">https://claude.com/blog/claude-code-on-the-web</guid>
+      <description>Read more Read more</description>
+    </item>
+    <item>
+      <title>Read more</title>
+      <link>https://claude.com/blog/claude-for-chrome</link>
+      <guid isPermaLink="true">https://claude.com/blog/claude-for-chrome</guid>
+      <description>Read more Read more</description>
+    </item>
+    <item>
+      <title>Read more</title>
+      <link>https://claude.com/blog/cowork-research-preview</link>
+      <guid isPermaLink="true">https://claude.com/blog/cowork-research-preview</guid>
+      <description>Read more Read more</description>
+    </item>
+    <item>
+      <title>Read more</title>
+      <link>https://claude.com/blog/how-anthropic-teams-use-claude-code</link>
+      <guid isPermaLink="true">https://claude.com/blog/how-anthropic-teams-use-claude-code</guid>
+      <description>Read more Read more</description>
+    </item>
+    <item>
+      <title>Read more</title>
+      <link>https://claude.com/blog/how-enterprises-are-building-ai-agents-in-2026</link>
+      <guid isPermaLink="true">https://claude.com/blog/how-enterprises-are-building-ai-agents-in-2026</guid>
+      <description>Read more Read more</description>
+    </item>
+    <item>
+      <title>Read more</title>
+      <link>https://claude.com/blog/improving-frontend-design-through-skills</link>
+      <guid isPermaLink="true">https://claude.com/blog/improving-frontend-design-through-skills</guid>
+      <description>Read more Read more</description>
+    </item>
+    <item>
+      <title>Read more</title>
+      <link>https://claude.com/blog/integrations</link>
+      <guid isPermaLink="true">https://claude.com/blog/integrations</guid>
+      <description>Read more Read more</description>
+    </item>
+    <item>
+      <title>Read more</title>
+      <link>https://claude.com/blog/max-plan</link>
+      <guid isPermaLink="true">https://claude.com/blog/max-plan</guid>
+      <description>Read more Read more</description>
+    </item>
+    <item>
+      <title>Skills for organizations, partners, the ecosystem</title>
+      <link>https://claude.com/blog/organization-skills-and-directory</link>
+      <guid isPermaLink="true">https://claude.com/blog/organization-skills-and-directory</guid>
+      <description>Skills for organizations, partners, the ecosystem Skills for organizations, partners, the ecosystem</description>
+    </item>
+    <item>
+      <title>Understand Claude Code’s impact with contribution metrics</title>
+      <link>https://claude.com/blog/contribution-metrics</link>
+      <guid isPermaLink="true">https://claude.com/blog/contribution-metrics</guid>
+      <description>Understand Claude Code’s impact with contribution metrics Understand Claude Code’s impact with contribution metrics</description>
+    </item>
+    <item>
+      <title>Updates to Claude Team</title>
+      <link>https://claude.com/blog/claude-team-updates</link>
+      <guid isPermaLink="true">https://claude.com/blog/claude-team-updates</guid>
+      <description>Updates to Claude Team Updates to Claude Team</description>
+    </item>
+    <item>
+      <title>Your favorite work tools are now interactive inside Claude</title>
+      <link>https://claude.com/blog/interactive-tools-in-claude</link>
+      <guid isPermaLink="true">https://claude.com/blog/interactive-tools-in-claude</guid>
+      <description>Your favorite work tools are now interactive inside Claude Your favorite work tools are now interactive inside Claude</description>
+    </item>
+  </channel>
+</rss>
