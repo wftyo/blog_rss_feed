@@ -4,7 +4,7 @@
       "id": "claude-blog",
       "url": "https://claude.com/blog",
       "site_url": "https://claude.com",
-      "feed_title": "Claude Blog (Unofficial RSS)",
+      "feed_title": "Claude Blog",
       "feed_description": "Auto-generated feed for https://claude.com/blog",
       "output_rss": "feeds/claude-blog.rss.xml",
       "max_items": 40,
