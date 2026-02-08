@@ -339,12 +339,13 @@ def extract_items_from_links(soup: BeautifulSoup, source: FeedSource) -> list[Fe
 
 
 def dedupe_and_rank(items: list[FeedItem], max_items: int) -> list[FeedItem]:
-    merged: dict[str, FeedItem] = {}
+    merged: dict[str, tuple[FeedItem, int]] = {}
 
-    for item in items:
-        existing = merged.get(item.link)
+    for index, item in enumerate(items):
+        existing_pair = merged.get(item.link)
+        existing = existing_pair[0] if existing_pair else None
         if existing is None:
-            merged[item.link] = item
+            merged[item.link] = (item, index)
             continue
 
         if not existing.summary and item.summary:
@@ -356,13 +357,13 @@ def dedupe_and_rank(items: list[FeedItem], max_items: int) -> list[FeedItem]:
 
     result = list(merged.values())
     result.sort(
-        key=lambda x: (
-            -(x.published.timestamp() if x.published else 0),
-            x.title.lower(),
-            x.link,
+        key=lambda pair: (
+            0 if pair[0].published else 1,
+            -(pair[0].published.timestamp() if pair[0].published else 0),
+            pair[1],
         )
     )
-    return result[:max_items]
+    return [item for item, _ in result[:max_items]]
 
 
 def newest_timestamp(items: list[FeedItem]) -> datetime | None:
