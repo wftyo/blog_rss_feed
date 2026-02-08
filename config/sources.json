@@ -1,0 +1,23 @@
+{
+  "sources": [
+    {
+      "id": "claude-blog",
+      "url": "https://claude.com/blog",
+      "site_url": "https://claude.com",
+      "feed_title": "Claude Blog (Unofficial RSS)",
+      "feed_description": "Auto-generated feed for https://claude.com/blog",
+      "output_rss": "feeds/claude-blog.rss.xml",
+      "output_atom": "feeds/claude-blog.atom.xml",
+      "max_items": 40,
+      "include_url_patterns": [
+        "^https://claude\\.com/blog/.+"
+      ],
+      "exclude_url_patterns": [
+        "/blog/?$",
+        "/blog/tag/",
+        "/blog/search"
+      ],
+      "timeout_seconds": 20
+    }
+  ]
+}
