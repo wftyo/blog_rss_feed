@@ -1,12 +1,11 @@
 # blog_rss_feed
 
-Convert regular blog listing pages into subscribable RSS/Atom feeds, and keep them updated on a schedule with GitHub Actions.
+Convert regular blog listing pages into subscribable RSS feeds, and keep them updated on a schedule with GitHub Actions.
 
 ## Currently Configured Source
 
 - `https://claude.com/blog`
   - RSS: `feeds/claude-blog.rss.xml`
-  - Atom: `feeds/claude-blog.atom.xml`
 
 ## How It Works
 
@@ -14,7 +13,7 @@ Convert regular blog listing pages into subscribable RSS/Atom feeds, and keep th
 2. Prefer extracting article data from `application/ld+json`.
 3. If JSON-LD is incomplete, fall back to extracting from page links.
 4. If body/summary cannot be extracted, still keep `title + link` (worst case: title from URL slug).
-5. Generate RSS/Atom XML files into `feeds/`.
+5. Generate RSS XML files into `feeds/`.
 6. Run on schedule with GitHub Actions and auto commit/push updates.
 
 ## Usage
@@ -26,10 +25,9 @@ pip install -r requirements.txt
 python scripts/generate_feeds.py --config config/sources.json
 ```
 
-2. After enabling GitHub Actions, feeds are updated automatically. You can subscribe via raw URLs:
+2. After enabling GitHub Actions, feeds are updated automatically. You can subscribe via raw URL:
 
 - `https://raw.githubusercontent.com/<owner>/<repo>/main/feeds/claude-blog.rss.xml`
-- `https://raw.githubusercontent.com/<owner>/<repo>/main/feeds/claude-blog.atom.xml`
 
 Notes:
 
@@ -45,4 +43,6 @@ Edit the `sources` array in `config/sources.json`. Multiple sources are supporte
 - `url`: listing page URL
 - `include_url_patterns`: article URL match rules (regex)
 - `exclude_url_patterns`: filter rules (regex)
-- `output_rss` / `output_atom`: output paths
+- `link_scope_selectors`: CSS selectors to limit link extraction scope (for example, only inside `tabpanel`)
+- `use_json_ld`: whether to parse JSON-LD data (`true` by default)
+- `output_rss`: output path

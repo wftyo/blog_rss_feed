@@ -26,7 +26,6 @@ except ModuleNotFoundError as exc:
     raise SystemExit("Missing dependency: python-dateutil. Run: pip install -r requirements.txt") from exc
 
 ARTICLE_TYPES = {"Article", "BlogPosting", "NewsArticle", "TechArticle"}
-ATOM_NS = "http://www.w3.org/2005/Atom"
 
 
 @dataclass
@@ -45,16 +44,17 @@ class FeedSource:
     feed_title: str
     feed_description: str
     output_rss: Path
-    output_atom: Path
     max_items: int
     include_url_patterns: list[str]
     exclude_url_patterns: list[str]
+    link_scope_selectors: list[str]
+    use_json_ld: bool
     user_agent: str
     timeout_seconds: int
 
 
 def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Generate RSS/Atom feeds from blog listing pages")
+    parser = argparse.ArgumentParser(description="Generate RSS feeds from blog listing pages")
     parser.add_argument("--config", default="config/sources.json", help="Path to JSON config")
     parser.add_argument("--source-id", help="Only process a single source_id")
     parser.add_argument("--html-file", help="Use local HTML file for parsing (debug/testing)")
@@ -68,6 +68,22 @@ def setup_logging(verbose: bool) -> None:
         level=logging.DEBUG if verbose else logging.INFO,
         format="%(levelname)s %(message)s",
     )
+
+
+def parse_bool(value: Any, default: bool) -> bool:
+    if value is None:
+        return default
+    if isinstance(value, bool):
+        return value
+    if isinstance(value, (int, float)):
+        return bool(value)
+    if isinstance(value, str):
+        normalized = value.strip().lower()
+        if normalized in {"1", "true", "yes", "y", "on"}:
+            return True
+        if normalized in {"0", "false", "no", "n", "off"}:
+            return False
+    return default
 
 
 def load_sources(config_path: Path) -> list[FeedSource]:
@@ -92,10 +108,11 @@ def load_sources(config_path: Path) -> list[FeedSource]:
                 feed_title=row.get("feed_title") or source_id,
                 feed_description=row.get("feed_description") or f"Generated feed for {source_url}",
                 output_rss=Path(row.get("output_rss") or f"feeds/{source_id}.rss.xml"),
-                output_atom=Path(row.get("output_atom") or f"feeds/{source_id}.atom.xml"),
                 max_items=int(row.get("max_items", 30)),
                 include_url_patterns=list(row.get("include_url_patterns", [])),
                 exclude_url_patterns=list(row.get("exclude_url_patterns", [])),
+                link_scope_selectors=list(row.get("link_scope_selectors", [])),
+                use_json_ld=parse_bool(row.get("use_json_ld"), default=True),
                 user_agent=row.get("user_agent") or "Mozilla/5.0 (compatible; blog-rss-feed/1.0)",
                 timeout_seconds=int(row.get("timeout_seconds", 20)),
             )
@@ -274,10 +291,28 @@ def parse_nearby_date(anchor: Any) -> datetime | None:
     return None
 
 
+def select_link_anchors(soup: BeautifulSoup, source: FeedSource) -> list[Any]:
+    if not source.link_scope_selectors:
+        return list(soup.select("a[href]"))
+
+    anchors: list[Any] = []
+    for selector in source.link_scope_selectors:
+        for container in soup.select(selector):
+            anchors.extend(container.select("a[href]"))
+
+    if not anchors:
+        logging.warning(
+            "No anchors found in configured link scopes source=%s selectors=%s",
+            source.source_id,
+            source.link_scope_selectors,
+        )
+    return anchors
+
+
 def extract_items_from_links(soup: BeautifulSoup, source: FeedSource) -> list[FeedItem]:
     items: list[FeedItem] = []
 
-    for anchor in soup.select("a[href]"):
+    for anchor in select_link_anchors(soup, source):
         link = normalize_link(anchor.get("href", ""), source.url)
         if not link or not should_keep_link(link, source):
             continue
@@ -362,32 +397,6 @@ def build_rss_xml(source: FeedSource, items: list[FeedItem]) -> ET.Element:
     return rss
 
 
-def build_atom_xml(source: FeedSource, items: list[FeedItem]) -> ET.Element:
-    ET.register_namespace("", ATOM_NS)
-    feed = ET.Element(f"{{{ATOM_NS}}}feed")
-
-    ET.SubElement(feed, f"{{{ATOM_NS}}}title").text = source.feed_title
-    ET.SubElement(feed, f"{{{ATOM_NS}}}id").text = source.url
-    ET.SubElement(feed, f"{{{ATOM_NS}}}link", href=source.site_url)
-    ET.SubElement(feed, f"{{{ATOM_NS}}}link", href=source.output_atom.as_posix(), rel="self")
-
-    latest = newest_timestamp(items) or datetime(1970, 1, 1, tzinfo=timezone.utc)
-    ET.SubElement(feed, f"{{{ATOM_NS}}}updated").text = latest.isoformat().replace("+00:00", "Z")
-    ET.SubElement(feed, f"{{{ATOM_NS}}}subtitle").text = source.feed_description
-
-    for item in items:
-        entry = ET.SubElement(feed, f"{{{ATOM_NS}}}entry")
-        ET.SubElement(entry, f"{{{ATOM_NS}}}title").text = item.title
-        ET.SubElement(entry, f"{{{ATOM_NS}}}id").text = item.link
-        ET.SubElement(entry, f"{{{ATOM_NS}}}link", href=item.link)
-        updated = item.published or latest
-        ET.SubElement(entry, f"{{{ATOM_NS}}}updated").text = updated.isoformat().replace("+00:00", "Z")
-        if item.summary:
-            ET.SubElement(entry, f"{{{ATOM_NS}}}summary").text = item.summary
-
-    return feed
-
-
 def write_xml(root: ET.Element, output_path: Path) -> None:
     output_path.parent.mkdir(parents=True, exist_ok=True)
     tree = ET.ElementTree(root)
@@ -404,33 +413,32 @@ def process_source(source: FeedSource, html_override: Path | None, dry_run: bool
         html = fetch_html(source.url, user_agent=source.user_agent, timeout_seconds=source.timeout_seconds)
 
     soup = BeautifulSoup(html, "html.parser")
-    extracted = extract_items_from_json_ld(soup, source) + extract_items_from_links(soup, source)
+    extracted: list[FeedItem] = []
+    if source.use_json_ld:
+        extracted.extend(extract_items_from_json_ld(soup, source))
+    extracted.extend(extract_items_from_links(soup, source))
     items = dedupe_and_rank(extracted, source.max_items)
 
     if not items:
         logging.warning("No items extracted for source=%s", source.source_id)
 
     rss_root = build_rss_xml(source, items)
-    atom_root = build_atom_xml(source, items)
 
     if dry_run:
         logging.info(
-            "Dry run source=%s items=%d rss=%s atom=%s",
+            "Dry run source=%s items=%d rss=%s",
             source.source_id,
             len(items),
             source.output_rss,
-            source.output_atom,
         )
         return
 
     write_xml(rss_root, source.output_rss)
-    write_xml(atom_root, source.output_atom)
     logging.info(
-        "Wrote source=%s items=%d rss=%s atom=%s",
+        "Wrote source=%s items=%d rss=%s",
         source.source_id,
         len(items),
         source.output_rss,
-        source.output_atom,
     )
 
 

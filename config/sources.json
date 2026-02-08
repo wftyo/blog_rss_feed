@@ -7,16 +7,20 @@
       "feed_title": "Claude Blog (Unofficial RSS)",
       "feed_description": "Auto-generated feed for https://claude.com/blog",
       "output_rss": "feeds/claude-blog.rss.xml",
-      "output_atom": "feeds/claude-blog.atom.xml",
       "max_items": 40,
       "include_url_patterns": [
         "^https://claude\\.com/blog/.+"
       ],
       "exclude_url_patterns": [
         "/blog/?$",
+        "/blog/category/",
         "/blog/tag/",
         "/blog/search"
       ],
+      "link_scope_selectors": [
+        "[role='tabpanel']"
+      ],
+      "use_json_ld": false,
       "timeout_seconds": 20
     }
   ]
