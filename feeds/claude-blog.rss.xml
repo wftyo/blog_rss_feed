@@ -17,11 +17,6 @@
       <description>Advancing finance with Claude Opus 4.6 Advancing finance with Claude Opus 4.6</description>
     </item>
     <item>
-      <title>Agents</title>
-      <link>https://claude.com/blog/category/agents</link>
-      <guid isPermaLink="true">https://claude.com/blog/category/agents</guid>
-    </item>
-    <item>
       <title>Building agents with Skills: Equipping agents for specialized work</title>
       <link>https://claude.com/blog/building-agents-with-skills-equipping-agents-for-specialized-work</link>
       <guid isPermaLink="true">https://claude.com/blog/building-agents-with-skills-equipping-agents-for-specialized-work</guid>
@@ -34,9 +29,10 @@
       <description>Building multi-agent systems: when and how to use them Building multi-agent systems: when and how to use them</description>
     </item>
     <item>
-      <title>Claude Code</title>
-      <link>https://claude.com/blog/category/claude-code</link>
-      <guid isPermaLink="true">https://claude.com/blog/category/claude-code</guid>
+      <title>Cowork: Claude Code for the rest of your work</title>
+      <link>https://claude.com/blog/cowork-research-preview</link>
+      <guid isPermaLink="true">https://claude.com/blog/cowork-research-preview</guid>
+      <description>Cowork: Claude Code for the rest of your work Cowork: Claude Code for the rest of your work</description>
     </item>
     <item>
       <title>Customize Cowork with plugins</title>
@@ -49,11 +45,6 @@
       <link>https://claude.com/blog/eight-trends-defining-how-software-gets-built-in-2026</link>
       <guid isPermaLink="true">https://claude.com/blog/eight-trends-defining-how-software-gets-built-in-2026</guid>
       <description>Eight trends defining how software gets built in 2026 Eight trends defining how software gets built in 2026</description>
-    </item>
-    <item>
-      <title>Enterprise AI</title>
-      <link>https://claude.com/blog/category/enterprise-ai</link>
-      <guid isPermaLink="true">https://claude.com/blog/category/enterprise-ai</guid>
     </item>
     <item>
       <title>Extending Claude’s capabilities with skills and MCP servers</title>
@@ -78,71 +69,6 @@
       <link>https://claude.com/blog/making-claude-a-better-electrical-engineer</link>
       <guid isPermaLink="true">https://claude.com/blog/making-claude-a-better-electrical-engineer</guid>
       <description>Making Claude a better electrical engineer Making Claude a better electrical engineer</description>
-    </item>
-    <item>
-      <title>Product announcements</title>
-      <link>https://claude.com/blog/category/announcements</link>
-      <guid isPermaLink="true">https://claude.com/blog/category/announcements</guid>
-    </item>
-    <item>
-      <title>Read more</title>
-      <link>https://claude.com/blog/building-ai-agents-in-financial-services</link>
-      <guid isPermaLink="true">https://claude.com/blog/building-ai-agents-in-financial-services</guid>
-      <description>Read more Read more</description>
-    </item>
-    <item>
-      <title>Read more</title>
-      <link>https://claude.com/blog/claude-and-slack</link>
-      <guid isPermaLink="true">https://claude.com/blog/claude-and-slack</guid>
-      <description>Read more Read more</description>
-    </item>
-    <item>
-      <title>Read more</title>
-      <link>https://claude.com/blog/claude-code-on-the-web</link>
-      <guid isPermaLink="true">https://claude.com/blog/claude-code-on-the-web</guid>
-      <description>Read more Read more</description>
-    </item>
-    <item>
-      <title>Read more</title>
-      <link>https://claude.com/blog/claude-for-chrome</link>
-      <guid isPermaLink="true">https://claude.com/blog/claude-for-chrome</guid>
-      <description>Read more Read more</description>
-    </item>
-    <item>
-      <title>Read more</title>
-      <link>https://claude.com/blog/cowork-research-preview</link>
-      <guid isPermaLink="true">https://claude.com/blog/cowork-research-preview</guid>
-      <description>Read more Read more</description>
-    </item>
-    <item>
-      <title>Read more</title>
-      <link>https://claude.com/blog/how-anthropic-teams-use-claude-code</link>
-      <guid isPermaLink="true">https://claude.com/blog/how-anthropic-teams-use-claude-code</guid>
-      <description>Read more Read more</description>
-    </item>
-    <item>
-      <title>Read more</title>
-      <link>https://claude.com/blog/how-enterprises-are-building-ai-agents-in-2026</link>
-      <guid isPermaLink="true">https://claude.com/blog/how-enterprises-are-building-ai-agents-in-2026</guid>
-      <description>Read more Read more</description>
-    </item>
-    <item>
-      <title>Read more</title>
-      <link>https://claude.com/blog/improving-frontend-design-through-skills</link>
-      <guid isPermaLink="true">https://claude.com/blog/improving-frontend-design-through-skills</guid>
-      <description>Read more Read more</description>
-    </item>
-    <item>
-      <title>Read more</title>
-      <link>https://claude.com/blog/integrations</link>
-      <guid isPermaLink="true">https://claude.com/blog/integrations</guid>
-      <description>Read more Read more</description>
-    </item>
-    <item>
-      <title>Read more</title>
-      <link>https://claude.com/blog/max-plan</link>
-      <guid isPermaLink="true">https://claude.com/blog/max-plan</guid>
-      <description>Read more Read more</description>
     </item>
     <item>
       <title>Skills for organizations, partners, the ecosystem</title>
