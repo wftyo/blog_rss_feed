@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0">
   <channel>
-    <title>Claude Blog (Unofficial RSS)</title>
+    <title>Claude Blog</title>
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
