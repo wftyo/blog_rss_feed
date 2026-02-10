@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Behind the model launch: What customers discovered testing Claude Opus 4.6 early</title>
+      <link>https://claude.com/blog/behind-model-launch-what-customers-discovered-testing-claude-opus-4-6-early</link>
+      <guid isPermaLink="true">https://claude.com/blog/behind-model-launch-what-customers-discovered-testing-claude-opus-4-6-early</guid>
+      <description>Behind the model launch: What customers discovered testing Claude Opus 4.6 early Behind the model launch: What customers discovered testing Claude Opus 4.6 early</description>
+    </item>
+    <item>
       <title>Advancing finance with Claude Opus 4.6</title>
       <link>https://claude.com/blog/opus-4-6-finance</link>
       <guid isPermaLink="true">https://claude.com/blog/opus-4-6-finance</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/organization-skills-and-directory</link>
       <guid isPermaLink="true">https://claude.com/blog/organization-skills-and-directory</guid>
       <description>Skills for organizations, partners, the ecosystem Skills for organizations, partners, the ecosystem</description>
-    </item>
-    <item>
-      <title>Making Claude a better electrical engineer</title>
-      <link>https://claude.com/blog/making-claude-a-better-electrical-engineer</link>
-      <guid isPermaLink="true">https://claude.com/blog/making-claude-a-better-electrical-engineer</guid>
-      <description>Making Claude a better electrical engineer Making Claude a better electrical engineer</description>
     </item>
   </channel>
 </rss>
