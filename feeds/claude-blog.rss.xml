@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Claude Enterprise, now available self-serve</title>
+      <link>https://claude.com/blog/self-serve-enterprise</link>
+      <guid isPermaLink="true">https://claude.com/blog/self-serve-enterprise</guid>
+      <description>Claude Enterprise, now available self-serve Claude Enterprise, now available self-serve</description>
+    </item>
+    <item>
       <title>Behind the model launch: What customers discovered testing Claude Opus 4.6 early</title>
       <link>https://claude.com/blog/behind-model-launch-what-customers-discovered-testing-claude-opus-4-6-early</link>
       <guid isPermaLink="true">https://claude.com/blog/behind-model-launch-what-customers-discovered-testing-claude-opus-4-6-early</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/extending-claude-capabilities-with-skills-mcp-servers</link>
       <guid isPermaLink="true">https://claude.com/blog/extending-claude-capabilities-with-skills-mcp-servers</guid>
       <description>Extending Claude’s capabilities with skills and MCP servers Extending Claude’s capabilities with skills and MCP servers</description>
-    </item>
-    <item>
-      <title>Skills for organizations, partners, the ecosystem</title>
-      <link>https://claude.com/blog/organization-skills-and-directory</link>
-      <guid isPermaLink="true">https://claude.com/blog/organization-skills-and-directory</guid>
-      <description>Skills for organizations, partners, the ecosystem Skills for organizations, partners, the ecosystem</description>
     </item>
   </channel>
 </rss>
