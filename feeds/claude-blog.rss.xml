@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Increase web search accuracy and efficiency with dynamic filtering</title>
+      <link>https://claude.com/blog/improved-web-search-with-dynamic-filtering</link>
+      <guid isPermaLink="true">https://claude.com/blog/improved-web-search-with-dynamic-filtering</guid>
+      <description>Increase web search accuracy and efficiency with dynamic filtering Increase web search accuracy and efficiency with dynamic filtering</description>
+    </item>
+    <item>
       <title>Claude Enterprise, now available self-serve</title>
       <link>https://claude.com/blog/self-serve-enterprise</link>
       <guid isPermaLink="true">https://claude.com/blog/self-serve-enterprise</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/cowork-research-preview</link>
       <guid isPermaLink="true">https://claude.com/blog/cowork-research-preview</guid>
       <description>Cowork: Claude Code for the rest of your work Cowork: Claude Code for the rest of your work</description>
-    </item>
-    <item>
-      <title>Extending Claude’s capabilities with skills and MCP servers</title>
-      <link>https://claude.com/blog/extending-claude-capabilities-with-skills-mcp-servers</link>
-      <guid isPermaLink="true">https://claude.com/blog/extending-claude-capabilities-with-skills-mcp-servers</guid>
-      <description>Extending Claude’s capabilities with skills and MCP servers Extending Claude’s capabilities with skills and MCP servers</description>
     </item>
   </channel>
 </rss>
