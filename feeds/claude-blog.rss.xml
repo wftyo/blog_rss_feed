@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>How AI helps break the cost barrier to COBOL modernization</title>
+      <link>https://claude.com/blog/how-ai-helps-break-cost-barrier-cobol-modernization</link>
+      <guid isPermaLink="true">https://claude.com/blog/how-ai-helps-break-cost-barrier-cobol-modernization</guid>
+      <description>How AI helps break the cost barrier to COBOL modernization How AI helps break the cost barrier to COBOL modernization</description>
+    </item>
+    <item>
       <title>Bringing automated preview, review, and merge to Claude Code on desktop</title>
       <link>https://claude.com/blog/preview-review-and-merge-with-claude-code</link>
       <guid isPermaLink="true">https://claude.com/blog/preview-review-and-merge-with-claude-code</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/building-agents-with-skills-equipping-agents-for-specialized-work</link>
       <guid isPermaLink="true">https://claude.com/blog/building-agents-with-skills-equipping-agents-for-specialized-work</guid>
       <description>Building agents with Skills: Equipping agents for specialized work Building agents with Skills: Equipping agents for specialized work</description>
-    </item>
-    <item>
-      <title>Eight trends defining how software gets built in 2026</title>
-      <link>https://claude.com/blog/eight-trends-defining-how-software-gets-built-in-2026</link>
-      <guid isPermaLink="true">https://claude.com/blog/eight-trends-defining-how-software-gets-built-in-2026</guid>
-      <description>Eight trends defining how software gets built in 2026 Eight trends defining how software gets built in 2026</description>
     </item>
   </channel>
 </rss>
