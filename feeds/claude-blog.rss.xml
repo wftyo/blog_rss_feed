@@ -5,6 +5,18 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Cowork and plugins for finance</title>
+      <link>https://claude.com/blog/cowork-plugins-finance</link>
+      <guid isPermaLink="true">https://claude.com/blog/cowork-plugins-finance</guid>
+      <description>Cowork and plugins for finance Cowork and plugins for finance</description>
+    </item>
+    <item>
+      <title>Cowork and plugins for teams across the enterprise</title>
+      <link>https://claude.com/blog/cowork-plugins-across-enterprise</link>
+      <guid isPermaLink="true">https://claude.com/blog/cowork-plugins-across-enterprise</guid>
+      <description>Cowork and plugins for teams across the enterprise Cowork and plugins for teams across the enterprise</description>
+    </item>
+    <item>
       <title>How AI helps break the cost barrier to COBOL modernization</title>
       <link>https://claude.com/blog/how-ai-helps-break-cost-barrier-cobol-modernization</link>
       <guid isPermaLink="true">https://claude.com/blog/how-ai-helps-break-cost-barrier-cobol-modernization</guid>
@@ -81,18 +93,6 @@
       <link>https://claude.com/blog/how-anthropic-uses-claude-marketing</link>
       <guid isPermaLink="true">https://claude.com/blog/how-anthropic-uses-claude-marketing</guid>
       <description>How Anthropic's Growth Marketing team cut ad creation time from 30 minutes to 30 seconds with Claude Code How Anthropic's Growth Marketing team cut ad creation time from 30 minutes to 30 seconds with Claude Code</description>
-    </item>
-    <item>
-      <title>Building multi-agent systems: When and how to use them</title>
-      <link>https://claude.com/blog/building-multi-agent-systems-when-and-how-to-use-them</link>
-      <guid isPermaLink="true">https://claude.com/blog/building-multi-agent-systems-when-and-how-to-use-them</guid>
-      <description>Building multi-agent systems: When and how to use them Building multi-agent systems: When and how to use them</description>
-    </item>
-    <item>
-      <title>Building agents with Skills: Equipping agents for specialized work</title>
-      <link>https://claude.com/blog/building-agents-with-skills-equipping-agents-for-specialized-work</link>
-      <guid isPermaLink="true">https://claude.com/blog/building-agents-with-skills-equipping-agents-for-specialized-work</guid>
-      <description>Building agents with Skills: Equipping agents for specialized work Building agents with Skills: Equipping agents for specialized work</description>
     </item>
   </channel>
 </rss>
