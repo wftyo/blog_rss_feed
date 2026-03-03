@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Improving skill-creator: Test, measure, and refine Agent Skills</title>
+      <link>https://claude.com/blog/improving-skill-creator-test-measure-and-refine-agent-skills</link>
+      <guid isPermaLink="true">https://claude.com/blog/improving-skill-creator-test-measure-and-refine-agent-skills</guid>
+      <description>Improving skill-creator: Test, measure, and refine Agent Skills Improving skill-creator: Test, measure, and refine Agent Skills</description>
+    </item>
+    <item>
       <title>Cowork and plugins for finance</title>
       <link>https://claude.com/blog/cowork-plugins-finance</link>
       <guid isPermaLink="true">https://claude.com/blog/cowork-plugins-finance</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/interactive-tools-in-claude</link>
       <guid isPermaLink="true">https://claude.com/blog/interactive-tools-in-claude</guid>
       <description>Your favorite work tools are now interactive connectors inside Claude Your favorite work tools are now interactive connectors inside Claude</description>
-    </item>
-    <item>
-      <title>How Anthropic's Growth Marketing team cut ad creation time from 30 minutes to 30 seconds with Claude Code</title>
-      <link>https://claude.com/blog/how-anthropic-uses-claude-marketing</link>
-      <guid isPermaLink="true">https://claude.com/blog/how-anthropic-uses-claude-marketing</guid>
-      <description>How Anthropic's Growth Marketing team cut ad creation time from 30 minutes to 30 seconds with Claude Code How Anthropic's Growth Marketing team cut ad creation time from 30 minutes to 30 seconds with Claude Code</description>
     </item>
   </channel>
 </rss>
