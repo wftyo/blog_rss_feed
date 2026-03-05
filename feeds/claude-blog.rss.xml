@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Common workflow patterns for AI agents—and when to use them</title>
+      <link>https://claude.com/blog/common-workflow-patterns-for-ai-agents-and-when-to-use-them</link>
+      <guid isPermaLink="true">https://claude.com/blog/common-workflow-patterns-for-ai-agents-and-when-to-use-them</guid>
+      <description>Common workflow patterns for AI agents—and when to use them Common workflow patterns for AI agents—and when to use them</description>
+    </item>
+    <item>
       <title>Improving skill-creator: Test, measure, and refine Agent Skills</title>
       <link>https://claude.com/blog/improving-skill-creator-test-measure-and-refine-agent-skills</link>
       <guid isPermaLink="true">https://claude.com/blog/improving-skill-creator-test-measure-and-refine-agent-skills</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/claude-team-updates</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-team-updates</guid>
       <description>Updates to Claude Team Updates to Claude Team</description>
-    </item>
-    <item>
-      <title>Your favorite work tools are now interactive connectors inside Claude</title>
-      <link>https://claude.com/blog/interactive-tools-in-claude</link>
-      <guid isPermaLink="true">https://claude.com/blog/interactive-tools-in-claude</guid>
-      <description>Your favorite work tools are now interactive connectors inside Claude Your favorite work tools are now interactive connectors inside Claude</description>
     </item>
   </channel>
 </rss>
