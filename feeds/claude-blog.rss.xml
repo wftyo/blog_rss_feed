@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Bringing Code Review to Claude Code</title>
+      <link>https://claude.com/blog/code-review</link>
+      <guid isPermaLink="true">https://claude.com/blog/code-review</guid>
+      <description>Bringing Code Review to Claude Code Bringing Code Review to Claude Code</description>
+    </item>
+    <item>
       <title>Common workflow patterns for AI agents—and when to use them</title>
       <link>https://claude.com/blog/common-workflow-patterns-for-ai-agents-and-when-to-use-them</link>
       <guid isPermaLink="true">https://claude.com/blog/common-workflow-patterns-for-ai-agents-and-when-to-use-them</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/how-leading-retailers-are-turning-ai-pilots-into-enterprise-wide-transformation</link>
       <guid isPermaLink="true">https://claude.com/blog/how-leading-retailers-are-turning-ai-pilots-into-enterprise-wide-transformation</guid>
       <description>How leading retailers are turning AI pilots into enterprise-wide transformation How leading retailers are turning AI pilots into enterprise-wide transformation</description>
-    </item>
-    <item>
-      <title>Updates to Claude Team</title>
-      <link>https://claude.com/blog/claude-team-updates</link>
-      <guid isPermaLink="true">https://claude.com/blog/claude-team-updates</guid>
-      <description>Updates to Claude Team Updates to Claude Team</description>
     </item>
   </channel>
 </rss>
