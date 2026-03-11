@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Advancing Claude for Excel and PowerPoint</title>
+      <link>https://claude.com/blog/claude-excel-powerpoint-updates</link>
+      <guid isPermaLink="true">https://claude.com/blog/claude-excel-powerpoint-updates</guid>
+      <description>Advancing Claude for Excel and PowerPoint Advancing Claude for Excel and PowerPoint</description>
+    </item>
+    <item>
       <title>Bringing Code Review to Claude Code</title>
       <link>https://claude.com/blog/code-review</link>
       <guid isPermaLink="true">https://claude.com/blog/code-review</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/contribution-metrics</link>
       <guid isPermaLink="true">https://claude.com/blog/contribution-metrics</guid>
       <description>Understand Claude Code’s impact with contribution metrics Understand Claude Code’s impact with contribution metrics</description>
-    </item>
-    <item>
-      <title>How leading retailers are turning AI pilots into enterprise-wide transformation</title>
-      <link>https://claude.com/blog/how-leading-retailers-are-turning-ai-pilots-into-enterprise-wide-transformation</link>
-      <guid isPermaLink="true">https://claude.com/blog/how-leading-retailers-are-turning-ai-pilots-into-enterprise-wide-transformation</guid>
-      <description>How leading retailers are turning AI pilots into enterprise-wide transformation How leading retailers are turning AI pilots into enterprise-wide transformation</description>
     </item>
   </channel>
 </rss>
