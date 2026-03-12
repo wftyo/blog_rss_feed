@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Claude now creates interactive charts, diagrams and visualizations</title>
+      <link>https://claude.com/blog/claude-builds-visuals</link>
+      <guid isPermaLink="true">https://claude.com/blog/claude-builds-visuals</guid>
+      <description>Claude now creates interactive charts, diagrams and visualizations Claude now creates interactive charts, diagrams and visualizations</description>
+    </item>
+    <item>
       <title>Advancing Claude for Excel and PowerPoint</title>
       <link>https://claude.com/blog/claude-excel-powerpoint-updates</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-excel-powerpoint-updates</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/complete-guide-to-building-skills-for-claude</link>
       <guid isPermaLink="true">https://claude.com/blog/complete-guide-to-building-skills-for-claude</guid>
       <description>A complete guide to building skills for Claude A complete guide to building skills for Claude</description>
-    </item>
-    <item>
-      <title>Understand Claude Code’s impact with contribution metrics</title>
-      <link>https://claude.com/blog/contribution-metrics</link>
-      <guid isPermaLink="true">https://claude.com/blog/contribution-metrics</guid>
-      <description>Understand Claude Code’s impact with contribution metrics Understand Claude Code’s impact with contribution metrics</description>
     </item>
   </channel>
 </rss>
