@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>1M context is now generally available for Opus 4.6 and Sonnet 4.6</title>
+      <link>https://claude.com/blog/1m-context-ga</link>
+      <guid isPermaLink="true">https://claude.com/blog/1m-context-ga</guid>
+      <description>1M context is now generally available for Opus 4.6 and Sonnet 4.6 1M context is now generally available for Opus 4.6 and Sonnet 4.6</description>
+    </item>
+    <item>
       <title>Claude now creates interactive charts, diagrams and visualizations</title>
       <link>https://claude.com/blog/claude-builds-visuals</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-builds-visuals</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/cowork-plugins</link>
       <guid isPermaLink="true">https://claude.com/blog/cowork-plugins</guid>
       <description>Customize Cowork with plugins Customize Cowork with plugins</description>
-    </item>
-    <item>
-      <title>A complete guide to building skills for Claude</title>
-      <link>https://claude.com/blog/complete-guide-to-building-skills-for-claude</link>
-      <guid isPermaLink="true">https://claude.com/blog/complete-guide-to-building-skills-for-claude</guid>
-      <description>A complete guide to building skills for Claude A complete guide to building skills for Claude</description>
     </item>
   </channel>
 </rss>
