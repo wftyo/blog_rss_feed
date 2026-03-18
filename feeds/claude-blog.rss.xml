@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Code with Claude comes to San Francisco, London, and Tokyo</title>
+      <link>https://claude.com/blog/code-with-claude-san-francisco-london-tokyo</link>
+      <guid isPermaLink="true">https://claude.com/blog/code-with-claude-san-francisco-london-tokyo</guid>
+      <description>Code with Claude comes to San Francisco, London, and Tokyo Code with Claude comes to San Francisco, London, and Tokyo</description>
+    </item>
+    <item>
       <title>1M context is now generally available for Opus 4.6 and Sonnet 4.6</title>
       <link>https://claude.com/blog/1m-context-ga</link>
       <guid isPermaLink="true">https://claude.com/blog/1m-context-ga</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/opus-4-6-finance</link>
       <guid isPermaLink="true">https://claude.com/blog/opus-4-6-finance</guid>
       <description>Advancing finance with Claude Opus 4.6 Advancing finance with Claude Opus 4.6</description>
-    </item>
-    <item>
-      <title>Customize Cowork with plugins</title>
-      <link>https://claude.com/blog/cowork-plugins</link>
-      <guid isPermaLink="true">https://claude.com/blog/cowork-plugins</guid>
-      <description>Customize Cowork with plugins Customize Cowork with plugins</description>
     </item>
   </channel>
 </rss>
