@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Product management on the AI exponential</title>
+      <link>https://claude.com/blog/product-management-on-the-ai-exponential</link>
+      <guid isPermaLink="true">https://claude.com/blog/product-management-on-the-ai-exponential</guid>
+      <description>Product management on the AI exponential Product management on the AI exponential</description>
+    </item>
+    <item>
       <title>Code with Claude comes to San Francisco, London, and Tokyo</title>
       <link>https://claude.com/blog/code-with-claude-san-francisco-london-tokyo</link>
       <guid isPermaLink="true">https://claude.com/blog/code-with-claude-san-francisco-london-tokyo</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/behind-model-launch-what-customers-discovered-testing-claude-opus-4-6-early</link>
       <guid isPermaLink="true">https://claude.com/blog/behind-model-launch-what-customers-discovered-testing-claude-opus-4-6-early</guid>
       <description>Behind the model launch: What customers discovered testing Claude Opus 4.6 early Behind the model launch: What customers discovered testing Claude Opus 4.6 early</description>
-    </item>
-    <item>
-      <title>Advancing finance with Claude Opus 4.6</title>
-      <link>https://claude.com/blog/opus-4-6-finance</link>
-      <guid isPermaLink="true">https://claude.com/blog/opus-4-6-finance</guid>
-      <description>Advancing finance with Claude Opus 4.6 Advancing finance with Claude Opus 4.6</description>
     </item>
   </channel>
 </rss>
