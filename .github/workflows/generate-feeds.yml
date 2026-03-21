@@ -26,6 +26,9 @@ jobs:
       - name: Generate feeds
         run: python scripts/generate_feeds.py --config config/sources.json
 
+      - name: Generate follow-builders feeds
+        run: python scripts/generate_follow_builders_feed.py
+
       - name: Commit and push if changed
         run: |
           if [ -z "$(git status --porcelain -- feeds)" ]; then
