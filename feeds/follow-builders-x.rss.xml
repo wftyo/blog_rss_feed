@@ -4,46 +4,306 @@
     <title>Follow Builders — X/Twitter</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI builders' latest tweets, curated by follow-builders</description>
-    <lastBuildDate>Mon, 30 Mar 2026 17:54:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 07:10:30 +0000</lastBuildDate>
     <item>
-      <title>Nan Yu (@thenanyu): You hate (love?) to see it
+      <title>Andrej Karpathy (@karpathy): New supply chain attack this time for npm axios, the most popular HTTP client library with 300M week...</title>
+      <link>https://x.com/karpathy/status/2038849654423798197</link>
+      <guid isPermaLink="true">https://x.com/karpathy/status/2038849654423798197</guid>
+      <description>New supply chain attack this time for npm axios, the most popular HTTP client library with 300M weekly downloads.
 
-https://t.co/73ytWuZOK2</title>
-      <link>https://x.com/thenanyu/status/2038602288957202941</link>
-      <guid isPermaLink="true">https://x.com/thenanyu/status/2038602288957202941</guid>
-      <description>You hate (love?) to see it
+Scanning my system I found a use imported from googleworkspace/cli from a few days ago when I was experimenting with gmail/gcal cli. The installed version (luckily) resolved to an unaffected 1.13.5, but the project dependency is not pinned, meaning that if I did this earlier today the code would have resolved to latest and I'd be pwned.
 
-https://t.co/73ytWuZOK2
+It's possible to personally defend against these to some extent with local settings e.g. release-age constraints, or containers or etc, but I think ultimately the defaults of package management projects (pip, npm etc) have to change so that a single infection (usually luckily fairly temporary in nature due to security scanning) does not spread through users at random and at scale via unpinned dependencies.
 
-Bio: head of product @linear
-❤️ 12  🔁 0</description>
-      <pubDate>Mon, 30 Mar 2026 13:00:35 +0000</pubDate>
+More comprehensive article:
+https://t.co/EJAZbqAPIQ
+
+Bio: I like to train large deep neural nets. Previously Director of AI @ Tesla, founding team @ OpenAI, PhD @ Stanford.
+❤️ 3447  🔁 381</description>
+      <pubDate>Tue, 31 Mar 2026 05:23:32 +0000</pubDate>
     </item>
     <item>
-      <title>Nan Yu (@thenanyu): Trillion dollars https://t.co/QH8qupv3ew</title>
-      <link>https://x.com/thenanyu/status/2038599289081872893</link>
-      <guid isPermaLink="true">https://x.com/thenanyu/status/2038599289081872893</guid>
-      <description>Trillion dollars https://t.co/QH8qupv3ew
+      <title>Swyx (@swyx): one of my most memorable conversations with @romainhuet is was on how everybody (including @grinich ...</title>
+      <link>https://x.com/swyx/status/2038768899915915417</link>
+      <guid isPermaLink="true">https://x.com/swyx/status/2038768899915915417</guid>
+      <description>one of my most memorable conversations with @romainhuet is was on how everybody (including @grinich at the @sama town hall) is asking for “sign in with chatgpt”
 
-Bio: head of product @linear
-❤️ 152  🔁 1</description>
-      <pubDate>Mon, 30 Mar 2026 12:48:40 +0000</pubDate>
+it already exists!
+for those with eyes to see!!
+codex app server!!!
+
+y’all just need to read the docs guys istg, this has been out for months
+
+Bio: achieve ambition with intentionality, intensity, integrity &amp; insanity.
+
+affiliations:
+- @dxtipshq 
+- @cognition
+- @temporalio
+- @aidotengineer
+- @latentspacepod
+❤️ 76  🔁 4</description>
+      <pubDate>Tue, 31 Mar 2026 00:02:38 +0000</pubDate>
     </item>
     <item>
-      <title>Claude (@claudeai): Computer use is now in Claude Code.
+      <title>Josh Woodward (@joshwoodward): New in NotebookLM: The Science Of Ben Franklin, a first-of-its-kind featured notebook
 
-Claude can open your apps, click through your UI, and test what...</title>
-      <link>https://x.com/claudeai/status/2038663014098899416</link>
-      <guid isPermaLink="true">https://x.com/claudeai/status/2038663014098899416</guid>
-      <description>Computer use is now in Claude Code.
+This featured...</title>
+      <link>https://x.com/joshwoodward/status/2038825734278639926</link>
+      <guid isPermaLink="true">https://x.com/joshwoodward/status/2038825734278639926</guid>
+      <description>New in NotebookLM: The Science Of Ben Franklin, a first-of-its-kind featured notebook
 
-Claude can open your apps, click through your UI, and test what it built, right from the CLI.
+This featured notebook was made in collaboration with The Royal Society, the oldest scientific academy in continuous existence. This one features some of Franklin's original papers, letters, and contemporary sources. 
 
-Now in research preview on Pro and Max plans. https://t.co/s2FDQaDmr1
+Featured notebooks allow you to learn from curated collections of high-quality sources.
+
+Enjoy!
+
+Bio: VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio
+❤️ 53  🔁 8</description>
+      <pubDate>Tue, 31 Mar 2026 03:48:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Peter Yang (@petergyang): I'm happy to report that @cursor_ai also works perfectly fine in China with all types of models.</title>
+      <link>https://x.com/petergyang/status/2038761330392629479</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2038761330392629479</guid>
+      <description>I'm happy to report that @cursor_ai also works perfectly fine in China with all types of models.
+
+Bio: I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
+❤️ 10  🔁 0</description>
+      <pubDate>Mon, 30 Mar 2026 23:32:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cat Wu (@_catwu): We now support GitHub Enterprise Server across our product suite, including Claude Code on the web, ...</title>
+      <link>https://x.com/_catwu/status/2038723796178526712</link>
+      <guid isPermaLink="true">https://x.com/_catwu/status/2038723796178526712</guid>
+      <description>We now support GitHub Enterprise Server across our product suite, including Claude Code on the web, iOS, Android and Code Review! 
+
+Try it out and let us know your feedback https://t.co/tTEyr19vdT
+
+Bio: claude code + cowork @anthropicai, prev: @dagster, @scale_ai
+❤️ 73  🔁 4</description>
+      <pubDate>Mon, 30 Mar 2026 21:03:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amjad Masad (@amasad): Monetize your Replit-built mobile apps with RevenueCat! https://t.co/wI2eYwzVzU</title>
+      <link>https://x.com/amasad/status/2038722068418805875</link>
+      <guid isPermaLink="true">https://x.com/amasad/status/2038722068418805875</guid>
+      <description>Monetize your Replit-built mobile apps with RevenueCat! https://t.co/wI2eYwzVzU
+
+Bio: ceo @replit. civilizationist
+❤️ 360  🔁 26</description>
+      <pubDate>Mon, 30 Mar 2026 20:56:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guillermo Rauch (@rauchg): When Opus 4.5 came out, it was a one-way door to a new way of engineering. Agents now do most of our...</title>
+      <link>https://x.com/rauchg/status/2038759092442050651</link>
+      <guid isPermaLink="true">https://x.com/rauchg/status/2038759092442050651</guid>
+      <description>When Opus 4.5 came out, it was a one-way door to a new way of engineering. Agents now do most of our coding.
+
+Knowing the inherent flaws and over-confidence of LLMs, we sent a clear message to our teams. Vibing and mission-critical infrastructure don’t go together.
+
+We’re sharing some of our early internal guidance in how we’re “agenting responsibly”, prioritizing security, durability, and availability at all times.
+https://t.co/b36GiE76Ue
+
+Bio: @vercel CEO
+❤️ 1115  🔁 85</description>
+      <pubDate>Mon, 30 Mar 2026 23:23:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aaron Levie (@levie): There is a huge opportunity for resourceful and entrepreneurial talent within organizations to go in...</title>
+      <link>https://x.com/levie/status/2038816649927913834</link>
+      <guid isPermaLink="true">https://x.com/levie/status/2038816649927913834</guid>
+      <description>There is a huge opportunity for resourceful and entrepreneurial talent within organizations to go in and reimagine workflows for a world of agents. 
+
+The way you automate work with agents requires real work. It means setting up unstructured data in a way agents can easily access, learning the workflow and processes and creating skills or plans for agents to leverage, connecting disparate systems together, and likely changing the process itself to support getting the agents the need to do much of the work. Then you have to design where humans will play a role to oversee the workflows, how you validate the work, and so on.
+
+Most of the gains you see from coding don’t take this level of effort because the agent knows more, it gets context more easily, and the users are technically. But for the rest of knowledge work there’s no way around this; there’s really no way to shortcut any of this work. It has to be done by a person or people on the team.
+
+You will see a huge growth of roles within enterprises, and people that specialize in this will be hugely valuable in the economy. Great way for early career folks to make a huge dent quickly as well.
+
+Bio: ceo @box - your business lives in content. unleash it with AI
+❤️ 245  🔁 31</description>
+      <pubDate>Tue, 31 Mar 2026 03:12:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ryo Lu (@ryolu_): まもなく @cursor_ai https://t.co/FQdcRi8Ho2</title>
+      <link>https://x.com/ryolu_/status/2038861861047951724</link>
+      <guid isPermaLink="true">https://x.com/ryolu_/status/2038861861047951724</guid>
+      <description>まもなく @cursor_ai https://t.co/FQdcRi8Ho2
+
+Bio: Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.
+❤️ 68  🔁 0</description>
+      <pubDate>Tue, 31 Mar 2026 06:12:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ryo Lu (@ryolu_): when software had a soul
+
+there was a moment around 2005 when using a Mac felt like touching somethi...</title>
+      <link>https://x.com/ryolu_/status/2038841219556724924</link>
+      <guid isPermaLink="true">https://x.com/ryolu_/status/2038841219556724924</guid>
+      <description>when software had a soul
+
+there was a moment around 2005 when using a Mac felt like touching something alive.
+
+the dock bounced. the genie effect swooped. exposé scattered your windows like cards on a table. none of it was strictly necessary. all of it felt like someone cared – not about metrics, but about the feeling of using a machine.
+
+software back then had texture. it had a philosophy. you could feel the person behind it. someone made a decision to make that icon beautiful, to animate that transition just so, to write that error message with a little warmth. apps had personalities. some were weird. some were over-designed in ways that would make a modern PM flinch. but they were alive.
+
+the web was the same. personal sites were genuinely personal. blogs felt like letters. forums had regulars. you knew who made what. the internet had neighborhoods, and each one felt different.
+
+nothing was optimized for scale. things were made by people who loved what they were making.
+
+somewhere along the way, we traded all of that for growth.
+
+A/B tests flattened the edges. design systems standardized the personality out. everything got faster, smoother, more consistent – and somehow less interesting. the quirks were removed because they didn't test well. the warmth got cut because it wasn't measurable. we optimized our way into a world of things that work perfectly and feel like nothing.
+now every app looks the same. every interface follows the same patterns. every product speaks in the same calm, frictionless voice, siloed in their own little islands. the humanity got rounded off.
+
+and then came AI agents. and the speed got inhuman.
+
+now you can generate an entire product in an afternoon. ship a feature before lunch. spin up ten variations before anyone's had their coffee. the gap from idea to code is basically zero.
+
+which sounds incredible. and it is. but there's a catch.
+
+when making things are too easy, the slop comes for free too. mediocre things don't look obviously bad – they look fine. they work. they ship. they pass review. and now there are infinite of them. the internet is filling up with software that functions but means nothing. interfaces that are correct but feel dead. products made by agents, reviewed by no one, shipped into the void.
+
+this is the thing that keeps me up at night. not that AI will replace people who care. but that it will drown them out.
+
+here's what I still believe: the best things are made by people who couldn't help themselves. someone who lost sleep over an icon. who rewrote the same line of copy twelve times. who added an animation nobody asked for because it made the thing feel right. that obsession – that's not inefficiency. that's the whole point.
+
+AI doesn't make that irrelevant. it actually makes it rarer and more valuable. taste is not a markdown skill. caring is not a parameter. the weird, specific, "soul" thing you put into something – that can't be programmed into existence.
+
+the path forward isn't to make more slop faster. it's to finally give people with real vision the tools to make the thing they always imagined but couldn't build alone. the designer who had the idea but couldn't code. the kid who saw something nobody else saw. the person who cared too much about something most people wouldn't notice.
+
+if we get this right, we don't get a faster factory. we get a renaissance. more strange, personal, opinionated software made by teams of people who care and mean it.
+
+that's still possible. but only if the people who care get the space and tools to actually express themselves – and don't just hand the wheel to the agent and walk away.
+
+Bio: Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.
+❤️ 507  🔁 63</description>
+      <pubDate>Tue, 31 Mar 2026 04:50:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ryo Lu (@ryolu_): don’t forget
+
+we are doing all this for the humans, not the other way around https://t.co/68jCoIG7GS</title>
+      <link>https://x.com/ryolu_/status/2038702070799479232</link>
+      <guid isPermaLink="true">https://x.com/ryolu_/status/2038702070799479232</guid>
+      <description>don’t forget
+
+we are doing all this for the humans, not the other way around https://t.co/68jCoIG7GS
+
+Bio: Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.
+❤️ 302  🔁 14</description>
+      <pubDate>Mon, 30 Mar 2026 19:37:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Garry Tan (@garrytan): Many such cases https://t.co/iDpj7x3vsQ</title>
+      <link>https://x.com/garrytan/status/2038839713491304955</link>
+      <guid isPermaLink="true">https://x.com/garrytan/status/2038839713491304955</guid>
+      <description>Many such cases https://t.co/iDpj7x3vsQ
+
+Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop
+❤️ 23  🔁 0</description>
+      <pubDate>Tue, 31 Mar 2026 04:44:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Garry Tan (@garrytan): Tempted https://t.co/wSGnweBXhu</title>
+      <link>https://x.com/garrytan/status/2038839491818139913</link>
+      <guid isPermaLink="true">https://x.com/garrytan/status/2038839491818139913</guid>
+      <description>Tempted https://t.co/wSGnweBXhu
+
+Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop
+❤️ 40  🔁 1</description>
+      <pubDate>Tue, 31 Mar 2026 04:43:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Garry Tan (@garrytan): Improving /review skill on GStack tonight, just shipped https://t.co/mBcwsjm82R</title>
+      <link>https://x.com/garrytan/status/2038830778700996927</link>
+      <guid isPermaLink="true">https://x.com/garrytan/status/2038830778700996927</guid>
+      <description>Improving /review skill on GStack tonight, just shipped https://t.co/mBcwsjm82R
+
+Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop
+❤️ 78  🔁 2</description>
+      <pubDate>Tue, 31 Mar 2026 04:08:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zara Zhang (@zarazhangrui): Imagine if Claude Code/Codex can access AND operate all your chats, calendars, meetings, docs, sheet...</title>
+      <link>https://x.com/zarazhangrui/status/2038771778802331817</link>
+      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2038771778802331817</guid>
+      <description>Imagine if Claude Code/Codex can access AND operate all your chats, calendars, meetings, docs, sheets...
+
+That's possible now with Lark CLI. The world's most all-in-one collaboration tool just became the world's most agent-friendly collaboration tool.
+
+I just built a skill on top of this: Not only does it extract to-dos from the meetings, it actually EXECUTES those to-dos... insane
+
+ https://t.co/Dzviq7vdQQ
+
+Bio: Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
+❤️ 95  🔁 5</description>
+      <pubDate>Tue, 31 Mar 2026 00:14:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zara Zhang (@zarazhangrui): Codebase-to-course now has 2.6k stars on GitHub
+
+Just optimized it to be a lot more token efficient ...</title>
+      <link>https://x.com/zarazhangrui/status/2038685338865221862</link>
+      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2038685338865221862</guid>
+      <description>Codebase-to-course now has 2.6k stars on GitHub
+
+Just optimized it to be a lot more token efficient &amp;amp; reliable
+
+Originally intended for vibe coders to learn CS, but was told it's great for developer onboarding as well https://t.co/4GRzv4KZOx https://t.co/rx8rngpECg
+
+Bio: Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
+❤️ 117  🔁 9</description>
+      <pubDate>Mon, 30 Mar 2026 18:30:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nikunj Kothari (@nikunj): When I first met @ivanhzhao 12 years ago, I remember distinctly walking away thinking - I have never...</title>
+      <link>https://x.com/nikunj/status/2038685323077791996</link>
+      <guid isPermaLink="true">https://x.com/nikunj/status/2038685323077791996</guid>
+      <description>When I first met @ivanhzhao 12 years ago, I remember distinctly walking away thinking - I have never met anyone who cares so much about building tools that bring people together.
+
+Just like how @zoink (whenever I hear him) talks consistently thinks about the infinite "canvas" of possibilities that will help design the future. 
+
+Our sometimes narrow view of AI and building AI "coworkers" has shifted society thinking that AI will replace humans. That is the case for doomerism and how humans will be eliminated. 
+
+It sells well - you can make neat market maps with TAM looking up BLS data. Easy to sell in this era of efficiency that the market is rewarding. 
+
+What I think we should be preaching MORE of which this ad does so well is the abundant era where humans will DO more together. 
+
+Where AI takes care of all the frivolous work we hate doing. Where we get to build and think together ALL the dreams that we stored away in some attic in our brain waiting for a better day.
+
+Bio: partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+❤️ 77  🔁 4</description>
+      <pubDate>Mon, 30 Mar 2026 18:30:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dan Shipper (@danshipper): such a mealy mouthed way to say “we pushed a bug that served your users private data to other users ...</title>
+      <link>https://x.com/danshipper/status/2038688359325835436</link>
+      <guid isPermaLink="true">https://x.com/danshipper/status/2038688359325835436</guid>
+      <description>such a mealy mouthed way to say “we pushed a bug that served your users private data to other users of your app”
+
+really, really bad https://t.co/QyZFBB2C02
+
+Bio: ceo @every | the only subscription you need to stay at the edge of AI
+❤️ 314  🔁 10</description>
+      <pubDate>Mon, 30 Mar 2026 18:42:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude (@claudeai): Auto mode for Claude Code is now available on the Enterprise plan and for API users.
+
+To try it out,...</title>
+      <link>https://x.com/claudeai/status/2038693742094246032</link>
+      <guid isPermaLink="true">https://x.com/claudeai/status/2038693742094246032</guid>
+      <description>Auto mode for Claude Code is now available on the Enterprise plan and for API users.
+
+To try it out, update your install and run claude --enable-auto-mode. https://t.co/m3CdLEfNeZ
 
 Bio: Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
-❤️ 11545  🔁 878</description>
-      <pubDate>Mon, 30 Mar 2026 17:01:53 +0000</pubDate>
+❤️ 3479  🔁 243</description>
+      <pubDate>Mon, 30 Mar 2026 19:03:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
