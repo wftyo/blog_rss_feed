@@ -4,13 +4,13 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Wed, 01 Apr 2026 07:17:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 07:09:35 +0000</lastBuildDate>
     <item>
-      <title>[Data Driven NYC] Can One Person Build a Billion-Dollar Startup? — The General Intelligence Company of New York</title>
-      <link>https://youtube.com/watch?v=rX3CxlGm-00</link>
-      <guid isPermaLink="true">https://youtube.com/watch?v=rX3CxlGm-00</guid>
-      <description>[music] My name is Andrew. Uh, and I'm going to be talking about how we go from here to the oneperson billion-dollar company. Now, a little bit about ourselves. We founded the general intelligence company in New York about a year ago. I'm going to call it general intelligence because I only have so many words I can say. Our mission is to enable the oneperson billion dollar company. We want to build uh organizations that run themselves with AI. There's a number of ways we're going to get there. I...</description>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <title>[Latent Space] Mistral: Voxtral TTS, Forge, Leanstral, &amp; Mistral 4 — w/ Pavan Kumar Reddy &amp; Guillaume Lample</title>
+      <link>https://youtube.com/watch?v=SUjA25ijcNs</link>
+      <guid isPermaLink="true">https://youtube.com/watch?v=SUjA25ijcNs</guid>
+      <description>When customers use this offtheshelf close model, what's very sad is that they are not leveraging, you know, these data that they have been collecting for for years or sometime for decades. So much data, sometimes it's trillions of tokens of data in a very specific domain, their domain, which is data that you will not find in the in the public on the public internet. So data on which like the closed model we actually have access. So if they're using like closed source models are basically not ben...</description>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
