@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Harnessing Claude’s intelligence</title>
+      <link>https://claude.com/blog/harnessing-claudes-intelligence</link>
+      <guid isPermaLink="true">https://claude.com/blog/harnessing-claudes-intelligence</guid>
+      <description>Harnessing Claude’s intelligence Harnessing Claude’s intelligence</description>
+    </item>
+    <item>
       <title>Audit Claude Platform activity with the Compliance API</title>
       <link>https://claude.com/blog/claude-platform-compliance-api</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-platform-compliance-api</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/how-ai-helps-break-cost-barrier-cobol-modernization</link>
       <guid isPermaLink="true">https://claude.com/blog/how-ai-helps-break-cost-barrier-cobol-modernization</guid>
       <description>How AI helps break the cost barrier to COBOL modernization How AI helps break the cost barrier to COBOL modernization</description>
-    </item>
-    <item>
-      <title>Bringing automated preview, review, and merge to Claude Code on desktop</title>
-      <link>https://claude.com/blog/preview-review-and-merge-with-claude-code</link>
-      <guid isPermaLink="true">https://claude.com/blog/preview-review-and-merge-with-claude-code</guid>
-      <description>Bringing automated preview, review, and merge to Claude Code on desktop Bringing automated preview, review, and merge to Claude Code on desktop</description>
     </item>
   </channel>
 </rss>
