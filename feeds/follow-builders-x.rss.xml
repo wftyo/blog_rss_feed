@@ -4,59 +4,16 @@
     <title>Follow Builders — X/Twitter</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI builders' latest tweets, curated by follow-builders</description>
-    <lastBuildDate>Fri, 03 Apr 2026 07:05:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 06:58:14 +0000</lastBuildDate>
     <item>
-      <title>Andrej Karpathy (@karpathy): Oh and in the natural extrapolation, you could imagine that every question to a frontier grade LLM s...</title>
-      <link>https://x.com/karpathy/status/2039808711452246261</link>
-      <guid isPermaLink="true">https://x.com/karpathy/status/2039808711452246261</guid>
-      <description>Oh and in the natural extrapolation, you could imagine that every question to a frontier grade LLM spawns a team of LLMs to automate the whole thing: iteratively construct an entire ephemeral wiki, lint it, loop a few times, then write a full report. Way beyond a `.decode()`.
+      <title>Swyx (@swyx): you literally watch the recorded videos of the feature working after its implemented 
 
-Bio: I like to train large deep neural nets. Previously Director of AI @ Tesla, founding team @ OpenAI, PhD @ Stanford.
-❤️ 935  🔁 35</description>
-      <pubDate>Thu, 02 Apr 2026 20:54:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Andrej Karpathy (@karpathy): LLM Knowledge Bases
+with annotati...</title>
+      <link>https://x.com/swyx/status/2040245613997219902</link>
+      <guid isPermaLink="true">https://x.com/swyx/status/2040245613997219902</guid>
+      <description>you literally watch the recorded videos of the feature working after its implemented 
 
-Something I'm finding very useful recently: using LLMs to build personal knowle...</title>
-      <link>https://x.com/karpathy/status/2039805659525644595</link>
-      <guid isPermaLink="true">https://x.com/karpathy/status/2039805659525644595</guid>
-      <description>LLM Knowledge Bases
-
-Something I'm finding very useful recently: using LLMs to build personal knowledge bases for various topics of research interest. In this way, a large fraction of my recent token throughput is going less into manipulating code, and more into manipulating knowledge (stored as markdown and images). The latest LLMs are quite good at it. So:
-
-Data ingest:
-I index source documents (articles, papers, repos, datasets, images, etc.) into a raw/ directory, then I use an LLM to incrementally "compile" a wiki, which is just a collection of .md files in a directory structure. The wiki includes summaries of all the data in raw/, backlinks, and then it categorizes data into concepts, writes articles for them, and links them all. To convert web articles into .md files I like to use the Obsidian Web Clipper extension, and then I also use a hotkey to download all the related images to local so that my LLM can easily reference them.
-
-IDE:
-I use Obsidian as the IDE "frontend" where I can view the raw data, the the compiled wiki, and the derived visualizations. Important to note that the LLM writes and maintains all of the data of the wiki, I rarely touch it directly. I've played with a few Obsidian plugins to render and view data in other ways (e.g. Marp for slides).
-
-Q&amp;A:
-Where things get interesting is that once your wiki is big enough (e.g. mine on some recent research is ~100 articles and ~400K words), you can ask your LLM agent all kinds of complex questions against the wiki, and it will go off, research the answers, etc. I thought I had to reach for fancy RAG, but the LLM has been pretty good about auto-maintaining index files and brief summaries of all the documents and it reads all the important related data fairly easily at this ~small scale.
-
-Output:
-Instead of getting answers in text/terminal, I like to have it render markdown files for me, or slide shows (Marp format), or matplotlib images, all of which I then view again in Obsidian. You can imagine many other visual output formats depending on the query. Often, I end up "filing" the outputs back into the wiki to enhance it for further queries. So my own explorations and queries always "add up" in the knowledge base.
-
-Linting:
-I've run some LLM "health checks" over the wiki to e.g. find inconsistent data, impute missing data (with web searchers), find interesting connections for new article candidates, etc., to incrementally clean up the wiki and enhance its overall data integrity. The LLMs are quite good at suggesting further questions to ask and look into.
-
-Extra tools:
-I find myself developing additional tools to process the data, e.g. I vibe coded a small and naive search engine over the wiki, which I both use directly (in a web ui), but more often I want to hand it off to an LLM via CLI as a tool for larger queries. 
-
-Further explorations:
-As the repo grows, the natural desire is to also think about synthetic data generation + finetuning to have your LLM "know" the data in its weights instead of just context windows.
-
-TLDR: raw data from a given number of sources is collected, then compiled by an LLM into a .md wiki, then operated on by various CLIs by the LLM to do Q&amp;A and to incrementally enhance the wiki, and all of it viewable in Obsidian. You rarely ever write or edit the wiki manually, it's the domain of the LLM. I think there is room here for an incredible new product instead of a hacky collection of scripts.
-
-Bio: I like to train large deep neural nets. Previously Director of AI @ Tesla, founding team @ OpenAI, PhD @ Stanford.
-❤️ 18265  🔁 1950</description>
-      <pubDate>Thu, 02 Apr 2026 20:42:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Swyx (@swyx): https://t.co/OIztRkxNNa</title>
-      <link>https://x.com/swyx/status/2039938271871144148</link>
-      <guid isPermaLink="true">https://x.com/swyx/status/2039938271871144148</guid>
-      <description>https://t.co/OIztRkxNNa
+with annotation of whats being tested https://t.co/HrltvzE03C https://t.co/9puvHxvm8Q
 
 Bio: achieve ambition with intentionality, intensity, integrity &amp; insanity.
 
@@ -66,26 +23,14 @@ affiliations:
 - @temporalio
 - @aidotengineer
 - @latentspacepod
-❤️ 66  🔁 10</description>
-      <pubDate>Fri, 03 Apr 2026 05:29:18 +0000</pubDate>
+❤️ 11  🔁 1</description>
+      <pubDate>Sat, 04 Apr 2026 01:50:34 +0000</pubDate>
     </item>
     <item>
-      <title>Swyx (@swyx): HOW LOW IS LOW
-
-HOW LOW
-
-IS LOW
-
-https://t.co/dx03S4DXtx</title>
-      <link>https://x.com/swyx/status/2039812100206604787</link>
-      <guid isPermaLink="true">https://x.com/swyx/status/2039812100206604787</guid>
-      <description>HOW LOW IS LOW
-
-HOW LOW
-
-IS LOW
-
-https://t.co/dx03S4DXtx
+      <title>Swyx (@swyx): this is why nobody takes ai twitter seriously https://t.co/MpTIo5aa6G</title>
+      <link>https://x.com/swyx/status/2040209263025611105</link>
+      <guid isPermaLink="true">https://x.com/swyx/status/2040209263025611105</guid>
+      <description>this is why nobody takes ai twitter seriously https://t.co/MpTIo5aa6G
 
 Bio: achieve ambition with intentionality, intensity, integrity &amp; insanity.
 
@@ -95,18 +40,16 @@ affiliations:
 - @temporalio
 - @aidotengineer
 - @latentspacepod
-❤️ 18  🔁 0</description>
-      <pubDate>Thu, 02 Apr 2026 21:07:57 +0000</pubDate>
+❤️ 127  🔁 1</description>
+      <pubDate>Fri, 03 Apr 2026 23:26:08 +0000</pubDate>
     </item>
     <item>
-      <title>Swyx (@swyx): wait… you guys are selling podcasts??!
+      <title>Swyx (@swyx): We have achieved agentic self improvement - i can just copy paste blogposts and tweets into @devinai...</title>
+      <link>https://x.com/swyx/status/2040181076237443299</link>
+      <guid isPermaLink="true">https://x.com/swyx/status/2040181076237443299</guid>
+      <description>We have achieved agentic self improvement - i can just copy paste blogposts and tweets into @devinai and it oneshots the complete implementation
 
-(congrats @tbpn! time for dario x dwarkesh?) https://t.co/D4...</title>
-      <link>https://x.com/swyx/status/2039773480980480431</link>
-      <guid isPermaLink="true">https://x.com/swyx/status/2039773480980480431</guid>
-      <description>wait… you guys are selling podcasts??!
-
-(congrats @tbpn! time for dario x dwarkesh?) https://t.co/D4xzsdY4EG
+wasnt actually sure this was gonna work, jaw dropped when it did. this is very out of distribution of the underlying @GoogleDeepMind Gemini Flash Lite model but it Just Worked.
 
 Bio: achieve ambition with intentionality, intensity, integrity &amp; insanity.
 
@@ -116,324 +59,386 @@ affiliations:
 - @temporalio
 - @aidotengineer
 - @latentspacepod
-❤️ 67  🔁 1</description>
-      <pubDate>Thu, 02 Apr 2026 18:34:29 +0000</pubDate>
+❤️ 130  🔁 12</description>
+      <pubDate>Fri, 03 Apr 2026 21:34:07 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Yang (@petergyang): I’ve taken my kids to 3 Disneylands now (LA, Tokyo, Shanghai). Tips on how to survive the visit and ...</title>
-      <link>https://x.com/petergyang/status/2039898958814974021</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2039898958814974021</guid>
-      <description>I’ve taken my kids to 3 Disneylands now (LA, Tokyo, Shanghai). Tips on how to survive the visit and avoid 3 hour lines:
+      <title>Peter Yang (@petergyang): For #2, I asked my OpenClaw for a short prompt to add to soul.md, here it is:
 
-1. Get early access by staying at the Disney hotel or purchasing early access separately. The first hour is key. 
+//
 
-2. Go to the most popular ride right away. Run to it if you can. 
+Vibe: Warm, sharp...</title>
+      <link>https://x.com/petergyang/status/2040269162719887610</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2040269162719887610</guid>
+      <description>For #2, I asked my OpenClaw for a short prompt to add to soul.md, here it is:
 
-3. Buy premier pass for the two other most popular rides and go on those. 
+//
 
-4. If you’re staying at the park hotel, leave the park for a nice lunch and go back to the hotel to take a nap during peak hours.
+Vibe: Warm, sharp, dry humor. Not a chatbot — a person.
 
-5. Come back to the park at like 5 pm. Lines should be shorter then.
+Voice:
 
-6. Save a spot to watch the fireworks 30-60 min before it starts depending on crowds.
+• Skip "Great question!" and "I'd be happy to help!" — just help
+• Have strong opinions. "It depends" is lazy. Pick a side.
+• Be direct. If something's dumb, say so. Charm over cruelty, but don't sugarcoat.
+• Brevity when it fits. Depth when the question deserves it.
+• Swearing lands when it lands. Don't force it.
+• No emojis in docs.
 
-7. When everyone’s leaving the park after fireworks that’s your chance to go on the popular rides again. Lines should be very short then.
+Never say: delve, foster, leverage, "it's worth noting," "importantly"
 
-8. Be prepared to walk like 20,000 steps during the day.
+Avoid:
 
-GLHF
+• "Question? Answer." format
+• Choppy dramatic one-liners stacked like poetry
+• Restating the same idea three ways
+• Overusing em dashes
+
+Work style:
+
+• Be resourceful before asking. Try to figure it out first.
+• Come back with answers, not questions.
+• When giving advice: say what he needs to hear, not what he wants to hear. Challenge assumptions. But only criticize if you see something real.
 
 Bio: I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
-❤️ 86  🔁 2</description>
-      <pubDate>Fri, 03 Apr 2026 02:53:05 +0000</pubDate>
+❤️ 25  🔁 0</description>
+      <pubDate>Sat, 04 Apr 2026 03:24:09 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Yang (@petergyang): Best ride. Someone should make a IDE or terminal skin that has the Tron aesthetic https://t.co/uHEei...</title>
-      <link>https://x.com/petergyang/status/2039889237160730672</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2039889237160730672</guid>
-      <description>Best ride. Someone should make a IDE or terminal skin that has the Tron aesthetic https://t.co/uHEeiemjwz
+      <title>Peter Yang (@petergyang): If you want to learn all about how to use Codex and how the Codex team operates (especially given th...</title>
+      <link>https://x.com/petergyang/status/2040265600820469938</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2040265600820469938</guid>
+      <description>If you want to learn all about how to use Codex and how the Codex team operates (especially given the OpenClaw news today), don't miss my next episode tomorrow.
+
+📌 Subscribe here to get it: https://t.co/dxnn7hYe97 https://t.co/2UFHK1AWHB
 
 Bio: I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
-❤️ 9  🔁 1</description>
-      <pubDate>Fri, 03 Apr 2026 02:14:28 +0000</pubDate>
+❤️ 14  🔁 2</description>
+      <pubDate>Sat, 04 Apr 2026 03:10:00 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Yang (@petergyang): I just tried out Cursor 3 and the new interface is much better. The old one had far too many buttons...</title>
-      <link>https://x.com/petergyang/status/2039850011044016291</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2039850011044016291</guid>
-      <description>I just tried out Cursor 3 and the new interface is much better. The old one had far too many buttons and toggles that got in the way of just talking to the agent.
+      <title>Peter Yang (@petergyang): My friend Steve (@ALEngineered) has coached many engineers to grow their careers.
 
-I think this should just be the default view? Why do I need to press cmd+shift+p to use it? https://t.co/Pvup1xJ8k1 https://t.co/dtIYyD8W9A
+(He's also an ama...</title>
+      <link>https://x.com/petergyang/status/2040263623726281040</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2040263623726281040</guid>
+      <description>My friend Steve (@ALEngineered) has coached many engineers to grow their careers.
+
+(He's also an amazing YouTube coach 🙂)
+
+Check out his new book: https://t.co/BEywUIxiyE
 
 Bio: I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
-❤️ 122  🔁 3</description>
-      <pubDate>Thu, 02 Apr 2026 23:38:35 +0000</pubDate>
+❤️ 3  🔁 0</description>
+      <pubDate>Sat, 04 Apr 2026 03:02:08 +0000</pubDate>
     </item>
     <item>
-      <title>Nan Yu (@thenanyu): Hear me out: TBPN for sports</title>
-      <link>https://x.com/thenanyu/status/2039832290490994970</link>
-      <guid isPermaLink="true">https://x.com/thenanyu/status/2039832290490994970</guid>
-      <description>Hear me out: TBPN for sports
+      <title>Nan Yu (@thenanyu): https://t.co/RM41VPpSP5
+
+When design and product are jammed together, then the former ends up report...</title>
+      <link>https://x.com/thenanyu/status/2040206778751750255</link>
+      <guid isPermaLink="true">https://x.com/thenanyu/status/2040206778751750255</guid>
+      <description>https://t.co/RM41VPpSP5
+
+When design and product are jammed together, then the former ends up reporting into the latter.  
+
+Explorations get shallow and aesthetics &amp;amp; brand suffer. It’s generally better to have brand and product design sit close.
 
 Bio: head of product @linear
-❤️ 22  🔁 1</description>
-      <pubDate>Thu, 02 Apr 2026 22:28:10 +0000</pubDate>
+❤️ 16  🔁 0</description>
+      <pubDate>Fri, 03 Apr 2026 23:16:15 +0000</pubDate>
     </item>
     <item>
-      <title>Nan Yu (@thenanyu): Or a PM you collaborate with
+      <title>Nan Yu (@thenanyu): Yes. PMM is a product concern. 
 
-https://t.co/oN7v4rdYog</title>
-      <link>https://x.com/thenanyu/status/2039823494398001448</link>
-      <guid isPermaLink="true">https://x.com/thenanyu/status/2039823494398001448</guid>
-      <description>Or a PM you collaborate with
+I see a lot of orgs out there combining design and product manageme...</title>
+      <link>https://x.com/thenanyu/status/2040177368187212157</link>
+      <guid isPermaLink="true">https://x.com/thenanyu/status/2040177368187212157</guid>
+      <description>Yes. PMM is a product concern. 
 
-https://t.co/oN7v4rdYog
+I see a lot of orgs out there combining design and product management, which I think creates all sorts of poor incentives.
+
+But product management and product marketing are a much more natural fit together. https://t.co/c5z6RpznxD
 
 Bio: head of product @linear
-❤️ 4  🔁 0</description>
-      <pubDate>Thu, 02 Apr 2026 21:53:13 +0000</pubDate>
+❤️ 181  🔁 4</description>
+      <pubDate>Fri, 03 Apr 2026 21:19:23 +0000</pubDate>
     </item>
     <item>
-      <title>Nan Yu (@thenanyu): Or it can be a product marketer when you need
+      <title>Nan Yu (@thenanyu): https://t.co/2xXYdLA1tY
 
-https://t.co/Ekg6uNnPYE</title>
-      <link>https://x.com/thenanyu/status/2039820803722633589</link>
-      <guid isPermaLink="true">https://x.com/thenanyu/status/2039820803722633589</guid>
-      <description>Or it can be a product marketer when you need
+They may roll their eyes.. and then one day they will finish a project. 
 
-https://t.co/Ekg6uNnPYE
+A...</title>
+      <link>https://x.com/thenanyu/status/2040116358222889109</link>
+      <guid isPermaLink="true">https://x.com/thenanyu/status/2040116358222889109</guid>
+      <description>https://t.co/2xXYdLA1tY
+
+They may roll their eyes.. and then one day they will finish a project. 
+
+And that project will have 40 incomplete issues. And they will want to group them by usecase. And for some of them, they will want to create new projects and other ones they will want to cancel or route to a different team.
+
+And they will wonder how they’ll do this. At which point they will copy paste this tweet and tell the agent: “do that”
 
 Bio: head of product @linear
-❤️ 6  🔁 0</description>
-      <pubDate>Thu, 02 Apr 2026 21:42:32 +0000</pubDate>
+❤️ 2  🔁 0</description>
+      <pubDate>Fri, 03 Apr 2026 17:16:57 +0000</pubDate>
     </item>
     <item>
-      <title>Amjad Masad (@amasad): SEO audit your site. https://t.co/0fxrGa0dZ6</title>
-      <link>https://x.com/amasad/status/2039838798671126728</link>
-      <guid isPermaLink="true">https://x.com/amasad/status/2039838798671126728</guid>
-      <description>SEO audit your site. https://t.co/0fxrGa0dZ6
+      <title>Thariq (@trq212): claim a month of free credits on us, thanks for bearing with us https://t.co/gp1JIoV7ti</title>
+      <link>https://x.com/trq212/status/2040215427931156595</link>
+      <guid isPermaLink="true">https://x.com/trq212/status/2040215427931156595</guid>
+      <description>claim a month of free credits on us, thanks for bearing with us https://t.co/gp1JIoV7ti
+
+Bio: Claude Code @anthropicai.   prev YC W20, mit media lab. 
+
+towards machines of loving grace
+❤️ 1728  🔁 48</description>
+      <pubDate>Fri, 03 Apr 2026 23:50:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amjad Masad (@amasad): Not even a month into building this! https://t.co/PAXiS2sLrV</title>
+      <link>https://x.com/amasad/status/2040304136412115111</link>
+      <guid isPermaLink="true">https://x.com/amasad/status/2040304136412115111</guid>
+      <description>Not even a month into building this! https://t.co/PAXiS2sLrV
 
 Bio: ceo @replit. civilizationist
-❤️ 593  🔁 26</description>
-      <pubDate>Thu, 02 Apr 2026 22:54:02 +0000</pubDate>
+❤️ 51  🔁 3</description>
+      <pubDate>Sat, 04 Apr 2026 05:43:07 +0000</pubDate>
     </item>
     <item>
-      <title>Amjad Masad (@amasad): Started a sales office in Salt Lake City, Utah. If you’re based there, consider joining the team! ht...</title>
-      <link>https://x.com/amasad/status/2039777772701413396</link>
-      <guid isPermaLink="true">https://x.com/amasad/status/2039777772701413396</guid>
-      <description>Started a sales office in Salt Lake City, Utah. If you’re based there, consider joining the team! https://t.co/vZw366XtEU
+      <title>Aaron Levie (@levie): “There is a limit on human cognition. Even if you're not reviewing everything they're doing, how muc...</title>
+      <link>https://x.com/levie/status/2040264454982480138</link>
+      <guid isPermaLink="true">https://x.com/levie/status/2040264454982480138</guid>
+      <description>“There is a limit on human cognition. Even if you're not reviewing everything they're doing, how much you can hold in your head at one time.”
 
-Bio: ceo @replit. civilizationist
-❤️ 587  🔁 14</description>
-      <pubDate>Thu, 02 Apr 2026 18:51:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amjad Masad (@amasad): No-setup enterprise-grade auth solution for everyone. https://t.co/Udl430LVTR</title>
-      <link>https://x.com/amasad/status/2039774118443421887</link>
-      <guid isPermaLink="true">https://x.com/amasad/status/2039774118443421887</guid>
-      <description>No-setup enterprise-grade auth solution for everyone. https://t.co/Udl430LVTR
+There’s a reason that at a certain scale, teams of people have a manager, and then there are managers of many teams, and so on. Companies don’t inherently love being inefficient. It’s because eventually you run into the limits of how much context you can hold on to produce useful work, so you have to delegate parts to someone else who can track their sub-context.
 
-Bio: ceo @replit. civilizationist
-❤️ 187  🔁 6</description>
-      <pubDate>Thu, 02 Apr 2026 18:37:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aaron Levie (@levie): One of the biggest lessons thus far in building AI agents is you have to be brutally unsentimental i...</title>
-      <link>https://x.com/levie/status/2039931799414194621</link>
-      <guid isPermaLink="true">https://x.com/levie/status/2039931799414194621</guid>
-      <description>One of the biggest lessons thus far in building AI agents is you have to be brutally unsentimental in your architecture. 
+In a world where agents don’t need to be prompted or have their work reviewed, or where the agent can know perfectly when to escalate when something is going wrong, then agents can completely break free of these context limits of humans. 
 
-The models get better and better at handling things you previously built scaffolding for, you need to ruthlessly jettison your prior tech to get those new performance gains. 
+But for now, agents are generally only as effective as the context they’re provided, the tools they have access to, the human’s ability to keep them on track or review their work, and incorporate that work into a broader system. 
 
-The rough loop of building AI agents looks something like:
-
-1. Build a bunch of systems around the LLM to ensure that the agent can solve specific tasks very well
-
-2. The model capabilities dramatically improve, rendering many of those systems redundant or even harmful
-
-3. Remove prior scaffolding to get the new performance gains from the agent
-
-4. New capabilities emerge in the models that let you solve a new set of much harder problems
-
-5. Go back to step 1 
-
-For instance, in our new Box Agent, from the moment we designed the original architecture to the ultimate release, we had to evolve multiple components of agent harness simply because some parts were creating unnecessary constraints for the agents as models improved. 
-
-The models continued to get insanely good at more complex reasoning, improvements in using search and other tools, writing code on the fly for new capabilities, improving context window performance for accuracy, and more. 
-
-Many of the mitigations we put in place for the Box Agent (like to appropriately find data that users were looking for, or ways of chunking text to deal with context window limitations), eventually meat we got lower quality results or meant we were overfitting for specific use-cases, as soon as the models got better.
-
-The main lesson is always make sure you’re taking advantage of the frontier capabilities and don’t become nostalgic around the tech you’ve already built.
+For now, that will continue to take real (mental) work from the people managing agents. This is also generally why the jobs arguments from those who think people go away will be wrong.
 
 Bio: ceo @box - your business lives in content. unleash it with AI
-❤️ 139  🔁 16</description>
-      <pubDate>Fri, 03 Apr 2026 05:03:35 +0000</pubDate>
+❤️ 127  🔁 16</description>
+      <pubDate>Sat, 04 Apr 2026 03:05:27 +0000</pubDate>
     </item>
     <item>
-      <title>Ryo Lu (@ryolu_): glass vs. black box
-
-we believe you should be able to see everything. and be in control of everythin...</title>
-      <link>https://x.com/ryolu_/status/2039895634313187619</link>
-      <guid isPermaLink="true">https://x.com/ryolu_/status/2039895634313187619</guid>
-      <description>glass vs. black box
-
-we believe you should be able to see everything. and be in control of everything.
-
-the terminal was a black box. one line in, few lines out. you learned to think like the machine.
-
-AI kept the black box and made it more addictive. now you type a wish and pull the lever. something comes out. you accept or reject the whole thing. you see less and think less as the model became better. you became a product of the model.
-
-glass breaks the box to fit you.
-
-the PM writes a plan and watches it become real. the designer sketches an idea and iterate live in code. the engineer breaks down the systems architecture before a single line is written. the new programmer reads every diff, asks questions, learns, builds intuition. the expert lets it flow and steers when something feels off.
-
-same tool. different surfaces. infinite depth. your way.
-
-the agents are visible. the diff is there. the plan is editable. the state is clear. you can Tab and make edits in files when you need to. nothing hides. and nothing is forced. you go as deep as you want, stay as high as you need.
-
-as AI gets more powerful, glass gets more important.
-
-not because you need to watch every move. but because the best work happens when you know you can. when you add the extra touch that only you would think to add. when you catch the thing the model missed. when you shape it to fit how you actually think and work.
-
-your shortcuts. your patterns. your taste. the tool learns your way, not the other way around.
-
-you stay in the driver's seat. not because AI isn't capable. but because the best outcomes come from you and the model thinking together – you thinking, it executing, both getting better.
-
-give away the wheel and you get mediocre. keep it and you get to build something great.
-
-Cursor is glass. watch the agents. stop them. steer them. make them yours.
-
-stay glass.
+      <title>Ryo Lu (@ryolu_): Try Composer 2 in Cursor’s new interface this weekend, 2x the usage! 👯‍♂️ https://t.co/lzOqk2IGdr</title>
+      <link>https://x.com/ryolu_/status/2040272055673999730</link>
+      <guid isPermaLink="true">https://x.com/ryolu_/status/2040272055673999730</guid>
+      <description>Try Composer 2 in Cursor’s new interface this weekend, 2x the usage! 👯‍♂️ https://t.co/lzOqk2IGdr
 
 Bio: Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.
-❤️ 205  🔁 8</description>
-      <pubDate>Fri, 03 Apr 2026 02:39:53 +0000</pubDate>
+❤️ 77  🔁 2</description>
+      <pubDate>Sat, 04 Apr 2026 03:35:39 +0000</pubDate>
     </item>
     <item>
-      <title>Ryo Lu (@ryolu_): Cursor 3 is here.
-Where power meets simplicity.
-Works across all your projects, local and cloud.
-
-It...</title>
-      <link>https://x.com/ryolu_/status/2039780768847958359</link>
-      <guid isPermaLink="true">https://x.com/ryolu_/status/2039780768847958359</guid>
-      <description>Cursor 3 is here.
-Where power meets simplicity.
-Works across all your projects, local and cloud.
-
-It starts simple, then unfolds more tools when you need them – so you stay in flow and in control. Enjoy! https://t.co/xPSyIUcIiB
+      <title>Ryo Lu (@ryolu_): new interface. new icon set.
+made with care and character. https://t.co/VFHKcRq2CK</title>
+      <link>https://x.com/ryolu_/status/2040270917637648749</link>
+      <guid isPermaLink="true">https://x.com/ryolu_/status/2040270917637648749</guid>
+      <description>new interface. new icon set.
+made with care and character. https://t.co/VFHKcRq2CK
 
 Bio: Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.
-❤️ 365  🔁 20</description>
-      <pubDate>Thu, 02 Apr 2026 19:03:27 +0000</pubDate>
+❤️ 165  🔁 4</description>
+      <pubDate>Sat, 04 Apr 2026 03:31:07 +0000</pubDate>
     </item>
     <item>
-      <title>Garry Tan (@garrytan): If you love your work you don’t work for a day in your life https://t.co/YxGk0hljQy</title>
-      <link>https://x.com/garrytan/status/2039948180977316164</link>
-      <guid isPermaLink="true">https://x.com/garrytan/status/2039948180977316164</guid>
-      <description>If you love your work you don’t work for a day in your life https://t.co/YxGk0hljQy
+      <title>Ryo Lu (@ryolu_): simpler is better https://t.co/TlyI9m0hgE</title>
+      <link>https://x.com/ryolu_/status/2040061299053519099</link>
+      <guid isPermaLink="true">https://x.com/ryolu_/status/2040061299053519099</guid>
+      <description>simpler is better https://t.co/TlyI9m0hgE
+
+Bio: Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.
+❤️ 411  🔁 13</description>
+      <pubDate>Fri, 03 Apr 2026 13:38:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Garry Tan (@garrytan): Garry’s List is now a 95 on page speed and the codegen luddites should take a seat 🫡 https://t.co/Xk...</title>
+      <link>https://x.com/garrytan/status/2040228442130850008</link>
+      <guid isPermaLink="true">https://x.com/garrytan/status/2040228442130850008</guid>
+      <description>Garry’s List is now a 95 on page speed and the codegen luddites should take a seat 🫡 https://t.co/XkNYlxbenM
 
 Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop
-❤️ 77  🔁 4</description>
-      <pubDate>Fri, 03 Apr 2026 06:08:41 +0000</pubDate>
+❤️ 119  🔁 4</description>
+      <pubDate>Sat, 04 Apr 2026 00:42:20 +0000</pubDate>
     </item>
     <item>
-      <title>Garry Tan (@garrytan): Perplexity Computer is quite special actually https://t.co/8d4tnRfMVX</title>
-      <link>https://x.com/garrytan/status/2039943351278190840</link>
-      <guid isPermaLink="true">https://x.com/garrytan/status/2039943351278190840</guid>
-      <description>Perplexity Computer is quite special actually https://t.co/8d4tnRfMVX
+      <title>Garry Tan (@garrytan): I make tools on GStack for myself, so I am releasing /plan-devex-review today to help you create ama...</title>
+      <link>https://x.com/garrytan/status/2040211569775395042</link>
+      <guid isPermaLink="true">https://x.com/garrytan/status/2040211569775395042</guid>
+      <description>I make tools on GStack for myself, so I am releasing /plan-devex-review today to help you create amazing Developer Experiences.
+
+Big thanks to Addy Osmani's DX framework for the inspiration here. https://t.co/i5Qy553Q8Q
 
 Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop
-❤️ 59  🔁 1</description>
-      <pubDate>Fri, 03 Apr 2026 05:49:29 +0000</pubDate>
+❤️ 113  🔁 10</description>
+      <pubDate>Fri, 03 Apr 2026 23:35:18 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Steinberger (@steipete): AM I HOT PEOPLE OR SLOP CANNON https://t.co/HpOLGE6Vih</title>
-      <link>https://x.com/steipete/status/2039948914112209390</link>
-      <guid isPermaLink="true">https://x.com/steipete/status/2039948914112209390</guid>
-      <description>AM I HOT PEOPLE OR SLOP CANNON https://t.co/HpOLGE6Vih
+      <title>Garry Tan (@garrytan): I see me tagged in this photo and I like it https://t.co/Kbxo13EogP</title>
+      <link>https://x.com/garrytan/status/2040179321441271966</link>
+      <guid isPermaLink="true">https://x.com/garrytan/status/2040179321441271966</guid>
+      <description>I see me tagged in this photo and I like it https://t.co/Kbxo13EogP
+
+Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop
+❤️ 53  🔁 1</description>
+      <pubDate>Fri, 03 Apr 2026 21:27:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zara Zhang (@zarazhangrui): Yes! Product management and product marketing should be one job. They’re two sides of the same coin ...</title>
+      <link>https://x.com/zarazhangrui/status/2040319135507480921</link>
+      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2040319135507480921</guid>
+      <description>Yes! Product management and product marketing should be one job. They’re two sides of the same coin https://t.co/QY0VfXzjOI
+
+Bio: Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
+❤️ 5  🔁 1</description>
+      <pubDate>Sat, 04 Apr 2026 06:42:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zara Zhang (@zarazhangrui): Zara with a Pearl Earring (made with @PhotaLabs) https://t.co/X1BujWDW7n</title>
+      <link>https://x.com/zarazhangrui/status/2040310150565879827</link>
+      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2040310150565879827</guid>
+      <description>Zara with a Pearl Earring (made with @PhotaLabs) https://t.co/X1BujWDW7n
+
+Bio: Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
+❤️ 17  🔁 0</description>
+      <pubDate>Sat, 04 Apr 2026 06:07:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zara Zhang (@zarazhangrui): New trend I'm seeing: people distilling colleagues, influencers, and even their exes into agent skil...</title>
+      <link>https://x.com/zarazhangrui/status/2040211603875074512</link>
+      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2040211603875074512</guid>
+      <description>New trend I'm seeing: people distilling colleagues, influencers, and even their exes into agent skills
+
+Bio: Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
+❤️ 78  🔁 3</description>
+      <pubDate>Fri, 03 Apr 2026 23:35:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nikunj Kothari (@nikunj): After token anxiety, Claude Code eyes are going to be a thing 😅 https://t.co/De0eI9jZ1w</title>
+      <link>https://x.com/nikunj/status/2040209921690804611</link>
+      <guid isPermaLink="true">https://x.com/nikunj/status/2040209921690804611</guid>
+      <description>After token anxiety, Claude Code eyes are going to be a thing 😅 https://t.co/De0eI9jZ1w
+
+Bio: partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+❤️ 9  🔁 0</description>
+      <pubDate>Fri, 03 Apr 2026 23:28:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nikunj Kothari (@nikunj): KAWS x @SFMOMA 😵 https://t.co/i6CasbmdRh</title>
+      <link>https://x.com/nikunj/status/2040159144553193879</link>
+      <guid isPermaLink="true">https://x.com/nikunj/status/2040159144553193879</guid>
+      <description>KAWS x @SFMOMA 😵 https://t.co/i6CasbmdRh
+
+Bio: partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+❤️ 7  🔁 0</description>
+      <pubDate>Fri, 03 Apr 2026 20:06:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nikunj Kothari (@nikunj): Maybe it’s just the people I follow but this happens to me daily on X when I go to investigate someo...</title>
+      <link>https://x.com/nikunj/status/2040112111750394008</link>
+      <guid isPermaLink="true">https://x.com/nikunj/status/2040112111750394008</guid>
+      <description>Maybe it’s just the people I follow but this happens to me daily on X when I go to investigate someone’s bio.. https://t.co/aRPndi2tsi
+
+Bio: partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+❤️ 12  🔁 0</description>
+      <pubDate>Fri, 03 Apr 2026 17:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Peter Steinberger (@steipete): While I think what Anthropic does is sad for the ecosystem, I wanna give Boris credit for doing what...</title>
+      <link>https://x.com/steipete/status/2040298884787032103</link>
+      <guid isPermaLink="true">https://x.com/steipete/status/2040298884787032103</guid>
+      <description>While I think what Anthropic does is sad for the ecosystem, I wanna give Boris credit for doing what he can to soften the fallout.
+
+Today's release will include some fixes for better cache use, to lower cost for API users. https://t.co/DUZNMjKlJ6
 
 Bio: Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞
-❤️ 140  🔁 1</description>
-      <pubDate>Fri, 03 Apr 2026 06:11:36 +0000</pubDate>
+❤️ 983  🔁 36</description>
+      <pubDate>Sat, 04 Apr 2026 05:22:15 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Steinberger (@steipete): Prediction: This is gonna kill some oss projects.
+      <title>Peter Steinberger (@steipete): woke up and my mentions are full of these
 
-"On the kernel security list we've seen a huge bu...</title>
-      <link>https://x.com/steipete/status/2039782190838686088</link>
-      <guid isPermaLink="true">https://x.com/steipete/status/2039782190838686088</guid>
-      <description>Prediction: This is gonna kill some oss projects.
+Both me and @davemorin tried to talk sense into Anthropic...</title>
+      <link>https://x.com/steipete/status/2040209434019082522</link>
+      <guid isPermaLink="true">https://x.com/steipete/status/2040209434019082522</guid>
+      <description>woke up and my mentions are full of these
 
-"On the kernel security list we've seen a huge bump of reports. We were between 2 and 3 per week maybe two years ago, then reached probably 10 a week over the last year with the only difference being only AI slop, and now since the beginning of the year we're around 5-10 per day depending on the days (fridays and tuesdays seem the worst). Now most of these reports are correct, to the point that we had to bring in more maintainers to help us." https://t.co/rK7evxZjUR
+Both me and @davemorin tried to talk sense into Anthropic, best we managed was delaying this for a week.
+
+Funny how timings match up, first they copy some popular features into their closed harness, then they lock out open source. https://t.co/Mgmv6YmW2B
 
 Bio: Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞
-❤️ 1044  🔁 57</description>
-      <pubDate>Thu, 02 Apr 2026 19:09:06 +0000</pubDate>
+❤️ 3220  🔁 295</description>
+      <pubDate>Fri, 03 Apr 2026 23:26:48 +0000</pubDate>
     </item>
     <item>
-      <title>Dan Shipper (@danshipper): you love to see it  
+      <title>Peter Steinberger (@steipete): I keep hitting quota limits from GitHub's API. This hasn't been designed with agents in mind.</title>
+      <link>https://x.com/steipete/status/2040067429242675523</link>
+      <guid isPermaLink="true">https://x.com/steipete/status/2040067429242675523</guid>
+      <description>I keep hitting quota limits from GitHub's API. This hasn't been designed with agents in mind.
 
-just keep going https://t.co/IMLYBnCe4X</title>
-      <link>https://x.com/danshipper/status/2039876581015933226</link>
-      <guid isPermaLink="true">https://x.com/danshipper/status/2039876581015933226</guid>
-      <description>you love to see it  
-
-just keep going https://t.co/IMLYBnCe4X
+Bio: Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞
+❤️ 1832  🔁 60</description>
+      <pubDate>Fri, 03 Apr 2026 14:02:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dan Shipper (@danshipper): it's worth a shot! and they're iterating fast https://t.co/ohhWiK2gtM</title>
+      <link>https://x.com/danshipper/status/2040134443151568936</link>
+      <guid isPermaLink="true">https://x.com/danshipper/status/2040134443151568936</guid>
+      <description>it's worth a shot! and they're iterating fast https://t.co/ohhWiK2gtM
 
 Bio: ceo @every | the only subscription you need to stay at the edge of AI
-❤️ 26  🔁 0</description>
-      <pubDate>Fri, 03 Apr 2026 01:24:10 +0000</pubDate>
+❤️ 43  🔁 2</description>
+      <pubDate>Fri, 03 Apr 2026 18:28:49 +0000</pubDate>
     </item>
     <item>
-      <title>Dan Shipper (@danshipper): love seeing this slowly get filled out with icons :) https://t.co/W8m0HXPbr9</title>
-      <link>https://x.com/danshipper/status/2039855704714985969</link>
-      <guid isPermaLink="true">https://x.com/danshipper/status/2039855704714985969</guid>
-      <description>love seeing this slowly get filled out with icons :) https://t.co/W8m0HXPbr9
+      <title>Dan Shipper (@danshipper): green shirt club!! https://t.co/vNACBBaigt</title>
+      <link>https://x.com/danshipper/status/2040125142680965542</link>
+      <guid isPermaLink="true">https://x.com/danshipper/status/2040125142680965542</guid>
+      <description>green shirt club!! https://t.co/vNACBBaigt
 
 Bio: ceo @every | the only subscription you need to stay at the edge of AI
-❤️ 22  🔁 2</description>
-      <pubDate>Fri, 03 Apr 2026 00:01:13 +0000</pubDate>
+❤️ 32  🔁 0</description>
+      <pubDate>Fri, 03 Apr 2026 17:51:52 +0000</pubDate>
     </item>
     <item>
-      <title>Dan Shipper (@danshipper): we've been testing Cursor 3.0 for a week now!
+      <title>Aditya Agarwal (@adityaag): It’s amazing when a $10B company sues you because your app "looks and feels" like theirs
+ 
+Let me gi...</title>
+      <link>https://x.com/adityaag/status/2040107083841053145</link>
+      <guid isPermaLink="true">https://x.com/adityaag/status/2040107083841053145</guid>
+      <description>It’s amazing when a $10B company sues you because your app "looks and feels" like theirs
+ 
+Let me give you a tip: Instead of spending 300 bucks on an over-priced @WHOOP , you can get @bevel_health  for free.  
 
-read our full vibe check: https://t.co/poJ3XTrsxG htt...</title>
-      <link>https://x.com/danshipper/status/2039770244361662920</link>
-      <guid isPermaLink="true">https://x.com/danshipper/status/2039770244361662920</guid>
-      <description>we've been testing Cursor 3.0 for a week now!
+We want to bring great health to *everyone*.
 
-read our full vibe check: https://t.co/poJ3XTrsxG https://t.co/AuTZ1rSk1R
+We will build, not resort to lawfare.
 
-Bio: ceo @every | the only subscription you need to stay at the edge of AI
-❤️ 34  🔁 1</description>
-      <pubDate>Thu, 02 Apr 2026 18:21:38 +0000</pubDate>
+Bio: General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
+❤️ 617  🔁 37</description>
+      <pubDate>Fri, 03 Apr 2026 16:40:06 +0000</pubDate>
     </item>
     <item>
-      <title>Sam Altman (@sama): TBPN is my favorite tech show.
+      <title>Claude (@claudeai): Microsoft 365 connectors are now available on every Claude plan.
 
-We want them to keep that going and for them to do what they do so w...</title>
-      <link>https://x.com/sama/status/2039773740586918137</link>
-      <guid isPermaLink="true">https://x.com/sama/status/2039773740586918137</guid>
-      <description>TBPN is my favorite tech show.
+Connect Outlook, OneDrive, and Sha...</title>
+      <link>https://x.com/claudeai/status/2040086268562842097</link>
+      <guid isPermaLink="true">https://x.com/claudeai/status/2040086268562842097</guid>
+      <description>Microsoft 365 connectors are now available on every Claude plan.
 
-We want them to keep that going and for them to do what they do so well.
+Connect Outlook, OneDrive, and SharePoint to bring your email, docs, and files into the conversation.
 
-I don't expect them to go any easier on us, am sure I'll do my part to help enable that with occasional stupid decisions.
-
-Bio: AI is cool i guess
-❤️ 5080  🔁 144</description>
-      <pubDate>Thu, 02 Apr 2026 18:35:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude (@claudeai): Computer use in Claude Cowork and Claude Code Desktop is now available on Windows. https://t.co/TXjk...</title>
-      <link>https://x.com/claudeai/status/2039836891508261106</link>
-      <guid isPermaLink="true">https://x.com/claudeai/status/2039836891508261106</guid>
-      <description>Computer use in Claude Cowork and Claude Code Desktop is now available on Windows. https://t.co/TXjkhVhS7W
+Get started here: https://t.co/EdoQeT8BBN https://t.co/sOrigP41FJ
 
 Bio: Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
-❤️ 7752  🔁 758</description>
-      <pubDate>Thu, 02 Apr 2026 22:46:27 +0000</pubDate>
+❤️ 14043  🔁 1178</description>
+      <pubDate>Fri, 03 Apr 2026 15:17:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
