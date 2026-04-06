@@ -4,14 +4,17 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Sun, 05 Apr 2026 07:03:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 07:27:10 +0000</lastBuildDate>
     <item>
-      <title>[No Priors] AI for Atoms: How Periodic Labs is Revolutionizing Materials Engineering with Co-Founder Liam Fedus</title>
-      <link>https://www.youtube.com/@NoPriorsPodcast</link>
-      <guid isPermaLink="true">https://www.youtube.com/@NoPriorsPodcast</guid>
-      <description>Speaker 1 | 00:05 - 00:32
-Today, know Priors were talking with Liam Fetis. Liam is one of the co creators of ChatGPT, which I think almost everybody uses at this point. He was the VP of post training at OpenAI, and before that was at Google Brain, where he worked on a variety of really early AI innovations. Liam will be telling us a bit about Periodic Labs, his company, which is focused on building an AI foundation lab for atoms. In other words, how do we impact the physical world, material scie...</description>
-      <pubDate>Fri, 03 Apr 2026 10:00:00 +0000</pubDate>
+      <title>[Latent Space] Moonlake: Causal World Models should be Multimodal, Interactive, and Efficient — with Chris Manning and Fan-yun Sun</title>
+      <link>https://www.youtube.com/@LatentSpacePod</link>
+      <guid isPermaLink="true">https://www.youtube.com/@LatentSpacePod</guid>
+      <description>Speaker 1 | 00:00 - 00:20
+I think this whole space is extremely difficult as things are emerging now. And, I mean, it's not only for world models. I think it's for everything, including text based models. Right? Because, you know, in the early days, it seemed very easy to have good benchmarks because we could do things like question answering benchmarks.
+
+Speaker 1 | 00:20 - 00:43
+But, you know, these days, so much of what people are wanting to do is nothing like that. Right? You're wanting to g...</description>
+      <pubDate>Thu, 02 Apr 2026 17:55:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
