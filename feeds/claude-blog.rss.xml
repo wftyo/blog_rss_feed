@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>How and when to use subagents in Claude Code</title>
+      <link>https://claude.com/blog/how-and-when-to-use-subagents-in-claude-code</link>
+      <guid isPermaLink="true">https://claude.com/blog/how-and-when-to-use-subagents-in-claude-code</guid>
+      <description>How and when to use subagents in Claude Code How and when to use subagents in Claude Code</description>
+    </item>
+    <item>
       <title>Harnessing Claude’s intelligence</title>
       <link>https://claude.com/blog/harnessing-claudes-intelligence</link>
       <guid isPermaLink="true">https://claude.com/blog/harnessing-claudes-intelligence</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/cowork-plugins-across-enterprise</link>
       <guid isPermaLink="true">https://claude.com/blog/cowork-plugins-across-enterprise</guid>
       <description>Cowork and plugins for teams across the enterprise Cowork and plugins for teams across the enterprise</description>
-    </item>
-    <item>
-      <title>How AI helps break the cost barrier to COBOL modernization</title>
-      <link>https://claude.com/blog/how-ai-helps-break-cost-barrier-cobol-modernization</link>
-      <guid isPermaLink="true">https://claude.com/blog/how-ai-helps-break-cost-barrier-cobol-modernization</guid>
-      <description>How AI helps break the cost barrier to COBOL modernization How AI helps break the cost barrier to COBOL modernization</description>
     </item>
   </channel>
 </rss>
