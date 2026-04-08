@@ -4,25 +4,14 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Tue, 07 Apr 2026 07:13:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 07:15:59 +0000</lastBuildDate>
     <item>
-      <title>[Latent Space] Mistral: Voxtral TTS, Forge, Leanstral, &amp;amp; what's next for Mistral 4 — w/ Pavan Kumar Reddy &amp;amp; Guillaume Lample</title>
+      <title>[Latent Space] Extreme Harness Engineering for Token Billionaires: 1M LOC, 1B toks/day, 0% human code, 0% human review — Ryan Lopopolo, OpenAI Frontier &amp;amp; Symphony</title>
       <link>https://www.youtube.com/@LatentSpacePod</link>
       <guid isPermaLink="true">https://www.youtube.com/@LatentSpacePod</guid>
-      <description>Speaker 1 | 00:05 - 00:10
-Okay. Welcome to Lanespace. We're here in the studio with trusty cohost, Bibou. Welcome.
-
-Speaker 2 | 00:11 - 00:12
-Very excited for this one.
-
-Speaker 1 | 00:12 - 00:22
-As well as Guillaume and Pavan from Mistral. Welcome. I'm glad to be here. Thank you for all this. Pavan, you are leading audio research at Mistral, and, Guillaume, you're a chief scientist.
-
-Speaker 1 | 00:22 - 00:26
-What are we announcing today where we're coordinating this release with you guys?
-
-Spe...</description>
-      <pubDate>Mon, 30 Mar 2026 19:25:21 +0000</pubDate>
+      <description>Speaker 1 | 00:00 - 00:36
+I do think that there is an interesting space to explore here with codecs, the harness as part of building AI products. Right? There's a ton of momentum around getting the models to be good at coding. We've seen big leaps in, like, the task complexity with each incremental model release where if you can figure out how to collapse a product that you're trying to build, a user journey that you're trying to solve into code, it's pretty natural to use the Codex harness to s...</description>
+      <pubDate>Tue, 07 Apr 2026 17:14:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
