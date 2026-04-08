@@ -11,6 +11,12 @@
       <description>Claude Managed Agents: get to production 10x faster Claude Managed Agents: get to production 10x faster</description>
     </item>
     <item>
+      <title>How Carta Healthcare gets AI to reason like a clinical abstractor</title>
+      <link>https://claude.com/blog/carta-healthcare-clinical-abstractor</link>
+      <guid isPermaLink="true">https://claude.com/blog/carta-healthcare-clinical-abstractor</guid>
+      <description>How Carta Healthcare gets AI to reason like a clinical abstractor How Carta Healthcare gets AI to reason like a clinical abstractor</description>
+    </item>
+    <item>
       <title>How and when to use subagents in Claude Code</title>
       <link>https://claude.com/blog/subagents-in-claude-code</link>
       <guid isPermaLink="true">https://claude.com/blog/subagents-in-claude-code</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/improving-skill-creator-test-measure-and-refine-agent-skills</link>
       <guid isPermaLink="true">https://claude.com/blog/improving-skill-creator-test-measure-and-refine-agent-skills</guid>
       <description>Improving skill-creator: Test, measure, and refine Agent Skills Improving skill-creator: Test, measure, and refine Agent Skills</description>
-    </item>
-    <item>
-      <title>Cowork and plugins for finance</title>
-      <link>https://claude.com/blog/cowork-plugins-finance</link>
-      <guid isPermaLink="true">https://claude.com/blog/cowork-plugins-finance</guid>
-      <description>Cowork and plugins for finance Cowork and plugins for finance</description>
     </item>
   </channel>
 </rss>
