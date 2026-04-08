@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Claude Managed Agents: get to production 10x faster</title>
+      <link>https://claude.com/blog/claude-managed-agents</link>
+      <guid isPermaLink="true">https://claude.com/blog/claude-managed-agents</guid>
+      <description>Claude Managed Agents: get to production 10x faster Claude Managed Agents: get to production 10x faster</description>
+    </item>
+    <item>
       <title>How and when to use subagents in Claude Code</title>
       <link>https://claude.com/blog/subagents-in-claude-code</link>
       <guid isPermaLink="true">https://claude.com/blog/subagents-in-claude-code</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/cowork-plugins-finance</link>
       <guid isPermaLink="true">https://claude.com/blog/cowork-plugins-finance</guid>
       <description>Cowork and plugins for finance Cowork and plugins for finance</description>
-    </item>
-    <item>
-      <title>Cowork and plugins for teams across the enterprise</title>
-      <link>https://claude.com/blog/cowork-plugins-across-enterprise</link>
-      <guid isPermaLink="true">https://claude.com/blog/cowork-plugins-across-enterprise</guid>
-      <description>Cowork and plugins for teams across the enterprise Cowork and plugins for teams across the enterprise</description>
     </item>
   </channel>
 </rss>
