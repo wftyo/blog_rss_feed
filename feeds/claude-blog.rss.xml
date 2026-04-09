@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>The advisor strategy: Give agents an intelligence boost</title>
+      <link>https://claude.com/blog/the-advisor-strategy</link>
+      <guid isPermaLink="true">https://claude.com/blog/the-advisor-strategy</guid>
+      <description>The advisor strategy: Give agents an intelligence boost The advisor strategy: Give agents an intelligence boost</description>
+    </item>
+    <item>
       <title>Making Claude Cowork ready for enterprise</title>
       <link>https://claude.com/blog/cowork-for-enterprise</link>
       <guid isPermaLink="true">https://claude.com/blog/cowork-for-enterprise</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/code-review</link>
       <guid isPermaLink="true">https://claude.com/blog/code-review</guid>
       <description>Bringing Code Review to Claude Code Bringing Code Review to Claude Code</description>
-    </item>
-    <item>
-      <title>Common workflow patterns for AI agents—and when to use them</title>
-      <link>https://claude.com/blog/common-workflow-patterns-for-ai-agents-and-when-to-use-them</link>
-      <guid isPermaLink="true">https://claude.com/blog/common-workflow-patterns-for-ai-agents-and-when-to-use-them</guid>
-      <description>Common workflow patterns for AI agents—and when to use them Common workflow patterns for AI agents—and when to use them</description>
     </item>
   </channel>
 </rss>
