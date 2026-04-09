@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Making Claude Cowork ready for enterprise</title>
+      <link>https://claude.com/blog/cowork-for-enterprise</link>
+      <guid isPermaLink="true">https://claude.com/blog/cowork-for-enterprise</guid>
+      <description>Making Claude Cowork ready for enterprise Making Claude Cowork ready for enterprise</description>
+    </item>
+    <item>
       <title>Claude Managed Agents: get to production 10x faster</title>
       <link>https://claude.com/blog/claude-managed-agents</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-managed-agents</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/common-workflow-patterns-for-ai-agents-and-when-to-use-them</link>
       <guid isPermaLink="true">https://claude.com/blog/common-workflow-patterns-for-ai-agents-and-when-to-use-them</guid>
       <description>Common workflow patterns for AI agents—and when to use them Common workflow patterns for AI agents—and when to use them</description>
-    </item>
-    <item>
-      <title>Improving skill-creator: Test, measure, and refine Agent Skills</title>
-      <link>https://claude.com/blog/improving-skill-creator-test-measure-and-refine-agent-skills</link>
-      <guid isPermaLink="true">https://claude.com/blog/improving-skill-creator-test-measure-and-refine-agent-skills</guid>
-      <description>Improving skill-creator: Test, measure, and refine Agent Skills Improving skill-creator: Test, measure, and refine Agent Skills</description>
     </item>
   </channel>
 </rss>
