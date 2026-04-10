@@ -4,16 +4,20 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Thu, 09 Apr 2026 07:19:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 07:25:23 +0000</lastBuildDate>
     <item>
-      <title>[AI &amp; I by Every] We Gave Every Employee an AI Agent. Here's What Happened.</title>
-      <link>https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL</link>
-      <guid isPermaLink="true">https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL</guid>
-      <description>Speaker 1 | 00:00 - 00:28
-Clawed is not mine. Clawed is everybody's. A claw or a plus one is mine because you develop a personal relationship with your claw, and your claw can modify itself in response to talking to you. It becomes this reflection of you and who you are and your personality. If you're known for slaying inside of your org and you're using your claw publicly inside of Slack or Discord, your claw then becomes known for that same kind of thing and people trust it for that.
+      <title>[Unsupervised Learning] Ep 84: OpenAI’s Chief Scientist on Continual Learning Hype, RL Beyond Code, &amp;amp; Future Alignment Directions</title>
+      <link>https://www.youtube.com/@RedpointAI</link>
+      <guid isPermaLink="true">https://www.youtube.com/@RedpointAI</guid>
+      <description>Speaker 1 | 00:00 - 00:09
+I definitely agree that continual learning is really the thing. It's really the thing that we're building, but I don't really think this is like a problem that's ignored and and off the path of what we're doing currently. Think it it is what we're working towards.
 
-Speaker ...</description>
-      <pubDate>Wed, 08 Apr 2026 15:00:00 +0000</pubDate>
+Speaker 2 | 00:09 - 00:13
+What are like the other research areas within alignment that you're paying attention to or that you think are promising?
+
+Speaker 1 | 00:13 - 00:19
+A lot of the, like, longer term ch...</description>
+      <pubDate>Thu, 09 Apr 2026 13:25:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
