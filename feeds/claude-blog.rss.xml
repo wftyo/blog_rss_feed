@@ -5,6 +5,18 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Seeing like an agent: how we design tools in Claude Code</title>
+      <link>https://claude.com/blog/seeing-like-an-agent</link>
+      <guid isPermaLink="true">https://claude.com/blog/seeing-like-an-agent</guid>
+      <description>Seeing like an agent: how we design tools in Claude Code Seeing like an agent: how we design tools in Claude Code</description>
+    </item>
+    <item>
+      <title>Multi-agent coordination patterns: Five approaches and when to use them</title>
+      <link>https://claude.com/blog/multi-agent-coordination-patterns</link>
+      <guid isPermaLink="true">https://claude.com/blog/multi-agent-coordination-patterns</guid>
+      <description>Multi-agent coordination patterns: Five approaches and when to use them Multi-agent coordination patterns: Five approaches and when to use them</description>
+    </item>
+    <item>
       <title>The advisor strategy: Give agents an intelligence boost</title>
       <link>https://claude.com/blog/the-advisor-strategy</link>
       <guid isPermaLink="true">https://claude.com/blog/the-advisor-strategy</guid>
@@ -81,18 +93,6 @@
       <link>https://claude.com/blog/claude-builds-visuals</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-builds-visuals</guid>
       <description>Claude now creates interactive charts, diagrams and visualizations Claude now creates interactive charts, diagrams and visualizations</description>
-    </item>
-    <item>
-      <title>Advancing Claude for Excel and PowerPoint</title>
-      <link>https://claude.com/blog/claude-excel-powerpoint-updates</link>
-      <guid isPermaLink="true">https://claude.com/blog/claude-excel-powerpoint-updates</guid>
-      <description>Advancing Claude for Excel and PowerPoint Advancing Claude for Excel and PowerPoint</description>
-    </item>
-    <item>
-      <title>Bringing Code Review to Claude Code</title>
-      <link>https://claude.com/blog/code-review</link>
-      <guid isPermaLink="true">https://claude.com/blog/code-review</guid>
-      <description>Bringing Code Review to Claude Code Bringing Code Review to Claude Code</description>
     </item>
   </channel>
 </rss>
