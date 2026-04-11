@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Preparing your security program for AI-accelerated offense</title>
+      <link>https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense</link>
+      <guid isPermaLink="true">https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense</guid>
+      <description>Preparing your security program for AI-accelerated offense Preparing your security program for AI-accelerated offense</description>
+    </item>
+    <item>
       <title>Seeing like an agent: how we design tools in Claude Code</title>
       <link>https://claude.com/blog/seeing-like-an-agent</link>
       <guid isPermaLink="true">https://claude.com/blog/seeing-like-an-agent</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/1m-context-ga</link>
       <guid isPermaLink="true">https://claude.com/blog/1m-context-ga</guid>
       <description>1M context is now generally available for Opus 4.6 and Sonnet 4.6 1M context is now generally available for Opus 4.6 and Sonnet 4.6</description>
-    </item>
-    <item>
-      <title>Claude now creates interactive charts, diagrams and visualizations</title>
-      <link>https://claude.com/blog/claude-builds-visuals</link>
-      <guid isPermaLink="true">https://claude.com/blog/claude-builds-visuals</guid>
-      <description>Claude now creates interactive charts, diagrams and visualizations Claude now creates interactive charts, diagrams and visualizations</description>
     </item>
   </channel>
 </rss>
