@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Redesigning Claude Code on desktop for parallel agents</title>
+      <link>https://claude.com/blog/claude-code-desktop-redesign</link>
+      <guid isPermaLink="true">https://claude.com/blog/claude-code-desktop-redesign</guid>
+      <description>Redesigning Claude Code on desktop for parallel agents Redesigning Claude Code on desktop for parallel agents</description>
+    </item>
+    <item>
       <title>Introducing routines in Claude Code</title>
       <link>https://claude.com/blog/introducing-routines-in-claude-code</link>
       <guid isPermaLink="true">https://claude.com/blog/introducing-routines-in-claude-code</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/product-management-on-the-ai-exponential</link>
       <guid isPermaLink="true">https://claude.com/blog/product-management-on-the-ai-exponential</guid>
       <description>Product management on the AI exponential Product management on the AI exponential</description>
-    </item>
-    <item>
-      <title>Code with Claude comes to San Francisco, London, and Tokyo</title>
-      <link>https://claude.com/blog/code-with-claude-san-francisco-london-tokyo</link>
-      <guid isPermaLink="true">https://claude.com/blog/code-with-claude-san-francisco-london-tokyo</guid>
-      <description>Code with Claude comes to San Francisco, London, and Tokyo Code with Claude comes to San Francisco, London, and Tokyo</description>
     </item>
   </channel>
 </rss>
