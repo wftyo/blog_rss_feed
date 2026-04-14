@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Introducing routines in Claude Code</title>
+      <link>https://claude.com/blog/introducing-routines-in-claude-code</link>
+      <guid isPermaLink="true">https://claude.com/blog/introducing-routines-in-claude-code</guid>
+      <description>Introducing routines in Claude Code Introducing routines in Claude Code</description>
+    </item>
+    <item>
       <title>Preparing your security program for AI-accelerated offense</title>
       <link>https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense</link>
       <guid isPermaLink="true">https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/code-with-claude-san-francisco-london-tokyo</link>
       <guid isPermaLink="true">https://claude.com/blog/code-with-claude-san-francisco-london-tokyo</guid>
       <description>Code with Claude comes to San Francisco, London, and Tokyo Code with Claude comes to San Francisco, London, and Tokyo</description>
-    </item>
-    <item>
-      <title>1M context is now generally available for Opus 4.6 and Sonnet 4.6</title>
-      <link>https://claude.com/blog/1m-context-ga</link>
-      <guid isPermaLink="true">https://claude.com/blog/1m-context-ga</guid>
-      <description>1M context is now generally available for Opus 4.6 and Sonnet 4.6 1M context is now generally available for Opus 4.6 and Sonnet 4.6</description>
     </item>
   </channel>
 </rss>
