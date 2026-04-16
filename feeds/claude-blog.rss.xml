@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Using Claude Code: session management and 1M context</title>
+      <link>https://claude.com/blog/using-claude-code-session-management-and-1m-context</link>
+      <guid isPermaLink="true">https://claude.com/blog/using-claude-code-session-management-and-1m-context</guid>
+      <description>Using Claude Code: session management and 1M context Using Claude Code: session management and 1M context</description>
+    </item>
+    <item>
       <title>Redesigning Claude Code on desktop for parallel agents</title>
       <link>https://claude.com/blog/claude-code-desktop-redesign</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-code-desktop-redesign</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/dispatch-and-computer-use</link>
       <guid isPermaLink="true">https://claude.com/blog/dispatch-and-computer-use</guid>
       <description>Put Claude to work on your computer Put Claude to work on your computer</description>
-    </item>
-    <item>
-      <title>Product management on the AI exponential</title>
-      <link>https://claude.com/blog/product-management-on-the-ai-exponential</link>
-      <guid isPermaLink="true">https://claude.com/blog/product-management-on-the-ai-exponential</guid>
-      <description>Product management on the AI exponential Product management on the AI exponential</description>
     </item>
   </channel>
 </rss>
