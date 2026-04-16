@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Best practices for using Claude Opus 4.7 with Claude Code</title>
+      <link>https://claude.com/blog/best-practices-for-using-claude-opus-4-7-with-claude-code</link>
+      <guid isPermaLink="true">https://claude.com/blog/best-practices-for-using-claude-opus-4-7-with-claude-code</guid>
+      <description>Best practices for using Claude Opus 4.7 with Claude Code Best practices for using Claude Opus 4.7 with Claude Code</description>
+    </item>
+    <item>
       <title>Using Claude Code: session management and 1M context</title>
       <link>https://claude.com/blog/using-claude-code-session-management-and-1m-context</link>
       <guid isPermaLink="true">https://claude.com/blog/using-claude-code-session-management-and-1m-context</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/auto-mode</link>
       <guid isPermaLink="true">https://claude.com/blog/auto-mode</guid>
       <description>Auto mode for Claude Code Auto mode for Claude Code</description>
-    </item>
-    <item>
-      <title>Put Claude to work on your computer</title>
-      <link>https://claude.com/blog/dispatch-and-computer-use</link>
-      <guid isPermaLink="true">https://claude.com/blog/dispatch-and-computer-use</guid>
-      <description>Put Claude to work on your computer Put Claude to work on your computer</description>
     </item>
   </channel>
 </rss>
