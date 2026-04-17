@@ -4,20 +4,20 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Thu, 16 Apr 2026 07:29:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 07:43:36 +0000</lastBuildDate>
     <item>
-      <title>[AI &amp; I by Every] The AI Model Built for What LLMs Can't Do</title>
-      <link>https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL</link>
-      <guid isPermaLink="true">https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL</guid>
-      <description>Speaker 1 | 00:00 - 00:01
-Can you define EBM for us?
+      <title>[Latent Space] Notion’s Token Town: 5 Rebuilds, 100+ Tools, MCP vs CLIs and the Software Factory Future — Simon Last &amp;amp; Sarah Sachs of Notion</title>
+      <link>https://www.youtube.com/@LatentSpacePod</link>
+      <guid isPermaLink="true">https://www.youtube.com/@LatentSpacePod</guid>
+      <description>Speaker 1 | 00:00 - 00:08
+Broadly speaking, I'm really bullish on CLIs. I'm still bullish on MCPs in a certain environment. I think it'd be really great for when you want, like, a narrow lightweight agent. I think
 
-Speaker 2 | 00:01 - 00:20
-EBMs are naturally non autoregressive. There are no sequences of tokens, and that's what makes it fundamentally different. Like, imagine you're trying to navigate the map, and you have a left brain. To navigate, you're sort of allowed to choose one direction of the time. And sometimes you take the wrong turns just because you hallucinate.
+Speaker 2 | 00:08 - 00:10
+there's definitely a lot of use cases where you
 
-Speaker 2 | 00:20 - 00:34
-Like, there might be a hole in the road and you're j...</description>
-      <pubDate>Wed, 15 Apr 2026 15:00:00 +0000</pubDate>
+Speaker 1 | 00:10 - 00:24
+don't want, like, a full coding agent with the compute runtime. And, also, you want it to be, like, more tightly permissioned. MCP inherently has a really strong permission model. Like...</description>
+      <pubDate>Wed, 15 Apr 2026 00:31:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
