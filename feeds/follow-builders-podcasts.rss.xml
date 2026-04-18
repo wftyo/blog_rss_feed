@@ -4,20 +4,14 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Fri, 17 Apr 2026 07:43:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 07:04:19 +0000</lastBuildDate>
     <item>
-      <title>[Latent Space] Notion’s Token Town: 5 Rebuilds, 100+ Tools, MCP vs CLIs and the Software Factory Future — Simon Last &amp;amp; Sarah Sachs of Notion</title>
-      <link>https://www.youtube.com/@LatentSpacePod</link>
-      <guid isPermaLink="true">https://www.youtube.com/@LatentSpacePod</guid>
-      <description>Speaker 1 | 00:00 - 00:08
-Broadly speaking, I'm really bullish on CLIs. I'm still bullish on MCPs in a certain environment. I think it'd be really great for when you want, like, a narrow lightweight agent. I think
-
-Speaker 2 | 00:08 - 00:10
-there's definitely a lot of use cases where you
-
-Speaker 1 | 00:10 - 00:24
-don't want, like, a full coding agent with the compute runtime. And, also, you want it to be, like, more tightly permissioned. MCP inherently has a really strong permission model. Like...</description>
-      <pubDate>Wed, 15 Apr 2026 00:31:14 +0000</pubDate>
+      <title>[No Priors] Scaling Global Organizations in the Age of AI with ServiceNow CEO Bill McDermott</title>
+      <link>https://www.youtube.com/@NoPriorsPodcast</link>
+      <guid isPermaLink="true">https://www.youtube.com/@NoPriorsPodcast</guid>
+      <description>Speaker 1 | 00:00 - 00:40
+The cost to replace an enterprise platform in this SaaS apocalypse that people talk about is an extraordinary expense. Let's take that cost, and then let's take the cost associated with the human capital doing that instead of something else because the platform was doing the work for you. And then let's add up the cost of the GPU factory and the tokens that will materially affect their business model. And so for a simple application on our platform, it would be 10 times...</description>
+      <pubDate>Fri, 17 Apr 2026 20:44:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
