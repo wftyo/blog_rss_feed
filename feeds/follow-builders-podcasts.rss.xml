@@ -4,14 +4,16 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Sat, 18 Apr 2026 07:04:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 07:16:12 +0000</lastBuildDate>
     <item>
-      <title>[No Priors] Scaling Global Organizations in the Age of AI with ServiceNow CEO Bill McDermott</title>
-      <link>https://www.youtube.com/@NoPriorsPodcast</link>
-      <guid isPermaLink="true">https://www.youtube.com/@NoPriorsPodcast</guid>
-      <description>Speaker 1 | 00:00 - 00:40
-The cost to replace an enterprise platform in this SaaS apocalypse that people talk about is an extraordinary expense. Let's take that cost, and then let's take the cost associated with the human capital doing that instead of something else because the platform was doing the work for you. And then let's add up the cost of the GPU factory and the tokens that will materially affect their business model. And so for a simple application on our platform, it would be 10 times...</description>
-      <pubDate>Fri, 17 Apr 2026 20:44:00 +0000</pubDate>
+      <title>[The MAD Podcast with Matt Turck] Anthropic’s Felix Rieseberg: Claude Cowork, Mythos, and the SaaS Extinction</title>
+      <link>https://www.youtube.com/watch?v=9MEJ4syOVrQ</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=9MEJ4syOVrQ</guid>
+      <description>Speaker 1 | 00:00 - 00:22
+There is something both impressive but also slightly terrifying about seeing a model that is so much smarter than the last model we have worked with. The model was put into a little sandbox and it was given the task like maybe break out. The researcher went away for lunch. During lunch while eating a sandwich, the model sent the researcher an email saying, I've broken out. The model was not supposed to have Internet access or an email account.
+
+Speaker 1 | 00:22 - 00:40...</description>
+      <pubDate>Fri, 10 Apr 2026 11:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
