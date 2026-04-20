@@ -4,16 +4,20 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Sun, 19 Apr 2026 07:16:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 08:03:12 +0000</lastBuildDate>
     <item>
-      <title>[The MAD Podcast with Matt Turck] Anthropic’s Felix Rieseberg: Claude Cowork, Mythos, and the SaaS Extinction</title>
-      <link>https://www.youtube.com/watch?v=9MEJ4syOVrQ</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=9MEJ4syOVrQ</guid>
-      <description>Speaker 1 | 00:00 - 00:22
-There is something both impressive but also slightly terrifying about seeing a model that is so much smarter than the last model we have worked with. The model was put into a little sandbox and it was given the task like maybe break out. The researcher went away for lunch. During lunch while eating a sandwich, the model sent the researcher an email saying, I've broken out. The model was not supposed to have Internet access or an email account.
+      <title>[Unsupervised Learning] Ep 84: OpenAI’s Chief Scientist on Continual Learning Hype, RL Beyond Code, &amp;amp; Future Alignment Directions</title>
+      <link>https://www.youtube.com/watch?v=vK1qEF3a3WM</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=vK1qEF3a3WM</guid>
+      <description>Speaker 1 | 00:00 - 00:09
+I definitely agree that continual learning is really the thing. It's really the thing that we're building, but I don't really think this is like a problem that's ignored and and off the path of what we're doing currently. Think it it is what we're working towards.
 
-Speaker 1 | 00:22 - 00:40...</description>
-      <pubDate>Fri, 10 Apr 2026 11:30:00 +0000</pubDate>
+Speaker 2 | 00:09 - 00:13
+What are like the other research areas within alignment that you're paying attention to or that you think are promising?
+
+Speaker 1 | 00:13 - 00:19
+A lot of the, like, longer term ch...</description>
+      <pubDate>Thu, 09 Apr 2026 13:25:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
