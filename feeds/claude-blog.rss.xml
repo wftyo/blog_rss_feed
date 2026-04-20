@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Meet the winners of our Built with Opus 4.6 Claude Code hackathon</title>
+      <link>https://claude.com/blog/meet-the-winners-of-our-built-with-opus-4-6-claude-code-hackathon</link>
+      <guid isPermaLink="true">https://claude.com/blog/meet-the-winners-of-our-built-with-opus-4-6-claude-code-hackathon</guid>
+      <description>Meet the winners of our Built with Opus 4.6 Claude Code hackathon Meet the winners of our Built with Opus 4.6 Claude Code hackathon</description>
+    </item>
+    <item>
       <title>Best practices for using Claude Opus 4.7 with Claude Code</title>
       <link>https://claude.com/blog/best-practices-for-using-claude-opus-4-7-with-claude-code</link>
       <guid isPermaLink="true">https://claude.com/blog/best-practices-for-using-claude-opus-4-7-with-claude-code</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/claude-platform-compliance-api</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-platform-compliance-api</guid>
       <description>Audit Claude Platform activity with the Compliance API Audit Claude Platform activity with the Compliance API</description>
-    </item>
-    <item>
-      <title>Auto mode for Claude Code</title>
-      <link>https://claude.com/blog/auto-mode</link>
-      <guid isPermaLink="true">https://claude.com/blog/auto-mode</guid>
-      <description>Auto mode for Claude Code Auto mode for Claude Code</description>
     </item>
   </channel>
 </rss>
