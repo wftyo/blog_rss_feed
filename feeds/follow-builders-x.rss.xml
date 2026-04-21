@@ -4,12 +4,16 @@
     <title>Follow Builders — X/Twitter</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI builders' latest tweets, curated by follow-builders</description>
-    <lastBuildDate>Mon, 20 Apr 2026 08:03:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 07:46:17 +0000</lastBuildDate>
     <item>
-      <title>Swyx (@swyx): https://t.co/RbLQSGze1v my guide</title>
-      <link>https://x.com/swyx/status/2045831117199102276</link>
-      <guid isPermaLink="true">https://x.com/swyx/status/2045831117199102276</guid>
-      <description>https://t.co/RbLQSGze1v my guide
+      <title>Swyx (@swyx): give us back Sky
+
+https://t.co/YIjHaa0jMR</title>
+      <link>https://x.com/swyx/status/2046388765820661939</link>
+      <guid isPermaLink="true">https://x.com/swyx/status/2046388765820661939</guid>
+      <description>give us back Sky
+
+https://t.co/YIjHaa0jMR
 
 Bio: achieve ambition with intentionality, intensity, integrity &amp; insanity.
 
@@ -19,247 +23,416 @@ affiliations:
 - @temporalio
 - @aidotengineer
 - @latentspacepod
-❤️ 7  🔁 0</description>
-      <pubDate>Sun, 19 Apr 2026 11:45:22 +0000</pubDate>
+❤️ 3  🔁 0</description>
+      <pubDate>Tue, 21 Apr 2026 00:41:16 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Yang (@petergyang): I spent an hour plus this afternoon trying to get OpenClaw to work with GPT. 
+      <title>Swyx (@swyx): the Codex x @skybysoftware acquisition may have been one of the best @openai deals made in the last ...</title>
+      <link>https://x.com/swyx/status/2046362691606855700</link>
+      <guid isPermaLink="true">https://x.com/swyx/status/2046362691606855700</guid>
+      <description>the Codex x @skybysoftware acquisition may have been one of the best @openai deals made in the last year.
 
-I asked it to do a si...</title>
-      <link>https://x.com/petergyang/status/2046036593199497615</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2046036593199497615</guid>
-      <description>I spent an hour plus this afternoon trying to get OpenClaw to work with GPT. 
+I've been waiting for "real" computer use since @romainhuet demoed the ChatGPT App with 4o Vision at AIEWF 2024... and only now it's really, actually rolling out in a usable fashion.
 
-I asked it to do a simple task to send me a weekly stats recap email that Opus had no trouble with. 
+Bio: achieve ambition with intentionality, intensity, integrity &amp; insanity.
 
-Here's how the conversation went:
+affiliations:
+- @dxtipshq 
+- @cognition
+- @temporalio
+- @aidotengineer
+- @latentspacepod
+❤️ 93  🔁 4</description>
+      <pubDate>Mon, 20 Apr 2026 22:57:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Swyx (@swyx): and @dexhorthy is quoting Z/L continuum in AIE Miami!!
 
-"You completely messed up the previous template"
+https://t.co/0KdjCJfZ8a
 
-"Sigh you made a mess. Why don’t you open the email template and I can edit manually"
+idea catching on @a...</title>
+      <link>https://x.com/swyx/status/2046222691418439689</link>
+      <guid isPermaLink="true">https://x.com/swyx/status/2046222691418439689</guid>
+      <description>and @dexhorthy is quoting Z/L continuum in AIE Miami!!
 
-"no you totally screwed it up tbh. let's switch the model to sonnet"
+https://t.co/0KdjCJfZ8a
 
-Again, big fan of OpenClaw (+ Codex) but this model simply doesn't seem to work with following through on agentic tasks (or just simple cron jobs).
+idea catching on @altryne https://t.co/O2Q4OImv1k
 
-Maybe it's a skill issue on my part - although the AI builder groups I'm part of say similar things.
+Bio: achieve ambition with intentionality, intensity, integrity &amp; insanity.
 
-Hopefully, Spud / GPT 5.5 will solve this.
+affiliations:
+- @dxtipshq 
+- @cognition
+- @temporalio
+- @aidotengineer
+- @latentspacepod
+❤️ 30  🔁 2</description>
+      <pubDate>Mon, 20 Apr 2026 13:41:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Josh Woodward (@joshwoodward): Welcome back Ben! Can’t wait to see what you build! https://t.co/qWkdBgrksp</title>
+      <link>https://x.com/joshwoodward/status/2046361644029378731</link>
+      <guid isPermaLink="true">https://x.com/joshwoodward/status/2046361644029378731</guid>
+      <description>Welcome back Ben! Can’t wait to see what you build! https://t.co/qWkdBgrksp
+
+Bio: VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio
+❤️ 138  🔁 5</description>
+      <pubDate>Mon, 20 Apr 2026 22:53:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Peter Yang (@petergyang): The only thing more fun than coding with agents is designing with agents</title>
+      <link>https://x.com/petergyang/status/2046434474603446535</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2046434474603446535</guid>
+      <description>The only thing more fun than coding with agents is designing with agents
 
 Bio: Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
-❤️ 70  🔁 4</description>
-      <pubDate>Mon, 20 Apr 2026 01:21:51 +0000</pubDate>
+❤️ 40  🔁 1</description>
+      <pubDate>Tue, 21 Apr 2026 03:42:54 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Yang (@petergyang): I switched my openclaw to gpt finally and it’s…not going to well.
+      <title>Peter Yang (@petergyang): I feel like Codex's gap in frontend design skills can be easily made up if you use an AI design tool...</title>
+      <link>https://x.com/petergyang/status/2046434019307561342</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2046434019307561342</guid>
+      <description>I feel like Codex's gap in frontend design skills can be easily made up if you use an AI design tool.
 
-Any tips to optimize it for this ...</title>
-      <link>https://x.com/petergyang/status/2045980068921684151</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2045980068921684151</guid>
-      <description>I switched my openclaw to gpt finally and it’s…not going to well.
-
-Any tips to optimize it for this model? https://t.co/eKvtNUunc9
+My favorite is @tomkrcha's Pencil
 
 Bio: Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
-❤️ 59  🔁 0</description>
-      <pubDate>Sun, 19 Apr 2026 21:37:15 +0000</pubDate>
+❤️ 41  🔁 0</description>
+      <pubDate>Tue, 21 Apr 2026 03:41:05 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Yang (@petergyang): Went from having multiple terminals open to just two apps open :) https://t.co/Wv8LXhRbnP</title>
-      <link>https://x.com/petergyang/status/2045909612315172936</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2045909612315172936</guid>
-      <description>Went from having multiple terminals open to just two apps open :) https://t.co/Wv8LXhRbnP
+      <title>Peter Yang (@petergyang): The more innovative the company the less of a "2026 roadmap" it actually has. https://t.co/LR4ObKvt9...</title>
+      <link>https://x.com/petergyang/status/2046433025337315651</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2046433025337315651</guid>
+      <description>The more innovative the company the less of a "2026 roadmap" it actually has. https://t.co/LR4ObKvt97
 
 Bio: Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
-❤️ 950  🔁 9</description>
-      <pubDate>Sun, 19 Apr 2026 16:57:17 +0000</pubDate>
+❤️ 12  🔁 1</description>
+      <pubDate>Tue, 21 Apr 2026 03:37:08 +0000</pubDate>
     </item>
     <item>
-      <title>Nan Yu (@thenanyu): If a press release comes out from each of the major labs, which one do you feel would have the short...</title>
-      <link>https://x.com/thenanyu/status/2045910980597530836</link>
-      <guid isPermaLink="true">https://x.com/thenanyu/status/2045910980597530836</guid>
-      <description>If a press release comes out from each of the major labs, which one do you feel would have the shortest distance between what they said and what they believe?
-
-Bio: head of product @linear</description>
-      <pubDate>Sun, 19 Apr 2026 17:02:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nan Yu (@thenanyu): I’ve always felt this as well, but I couldn’t put it to words until I read this. 
-
-It’s like asking ...</title>
-      <link>https://x.com/thenanyu/status/2045910308611326166</link>
-      <guid isPermaLink="true">https://x.com/thenanyu/status/2045910308611326166</guid>
-      <description>I’ve always felt this as well, but I couldn’t put it to words until I read this. 
-
-It’s like asking “should I get a red Lambo or a green Lambo?” expecting the correct answer to be “you shouldn’t buy a Lambo because that’s a poor financial decision.” https://t.co/LZVOnNZ47Y
+      <title>Nan Yu (@thenanyu): When is Venmo gonna finally turn off that feature that lets me see when two of my mutual friends are...</title>
+      <link>https://x.com/thenanyu/status/2046317076164350411</link>
+      <guid isPermaLink="true">https://x.com/thenanyu/status/2046317076164350411</guid>
+      <description>When is Venmo gonna finally turn off that feature that lets me see when two of my mutual friends are hooking up?
 
 Bio: head of product @linear
-❤️ 18  🔁 0</description>
-      <pubDate>Sun, 19 Apr 2026 17:00:03 +0000</pubDate>
+❤️ 21  🔁 0</description>
+      <pubDate>Mon, 20 Apr 2026 19:56:24 +0000</pubDate>
     </item>
     <item>
-      <title>Nan Yu (@thenanyu): If people think you’re bad at PR then they tend to believe you’re not lying to them, which, if you t...</title>
-      <link>https://x.com/thenanyu/status/2045903644298465422</link>
-      <guid isPermaLink="true">https://x.com/thenanyu/status/2045903644298465422</guid>
-      <description>If people think you’re bad at PR then they tend to believe you’re not lying to them, which, if you think about it, makes you good at PR. https://t.co/AWvcydiIDW
+      <title>Amjad Masad (@amasad): Fairuz is the star of Kanye’s new album https://t.co/u8oIL4wEG3</title>
+      <link>https://x.com/amasad/status/2046443294104883693</link>
+      <guid isPermaLink="true">https://x.com/amasad/status/2046443294104883693</guid>
+      <description>Fairuz is the star of Kanye’s new album https://t.co/u8oIL4wEG3
 
-Bio: head of product @linear
-❤️ 13  🔁 0</description>
-      <pubDate>Sun, 19 Apr 2026 16:33:34 +0000</pubDate>
+Bio: ceo @replit. civilizationist
+❤️ 134  🔁 4</description>
+      <pubDate>Tue, 21 Apr 2026 04:17:57 +0000</pubDate>
     </item>
     <item>
-      <title>Guillermo Rauch (@rauchg): Here's my update to the broader community about the ongoing incident investigation. I want to give y...</title>
-      <link>https://x.com/rauchg/status/2045995362499076169</link>
-      <guid isPermaLink="true">https://x.com/rauchg/status/2045995362499076169</guid>
-      <description>Here's my update to the broader community about the ongoing incident investigation. I want to give you the rundown of the situation directly.
+      <title>Guillermo Rauch (@rauchg): I’m so encouraged by the way our team and industry peers have shown up to protect the internet.
 
-A Vercel employee got compromised via the breach of an AI platform customer called https://t.co/7PY6gGtzgI that he was using. The details are being fully investigated.
+We’...</title>
+      <link>https://x.com/rauchg/status/2046406894269747668</link>
+      <guid isPermaLink="true">https://x.com/rauchg/status/2046406894269747668</guid>
+      <description>I’m so encouraged by the way our team and industry peers have shown up to protect the internet.
 
-Through a series of maneuvers that escalated from our colleague’s compromised Vercel Google Workspace account, the attacker got further access to Vercel environments.
+We’ve now shipped over 20 product improvements across Dashboard and CLI to help your security posture.
 
-Vercel stores all customer environment variables fully encrypted at rest. We have numerous defense-in-depth mechanisms to protect core systems and customer data. We do have a capability however to designate environment variables as “non-sensitive”. Unfortunately, the attacker got further access through their enumeration.
-
-We believe the attacking group to be highly sophisticated and, I strongly suspect, significantly accelerated by AI. They moved with surprising velocity and in-depth understanding of Vercel.
-
-At the moment, we believe the number of customers with security impact to be quite limited. We’ve reached out with utmost priority to the ones we have concerns about. All of our focus right now is on investigation, communication to customers, enhancement of security measures, and sanitization of our environments. We’ve deployed extensive protection measures and monitoring. We’ve analyzed our supply chain, ensuring Next.js, Turbopack, and our many open source projects remain safe for our community.
-
-The recommendation for all Vercel customers is to follow the Security Bulletin closely (https://t.co/BLVnic9fJC). My advice to everyone is to follow the best practices of security response: secret rotation, monitoring access to your Vercel environments and linked services, and ensuring the proper use of the sensitive env variables feature.
-
-In response to this, and to aid in the improvement of all of our customers’ security postures, we’ve already rolled out new capabilities in the dashboard, including an overview page of environment variables, and a better user interface for sensitive env var creation and management. As always, I’m totally open to your feedback.
-
-We’re working with elite cybersecurity firms, industry peers, and law enforcement. We’ve reached out to Context to assist in understanding the full scale of the incident, in an effort to protect other organizations and the broader internet. I also want to thank the Google Mandiant team for their active engagement and assistance.
-
-It’s my mission to turn this attack into the most formidable security response imaginable. It’s always been a top priority for me. Vercel employs some of the most dedicated security researchers and security-minded engineers in the world. I commit to keeping you updated and rolling out extensive improvements and defenses so you, our customers and community, can have the peace of mind that Vercel always has your back.
+Easier to set up MFA, audit your Environment Variables, Activity logs and more https://t.co/5Qi2NEvUhw
 
 Bio: @vercel CEO
-❤️ 5471  🔁 809</description>
-      <pubDate>Sun, 19 Apr 2026 22:38:01 +0000</pubDate>
+❤️ 647  🔁 33</description>
+      <pubDate>Tue, 21 Apr 2026 01:53:18 +0000</pubDate>
     </item>
     <item>
-      <title>Aaron Levie (@levie): What gets missed with AI productivity gains is that by and large, most roles will continue to be as ...</title>
-      <link>https://x.com/levie/status/2046067263326028108</link>
-      <guid isPermaLink="true">https://x.com/levie/status/2046067263326028108</guid>
-      <description>What gets missed with AI productivity gains is that by and large, most roles will continue to be as sophisticated as the tools allow. 
+      <title>Guillermo Rauch (@rauchg): Getting lots of questions about how to learn more about the incident. We're actively maintaining the...</title>
+      <link>https://x.com/rauchg/status/2046305710120829374</link>
+      <guid isPermaLink="true">https://x.com/rauchg/status/2046305710120829374</guid>
+      <description>Getting lots of questions about how to learn more about the incident. We're actively maintaining the security bulletin. That's the source.
 
-This is why also thinking through “today’s jobs will be replaced with AI” is a fallacy. Everyone thinks the market is static, but it’s not.
+The bulletin includes security best practices to take out of an abundance of caution. To reiterate, we directly contacted all Vercel customers that we believe to be impacted by the IOC shared in the bulletin.
 
-As a result of everyone having access to the same technology which augments our work, then users of the tools will increasingly raise their level of output to the point where the prior definition of the job is no longer relevant. Thus, those that understand their particular field and grow in their skills will continue to be differentiated vs. others.
+One misconception we've seen that I need to call out. Deletion (e.g.: of an env var, project, account…) does not imply Rotation. Rotating keys means *invalidating* the previous value with the vendor/service you're using, and getting a new one. Do that.
 
-If you can do far more, then you start to tackle bigger and harder problems. If you do that, then the expertise still is required to get the job done fully. 
+i.e.: if you only delete the resource on the Vercel side, the associated key can "live on" with the other provider, and be mis-used
+https://t.co/VJfx1ODUM8
 
-The engineer with AI is going to be far more productive and capable with AI than the non-engineer trying to build the same piece of software. Building a lightweight app is no longer the definition of getting by in software development. Reviewing a contract will no longer be the definition of a paralegal. Splicing a video won’t be the definition of a video editor. Providing basic financial research won’t be the job of the financial analyst in the future.
+Bio: @vercel CEO
+❤️ 38  🔁 4</description>
+      <pubDate>Mon, 20 Apr 2026 19:11:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alex Albert (@alexalbert__): Jack's young money blog had a big impact on me when I was in college and navigating what I wanted to...</title>
+      <link>https://x.com/alexalbert__/status/2046277525207466003</link>
+      <guid isPermaLink="true">https://x.com/alexalbert__/status/2046277525207466003</guid>
+      <description>Jack's young money blog had a big impact on me when I was in college and navigating what I wanted to do post-grad. 
 
-Simply put, AI will naturally cause most roles to actually grow in complexity rather than reduce in complexity, because we can do far more with the tools.
+If you are in your teens/20s and trying to figure out how to think about life, this book will offer you some good ideas. https://t.co/8Z1rpUzd36
+
+Bio: Research @AnthropicAI. Opinions are my own!
+❤️ 93  🔁 1</description>
+      <pubDate>Mon, 20 Apr 2026 17:19:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aaron Levie (@levie): The jump from working with a chatbot to having an agent that actually helps automate a process requi...</title>
+      <link>https://x.com/levie/status/2046397816755634340</link>
+      <guid isPermaLink="true">https://x.com/levie/status/2046397816755634340</guid>
+      <description>The jump from working with a chatbot to having an agent that actually helps automate a process requires a real amount of work. 
+
+Most companies will need to have dedicated people that are responsible for bringing automation to their teams, instead of leaving this up to every individual employee. Partly because the work is more technical than we imagine today, and partly because it’s just hard to do this as a side project.
+
+The job spec is to map out new workflows with agents, implement new systems to deploy agents, make sure the agent has all the right (up to date) context to work with, wiring up internal systems to connect to the agents, creating evals for the agents, figuring out where the human is in the loop, managing the system when there are new upgrades, helping with the change management of the existing business process, and so on.
+
+These jobs may come from IT or engineering, or live directly in the business function itself. They’ll be called different things depending on the company, and in some sense it’s the future of software engineering that you’ll see a huge growth of in non-tech companies.
+
+Most companies will have to be hiring for this now or in the future, and it’s another example of the kind of new jobs that will be created in AI.
 
 Bio: ceo @box - your business lives in content. unleash it with AI
-❤️ 278  🔁 38</description>
-      <pubDate>Mon, 20 Apr 2026 03:23:44 +0000</pubDate>
+❤️ 499  🔁 59</description>
+      <pubDate>Tue, 21 Apr 2026 01:17:14 +0000</pubDate>
     </item>
     <item>
-      <title>Garry Tan (@garrytan): GStack works great inside your OpenClaw/Hermes... and where it was designed to be used, inside Claud...</title>
-      <link>https://x.com/garrytan/status/2046097200292511968</link>
-      <guid isPermaLink="true">https://x.com/garrytan/status/2046097200292511968</guid>
-      <description>GStack works great inside your OpenClaw/Hermes... and where it was designed to be used, inside Claude Code too.
+      <title>Ryo Lu (@ryolu_): we love a clean start https://t.co/QgFKXyZZEI</title>
+      <link>https://x.com/ryolu_/status/2046246973783859559</link>
+      <guid isPermaLink="true">https://x.com/ryolu_/status/2046246973783859559</guid>
+      <description>we love a clean start https://t.co/QgFKXyZZEI
 
-https://t.co/VPvWDzV5c0
+Bio: Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.
+❤️ 185  🔁 2</description>
+      <pubDate>Mon, 20 Apr 2026 15:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Garry Tan (@garrytan): All of these people need to start startups at Y Combinator https://t.co/RY70TxT5US</title>
+      <link>https://x.com/garrytan/status/2046465101759500767</link>
+      <guid isPermaLink="true">https://x.com/garrytan/status/2046465101759500767</guid>
+      <description>All of these people need to start startups at Y Combinator https://t.co/RY70TxT5US
 
 Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-❤️ 14  🔁 1</description>
-      <pubDate>Mon, 20 Apr 2026 05:22:41 +0000</pubDate>
+❤️ 116  🔁 0</description>
+      <pubDate>Tue, 21 Apr 2026 05:44:36 +0000</pubDate>
     </item>
     <item>
-      <title>Garry Tan (@garrytan): When I run across needs inside my OpenClaw or in my regular usage, I just have Claude Code make it, ...</title>
-      <link>https://x.com/garrytan/status/2046097059057651941</link>
-      <guid isPermaLink="true">https://x.com/garrytan/status/2046097059057651941</guid>
-      <description>When I run across needs inside my OpenClaw or in my regular usage, I just have Claude Code make it, and then I release it open source
+      <title>Garry Tan (@garrytan): I wrote my friend @chrysb a quick note on how to implement GBrain style migrations for people who up...</title>
+      <link>https://x.com/garrytan/status/2046464315918864385</link>
+      <guid isPermaLink="true">https://x.com/garrytan/status/2046464315918864385</guid>
+      <description>I wrote my friend @chrysb a quick note on how to implement GBrain style migrations for people who upgrade to new GBrain versions and want their setups to stay in sync as the core setup changes
 
-This is GStack v1.4 - with a new /make-pdf skill 
+This is for Alphaclaw but I think could be for any plugin or layer in the OpenClaw/Hermes ecosystem 
 
-It works great with OpenClaw/Hermes as a tool. https://t.co/XgPejzWpoS
+https://t.co/5GrG5RWfCH
 
 Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-❤️ 90  🔁 7</description>
-      <pubDate>Mon, 20 Apr 2026 05:22:08 +0000</pubDate>
+❤️ 37  🔁 2</description>
+      <pubDate>Tue, 21 Apr 2026 05:41:29 +0000</pubDate>
     </item>
     <item>
-      <title>Garry Tan (@garrytan): You've got to tell your OpenClaw to implement it to replace crons and subgents to the extent it can....</title>
-      <link>https://x.com/garrytan/status/2046062819322610009</link>
-      <guid isPermaLink="true">https://x.com/garrytan/status/2046062819322610009</guid>
-      <description>You've got to tell your OpenClaw to implement it to replace crons and subgents to the extent it can. That's the best hack I am using myself for now, but hopefully can get this fixed with better plugin APIs soon
+      <title>Garry Tan (@garrytan): Someone figured out my secret 👀 https://t.co/jWLX6F30GQ</title>
+      <link>https://x.com/garrytan/status/2046459740210036938</link>
+      <guid isPermaLink="true">https://x.com/garrytan/status/2046459740210036938</guid>
+      <description>Someone figured out my secret 👀 https://t.co/jWLX6F30GQ
 
 Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-❤️ 17  🔁 0</description>
-      <pubDate>Mon, 20 Apr 2026 03:06:04 +0000</pubDate>
+❤️ 114  🔁 2</description>
+      <pubDate>Tue, 21 Apr 2026 05:23:18 +0000</pubDate>
     </item>
     <item>
-      <title>Matt Turck (@mattturck): Yes VCs should do more due diligence but first software went serverless and now it’s becoming headle...</title>
-      <link>https://x.com/mattturck/status/2045987462409826604</link>
-      <guid isPermaLink="true">https://x.com/mattturck/status/2045987462409826604</guid>
-      <description>Yes VCs should do more due diligence but first software went serverless and now it’s becoming headless so there’s not much left to look at, really
+      <title>Matt Turck (@mattturck): One head-scratching idea that gets repeated endlessly: the new TAM for AI is the size of the human l...</title>
+      <link>https://x.com/mattturck/status/2046284478151086178</link>
+      <guid isPermaLink="true">https://x.com/mattturck/status/2046284478151086178</guid>
+      <description>One head-scratching idea that gets repeated endlessly: the new TAM for AI is the size of the human labor market, dollar-for-dollar.  Many trillions!
+
+Just for like any labor automation technology in history, the price of AI services will be the marginal cost + a normal margin.
 
 Bio: VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
-❤️ 51  🔁 0</description>
-      <pubDate>Sun, 19 Apr 2026 22:06:38 +0000</pubDate>
+❤️ 16  🔁 0</description>
+      <pubDate>Mon, 20 Apr 2026 17:46:52 +0000</pubDate>
     </item>
     <item>
-      <title>Matt Turck (@mattturck): When you ask Claude to evaluate a potential investment and it replies “cute, just not as good as me”...</title>
-      <link>https://x.com/mattturck/status/2045909221997224000</link>
-      <guid isPermaLink="true">https://x.com/mattturck/status/2045909221997224000</guid>
-      <description>When you ask Claude to evaluate a potential investment and it replies “cute, just not as good as me” lol https://t.co/HL1aByBAoj
+      <title>Zara Zhang (@zarazhangrui): Agents speak HTML as their native language
 
-Bio: VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
-❤️ 17  🔁 0</description>
-      <pubDate>Sun, 19 Apr 2026 16:55:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zara Zhang (@zarazhangrui): As AI gets more capable, product teams should spend more time on external communication (talking to ...</title>
-      <link>https://x.com/zarazhangrui/status/2045810170245386713</link>
-      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2045810170245386713</guid>
-      <description>As AI gets more capable, product teams should spend more time on external communication (talking to users, customers, etc) than internal communication
+Let agents express themselves in their native language
 
-1. Figuring out “what” to build will be a lot more important than building it. Getting this right requires sparks of inspiration that strike when you talk to external people, esp those who are every different from you. Since AI is very good at implementing solutions, humans should focus on understanding the PROBLEM
+...</title>
+      <link>https://x.com/zarazhangrui/status/2046454622852657264</link>
+      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2046454622852657264</guid>
+      <description>Agents speak HTML as their native language
 
-2. Teams will be a lot smaller, so internal communication overhead will decrease dramatically. Teams that work extensively with agents are already seeing a huge decrease in the number of internal meetings &amp; coordination work 
+Let agents express themselves in their native language
 
-3. I’m seeing a more dramatic version of this with some of my indie entrepreneur friends: they spend all day talking to customers, and then just dump the recordings at their agents who will figure out what to do and handle the execution
+(for similar reasons, agents produce much better looking slides in HTML than in XML) https://t.co/vGAPawGNgu
 
 Bio: Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
-❤️ 146  🔁 12</description>
-      <pubDate>Sun, 19 Apr 2026 10:22:08 +0000</pubDate>
+❤️ 34  🔁 0</description>
+      <pubDate>Tue, 21 Apr 2026 05:02:58 +0000</pubDate>
     </item>
     <item>
-      <title>Nikunj Kothari (@nikunj): Cybersecurity companies are going to be worth a lot.. the pace of attacks is only going to increase ...</title>
-      <link>https://x.com/nikunj/status/2046007615512256624</link>
-      <guid isPermaLink="true">https://x.com/nikunj/status/2046007615512256624</guid>
-      <description>Cybersecurity companies are going to be worth a lot.. the pace of attacks is only going to increase as model capabilities improve. 
+      <title>Nikunj Kothari (@nikunj): This is easily the best podcast episode I’ve heard this year..
 
-Humans will continue to be the primary vector of attack - and we haven’t seen anything yet.
+Genuine, kind, authentic. Absolutely...</title>
+      <link>https://x.com/nikunj/status/2046465709438582945</link>
+      <guid isPermaLink="true">https://x.com/nikunj/status/2046465709438582945</guid>
+      <description>This is easily the best podcast episode I’ve heard this year..
 
-Hugops to all the infra providers 🫡
+Genuine, kind, authentic. Absolutely incredible storytelling.
+
+I aspire to have the range of stories that @JaredBWeinstein shared on the pod. 
+
+@jacksondahl &amp;amp; @DialecticPod always crush but this was special 👏 https://t.co/EGzdrhzwKE
 
 Bio: partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-❤️ 79  🔁 7</description>
-      <pubDate>Sun, 19 Apr 2026 23:26:43 +0000</pubDate>
+❤️ 20  🔁 2</description>
+      <pubDate>Tue, 21 Apr 2026 05:47:01 +0000</pubDate>
     </item>
     <item>
-      <title>Nikunj Kothari (@nikunj): To all my future incoming DMs - yes this a subtweet of myself. And yes, I’m going to stop using it 😆</title>
-      <link>https://x.com/nikunj/status/2045910252760285615</link>
-      <guid isPermaLink="true">https://x.com/nikunj/status/2045910252760285615</guid>
-      <description>To all my future incoming DMs - yes this a subtweet of myself. And yes, I’m going to stop using it 😆
+      <title>Nikunj Kothari (@nikunj): Every Indian in the US is T-3 hours away from their parents waking up, reading the news and messagin...</title>
+      <link>https://x.com/nikunj/status/2046373243070939360</link>
+      <guid isPermaLink="true">https://x.com/nikunj/status/2046373243070939360</guid>
+      <description>Every Indian in the US is T-3 hours away from their parents waking up, reading the news and messaging them “why are you not the ceo of Apple huh”
 
 Bio: partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-❤️ 7  🔁 0</description>
-      <pubDate>Sun, 19 Apr 2026 16:59:50 +0000</pubDate>
+❤️ 130  🔁 2</description>
+      <pubDate>Mon, 20 Apr 2026 23:39:35 +0000</pubDate>
     </item>
     <item>
-      <title>Nikunj Kothari (@nikunj): Find someone who loves you as much as a VC who loves the word “fiduciary duty”</title>
-      <link>https://x.com/nikunj/status/2045909979228762426</link>
-      <guid isPermaLink="true">https://x.com/nikunj/status/2045909979228762426</guid>
-      <description>Find someone who loves you as much as a VC who loves the word “fiduciary duty”
+      <title>Peter Steinberger (@steipete): 🗃️ wacli 0.6.0 is out!
 
-Bio: partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-❤️ 23  🔁 1</description>
-      <pubDate>Sun, 19 Apr 2026 16:58:44 +0000</pubDate>
+Big security + reliability sweep for WhatsApp CLI.    Hardens SQLite/store p...</title>
+      <link>https://x.com/steipete/status/2046375922031321401</link>
+      <guid isPermaLink="true">https://x.com/steipete/status/2046375922031321401</guid>
+      <description>🗃️ wacli 0.6.0 is out!
+
+Big security + reliability sweep for WhatsApp CLI.    Hardens SQLite/store path handling, sanitizes search queries, recovers sync/media panics, adds WACLI_STORE_DIR, and improves SIGINT exits. https://t.co/VabuMQgps5
+
+ props @sdinakar7 for doing the work!
+
+Bio: Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
+❤️ 149  🔁 17</description>
+      <pubDate>Mon, 20 Apr 2026 23:50:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Peter Steinberger (@steipete): 🧭 gog 0.13 is out!
+
+Gmail forwarding with notes + attachments, autoreplies, full-body search, Markdo...</title>
+      <link>https://x.com/steipete/status/2046356596683411924</link>
+      <guid isPermaLink="true">https://x.com/steipete/status/2046356596683411924</guid>
+      <description>🧭 gog 0.13 is out!
+
+Gmail forwarding with notes + attachments, autoreplies, full-body search, Markdown uploads to Google Docs, rendered Slides thumbnails, Sheets chart editing, secondary calendars, commenter-only Drive shares, and safer no-send controls. https://t.co/7nQoJaa0Ti
+
+Bio: Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
+❤️ 702  🔁 41</description>
+      <pubDate>Mon, 20 Apr 2026 22:33:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Peter Steinberger (@steipete): Kudos to the folks from Tencent for working with us and providing evals to improve OpenClaw's harnes...</title>
+      <link>https://x.com/steipete/status/2046259696722465113</link>
+      <guid isPermaLink="true">https://x.com/steipete/status/2046259696722465113</guid>
+      <description>Kudos to the folks from Tencent for working with us and providing evals to improve OpenClaw's harness performance!
+
+We're also working with them to bring fixes/improvements back to the open source repo. 
+
+Great option for folks not comfortable with the terminal. https://t.co/sbmx7CMLB7
+
+Bio: Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
+❤️ 1051  🔁 71</description>
+      <pubDate>Mon, 20 Apr 2026 16:08:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dan Shipper (@danshipper): media is cool again! https://t.co/bf7HSf4G8n</title>
+      <link>https://x.com/danshipper/status/2046272643133825458</link>
+      <guid isPermaLink="true">https://x.com/danshipper/status/2046272643133825458</guid>
+      <description>media is cool again! https://t.co/bf7HSf4G8n
+
+Bio: ceo @every | the only subscription you need to stay at the edge of AI
+❤️ 52  🔁 1</description>
+      <pubDate>Mon, 20 Apr 2026 16:59:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dan Shipper (@danshipper): two agents are better than one</title>
+      <link>https://x.com/danshipper/status/2046231280430240141</link>
+      <guid isPermaLink="true">https://x.com/danshipper/status/2046231280430240141</guid>
+      <description>two agents are better than one
+
+Bio: ceo @every | the only subscription you need to stay at the edge of AI
+❤️ 91  🔁 3</description>
+      <pubDate>Mon, 20 Apr 2026 14:15:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dan Shipper (@danshipper): Opus 4.7 does good code reviews</title>
+      <link>https://x.com/danshipper/status/2046224034619125871</link>
+      <guid isPermaLink="true">https://x.com/danshipper/status/2046224034619125871</guid>
+      <description>Opus 4.7 does good code reviews
+
+Bio: ceo @every | the only subscription you need to stay at the edge of AI
+❤️ 86  🔁 1</description>
+      <pubDate>Mon, 20 Apr 2026 13:46:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sam Altman (@sama): Tim Cook is a legend.
+
+I am very thankful for everything he has done and I am very thankful for Appl...</title>
+      <link>https://x.com/sama/status/2046330825265086712</link>
+      <guid isPermaLink="true">https://x.com/sama/status/2046330825265086712</guid>
+      <description>Tim Cook is a legend.
+
+I am very thankful for everything he has done and I am very thankful for Apple.
+
+Bio: AI is cool i guess
+❤️ 28528  🔁 1510</description>
+      <pubDate>Mon, 20 Apr 2026 20:51:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sam Altman (@sama): The internal working name for this was "telepathy", and it feels like it. https://t.co/9LAUTaaYAe</title>
+      <link>https://x.com/sama/status/2046330082726384051</link>
+      <guid isPermaLink="true">https://x.com/sama/status/2046330082726384051</guid>
+      <description>The internal working name for this was "telepathy", and it feels like it. https://t.co/9LAUTaaYAe
+
+Bio: AI is cool i guess
+❤️ 2436  🔁 99</description>
+      <pubDate>Mon, 20 Apr 2026 20:48:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude (@claudeai): Available now on all paid plans.
+
+Update or download the Claude app to try it in Cowork: https://t.c...</title>
+      <link>https://x.com/claudeai/status/2046328622869344429</link>
+      <guid isPermaLink="true">https://x.com/claudeai/status/2046328622869344429</guid>
+      <description>Available now on all paid plans.
+
+Update or download the Claude app to try it in Cowork: https://t.co/hwPB3zlk0w
+
+Bio: Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
+❤️ 550  🔁 12</description>
+      <pubDate>Mon, 20 Apr 2026 20:42:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude (@claudeai): Everything you build is saved to the new Live Artifacts tab, with version history. Come back tomorro...</title>
+      <link>https://x.com/claudeai/status/2046328621611065668</link>
+      <guid isPermaLink="true">https://x.com/claudeai/status/2046328621611065668</guid>
+      <description>Everything you build is saved to the new Live Artifacts tab, with version history. Come back tomorrow or next month, from any session, and pick up where you left off.
+
+Bio: Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
+❤️ 872  🔁 18</description>
+      <pubDate>Mon, 20 Apr 2026 20:42:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude (@claudeai): In Cowork, Claude can now build live artifacts: dashboards and trackers connected to your apps and f...</title>
+      <link>https://x.com/claudeai/status/2046328619249684989</link>
+      <guid isPermaLink="true">https://x.com/claudeai/status/2046328619249684989</guid>
+      <description>In Cowork, Claude can now build live artifacts: dashboards and trackers connected to your apps and files.
+
+Open one any time and it refreshes with current data. https://t.co/oru97zRn8L
+
+Bio: Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
+❤️ 13018  🔁 872</description>
+      <pubDate>Mon, 20 Apr 2026 20:42:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
