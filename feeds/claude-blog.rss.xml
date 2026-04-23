@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>New connectors in Claude for everyday life</title>
+      <link>https://claude.com/blog/connectors-for-everyday-life</link>
+      <guid isPermaLink="true">https://claude.com/blog/connectors-for-everyday-life</guid>
+      <description>New connectors in Claude for everyday life New connectors in Claude for everyday life</description>
+    </item>
+    <item>
       <title>Building agents that reach production systems with MCP</title>
       <link>https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp</link>
       <guid isPermaLink="true">https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/subagents-in-claude-code</link>
       <guid isPermaLink="true">https://claude.com/blog/subagents-in-claude-code</guid>
       <description>How and when to use subagents in Claude Code How and when to use subagents in Claude Code</description>
-    </item>
-    <item>
-      <title>Harnessing Claude’s intelligence</title>
-      <link>https://claude.com/blog/harnessing-claudes-intelligence</link>
-      <guid isPermaLink="true">https://claude.com/blog/harnessing-claudes-intelligence</guid>
-      <description>Harnessing Claude’s intelligence Harnessing Claude’s intelligence</description>
     </item>
   </channel>
 </rss>
