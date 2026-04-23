@@ -11,6 +11,12 @@
       <description>New connectors in Claude for everyday life New connectors in Claude for everyday life</description>
     </item>
     <item>
+      <title>Built-in memory for Claude Managed Agents</title>
+      <link>https://claude.com/blog/claude-managed-agents-memory</link>
+      <guid isPermaLink="true">https://claude.com/blog/claude-managed-agents-memory</guid>
+      <description>Built-in memory for Claude Managed Agents Built-in memory for Claude Managed Agents</description>
+    </item>
+    <item>
       <title>Building agents that reach production systems with MCP</title>
       <link>https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp</link>
       <guid isPermaLink="true">https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/carta-healthcare-clinical-abstractor</link>
       <guid isPermaLink="true">https://claude.com/blog/carta-healthcare-clinical-abstractor</guid>
       <description>How Carta Healthcare gets AI to reason like a clinical abstractor How Carta Healthcare gets AI to reason like a clinical abstractor</description>
-    </item>
-    <item>
-      <title>How and when to use subagents in Claude Code</title>
-      <link>https://claude.com/blog/subagents-in-claude-code</link>
-      <guid isPermaLink="true">https://claude.com/blog/subagents-in-claude-code</guid>
-      <description>How and when to use subagents in Claude Code How and when to use subagents in Claude Code</description>
     </item>
   </channel>
 </rss>
