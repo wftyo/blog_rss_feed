@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Building agents that reach production systems with MCP</title>
+      <link>https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp</link>
+      <guid isPermaLink="true">https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp</guid>
+      <description>Building agents that reach production systems with MCP Building agents that reach production systems with MCP</description>
+    </item>
+    <item>
       <title>Meet the winners of our Built with Opus 4.6 Claude Code hackathon</title>
       <link>https://claude.com/blog/meet-the-winners-of-our-built-with-opus-4-6-claude-code-hackathon</link>
       <guid isPermaLink="true">https://claude.com/blog/meet-the-winners-of-our-built-with-opus-4-6-claude-code-hackathon</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/harnessing-claudes-intelligence</link>
       <guid isPermaLink="true">https://claude.com/blog/harnessing-claudes-intelligence</guid>
       <description>Harnessing Claude’s intelligence Harnessing Claude’s intelligence</description>
-    </item>
-    <item>
-      <title>Audit Claude Platform activity with the Compliance API</title>
-      <link>https://claude.com/blog/claude-platform-compliance-api</link>
-      <guid isPermaLink="true">https://claude.com/blog/claude-platform-compliance-api</guid>
-      <description>Audit Claude Platform activity with the Compliance API Audit Claude Platform activity with the Compliance API</description>
     </item>
   </channel>
 </rss>
