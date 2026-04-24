@@ -4,20 +4,23 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Thu, 23 Apr 2026 07:48:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 08:00:42 +0000</lastBuildDate>
     <item>
-      <title>[AI &amp; I by Every] The AI Sandwich: Where Humans Excel in an AI World</title>
-      <link>https://www.youtube.com/watch?v=G0LTv8hQ5Cs</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=G0LTv8hQ5Cs</guid>
+      <title>[Unsupervised Learning] Ep 85: Has AI Infra Stabilized, FM Vibe Shift, &amp;amp; What&amp;apos;s Next for Coding Agents</title>
+      <link>https://www.youtube.com/@RedpointAI</link>
+      <guid isPermaLink="true">https://www.youtube.com/@RedpointAI</guid>
       <description>Speaker 1 | 00:00 - 00:03
-Humans are the bread in the sandwich, and the AI is in the middle.
+Isn't that crazy? That number is just mind boggling.
 
-Speaker 2 | 00:03 - 00:24
-AI is whatever you put on your sandwich. If you ship something or do something, if you want it to be your own, you cannot fully automate everything. It's like art. If you want it your own, it needs to be from you or somehow be connected. So I believe it's so important to do things you enjoy and you love.
+Speaker 2 | 00:03 - 00:06
+What is the state of the AI coding wars today?
 
-Speaker 2 | 00:25 - 00:40
-And it's very important to make it feel great b...</description>
-      <pubDate>Wed, 22 Apr 2026 18:53:47 +0000</pubDate>
+Speaker 1 | 00:06 - 00:16
+We're in a phase of sort of, like, capability exploration. The general thesis that I have been pursuing now is that the same way that 2025 was a year of coding agents, 2026 is coding agents breaking containment, do everything else.
+
+Speaker 2 | 00:16 - 00:21
+Do you worry about the foundation models just eating into a b...</description>
+      <pubDate>Thu, 23 Apr 2026 13:00:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
