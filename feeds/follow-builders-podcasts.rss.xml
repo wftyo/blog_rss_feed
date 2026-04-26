@@ -4,14 +4,14 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Sat, 25 Apr 2026 07:12:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 07:25:39 +0000</lastBuildDate>
     <item>
-      <title>[No Priors] SAP: Bringing the ‘Operating System’ of a Company into the AI Era with CTO Philipp Herzig</title>
-      <link>https://www.youtube.com/watch?v=5u7AjPardvo</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=5u7AjPardvo</guid>
-      <description>Speaker 1 | 00:05 - 00:37
-Hey, listeners. Welcome back to No Priors. Today, I'm here with Filip Herzig, the CTO of SAP, the enterprise juggernaut. We talk about their AI strategy, why SAP has endured and thrived through several technology transitions, why entrepreneurs are underestimating the challenges of scale, why AI is a business model transition, not just a technology transition, why he thinks that LMs are not enough for predictive analytics and even about the traveling salesman problem in ...</description>
-      <pubDate>Thu, 23 Apr 2026 10:00:00 +0000</pubDate>
+      <title>[No Priors] Scaling Global Organizations in the Age of AI with ServiceNow CEO Bill McDermott</title>
+      <link>https://www.youtube.com/watch?v=tNNFJa5pUEg</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=tNNFJa5pUEg</guid>
+      <description>Speaker 1 | 00:00 - 00:40
+The cost to replace an enterprise platform in this SaaS apocalypse that people talk about is an extraordinary expense. Let's take that cost, and then let's take the cost associated with the human capital doing that instead of something else because the platform was doing the work for you. And then let's add up the cost of the GPU factory and the tokens that will materially affect their business model. And so for a simple application on our platform, it would be 10 times...</description>
+      <pubDate>Fri, 17 Apr 2026 20:44:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
