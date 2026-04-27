@@ -4,14 +4,20 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Sun, 26 Apr 2026 07:25:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 08:20:47 +0000</lastBuildDate>
     <item>
-      <title>[No Priors] Scaling Global Organizations in the Age of AI with ServiceNow CEO Bill McDermott</title>
-      <link>https://www.youtube.com/watch?v=tNNFJa5pUEg</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=tNNFJa5pUEg</guid>
-      <description>Speaker 1 | 00:00 - 00:40
-The cost to replace an enterprise platform in this SaaS apocalypse that people talk about is an extraordinary expense. Let's take that cost, and then let's take the cost associated with the human capital doing that instead of something else because the platform was doing the work for you. And then let's add up the cost of the GPU factory and the tokens that will materially affect their business model. And so for a simple application on our platform, it would be 10 times...</description>
-      <pubDate>Fri, 17 Apr 2026 20:44:00 +0000</pubDate>
+      <title>[AI &amp; I by Every] The AI Model Built for What LLMs Can't Do</title>
+      <link>https://www.youtube.com/watch?v=Q-i8ZSUCtIc</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=Q-i8ZSUCtIc</guid>
+      <description>Speaker 1 | 00:00 - 00:01
+Can you define EBM for us?
+
+Speaker 2 | 00:01 - 00:20
+EBMs are naturally non autoregressive. There are no sequences of tokens, and that's what makes it fundamentally different. Like, imagine you're trying to navigate the map, and you have a left brain. To navigate, you're sort of allowed to choose one direction of the time. And sometimes you take the wrong turns just because you hallucinate.
+
+Speaker 2 | 00:20 - 00:34
+Like, there might be a hole in the road and you're j...</description>
+      <pubDate>Wed, 15 Apr 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
