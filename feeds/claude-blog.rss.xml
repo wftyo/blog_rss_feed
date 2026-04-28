@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Onboarding Claude Code like a new developer: Lessons from 17 years of development</title>
+      <link>https://claude.com/blog/onboarding-claude-code-like-a-new-developer-lessons-from-17-years-of-development</link>
+      <guid isPermaLink="true">https://claude.com/blog/onboarding-claude-code-like-a-new-developer-lessons-from-17-years-of-development</guid>
+      <description>Onboarding Claude Code like a new developer: Lessons from 17 years of development Onboarding Claude Code like a new developer: Lessons from 17 years of development</description>
+    </item>
+    <item>
       <title>New connectors in Claude for everyday life</title>
       <link>https://claude.com/blog/connectors-for-everyday-life</link>
       <guid isPermaLink="true">https://claude.com/blog/connectors-for-everyday-life</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/claude-managed-agents</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-managed-agents</guid>
       <description>Claude Managed Agents: get to production 10x faster Claude Managed Agents: get to production 10x faster</description>
-    </item>
-    <item>
-      <title>How Carta Healthcare gets AI to reason like a clinical abstractor</title>
-      <link>https://claude.com/blog/carta-healthcare-clinical-abstractor</link>
-      <guid isPermaLink="true">https://claude.com/blog/carta-healthcare-clinical-abstractor</guid>
-      <description>How Carta Healthcare gets AI to reason like a clinical abstractor How Carta Healthcare gets AI to reason like a clinical abstractor</description>
     </item>
   </channel>
 </rss>
