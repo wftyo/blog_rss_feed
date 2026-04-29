@@ -5,6 +5,18 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Deploying Claude across the enterprise with Claude Cowork</title>
+      <link>https://claude.com/blog/new-guide-deploying-claude-across-the-enterprise-with-claude-cowork</link>
+      <guid isPermaLink="true">https://claude.com/blog/new-guide-deploying-claude-across-the-enterprise-with-claude-cowork</guid>
+      <description>Deploying Claude across the enterprise with Claude Cowork Deploying Claude across the enterprise with Claude Cowork</description>
+    </item>
+    <item>
+      <title>Claude API skill now in CodeRabbit, JetBrains, Resolve AI, and Warp</title>
+      <link>https://claude.com/blog/claude-api-skill</link>
+      <guid isPermaLink="true">https://claude.com/blog/claude-api-skill</guid>
+      <description>Claude API skill now in CodeRabbit, JetBrains, Resolve AI, and Warp Claude API skill now in CodeRabbit, JetBrains, Resolve AI, and Warp</description>
+    </item>
+    <item>
       <title>Product development in the agentic era</title>
       <link>https://claude.com/blog/product-development-in-the-agentic-era</link>
       <guid isPermaLink="true">https://claude.com/blog/product-development-in-the-agentic-era</guid>
@@ -81,18 +93,6 @@
       <link>https://claude.com/blog/multi-agent-coordination-patterns</link>
       <guid isPermaLink="true">https://claude.com/blog/multi-agent-coordination-patterns</guid>
       <description>Multi-agent coordination patterns: Five approaches and when to use them Multi-agent coordination patterns: Five approaches and when to use them</description>
-    </item>
-    <item>
-      <title>The advisor strategy: Give agents an intelligence boost</title>
-      <link>https://claude.com/blog/the-advisor-strategy</link>
-      <guid isPermaLink="true">https://claude.com/blog/the-advisor-strategy</guid>
-      <description>The advisor strategy: Give agents an intelligence boost The advisor strategy: Give agents an intelligence boost</description>
-    </item>
-    <item>
-      <title>Making Claude Cowork ready for enterprise</title>
-      <link>https://claude.com/blog/cowork-for-enterprise</link>
-      <guid isPermaLink="true">https://claude.com/blog/cowork-for-enterprise</guid>
-      <description>Making Claude Cowork ready for enterprise Making Claude Cowork ready for enterprise</description>
     </item>
   </channel>
 </rss>
