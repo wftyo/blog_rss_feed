@@ -5,10 +5,16 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
-      <title>Deploying Claude across the enterprise with Claude Cowork</title>
+      <title>Claude Security is now in public beta</title>
+      <link>https://claude.com/blog/claude-security-public-beta</link>
+      <guid isPermaLink="true">https://claude.com/blog/claude-security-public-beta</guid>
+      <description>Claude Security is now in public beta Claude Security is now in public beta</description>
+    </item>
+    <item>
+      <title>Deploying agentic AI across the enterprise with Claude Cowork</title>
       <link>https://claude.com/blog/new-guide-deploying-claude-across-the-enterprise-with-claude-cowork</link>
       <guid isPermaLink="true">https://claude.com/blog/new-guide-deploying-claude-across-the-enterprise-with-claude-cowork</guid>
-      <description>Deploying Claude across the enterprise with Claude Cowork Deploying Claude across the enterprise with Claude Cowork</description>
+      <description>Deploying agentic AI across the enterprise with Claude Cowork Deploying agentic AI across the enterprise with Claude Cowork</description>
     </item>
     <item>
       <title>Claude API skill now in CodeRabbit, JetBrains, Resolve AI, and Warp</title>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/seeing-like-an-agent</link>
       <guid isPermaLink="true">https://claude.com/blog/seeing-like-an-agent</guid>
       <description>Seeing like an agent: how we design tools in Claude Code Seeing like an agent: how we design tools in Claude Code</description>
-    </item>
-    <item>
-      <title>Multi-agent coordination patterns: Five approaches and when to use them</title>
-      <link>https://claude.com/blog/multi-agent-coordination-patterns</link>
-      <guid isPermaLink="true">https://claude.com/blog/multi-agent-coordination-patterns</guid>
-      <description>Multi-agent coordination patterns: Five approaches and when to use them Multi-agent coordination patterns: Five approaches and when to use them</description>
     </item>
   </channel>
 </rss>
