@@ -4,6 +4,19 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Wed, 29 Apr 2026 08:13:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 08:18:30 +0000</lastBuildDate>
+    <item>
+      <title>[AI &amp; I by Every] How Stripe Is Building for an Agent-native World</title>
+      <link>https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL</link>
+      <guid isPermaLink="true">https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL</guid>
+      <description>Speaker 1 | 00:00 - 00:29
+The Internet has this new kind of actor on it. Over time, this actor, these agents will become the predominant actors on the Internet. These AI companies are just growing from a revenue perspective faster than any previous cohort we've seen. LLM traffic to Stripe Docs is up 10 x year over year. And that's just a useful signal that machines are becoming users of developer infrastructure too, including Stripe's developer infrastructure.
+
+Speaker 1 | 00:33 - 00:33
+Signal
+
+...</description>
+      <pubDate>Wed, 29 Apr 2026 15:23:55 +0000</pubDate>
+    </item>
   </channel>
 </rss>
