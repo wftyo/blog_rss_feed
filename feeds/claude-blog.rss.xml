@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>How a non-technical project manager built and shipped a stress management app with Claude Code in six weeks</title>
+      <link>https://claude.com/blog/how-a-non-technical-project-manager-built-and-shipped-a-stress-management-app-with-claude-code-in-six-weeks</link>
+      <guid isPermaLink="true">https://claude.com/blog/how-a-non-technical-project-manager-built-and-shipped-a-stress-management-app-with-claude-code-in-six-weeks</guid>
+      <description>How a non-technical project manager built and shipped a stress management app with Claude Code in six weeks How a non-technical project manager built and shipped a stress management app with Claude Code in six weeks</description>
+    </item>
+    <item>
       <title>Building AI agents for the enterprise</title>
       <link>https://claude.com/blog/building-ai-agents-for-the-enterprise</link>
       <guid isPermaLink="true">https://claude.com/blog/building-ai-agents-for-the-enterprise</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/using-claude-code-session-management-and-1m-context</link>
       <guid isPermaLink="true">https://claude.com/blog/using-claude-code-session-management-and-1m-context</guid>
       <description>Using Claude Code: session management and 1M context Using Claude Code: session management and 1M context</description>
-    </item>
-    <item>
-      <title>Redesigning Claude Code on desktop for parallel agents</title>
-      <link>https://claude.com/blog/claude-code-desktop-redesign</link>
-      <guid isPermaLink="true">https://claude.com/blog/claude-code-desktop-redesign</guid>
-      <description>Redesigning Claude Code on desktop for parallel agents Redesigning Claude Code on desktop for parallel agents</description>
     </item>
   </channel>
 </rss>
