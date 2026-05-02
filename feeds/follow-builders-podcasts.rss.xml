@@ -4,23 +4,23 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Fri, 01 May 2026 08:09:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 07:41:05 +0000</lastBuildDate>
     <item>
-      <title>[Training Data] Demis Hassabis on Building DeepMind, AlphaFold, and the Final Stretch to AGI</title>
-      <link>https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8</link>
-      <guid isPermaLink="true">https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8</guid>
-      <description>Speaker 1 | 00:02 - 00:06
-Dennis, thank you so much. Exciting to be here. Thanks everyone for coming. It's great to be here.
+      <title>[No Priors] Baseten CEO Tuhin Srivastava on the AI Inference Crunch, Custom Models, and Building the Inference Cloud</title>
+      <link>https://www.youtube.com/watch?v=XAbKflCncDo</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=XAbKflCncDo</guid>
+      <description>Speaker 1 | 00:05 - 00:28
+Hi, listeners. Today, Elad and I are here with Tuhin Srivastava, the founder and CEO of Base10, inference cloud. We're here to talk about capacity constraints for AI compute, why inference is the last market, how the workload is changing, the open source and perhaps multi chip future, and what 30x scale in a year looks like. Tuhin, welcome back.
 
-Speaker 2 | 00:06 - 00:09
-We're so honored to have you at our chocolate factory.
+Speaker 2 | 00:28 - 00:30
+Hi. Good to see you.
 
-Speaker 1 | 00:09 - 00:13
-Yes, I just heard about that. Looking forward to the chocolate afterwards.
+Speaker 3 | 00:30 - 00:31
+Thanks for having me.
 
-Speaker 2 | 00:13 - 00:36
-Excellent. Well, Dennis, we're going to jump right in. We have one of the OGs in every way, original thinkers, founders, visionaries, and all things AI. A true beli...</description>
-      <pubDate>Thu, 30 Apr 2026 17:12:00 +0000</pubDate>
+Speaker 1 | 00:31 - 00:41
+Al...</description>
+      <pubDate>Fri, 01 May 2026 19:34:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
