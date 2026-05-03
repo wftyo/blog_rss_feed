@@ -4,23 +4,23 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Sat, 02 May 2026 07:41:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 07:59:37 +0000</lastBuildDate>
     <item>
-      <title>[No Priors] Baseten CEO Tuhin Srivastava on the AI Inference Crunch, Custom Models, and Building the Inference Cloud</title>
-      <link>https://www.youtube.com/watch?v=XAbKflCncDo</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=XAbKflCncDo</guid>
-      <description>Speaker 1 | 00:05 - 00:28
-Hi, listeners. Today, Elad and I are here with Tuhin Srivastava, the founder and CEO of Base10, inference cloud. We're here to talk about capacity constraints for AI compute, why inference is the last market, how the workload is changing, the open source and perhaps multi chip future, and what 30x scale in a year looks like. Tuhin, welcome back.
+      <title>[Training Data] OpenAI's Greg Brockman: Why Human Attention Is the New Bottleneck</title>
+      <link>https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8</link>
+      <guid isPermaLink="true">https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8</guid>
+      <description>Speaker 1 | 00:02 - 00:24
+So Greg, thank you for coming back here. I don't think we ever charge you for rent. So maybe I'll send you an invoice later. But Greg, you've been part of like two really spectacular companies, Stripe as employee number four and then the first CTO. I just recently heard that they process 1,600,000,000, sorry, 1.6% of the global GDP.
 
-Speaker 2 | 00:28 - 00:30
-Hi. Good to see you.
+Speaker 1 | 00:24 - 00:25
+You must be proud of that.
 
-Speaker 3 | 00:30 - 00:31
-Thanks for having me.
+Speaker 2 | 00:25 - 00:26
+That's amazing.
 
-Speaker 1 | 00:31 - 00:41
-Al...</description>
-      <pubDate>Fri, 01 May 2026 19:34:00 +0000</pubDate>
+Speaker 1 | 00:26 - 00:34
+You must be eve...</description>
+      <pubDate>Fri, 01 May 2026 18:32:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
