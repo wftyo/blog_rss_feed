@@ -4,23 +4,14 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Sun, 03 May 2026 07:59:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 08:27:08 +0000</lastBuildDate>
     <item>
-      <title>[Training Data] OpenAI's Greg Brockman: Why Human Attention Is the New Bottleneck</title>
+      <title>[Training Data] Andrej Karpathy: From Vibe Coding to Agentic Engineering</title>
       <link>https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8</link>
       <guid isPermaLink="true">https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8</guid>
-      <description>Speaker 1 | 00:02 - 00:24
-So Greg, thank you for coming back here. I don't think we ever charge you for rent. So maybe I'll send you an invoice later. But Greg, you've been part of like two really spectacular companies, Stripe as employee number four and then the first CTO. I just recently heard that they process 1,600,000,000, sorry, 1.6% of the global GDP.
-
-Speaker 1 | 00:24 - 00:25
-You must be proud of that.
-
-Speaker 2 | 00:25 - 00:26
-That's amazing.
-
-Speaker 1 | 00:26 - 00:34
-You must be eve...</description>
-      <pubDate>Fri, 01 May 2026 18:32:00 +0000</pubDate>
+      <description>Speaker 1 | 00:02 - 00:42
+We're so excited for our very first special guest. He has helped build modern AI, then explain modern AI, and then occasionally rename modern AI. He actually helped co found Open AI right inside of this office, was the one who actually got autopilot working at Tesla back in the day and he has a rare gift of making the most complex technical shifts feel both accessible and inevitable. You all know him for having coined the term vibe coding last year, but just in the last...</description>
+      <pubDate>Thu, 30 Apr 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
