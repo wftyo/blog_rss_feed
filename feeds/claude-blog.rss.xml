@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration</title>
+      <link>https://claude.com/blog/new-in-claude-managed-agents</link>
+      <guid isPermaLink="true">https://claude.com/blog/new-in-claude-managed-agents</guid>
+      <description>New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration</description>
+    </item>
+    <item>
       <title>Deploying Claude across financial services</title>
       <link>https://claude.com/blog/deploying-claude-across-financial-services</link>
       <guid isPermaLink="true">https://claude.com/blog/deploying-claude-across-financial-services</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/meet-the-winners-of-our-built-with-opus-4-6-claude-code-hackathon</link>
       <guid isPermaLink="true">https://claude.com/blog/meet-the-winners-of-our-built-with-opus-4-6-claude-code-hackathon</guid>
       <description>Meet the winners of our Built with Opus 4.6 Claude Code hackathon Meet the winners of our Built with Opus 4.6 Claude Code hackathon</description>
-    </item>
-    <item>
-      <title>Best practices for using Claude Opus 4.7 with Claude Code</title>
-      <link>https://claude.com/blog/best-practices-for-using-claude-opus-4-7-with-claude-code</link>
-      <guid isPermaLink="true">https://claude.com/blog/best-practices-for-using-claude-opus-4-7-with-claude-code</guid>
-      <description>Best practices for using Claude Opus 4.7 with Claude Code Best practices for using Claude Opus 4.7 with Claude Code</description>
     </item>
   </channel>
 </rss>
