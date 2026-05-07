@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Collaborate with Claude across Excel, PowerPoint, Word and Outlook</title>
+      <link>https://claude.com/blog/collaborate-with-claude-across-excel-powerpoint-word-and-outlook</link>
+      <guid isPermaLink="true">https://claude.com/blog/collaborate-with-claude-across-excel-powerpoint-word-and-outlook</guid>
+      <description>Collaborate with Claude across Excel, PowerPoint, Word and Outlook Collaborate with Claude across Excel, PowerPoint, Word and Outlook</description>
+    </item>
+    <item>
       <title>New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration</title>
       <link>https://claude.com/blog/new-in-claude-managed-agents</link>
       <guid isPermaLink="true">https://claude.com/blog/new-in-claude-managed-agents</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp</link>
       <guid isPermaLink="true">https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp</guid>
       <description>Building agents that reach production systems with MCP Building agents that reach production systems with MCP</description>
-    </item>
-    <item>
-      <title>Meet the winners of our Built with Opus 4.6 Claude Code hackathon</title>
-      <link>https://claude.com/blog/meet-the-winners-of-our-built-with-opus-4-6-claude-code-hackathon</link>
-      <guid isPermaLink="true">https://claude.com/blog/meet-the-winners-of-our-built-with-opus-4-6-claude-code-hackathon</guid>
-      <description>Meet the winners of our Built with Opus 4.6 Claude Code hackathon Meet the winners of our Built with Opus 4.6 Claude Code hackathon</description>
     </item>
   </channel>
 </rss>
