@@ -4,20 +4,17 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Thu, 07 May 2026 08:48:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 07:59:14 +0000</lastBuildDate>
     <item>
-      <title>[Training Data] Anthropic's Boris Cherny: Coding's Printing Press Moment</title>
-      <link>https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8</link>
-      <guid isPermaLink="true">https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8</guid>
-      <description>Speaker 1 | 00:01 - 00:10
-Okay. I'm excited to introduce our next speaker. Show of hands, who here uses Claude Code? Okay. Show of hands, who here has Claude Code psychosis?
+      <title>[The MAD Podcast with Matt Turck] OpenAI Board Member Zico Kolter on the Real Risks of Frontier AI</title>
+      <link>https://www.youtube.com/watch?v=DvyZcCfepeI</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=DvyZcCfepeI</guid>
+      <description>Speaker 1 | 00:00 - 00:16
+I joined the OpenAI board in 2024. Shortly thereafter, I became chair of the safety and security committee. We can delay model release if we feel that we need to understand that better. If a model is not good enough at something, what do you do? You wait, right?
 
-Speaker 1 | 00:11 - 00:20
-Come on, guys. It's okay. It's okay. My my team lovingly says I have Claude Code psychosis, which may or may not be true. We are delighted to have Boris Cerny with us today.
-
-Speaker 1 | 00:20 - 00:45
-Boris is the creator, the father of Claude Code, and in the process of doing that, has just had a ...</description>
-      <pubDate>Tue, 05 May 2026 09:00:00 +0000</pubDate>
+Speaker 1 | 00:16 - 00:38
+Because the next model will be better at it. So far, we have not seen that same thing happen when it comes to things like the robustness of models. You can't just sort of trust models ...</description>
+      <pubDate>Thu, 07 May 2026 11:30:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
