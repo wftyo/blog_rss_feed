@@ -4,17 +4,20 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Fri, 08 May 2026 07:59:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 08:12:49 +0000</lastBuildDate>
     <item>
-      <title>[The MAD Podcast with Matt Turck] OpenAI Board Member Zico Kolter on the Real Risks of Frontier AI</title>
-      <link>https://www.youtube.com/watch?v=DvyZcCfepeI</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=DvyZcCfepeI</guid>
-      <description>Speaker 1 | 00:00 - 00:16
-I joined the OpenAI board in 2024. Shortly thereafter, I became chair of the safety and security committee. We can delay model release if we feel that we need to understand that better. If a model is not good enough at something, what do you do? You wait, right?
+      <title>[AI &amp; I by Every] The Secrets of Claude's Platform From the Team Who Built It</title>
+      <link>https://www.youtube.com/watch?v=lLypHkIVLqc</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=lLypHkIVLqc</guid>
+      <description>Speaker 1 | 00:00 - 00:03
+A year from now, where do you think the platform will be?
 
-Speaker 1 | 00:16 - 00:38
-Because the next model will be better at it. So far, we have not seen that same thing happen when it comes to things like the robustness of models. You can't just sort of trust models ...</description>
-      <pubDate>Thu, 07 May 2026 11:30:01 +0000</pubDate>
+Speaker 2 | 00:03 - 00:18
+We wanna experiment with directions where Cloud actually gets so good at understanding itself. It figures out what model you should be using. It figures out how to spin up all the sub agents. You don't have to think so much about what kind architectures are there because Claude is actually able to understand itself enough that it can write itself on the fly.
+
+Speaker 3 | 00:18 - 00:26
+I...</description>
+      <pubDate>Fri, 08 May 2026 20:27:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
