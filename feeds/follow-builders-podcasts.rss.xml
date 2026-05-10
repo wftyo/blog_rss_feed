@@ -4,20 +4,17 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Sat, 09 May 2026 08:12:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 08:22:40 +0000</lastBuildDate>
     <item>
-      <title>[AI &amp; I by Every] The Secrets of Claude's Platform From the Team Who Built It</title>
-      <link>https://www.youtube.com/watch?v=lLypHkIVLqc</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=lLypHkIVLqc</guid>
-      <description>Speaker 1 | 00:00 - 00:03
-A year from now, where do you think the platform will be?
+      <title>[Training Data] ElevenLabs' Mati Staniszewski: How Voice Becomes the Interface for Everything</title>
+      <link>https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8</link>
+      <guid isPermaLink="true">https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8</guid>
+      <description>Speaker 1 | 00:02 - 00:21
+So I love line charts and bar graphs as much as the next guy, probably more. The story of eleven Labs is also interesting from a human perspective, because you started a company with a childhood friend. So maybe take us back to 2022 or earlier and just tell the the human side of the eleven Labs story to start.
 
-Speaker 2 | 00:03 - 00:18
-We wanna experiment with directions where Cloud actually gets so good at understanding itself. It figures out what model you should be using. It figures out how to spin up all the sub agents. You don't have to think so much about what kind architectures are there because Claude is actually able to understand itself enough that it can write itself on the fly.
-
-Speaker 3 | 00:18 - 00:26
-I...</description>
-      <pubDate>Fri, 08 May 2026 20:27:01 +0000</pubDate>
+Speaker 2 | 00:22 - 00:46
+The I have the I have the most luck in the story of eleven Labs because well, it started in 2022. It feels like it started seventeen ye...</description>
+      <pubDate>Fri, 08 May 2026 17:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
