@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Introducing the Claude Platform on AWS</title>
+      <link>https://claude.com/blog/claude-platform-on-aws</link>
+      <guid isPermaLink="true">https://claude.com/blog/claude-platform-on-aws</guid>
+      <description>Introducing the Claude Platform on AWS Introducing the Claude Platform on AWS</description>
+    </item>
+    <item>
       <title>Collaborate with Claude across Excel, PowerPoint, Word and Outlook</title>
       <link>https://claude.com/blog/collaborate-with-claude-across-excel-powerpoint-word-and-outlook</link>
       <guid isPermaLink="true">https://claude.com/blog/collaborate-with-claude-across-excel-powerpoint-word-and-outlook</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/claude-managed-agents-memory</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-managed-agents-memory</guid>
       <description>Built-in memory for Claude Managed Agents Built-in memory for Claude Managed Agents</description>
-    </item>
-    <item>
-      <title>Building agents that reach production systems with MCP</title>
-      <link>https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp</link>
-      <guid isPermaLink="true">https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp</guid>
-      <description>Building agents that reach production systems with MCP Building agents that reach production systems with MCP</description>
     </item>
   </channel>
 </rss>
