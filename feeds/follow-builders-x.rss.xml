@@ -4,14 +4,16 @@
     <title>Follow Builders — X/Twitter</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI builders' latest tweets, curated by follow-builders</description>
-    <lastBuildDate>Sun, 10 May 2026 08:22:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 10:00:12 +0000</lastBuildDate>
     <item>
-      <title>Swyx (@swyx): @VivianBala we will finally show the world how it is done.
-https://t.co/LnSIUvhe4J</title>
-      <link>https://x.com/swyx/status/2053371077477507240</link>
-      <guid isPermaLink="true">https://x.com/swyx/status/2053371077477507240</guid>
-      <description>@VivianBala we will finally show the world how it is done.
-https://t.co/LnSIUvhe4J
+      <title>Swyx (@swyx): on build vs buy saas
+
+cc @levie for corrections https://t.co/tzBlI6dYs2 https://t.co/j7J7irkwIB</title>
+      <link>https://x.com/swyx/status/2053572059767427302</link>
+      <guid isPermaLink="true">https://x.com/swyx/status/2053572059767427302</guid>
+      <description>on build vs buy saas
+
+cc @levie for corrections https://t.co/tzBlI6dYs2 https://t.co/j7J7irkwIB
 
 Bio: achieve ambition with intentionality, intensity, integrity &amp; insanity.
 
@@ -21,344 +23,288 @@ affiliations:
 - @temporalio
 - @aidotengineer
 - @latentspacepod
-❤️ 8  🔁 0</description>
-      <pubDate>Sun, 10 May 2026 07:06:29 +0000</pubDate>
+❤️ 65  🔁 1</description>
+      <pubDate>Sun, 10 May 2026 20:25:07 +0000</pubDate>
     </item>
     <item>
-      <title>Swyx (@swyx): OK I'VE BEEN SO EXCITED i could barely keep this a secret all week and it's finally official
+      <title>Peter Yang (@petergyang): You know what would be a good AI automation:
 
-MY HOM...</title>
-      <link>https://x.com/swyx/status/2053370687931498603</link>
-      <guid isPermaLink="true">https://x.com/swyx/status/2053370687931498603</guid>
-      <description>OK I'VE BEEN SO EXCITED i could barely keep this a secret all week and it's finally official
+When I receive those 10 page weekly newsletters from m...</title>
+      <link>https://x.com/petergyang/status/2053672364681134511</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2053672364681134511</guid>
+      <description>You know what would be a good AI automation:
 
-MY HOME COUNTRY'S MINISTER OF FOREIGN AFFAIRS (equiv to Secretary of State) IS A HUGE NANOCLAW FAN (check @VivianBala, that's really him, not an intern) AND WILL BE KEYNOTING @AIDOTENGINEER SINGAPORE (with NanoClaw creator @Gavriel_Cohen right after) NEXT WEEK
-
-Usecases like his are what I have been hoping to promote with the international AIE partnerships and @agrimsingh and @SherryYanJiang crushed it with this one.
-
-governments waking up to AI and joining @aiDotEngineer:
-
-UK: Chief AI Officer
-Singapore: Cabinet Minister
-
-who's next??
-
-Bio: achieve ambition with intentionality, intensity, integrity &amp; insanity.
-
-affiliations:
-- @dxtipshq 
-- @cognition
-- @temporalio
-- @aidotengineer
-- @latentspacepod
-❤️ 47  🔁 3</description>
-      <pubDate>Sun, 10 May 2026 07:04:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Swyx (@swyx): wondering if @embirico has numbers on what % of codex users use this mode and how much it has gone u...</title>
-      <link>https://x.com/swyx/status/2053364156510982164</link>
-      <guid isPermaLink="true">https://x.com/swyx/status/2053364156510982164</guid>
-      <description>wondering if @embirico has numbers on what % of codex users use this mode and how much it has gone up over the last month
-
-its a decent proxy for alignment/agent adoption https://t.co/rROmu1SezX
-
-Bio: achieve ambition with intentionality, intensity, integrity &amp; insanity.
-
-affiliations:
-- @dxtipshq 
-- @cognition
-- @temporalio
-- @aidotengineer
-- @latentspacepod
-❤️ 10  🔁 0</description>
-      <pubDate>Sun, 10 May 2026 06:38:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kevin Weil (@kevinweil): This a matter of extreme importance (and some of the best writing ever) https://t.co/UGPY5bavza</title>
-      <link>https://x.com/kevinweil/status/2053225351946682733</link>
-      <guid isPermaLink="true">https://x.com/kevinweil/status/2053225351946682733</guid>
-      <description>This a matter of extreme importance (and some of the best writing ever) https://t.co/UGPY5bavza
-
-Bio: VP Science @OpenAI, BoD @Cisco @nature_org, LTC @USArmyReserve
-Ex: Pres @Planet, Head of Product @Instagram @Twitter
-❤️ @elizabeth ultramarathons kids cats math
-❤️ 56  🔁 2</description>
-      <pubDate>Sat, 09 May 2026 21:27:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Peter Yang (@petergyang): Here's a common trap with AI if you're not careful:
-
-1. You ask it to generate some markdown files (...</title>
-      <link>https://x.com/petergyang/status/2053317001976881312</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2053317001976881312</guid>
-      <description>Here's a common trap with AI if you're not careful:
-
-1. You ask it to generate some markdown files (maybe to build some skills). You skim them and they look ok. Sure, there's a bit of slop in there, but you're too lazy to edit them manually.
-
-2. Over time you ask it to generate more markdown files. Except now it's referencing the previous files to write the new ones.
-
-3. What started as 5% slop becomes 10% and then more. Before you know it, you've got a pile of AI-generated slop that feels overwhelming and have no idea how any of it actually works.
-
-🥲
+When I receive those 10 page weekly newsletters from my kid's school I want AI to tell me if there's early dismissal or anything I should pay attention to.
 
 Bio: Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
-❤️ 229  🔁 3</description>
-      <pubDate>Sun, 10 May 2026 03:31:36 +0000</pubDate>
+❤️ 43  🔁 0</description>
+      <pubDate>Mon, 11 May 2026 03:03:41 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Yang (@petergyang): With agents generating md and html files anyone else find themselves too lazy to edit the files manu...</title>
-      <link>https://x.com/petergyang/status/2053196581139321300</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2053196581139321300</guid>
-      <description>With agents generating md and html files anyone else find themselves too lazy to edit the files manually? 
+      <title>Peter Yang (@petergyang): If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides.
 
-All the agent generated files seem good but then always have at least 10% slop in there.
+Join 1...</title>
+      <link>https://x.com/petergyang/status/2053586591822848364</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2053586591822848364</guid>
+      <description>If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides.
 
-Bio: Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
-❤️ 58  🔁 0</description>
-      <pubDate>Sat, 09 May 2026 19:33:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Peter Yang (@petergyang): Sometimes when I message Claude Code it just hangs for 3 minutes and I have no idea whether it's sti...</title>
-      <link>https://x.com/petergyang/status/2053170264121450616</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2053170264121450616</guid>
-      <description>Sometimes when I message Claude Code it just hangs for 3 minutes and I have no idea whether it's still working or not. Wish it communicated more. https://t.co/Fzd7LhLsYK
+Join 110,000+ subscribers here:
+https://t.co/yz9xcsfrhF
 
 Bio: Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
-❤️ 961  🔁 5</description>
-      <pubDate>Sat, 09 May 2026 17:48:31 +0000</pubDate>
+❤️ 1  🔁 1</description>
+      <pubDate>Sun, 10 May 2026 21:22:51 +0000</pubDate>
     </item>
     <item>
-      <title>Guillermo Rauch (@rauchg): 🌞 https://t.co/HeZkO5D25T</title>
-      <link>https://x.com/rauchg/status/2053202932812911027</link>
-      <guid isPermaLink="true">https://x.com/rauchg/status/2053202932812911027</guid>
-      <description>🌞 https://t.co/HeZkO5D25T
+      <title>Peter Yang (@petergyang): Pretty unexpected - what’s the reason? https://t.co/QP4NnjKJWC</title>
+      <link>https://x.com/petergyang/status/2053552061632102402</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2053552061632102402</guid>
+      <description>Pretty unexpected - what’s the reason? https://t.co/QP4NnjKJWC
+
+Bio: Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
+❤️ 799  🔁 25</description>
+      <pubDate>Sun, 10 May 2026 19:05:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thariq (@trq212): I've been using HTML for planning, speccing, exploration, code review, reports and a lot more.
+
+http...</title>
+      <link>https://x.com/trq212/status/2053632475294040084</link>
+      <guid isPermaLink="true">https://x.com/trq212/status/2053632475294040084</guid>
+      <description>I've been using HTML for planning, speccing, exploration, code review, reports and a lot more.
+
+https://t.co/1V3pRFQL5M
+
+Bio: Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab
+❤️ 30  🔁 3</description>
+      <pubDate>Mon, 11 May 2026 00:25:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thariq (@trq212): Jarred tried rewriting Bun in Rust and it passes 99.8% of the existing test suite
+
+we're not being a...</title>
+      <link>https://x.com/trq212/status/2053559397654348159</link>
+      <guid isPermaLink="true">https://x.com/trq212/status/2053559397654348159</guid>
+      <description>Jarred tried rewriting Bun in Rust and it passes 99.8% of the existing test suite
+
+we're not being ambitious enough https://t.co/lGyZj6J1TB
+
+Bio: Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab
+❤️ 1679  🔁 60</description>
+      <pubDate>Sun, 10 May 2026 19:34:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guillermo Rauch (@rauchg): SF calisthenics club https://t.co/taOuWdy0SH</title>
+      <link>https://x.com/rauchg/status/2053613142761206080</link>
+      <guid isPermaLink="true">https://x.com/rauchg/status/2053613142761206080</guid>
+      <description>SF calisthenics club https://t.co/taOuWdy0SH
 
 Bio: @vercel CEO
-❤️ 657  🔁 4</description>
-      <pubDate>Sat, 09 May 2026 19:58:20 +0000</pubDate>
+❤️ 716  🔁 4</description>
+      <pubDate>Sun, 10 May 2026 23:08:22 +0000</pubDate>
     </item>
     <item>
-      <title>Aaron Levie (@levie): For everything we’ve seen about agents so far, it’s clear that they will make it far easier for peop...</title>
-      <link>https://x.com/levie/status/2053267097493573921</link>
-      <guid isPermaLink="true">https://x.com/levie/status/2053267097493573921</guid>
-      <description>For everything we’ve seen about agents so far, it’s clear that they will make it far easier for people to get into previously extremely complicated fields. That will most certainly mean far more people will build software, explore creative work, research spaces they couldn’t do before, and so on. 
+      <title>Guillermo Rauch (@rauchg): Moms are the bedrock of civilization. I’m very thankful to my mom who put herself through engineerin...</title>
+      <link>https://x.com/rauchg/status/2053558741283623308</link>
+      <guid isPermaLink="true">https://x.com/rauchg/status/2053558741283623308</guid>
+      <description>Moms are the bedrock of civilization. I’m very thankful to my mom who put herself through engineering school in Argentina and set the bar so high for her children. Happy Mother’s Day!
 
-Yet, equally, we’ve seen that people with experience in every one of those fields have a huge edge with the right judgment and historical context to leverage these tools in ways that exceed the output of the novices (if they choose to). They know when the agents are making catastrophic mistakes, can give the agents the right context to do the job better than they otherwise would have, and so on. 
+Bio: @vercel CEO
+❤️ 693  🔁 15</description>
+      <pubDate>Sun, 10 May 2026 19:32:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aaron Levie (@levie): As advanced agents move from coding to the rest of knowledge work, it takes a real amount of work an...</title>
+      <link>https://x.com/levie/status/2053672965125140915</link>
+      <guid isPermaLink="true">https://x.com/levie/status/2053672965125140915</guid>
+      <description>As advanced agents move from coding to the rest of knowledge work, it takes a real amount of work and know-how to get right.
 
-The combination of these two facts essentially means that we will continue to get the same lift as we’ve seen in any other technological revolution. More democratization, but similarly greater output from the experts. This then makes the experts continue to be in higher demand because over time our expectation for what we can get out of any field will just go up.
+You need to ensure agents have the right context and data to work with, wire up systems to agents in a safe and secure way, ensure that the agents are producing quality output, design the end-state workflow where and how humans will be in the loop, maintain the agents when there are model and system upgrades, and more. 
 
-This is going to be true in essentially every important field. You’ll trust a lawyer using an agent for legal advice over someone who’s never had to experience how well a contract holds up. You’ll trust an engineer developing and running software over someone who’s never seen a production system. You’ll rely on the important instincts of a designer using agents over the average prompter.
+This isn’t a side project or something you can just do on nights and weekends. You need to design and develop robust agents that will be used in mission critical workflows. It’s a highly technical job, very much akin to a forward deployed engineer for internal functions. 
 
-The quality and volume of output we expect from these functions will certainly go up meaningfully, but the person with experience will always have a leg up, which is why the jobs don’t go away.
+This is why, at Box, we’re starting to hire for AI automation engineering roles. This a technical role that will partner with the business directly and help augment how they work to drive even more output, and deliver better experiences for employees and ultimately customers. 
+
+This is just one example of the kind of role that AI will start to open up in the future. I expect most companies will have many flavors of this going forward.
 
 Bio: ceo @box - your business lives in content. unleash it with AI
-❤️ 321  🔁 41</description>
-      <pubDate>Sun, 10 May 2026 00:13:18 +0000</pubDate>
+❤️ 298  🔁 28</description>
+      <pubDate>Mon, 11 May 2026 03:06:04 +0000</pubDate>
     </item>
     <item>
-      <title>Garry Tan (@garrytan): I like how excited Neuromancer (my Hermes Agent) that it was cited in the GBrain changelog. 
+      <title>Ryo Lu (@ryolu_): link up with people on the internet
+https://t.co/OelJl34Lx9</title>
+      <link>https://x.com/ryolu_/status/2053523744019427416</link>
+      <guid isPermaLink="true">https://x.com/ryolu_/status/2053523744019427416</guid>
+      <description>link up with people on the internet
+https://t.co/OelJl34Lx9
 
-Some r...</title>
-      <link>https://x.com/garrytan/status/2053316036661838107</link>
-      <guid isPermaLink="true">https://x.com/garrytan/status/2053316036661838107</guid>
-      <description>I like how excited Neuromancer (my Hermes Agent) that it was cited in the GBrain changelog. 
+Bio: Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.
+❤️ 2  🔁 1</description>
+      <pubDate>Sun, 10 May 2026 17:13:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ryo Lu (@ryolu_): ryOS now has a IRC bridge to @levelsio’s retro PC
 
-Some real fan energy from the agents. I like it. https://t.co/2I1SXbswsy
+let the worlds connect 🌎 https://t.co/vuFlZQkLaR</title>
+      <link>https://x.com/ryolu_/status/2053523477878259951</link>
+      <guid isPermaLink="true">https://x.com/ryolu_/status/2053523477878259951</guid>
+      <description>ryOS now has a IRC bridge to @levelsio’s retro PC
+
+let the worlds connect 🌎 https://t.co/vuFlZQkLaR
+
+Bio: Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.
+❤️ 149  🔁 5</description>
+      <pubDate>Sun, 10 May 2026 17:12:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Garry Tan (@garrytan): The highest and most important form of design is actually pure transmutation of human pain and suffe...</title>
+      <link>https://x.com/garrytan/status/2053689459032379860</link>
+      <guid isPermaLink="true">https://x.com/garrytan/status/2053689459032379860</guid>
+      <description>The highest and most important form of design is actually pure transmutation of human pain and suffering.
 
 Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-❤️ 24  🔁 1</description>
-      <pubDate>Sun, 10 May 2026 03:27:46 +0000</pubDate>
+❤️ 334  🔁 16</description>
+      <pubDate>Mon, 11 May 2026 04:11:37 +0000</pubDate>
     </item>
     <item>
-      <title>Garry Tan (@garrytan): GBrain v0.31.1 just shipped real MCP thin client support. So basically you can run ONE "home GBrain ...</title>
-      <link>https://x.com/garrytan/status/2053306243704410460</link>
-      <guid isPermaLink="true">https://x.com/garrytan/status/2053306243704410460</guid>
-      <description>GBrain v0.31.1 just shipped real MCP thin client support. So basically you can run ONE "home GBrain server" and everything else can just connect to it via MCP and it'll work pretty close to as well as running it locally.
-
-GBrain just went client-server. https://t.co/WEAV1gW6B1
+      <title>Garry Tan (@garrytan): Omg they are just doing knock knock jokes for like 30 messages now https://t.co/7jfiPhYdq1</title>
+      <link>https://x.com/garrytan/status/2053645909682954545</link>
+      <guid isPermaLink="true">https://x.com/garrytan/status/2053645909682954545</guid>
+      <description>Omg they are just doing knock knock jokes for like 30 messages now https://t.co/7jfiPhYdq1
 
 Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-❤️ 256  🔁 16</description>
-      <pubDate>Sun, 10 May 2026 02:48:51 +0000</pubDate>
+❤️ 35  🔁 0</description>
+      <pubDate>Mon, 11 May 2026 01:18:34 +0000</pubDate>
     </item>
     <item>
-      <title>Garry Tan (@garrytan): The fun trick is to have your clankers make diagrams in ASCII of everything and just ask questions u...</title>
-      <link>https://x.com/garrytan/status/2053191327181865376</link>
-      <guid isPermaLink="true">https://x.com/garrytan/status/2053191327181865376</guid>
-      <description>The fun trick is to have your clankers make diagrams in ASCII of everything and just ask questions until you get it https://t.co/w67393ykiq
+      <title>Garry Tan (@garrytan): Man Neuromancer thinks the Warriors draft picks have been totally nonsensical given Kerr being head ...</title>
+      <link>https://x.com/garrytan/status/2053622975778246807</link>
+      <guid isPermaLink="true">https://x.com/garrytan/status/2053622975778246807</guid>
+      <description>Man Neuromancer thinks the Warriors draft picks have been totally nonsensical given Kerr being head coach https://t.co/KUmMrADJTI
 
 Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-❤️ 213  🔁 17</description>
-      <pubDate>Sat, 09 May 2026 19:12:13 +0000</pubDate>
+❤️ 40  🔁 2</description>
+      <pubDate>Sun, 10 May 2026 23:47:26 +0000</pubDate>
     </item>
     <item>
-      <title>Zara Zhang (@zarazhangrui): HTML is important because humans are visual animals
+      <title>Nikunj Kothari (@nikunj): pre-kids: red eyes are the worst - why would anyone take them??
 
-As the founder of Duolingo once said, one of hi...</title>
-      <link>https://x.com/zarazhangrui/status/2053291803135410674</link>
-      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2053291803135410674</guid>
-      <description>HTML is important because humans are visual animals
+post-kids: red eyes are honestly th...</title>
+      <link>https://x.com/nikunj/status/2053685737716089020</link>
+      <guid isPermaLink="true">https://x.com/nikunj/status/2053685737716089020</guid>
+      <description>pre-kids: red eyes are the worst - why would anyone take them??
 
-As the founder of Duolingo once said, one of his biggest lessons after spending years building consumer products is: "People don't read"
+post-kids: red eyes are honestly the best. i can tuck my kids in bed and wake up in a new city and get going right away. 
 
-In the past, we optimized our output format for human manipulation (eg. pushing pixels in powerpoint)
-
-When AI will handle the manipulation, the output format should be optimized for human CONSUMPTION instead
-
-Turns out humans like to consume beautiful, interactive artifacts
-
-Bio: Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
-❤️ 104  🔁 0</description>
-      <pubDate>Sun, 10 May 2026 01:51:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nikunj Kothari (@nikunj): Every founder I meet: man, the bar is so low to be a good VC. Just do what you say, and you’re alrea...</title>
-      <link>https://x.com/nikunj/status/2053289104331493566</link>
-      <guid isPermaLink="true">https://x.com/nikunj/status/2053289104331493566</guid>
-      <description>Every founder I meet: man, the bar is so low to be a good VC. Just do what you say, and you’re already top decile. 
-
-Every VC I meet: dude, the bar is so low to be a good VC. Just do what you say, and you’re already top decile. 
-
-Something has to give 😂
+(typing this from a red eye headed to NYC rn)
 
 Bio: partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-❤️ 92  🔁 0</description>
-      <pubDate>Sun, 10 May 2026 01:40:45 +0000</pubDate>
+❤️ 76  🔁 0</description>
+      <pubDate>Mon, 11 May 2026 03:56:50 +0000</pubDate>
     </item>
     <item>
-      <title>Nikunj Kothari (@nikunj): If you are always annoyed at models estimating work as if a human is doing it instead of just crushi...</title>
-      <link>https://x.com/nikunj/status/2053159569015328953</link>
-      <guid isPermaLink="true">https://x.com/nikunj/status/2053159569015328953</guid>
-      <description>If you are always annoyed at models estimating work as if a human is doing it instead of just crushing the work, add this to your custom instructions.. 
+      <title>Peter Steinberger (@steipete): challenged codex to e2e test improvements to the OpenClaw chat completion endpoint WITH openclaw.
 
-“When estimating or planning, assume you (the model) are executing the work yourself. Report timelines in model-execution units (seconds, minutes, tool calls, iterations), not human days or headcount. Separate the work into (a) the model-executable portion you will do and (b) human prerequisites or follow-ups such as API signups, credentials, hosting, deploys, or anything requiring accounts or physical action you cannot access. Estimate only your portion and flag human parts explicitly. Mark any human step that blocks model work as a gating step, not just a parallel task. If a task is entirely human-required, say so instead of inventing a model plan. If the model portion is short enough to complete in this conversation, offer to start now rather than only planning”.
+U...</title>
+      <link>https://x.com/steipete/status/2053744332675408151</link>
+      <guid isPermaLink="true">https://x.com/steipete/status/2053744332675408151</guid>
+      <description>challenged codex to e2e test improvements to the OpenClaw chat completion endpoint WITH openclaw.
 
-Bio: partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-❤️ 56  🔁 3</description>
-      <pubDate>Sat, 09 May 2026 17:06:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Peter Steinberger (@steipete): Did teach codex to look for social signals when reviewing PRs. https://t.co/wb4wErZQqv</title>
-      <link>https://x.com/steipete/status/2053374981824798751</link>
-      <guid isPermaLink="true">https://x.com/steipete/status/2053374981824798751</guid>
-      <description>Did teach codex to look for social signals when reviewing PRs. https://t.co/wb4wErZQqv
+Used /side to ask more question while it works. https://t.co/WIXxj8bYFd
 
 Bio: Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
 @OpenClaw🦞 + @OpenAI
-❤️ 76  🔁 2</description>
-      <pubDate>Sun, 10 May 2026 07:22:00 +0000</pubDate>
+❤️ 160  🔁 13</description>
+      <pubDate>Mon, 11 May 2026 07:49:40 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Steinberger (@steipete): Crabbox now has great Windows terminal handling.
-
-So good that codex could E2E fix gifgrep to render...</title>
-      <link>https://x.com/steipete/status/2053329609064685740</link>
-      <guid isPermaLink="true">https://x.com/steipete/status/2053329609064685740</guid>
-      <description>Crabbox now has great Windows terminal handling.
-
-So good that codex could E2E fix gifgrep to render animated gifs in the terminal. Just because it can. 
-
-https://t.co/ObN4QWHWG9
-https://t.co/UgPpKNIRVA https://t.co/b7aIbVk1tc
+      <title>Peter Steinberger (@steipete): Birdclaw has my complete twitter archive, so I can ask Codex for any old weird tweet I ever favorite...</title>
+      <link>https://x.com/steipete/status/2053737275268177980</link>
+      <guid isPermaLink="true">https://x.com/steipete/status/2053737275268177980</guid>
+      <description>Birdclaw has my complete twitter archive, so I can ask Codex for any old weird tweet I ever favorited or bookmarked. https://t.co/o9ujqfRHXO https://t.co/KZqP9lCNAH
 
 Bio: Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
 @OpenClaw🦞 + @OpenAI
-❤️ 102  🔁 5</description>
-      <pubDate>Sun, 10 May 2026 04:21:42 +0000</pubDate>
+❤️ 172  🔁 7</description>
+      <pubDate>Mon, 11 May 2026 07:21:37 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Steinberger (@steipete): Latest spogo (Spotify cli) is much faster, codex is my dj now.
-https://t.co/K4WviRSXG3
+      <title>Peter Steinberger (@steipete): Built a browser into RepoBar when I select issues/PRs/shas/workflows to have context when I work. ht...</title>
+      <link>https://x.com/steipete/status/2053717468623872230</link>
+      <guid isPermaLink="true">https://x.com/steipete/status/2053717468623872230</guid>
+      <description>Built a browser into RepoBar when I select issues/PRs/shas/workflows to have context when I work. https://t.co/0AGarQ3X6a
 
-If you wanna...</title>
-      <link>https://x.com/steipete/status/2053310800773685600</link>
-      <guid isPermaLink="true">https://x.com/steipete/status/2053310800773685600</guid>
-      <description>Latest spogo (Spotify cli) is much faster, codex is my dj now.
-https://t.co/K4WviRSXG3
-
-If you wanna play YouTube to Sonos, check out
-https://t.co/UbFC8udZdp https://t.co/U4GEyOeYAX
+Still a bit vibey but gets the job done.
+You gotta build yourself the tools to work more efficient. https://t.co/dGnFKVkVtk
 
 Bio: Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
 @OpenClaw🦞 + @OpenAI
-❤️ 154  🔁 14</description>
-      <pubDate>Sun, 10 May 2026 03:06:58 +0000</pubDate>
+❤️ 89  🔁 0</description>
+      <pubDate>Mon, 11 May 2026 06:02:55 +0000</pubDate>
     </item>
     <item>
-      <title>Dan Shipper (@danshipper): “We got a tool to perform poorly” is the lowest form of science and journalism imo and is only relev...</title>
-      <link>https://x.com/danshipper/status/2053203284165337237</link>
-      <guid isPermaLink="true">https://x.com/danshipper/status/2053203284165337237</guid>
-      <description>“We got a tool to perform poorly” is the lowest form of science and journalism imo and is only relevant when the tool is, in fact, extremely useful
+      <title>Dan Shipper (@danshipper): there are a few people in a tiny office in brooklyn 1-2 months ahead of SV founders / eng :) https:/...</title>
+      <link>https://x.com/danshipper/status/2053628011233095875</link>
+      <guid isPermaLink="true">https://x.com/danshipper/status/2053628011233095875</guid>
+      <description>there are a few people in a tiny office in brooklyn 1-2 months ahead of SV founders / eng :) https://t.co/p5GAP1FzCE
 
 Bio: ceo @every | the only subscription you need to stay at the edge of AI
-❤️ 11  🔁 0</description>
-      <pubDate>Sat, 09 May 2026 19:59:44 +0000</pubDate>
+❤️ 158  🔁 2</description>
+      <pubDate>Mon, 11 May 2026 00:07:27 +0000</pubDate>
     </item>
     <item>
-      <title>Dan Shipper (@danshipper): Knives Can Blind You When You Stick Them in Your Eye
-submitted 17 Apr 2026</title>
-      <link>https://x.com/danshipper/status/2053199393658937423</link>
-      <guid isPermaLink="true">https://x.com/danshipper/status/2053199393658937423</guid>
-      <description>Knives Can Blind You When You Stick Them in Your Eye
-submitted 17 Apr 2026
+      <title>Dan Shipper (@danshipper): we hired someone new to help out with social and YouTube and she’s finding INSANE A/B test uplifts l...</title>
+      <link>https://x.com/danshipper/status/2053580741515051114</link>
+      <guid isPermaLink="true">https://x.com/danshipper/status/2053580741515051114</guid>
+      <description>we hired someone new to help out with social and YouTube and she’s finding INSANE A/B test uplifts like this https://t.co/tU9pyYxAEm
 
 Bio: ceo @every | the only subscription you need to stay at the edge of AI
-❤️ 82  🔁 8</description>
-      <pubDate>Sat, 09 May 2026 19:44:16 +0000</pubDate>
+❤️ 344  🔁 4</description>
+      <pubDate>Sun, 10 May 2026 20:59:37 +0000</pubDate>
     </item>
     <item>
-      <title>Dan Shipper (@danshipper): mythos obviously looks incredibly capable and im psyched to use it
+      <title>Dan Shipper (@danshipper): codex-native weekend hack project:
 
-also if you're panicking about i...</title>
-      <link>https://x.com/danshipper/status/2053191885116571935</link>
-      <guid isPermaLink="true">https://x.com/danshipper/status/2053191885116571935</guid>
-      <description>mythos obviously looks incredibly capable and im psyched to use it
+1. buy cable to connect MIDI keyboard to computer
+2. "hey codex,...</title>
+      <link>https://x.com/danshipper/status/2053551046299959760</link>
+      <guid isPermaLink="true">https://x.com/danshipper/status/2053551046299959760</guid>
+      <description>codex-native weekend hack project:
 
-also if you're panicking about it:
+1. buy cable to connect MIDI keyboard to computer
+2. "hey codex, make a watcher script and a little web app to show me which chords im playing"
+3. okay cool, now give me some exercises and help me see how to improve!
 
-benchmarks don't measure model capability alone
-
-they measure model capability after a human has done the work of finding a prompt that lets the model’s capability appear
-
-that work is non-trivial, and requires skilled expert humans doing something that looks very much like a job
+literally 5 minutes start to finish, and it works flawlessly
 
 Bio: ceo @every | the only subscription you need to stay at the edge of AI
-❤️ 54  🔁 3</description>
-      <pubDate>Sat, 09 May 2026 19:14:26 +0000</pubDate>
+❤️ 184  🔁 11</description>
+      <pubDate>Sun, 10 May 2026 19:01:37 +0000</pubDate>
     </item>
     <item>
-      <title>Sam Altman (@sama): autistic genius intelligence</title>
-      <link>https://x.com/sama/status/2053192920933777486</link>
-      <guid isPermaLink="true">https://x.com/sama/status/2053192920933777486</guid>
-      <description>autistic genius intelligence
+      <title>Sam Altman (@sama): what if we name the next model "goblin"
+
+almost worth it to make you all happy...</title>
+      <link>https://x.com/sama/status/2053572868936761350</link>
+      <guid isPermaLink="true">https://x.com/sama/status/2053572868936761350</guid>
+      <description>what if we name the next model "goblin"
+
+almost worth it to make you all happy...
 
 Bio: AI is cool i guess
-❤️ 2482  🔁 210</description>
-      <pubDate>Sat, 09 May 2026 19:18:33 +0000</pubDate>
+❤️ 9171  🔁 467</description>
+      <pubDate>Sun, 10 May 2026 20:28:20 +0000</pubDate>
     </item>
     <item>
-      <title>Sam Altman (@sama): 5.5 is an autistic genius with very strange taste in naming
-
-shocking that we would make such a thin...</title>
-      <link>https://x.com/sama/status/2053192407664259251</link>
-      <guid isPermaLink="true">https://x.com/sama/status/2053192407664259251</guid>
-      <description>5.5 is an autistic genius with very strange taste in naming
-
-shocking that we would make such a thing
+      <title>Sam Altman (@sama): interesting https://t.co/2Wo8K7HLJW</title>
+      <link>https://x.com/sama/status/2053566155571560868</link>
+      <guid isPermaLink="true">https://x.com/sama/status/2053566155571560868</guid>
+      <description>interesting https://t.co/2Wo8K7HLJW
 
 Bio: AI is cool i guess
-❤️ 6188  🔁 243</description>
-      <pubDate>Sat, 09 May 2026 19:16:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sam Altman (@sama): kicking off a bunch of codex tasks, running around with my kid in the sunshine, and then coming back...</title>
-      <link>https://x.com/sama/status/2053191344999604409</link>
-      <guid isPermaLink="true">https://x.com/sama/status/2053191344999604409</guid>
-      <description>kicking off a bunch of codex tasks, running around with my kid in the sunshine, and then coming back at naptime to find them all completed makes me very optimistic for the future
-
-Bio: AI is cool i guess
-❤️ 5807  🔁 178</description>
-      <pubDate>Sat, 09 May 2026 19:12:17 +0000</pubDate>
+❤️ 2903  🔁 125</description>
+      <pubDate>Sun, 10 May 2026 20:01:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
