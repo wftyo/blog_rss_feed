@@ -5,6 +5,24 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Code w/ Claude SF 2026: Building on the AI exponential</title>
+      <link>https://claude.com/blog/code-w-claude-sf-2026-sf</link>
+      <guid isPermaLink="true">https://claude.com/blog/code-w-claude-sf-2026-sf</guid>
+      <description>Code w/ Claude SF 2026: Building on the AI exponential Code w/ Claude SF 2026: Building on the AI exponential</description>
+    </item>
+    <item>
+      <title>Claude for the legal industry</title>
+      <link>https://claude.com/blog/claude-for-the-legal-industry</link>
+      <guid isPermaLink="true">https://claude.com/blog/claude-for-the-legal-industry</guid>
+      <description>Claude for the legal industry Claude for the legal industry</description>
+    </item>
+    <item>
+      <title>How Anthropic's cybersecurity team built a threat detection platform with Claude Code</title>
+      <link>https://claude.com/blog/how-anthropic-uses-claude-cybersecurity</link>
+      <guid isPermaLink="true">https://claude.com/blog/how-anthropic-uses-claude-cybersecurity</guid>
+      <description>How Anthropic's cybersecurity team built a threat detection platform with Claude Code How Anthropic's cybersecurity team built a threat detection platform with Claude Code</description>
+    </item>
+    <item>
       <title>Agent view in Claude Code</title>
       <link>https://claude.com/blog/agent-view-in-claude-code</link>
       <guid isPermaLink="true">https://claude.com/blog/agent-view-in-claude-code</guid>
@@ -75,24 +93,6 @@
       <link>https://claude.com/blog/claude-api-skill</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-api-skill</guid>
       <description>Claude API skill now in CodeRabbit, JetBrains, Resolve AI, and Warp Claude API skill now in CodeRabbit, JetBrains, Resolve AI, and Warp</description>
-    </item>
-    <item>
-      <title>Product development in the agentic era</title>
-      <link>https://claude.com/blog/product-development-in-the-agentic-era</link>
-      <guid isPermaLink="true">https://claude.com/blog/product-development-in-the-agentic-era</guid>
-      <description>Product development in the agentic era Product development in the agentic era</description>
-    </item>
-    <item>
-      <title>Onboarding Claude Code like a new developer: Lessons from 17 years of development</title>
-      <link>https://claude.com/blog/onboarding-claude-code-like-a-new-developer-lessons-from-17-years-of-development</link>
-      <guid isPermaLink="true">https://claude.com/blog/onboarding-claude-code-like-a-new-developer-lessons-from-17-years-of-development</guid>
-      <description>Onboarding Claude Code like a new developer: Lessons from 17 years of development Onboarding Claude Code like a new developer: Lessons from 17 years of development</description>
-    </item>
-    <item>
-      <title>New connectors in Claude for everyday life</title>
-      <link>https://claude.com/blog/connectors-for-everyday-life</link>
-      <guid isPermaLink="true">https://claude.com/blog/connectors-for-everyday-life</guid>
-      <description>New connectors in Claude for everyday life New connectors in Claude for everyday life</description>
     </item>
   </channel>
 </rss>
