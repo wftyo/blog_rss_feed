@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Best practices for computer and browser use with Claude</title>
+      <link>https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude</link>
+      <guid isPermaLink="true">https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude</guid>
+      <description>Best practices for computer and browser use with Claude Best practices for computer and browser use with Claude</description>
+    </item>
+    <item>
       <title>Code w/ Claude SF 2026: Building on the AI exponential</title>
       <link>https://claude.com/blog/code-w-claude-sf-2026-sf</link>
       <guid isPermaLink="true">https://claude.com/blog/code-w-claude-sf-2026-sf</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/new-guide-deploying-claude-across-the-enterprise-with-claude-cowork</link>
       <guid isPermaLink="true">https://claude.com/blog/new-guide-deploying-claude-across-the-enterprise-with-claude-cowork</guid>
       <description>Deploying agentic AI across the enterprise with Claude Cowork Deploying agentic AI across the enterprise with Claude Cowork</description>
-    </item>
-    <item>
-      <title>Claude API skill now in CodeRabbit, JetBrains, Resolve AI, and Warp</title>
-      <link>https://claude.com/blog/claude-api-skill</link>
-      <guid isPermaLink="true">https://claude.com/blog/claude-api-skill</guid>
-      <description>Claude API skill now in CodeRabbit, JetBrains, Resolve AI, and Warp Claude API skill now in CodeRabbit, JetBrains, Resolve AI, and Warp</description>
     </item>
   </channel>
 </rss>
