@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Deploying Claude across the legal industry</title>
+      <link>https://claude.com/blog/deploying-claude-across-the-legal-industry</link>
+      <guid isPermaLink="true">https://claude.com/blog/deploying-claude-across-the-legal-industry</guid>
+      <description>Deploying Claude across the legal industry Deploying Claude across the legal industry</description>
+    </item>
+    <item>
       <title>The founder's playbook: Building an AI-native startup</title>
       <link>https://claude.com/blog/the-founders-playbook</link>
       <guid isPermaLink="true">https://claude.com/blog/the-founders-playbook</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/claude-security-public-beta</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-security-public-beta</guid>
       <description>Claude Security is now in public beta Claude Security is now in public beta</description>
-    </item>
-    <item>
-      <title>Lessons from building Claude Code: Prompt caching is everything</title>
-      <link>https://claude.com/blog/lessons-from-building-claude-code-prompt-caching-is-everything</link>
-      <guid isPermaLink="true">https://claude.com/blog/lessons-from-building-claude-code-prompt-caching-is-everything</guid>
-      <description>Lessons from building Claude Code: Prompt caching is everything Lessons from building Claude Code: Prompt caching is everything</description>
     </item>
   </channel>
 </rss>
