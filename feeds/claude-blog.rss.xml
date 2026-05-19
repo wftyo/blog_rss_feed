@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels</title>
+      <link>https://claude.com/blog/claude-managed-agents-updates</link>
+      <guid isPermaLink="true">https://claude.com/blog/claude-managed-agents-updates</guid>
+      <description>New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels</description>
+    </item>
+    <item>
       <title>Deploying Claude across the legal industry</title>
       <link>https://claude.com/blog/deploying-claude-across-the-legal-industry</link>
       <guid isPermaLink="true">https://claude.com/blog/deploying-claude-across-the-legal-industry</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/building-ai-agents-for-the-enterprise</link>
       <guid isPermaLink="true">https://claude.com/blog/building-ai-agents-for-the-enterprise</guid>
       <description>Building AI agents for the enterprise Building AI agents for the enterprise</description>
-    </item>
-    <item>
-      <title>Claude Security is now in public beta</title>
-      <link>https://claude.com/blog/claude-security-public-beta</link>
-      <guid isPermaLink="true">https://claude.com/blog/claude-security-public-beta</guid>
-      <description>Claude Security is now in public beta Claude Security is now in public beta</description>
     </item>
   </channel>
 </rss>

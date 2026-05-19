@@ -4,14 +4,20 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Mon, 18 May 2026 07:46:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 07:32:39 +0000</lastBuildDate>
     <item>
-      <title>[AI &amp; I by Every] Claude Code Can Be Your Second Brain</title>
-      <link>https://www.youtube.com/watch?v=in7i-EVDDlk</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=in7i-EVDDlk</guid>
-      <description>Speaker 1 | 00:00 - 00:28
-Noah Breyer might have the coolest Claude code setup I've ever seen. He rigged a home server in his basement, put his Obsidian vault in it, and then runs Claude code on top. So he can think, research, write, and even ship code right from his phone. Today, he shows us how he uses Claude Code as a true second brain, a thinking partner that asks him sharp questions, pulls research from his whole note archive and the web, and even keeps a running log of what he's learned an...</description>
-      <pubDate>Wed, 13 May 2026 15:02:38 +0000</pubDate>
+      <title>[AI &amp; I by Every] The Secrets of Claude's Platform From the Team Who Built It</title>
+      <link>https://www.youtube.com/watch?v=lLypHkIVLqc</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=lLypHkIVLqc</guid>
+      <description>Speaker 1 | 00:00 - 00:03
+A year from now, where do you think the platform will be?
+
+Speaker 2 | 00:03 - 00:18
+We wanna experiment with directions where Cloud actually gets so good at understanding itself. It figures out what model you should be using. It figures out how to spin up all the sub agents. You don't have to think so much about what kind architectures are there because Claude is actually able to understand itself enough that it can write itself on the fly.
+
+Speaker 3 | 00:18 - 00:26
+I...</description>
+      <pubDate>Fri, 08 May 2026 20:27:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
