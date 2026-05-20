@@ -4,20 +4,17 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Tue, 19 May 2026 07:32:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 07:32:21 +0000</lastBuildDate>
     <item>
-      <title>[AI &amp; I by Every] The Secrets of Claude's Platform From the Team Who Built It</title>
-      <link>https://www.youtube.com/watch?v=lLypHkIVLqc</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=lLypHkIVLqc</guid>
-      <description>Speaker 1 | 00:00 - 00:03
-A year from now, where do you think the platform will be?
+      <title>[Training Data] Rebuilding IT From the Ground Up for the AI Age: Serval's Jake Stauch</title>
+      <link>https://www.youtube.com/watch?v=j7ypvRUFY7M</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=j7ypvRUFY7M</guid>
+      <description>Speaker 1 | 00:00 - 00:18
+You know, I think that there's always a gap between the idealized vision of what you think your job's gonna be and then what your job actually is. Yeah. I think it's true for every profession. You you idealize, and kids do this the most, right, when they're like, wanna be a firefighter and astronaut, what that job looks like. And then and then you get in that job and you realize, oh, there's there's actually a lot in this that I don't like.
 
-Speaker 2 | 00:03 - 00:18
-We wanna experiment with directions where Cloud actually gets so good at understanding itself. It figures out what model you should be using. It figures out how to spin up all the sub agents. You don't have to think so much about what kind architectures are there because Claude is actually able to understand itself enough that it can write itself on the fly.
-
-Speaker 3 | 00:18 - 00:26
-I...</description>
-      <pubDate>Fri, 08 May 2026 20:27:01 +0000</pubDate>
+Speaker 1 | 00:19 - 00:26
+An...</description>
+      <pubDate>Tue, 19 May 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
