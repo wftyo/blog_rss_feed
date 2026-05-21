@@ -4,17 +4,14 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Wed, 20 May 2026 07:32:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 07:36:59 +0000</lastBuildDate>
     <item>
-      <title>[Training Data] Rebuilding IT From the Ground Up for the AI Age: Serval's Jake Stauch</title>
-      <link>https://www.youtube.com/watch?v=j7ypvRUFY7M</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=j7ypvRUFY7M</guid>
-      <description>Speaker 1 | 00:00 - 00:18
-You know, I think that there's always a gap between the idealized vision of what you think your job's gonna be and then what your job actually is. Yeah. I think it's true for every profession. You you idealize, and kids do this the most, right, when they're like, wanna be a firefighter and astronaut, what that job looks like. And then and then you get in that job and you realize, oh, there's there's actually a lot in this that I don't like.
-
-Speaker 1 | 00:19 - 00:26
-An...</description>
-      <pubDate>Tue, 19 May 2026 09:00:00 +0000</pubDate>
+      <title>[AI &amp; I by Every] Inside Stainless: The Developer Tools Startup Anthropic Just Bought for $300 Million</title>
+      <link>https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL</link>
+      <guid isPermaLink="true">https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL</guid>
+      <description>Speaker 1 | 00:00 - 00:31
+The internet runs on computers talking to each other, but its entire architecture was built for a pre AI world. Now we're trying to hook AI up to the internet with MCP, Model Context Protocol, which turns any website or web service into a set of tools that an AI can use natively to get worked on. And the software companies that learn how to do MCP well are going to win over the next decade. That's why I brought Alex Rattray, the founder and CEO of Stainless, onto the sh...</description>
+      <pubDate>Wed, 20 May 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
