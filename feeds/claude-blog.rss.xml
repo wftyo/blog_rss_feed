@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>How Anthropic's finance team uses Claude to shape the narrative behind the numbers</title>
+      <link>https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers</link>
+      <guid isPermaLink="true">https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers</guid>
+      <description>How Anthropic's finance team uses Claude to shape the narrative behind the numbers How Anthropic's finance team uses Claude to shape the narrative behind the numbers</description>
+    </item>
+    <item>
       <title>Claude now works with more security and compliance tools</title>
       <link>https://claude.com/blog/compliance-api-security-partners</link>
       <guid isPermaLink="true">https://claude.com/blog/compliance-api-security-partners</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/claude-platform-on-aws</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-platform-on-aws</guid>
       <description>Introducing the Claude Platform on AWS Introducing the Claude Platform on AWS</description>
-    </item>
-    <item>
-      <title>Collaborate with Claude across Excel, PowerPoint, Word and Outlook</title>
-      <link>https://claude.com/blog/collaborate-with-claude-across-excel-powerpoint-word-and-outlook</link>
-      <guid isPermaLink="true">https://claude.com/blog/collaborate-with-claude-across-excel-powerpoint-word-and-outlook</guid>
-      <description>Collaborate with Claude across Excel, PowerPoint, Word and Outlook Collaborate with Claude across Excel, PowerPoint, Word and Outlook</description>
     </item>
   </channel>
 </rss>
