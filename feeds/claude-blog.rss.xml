@@ -5,10 +5,16 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
-      <title>How CodeRabbit Used Claude to Build an Agent Orchestration System</title>
+      <title>Using LLMs to secure source code</title>
+      <link>https://claude.com/blog/using-llms-to-secure-source-code</link>
+      <guid isPermaLink="true">https://claude.com/blog/using-llms-to-secure-source-code</guid>
+      <description>Using LLMs to secure source code Using LLMs to secure source code</description>
+    </item>
+    <item>
+      <title>How CodeRabbit used Claude to build an agent orchestration system</title>
       <link>https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system</link>
       <guid isPermaLink="true">https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system</guid>
-      <description>How CodeRabbit Used Claude to Build an Agent Orchestration System How CodeRabbit Used Claude to Build an Agent Orchestration System</description>
+      <description>How CodeRabbit used Claude to build an agent orchestration system How CodeRabbit used Claude to build an agent orchestration system</description>
     </item>
     <item>
       <title>Zero Trust for AI agents</title>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/code-w-claude-sf-2026-sf</link>
       <guid isPermaLink="true">https://claude.com/blog/code-w-claude-sf-2026-sf</guid>
       <description>Code w/ Claude SF 2026 recap: Building on the AI exponential Code w/ Claude SF 2026 recap: Building on the AI exponential</description>
-    </item>
-    <item>
-      <title>Claude for the legal industry</title>
-      <link>https://claude.com/blog/claude-for-the-legal-industry</link>
-      <guid isPermaLink="true">https://claude.com/blog/claude-for-the-legal-industry</guid>
-      <description>Claude for the legal industry Claude for the legal industry</description>
     </item>
   </channel>
 </rss>
