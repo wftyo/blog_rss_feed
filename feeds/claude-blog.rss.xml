@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Code w/ Claude London 2026: Rethinking how we build</title>
+      <link>https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build</link>
+      <guid isPermaLink="true">https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build</guid>
+      <description>Code w/ Claude London 2026: Rethinking how we build Code w/ Claude London 2026: Rethinking how we build</description>
+    </item>
+    <item>
       <title>How Anthropic's finance team uses Claude to shape the narrative behind the numbers</title>
       <link>https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers</link>
       <guid isPermaLink="true">https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/agent-view-in-claude-code</link>
       <guid isPermaLink="true">https://claude.com/blog/agent-view-in-claude-code</guid>
       <description>Agent view in Claude Code Agent view in Claude Code</description>
-    </item>
-    <item>
-      <title>Introducing the Claude Platform on AWS</title>
-      <link>https://claude.com/blog/claude-platform-on-aws</link>
-      <guid isPermaLink="true">https://claude.com/blog/claude-platform-on-aws</guid>
-      <description>Introducing the Claude Platform on AWS Introducing the Claude Platform on AWS</description>
     </item>
   </channel>
 </rss>
