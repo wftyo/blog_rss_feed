@@ -5,6 +5,18 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>How CodeRabbit Used Claude to Build an Agent Orchestration System</title>
+      <link>https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system</link>
+      <guid isPermaLink="true">https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system</guid>
+      <description>How CodeRabbit Used Claude to Build an Agent Orchestration System How CodeRabbit Used Claude to Build an Agent Orchestration System</description>
+    </item>
+    <item>
+      <title>Zero Trust for AI agents</title>
+      <link>https://claude.com/blog/zero-trust-for-ai-agents</link>
+      <guid isPermaLink="true">https://claude.com/blog/zero-trust-for-ai-agents</guid>
+      <description>Zero Trust for AI agents Zero Trust for AI agents</description>
+    </item>
+    <item>
       <title>Code w/ Claude London 2026: Rethinking how we build</title>
       <link>https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build</link>
       <guid isPermaLink="true">https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build</guid>
@@ -81,18 +93,6 @@
       <link>https://claude.com/blog/claude-for-the-legal-industry</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-for-the-legal-industry</guid>
       <description>Claude for the legal industry Claude for the legal industry</description>
-    </item>
-    <item>
-      <title>How Anthropic's cybersecurity team built a threat detection platform with Claude Code</title>
-      <link>https://claude.com/blog/how-anthropic-uses-claude-cybersecurity</link>
-      <guid isPermaLink="true">https://claude.com/blog/how-anthropic-uses-claude-cybersecurity</guid>
-      <description>How Anthropic's cybersecurity team built a threat detection platform with Claude Code How Anthropic's cybersecurity team built a threat detection platform with Claude Code</description>
-    </item>
-    <item>
-      <title>Agent view in Claude Code</title>
-      <link>https://claude.com/blog/agent-view-in-claude-code</link>
-      <guid isPermaLink="true">https://claude.com/blog/agent-view-in-claude-code</guid>
-      <description>Agent view in Claude Code Agent view in Claude Code</description>
     </item>
   </channel>
 </rss>
