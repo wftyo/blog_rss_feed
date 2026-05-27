@@ -4,17 +4,17 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Tue, 26 May 2026 07:32:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 07:46:08 +0000</lastBuildDate>
     <item>
-      <title>[The MAD Podcast with Matt Turck] Why AWS and Azure Cannot Run Autonomous AI – Ivan Burazin (Daytona)</title>
-      <link>https://www.youtube.com/watch?v=kMXJrzAa5fM</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=kMXJrzAa5fM</guid>
-      <description>Speaker 1 | 00:00 - 00:18
-We are a part of this like super cycle right now and the super cycle does not last forever. And so if you're gonna pause by the super cycle, you are speeding market. Like that is what you're doing. I would ask Claude, can you go fetch the data from our bank? And then it was like, oh yeah, just log in and give me access.
+      <title>[Training Data] How Cursor Trained Composer on Fireworks: Distributed Infrastructure for High-Performance RL</title>
+      <link>https://www.youtube.com/watch?v=UDTr9yUnLUI</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=UDTr9yUnLUI</guid>
+      <description>Speaker 1 | 00:00 - 00:20
+You need all the infrastructure to run these environments that have to mimic as closely as possible with a user as a computer would look like. And it's very important as closely as possible because sometimes the model can actually figure out when it's being run-in like a fake environment or not a real one, and it has like different behaviors during RL than in production.
 
-Speaker 1 | 00:18 - 00:36
-I'm like, log in and give me a no. I will not give you access. Right away fundamentally for me that was like broke the entire...</description>
-      <pubDate>Thu, 14 May 2026 11:30:00 +0000</pubDate>
+Speaker 2 | 00:20 - 00:26
+Are you seeing it being conscious that it's being it's in a fake environm...</description>
+      <pubDate>Tue, 26 May 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
