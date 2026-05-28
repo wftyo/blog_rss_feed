@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Introducing dynamic workflows in Claude Code</title>
+      <link>https://claude.com/blog/introducing-dynamic-workflows-in-claude-code</link>
+      <guid isPermaLink="true">https://claude.com/blog/introducing-dynamic-workflows-in-claude-code</guid>
+      <description>Introducing dynamic workflows in Claude Code Introducing dynamic workflows in Claude Code</description>
+    </item>
+    <item>
       <title>Using LLMs to secure source code</title>
       <link>https://claude.com/blog/using-llms-to-secure-source-code</link>
       <guid isPermaLink="true">https://claude.com/blog/using-llms-to-secure-source-code</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude</link>
       <guid isPermaLink="true">https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude</guid>
       <description>Best practices for computer and browser use with Claude Best practices for computer and browser use with Claude</description>
-    </item>
-    <item>
-      <title>Code w/ Claude SF 2026 recap: Building on the AI exponential</title>
-      <link>https://claude.com/blog/code-w-claude-sf-2026-sf</link>
-      <guid isPermaLink="true">https://claude.com/blog/code-w-claude-sf-2026-sf</guid>
-      <description>Code w/ Claude SF 2026 recap: Building on the AI exponential Code w/ Claude SF 2026 recap: Building on the AI exponential</description>
     </item>
   </channel>
 </rss>
