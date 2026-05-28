@@ -4,17 +4,20 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Wed, 27 May 2026 07:46:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 07:42:10 +0000</lastBuildDate>
     <item>
-      <title>[Training Data] How Cursor Trained Composer on Fireworks: Distributed Infrastructure for High-Performance RL</title>
-      <link>https://www.youtube.com/watch?v=UDTr9yUnLUI</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=UDTr9yUnLUI</guid>
-      <description>Speaker 1 | 00:00 - 00:20
-You need all the infrastructure to run these environments that have to mimic as closely as possible with a user as a computer would look like. And it's very important as closely as possible because sometimes the model can actually figure out when it's being run-in like a fake environment or not a real one, and it has like different behaviors during RL than in production.
+      <title>[AI &amp; I by Every] We Automated Everything With AI and Tripled Our Headcount</title>
+      <link>https://www.youtube.com/watch?v=dCmOTURRf1Y</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=dCmOTURRf1Y</guid>
+      <description>Speaker 1 | 00:00 - 00:06
+You prompt AI to do something. It blows your mind. You feel inadequate. You feel like, oh my god. This thing's gonna take my job.
 
-Speaker 2 | 00:20 - 00:26
-Are you seeing it being conscious that it's being it's in a fake environm...</description>
-      <pubDate>Tue, 26 May 2026 09:00:00 +0000</pubDate>
+Speaker 1 | 00:07 - 00:11
+And then it stops working, it looks back at you and says, what should I do next?
+
+Speaker 2 | 00:11 - 00:47
+The further away an agent gets from a human, the less valuable it is. If you just ride the models, you're going to be fine. If you care about leading a really ambitious life, I truly think that this is going t...</description>
+      <pubDate>Wed, 27 May 2026 16:28:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
