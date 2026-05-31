@@ -4,14 +4,14 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Sat, 30 May 2026 07:19:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 07:35:00 +0000</lastBuildDate>
     <item>
-      <title>[No Priors] Building an AI Guardian for Enterprise with Onyx Security CEO Maxim Bar Kogan</title>
-      <link>https://www.youtube.com/watch?v=QDsbFLEt9ro</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=QDsbFLEt9ro</guid>
-      <description>Speaker 1 | 00:00 - 00:38
-As you're exponentially doing more things with the eyes, you're going to start having really bad actions happen. And we've seen some of that happen lately with agents accidentally publishing code and tokens that they weren't supposed to. Like, definitely, enterprises are starting to realize that risk has grown exponentially and that they don't have any way to stop the adoption. They just now have to do something to reduce the chance of these agent actions being illegiti...</description>
-      <pubDate>Thu, 28 May 2026 10:00:00 +0000</pubDate>
+      <title>[Unsupervised Learning] Ep 87: Gemini Co-Lead on World Models, RL&amp;apos;s Next Domains &amp;amp; Continual Learning</title>
+      <link>https://www.youtube.com/watch?v=NQczevdpxq0</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=NQczevdpxq0</guid>
+      <description>Speaker 1 | 00:00 - 00:28
+Oriol Vinyals is the co lead of Gemini alongside Noam Shazir and Jeff Dean. He's had an incredible career in AI, pioneering many of the breakthroughs in deep learning in the last decade, and it was a ton of fun to get to sit down with him after Google IO. If you've been following Google IO, they basically shipped a bunch of products across a a ton of interesting surface areas throughout AI. And so Oriel and I hit all of them. We talked about what's required for further ...</description>
+      <pubDate>Fri, 22 May 2026 12:50:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
