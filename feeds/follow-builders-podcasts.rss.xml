@@ -4,14 +4,17 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Sun, 31 May 2026 07:35:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 08:12:58 +0000</lastBuildDate>
     <item>
-      <title>[Unsupervised Learning] Ep 87: Gemini Co-Lead on World Models, RL&amp;apos;s Next Domains &amp;amp; Continual Learning</title>
-      <link>https://www.youtube.com/watch?v=NQczevdpxq0</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=NQczevdpxq0</guid>
-      <description>Speaker 1 | 00:00 - 00:28
-Oriol Vinyals is the co lead of Gemini alongside Noam Shazir and Jeff Dean. He's had an incredible career in AI, pioneering many of the breakthroughs in deep learning in the last decade, and it was a ton of fun to get to sit down with him after Google IO. If you've been following Google IO, they basically shipped a bunch of products across a a ton of interesting surface areas throughout AI. And so Oriel and I hit all of them. We talked about what's required for further ...</description>
-      <pubDate>Fri, 22 May 2026 12:50:04 +0000</pubDate>
+      <title>[The MAD Podcast with Matt Turck] OpenAI's Yann Dubois: Why AI Progress Suddenly Feels Real</title>
+      <link>https://www.youtube.com/watch?v=DhD1zZ8w8Mw</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=DhD1zZ8w8Mw</guid>
+      <description>Speaker 1 | 00:00 - 00:26
+You need to reach this level of reliability to really make any of these AI tools very useful, and I think we just crossed that probably December last year, at least at OpenAI. Now we can trust these models to do a lot of the work that we are doing. The last few months have been pretty wild. We moved from like competitions to usefulness to users and that's what we are feeling right now. I think most of the time the Bionic is the last mile.
+
+Speaker 1 | 00:26 - 00:34
+Ther...</description>
+      <pubDate>Thu, 21 May 2026 11:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
