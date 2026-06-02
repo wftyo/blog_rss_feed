@@ -11,6 +11,12 @@
       <description>Running an AI-native engineering org Running an AI-native engineering org</description>
     </item>
     <item>
+      <title>A harness for every task: dynamic workflows in Claude Code</title>
+      <link>https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code</link>
+      <guid isPermaLink="true">https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code</guid>
+      <description>A harness for every task: dynamic workflows in Claude Code A harness for every task: dynamic workflows in Claude Code</description>
+    </item>
+    <item>
       <title>Introducing dynamic workflows in Claude Code</title>
       <link>https://claude.com/blog/introducing-dynamic-workflows-in-claude-code</link>
       <guid isPermaLink="true">https://claude.com/blog/introducing-dynamic-workflows-in-claude-code</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/the-founders-playbook</link>
       <guid isPermaLink="true">https://claude.com/blog/the-founders-playbook</guid>
       <description>The founder's playbook: Building an AI-native startup The founder's playbook: Building an AI-native startup</description>
-    </item>
-    <item>
-      <title>How Claude Code works in large codebases: Best practices and where to start</title>
-      <link>https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start</link>
-      <guid isPermaLink="true">https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start</guid>
-      <description>How Claude Code works in large codebases: Best practices and where to start How Claude Code works in large codebases: Best practices and where to start</description>
     </item>
   </channel>
 </rss>
