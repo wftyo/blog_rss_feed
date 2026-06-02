@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Running an AI-native engineering org</title>
+      <link>https://claude.com/blog/running-an-ai-native-engineering-org</link>
+      <guid isPermaLink="true">https://claude.com/blog/running-an-ai-native-engineering-org</guid>
+      <description>Running an AI-native engineering org Running an AI-native engineering org</description>
+    </item>
+    <item>
       <title>Introducing dynamic workflows in Claude Code</title>
       <link>https://claude.com/blog/introducing-dynamic-workflows-in-claude-code</link>
       <guid isPermaLink="true">https://claude.com/blog/introducing-dynamic-workflows-in-claude-code</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start</link>
       <guid isPermaLink="true">https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start</guid>
       <description>How Claude Code works in large codebases: Best practices and where to start How Claude Code works in large codebases: Best practices and where to start</description>
-    </item>
-    <item>
-      <title>Best practices for computer and browser use with Claude</title>
-      <link>https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude</link>
-      <guid isPermaLink="true">https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude</guid>
-      <description>Best practices for computer and browser use with Claude Best practices for computer and browser use with Claude</description>
     </item>
   </channel>
 </rss>
