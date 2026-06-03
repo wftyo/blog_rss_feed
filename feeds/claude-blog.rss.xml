@@ -5,6 +5,24 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>How Anthropic enables self-service data analytics with Claude</title>
+      <link>https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude</link>
+      <guid isPermaLink="true">https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude</guid>
+      <description>How Anthropic enables self-service data analytics with Claude How Anthropic enables self-service data analytics with Claude</description>
+    </item>
+    <item>
+      <title>Lessons from building Claude Code: How we use skills</title>
+      <link>https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills</link>
+      <guid isPermaLink="true">https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills</guid>
+      <description>Lessons from building Claude Code: How we use skills Lessons from building Claude Code: How we use skills</description>
+    </item>
+    <item>
+      <title>Best practices for getting started with Claude Cowork</title>
+      <link>https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork</link>
+      <guid isPermaLink="true">https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork</guid>
+      <description>Best practices for getting started with Claude Cowork Best practices for getting started with Claude Cowork</description>
+    </item>
+    <item>
       <title>Running an AI-native engineering org</title>
       <link>https://claude.com/blog/running-an-ai-native-engineering-org</link>
       <guid isPermaLink="true">https://claude.com/blog/running-an-ai-native-engineering-org</guid>
@@ -75,24 +93,6 @@
       <link>https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book</link>
       <guid isPermaLink="true">https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book</guid>
       <description>How an Anthropic sales leader uses Claude Cowork to run a 4,000-account book How an Anthropic sales leader uses Claude Cowork to run a 4,000-account book</description>
-    </item>
-    <item>
-      <title>New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels</title>
-      <link>https://claude.com/blog/claude-managed-agents-updates</link>
-      <guid isPermaLink="true">https://claude.com/blog/claude-managed-agents-updates</guid>
-      <description>New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels</description>
-    </item>
-    <item>
-      <title>Deploying Claude across the legal industry</title>
-      <link>https://claude.com/blog/deploying-claude-across-the-legal-industry</link>
-      <guid isPermaLink="true">https://claude.com/blog/deploying-claude-across-the-legal-industry</guid>
-      <description>Deploying Claude across the legal industry Deploying Claude across the legal industry</description>
-    </item>
-    <item>
-      <title>The founder's playbook: Building an AI-native startup</title>
-      <link>https://claude.com/blog/the-founders-playbook</link>
-      <guid isPermaLink="true">https://claude.com/blog/the-founders-playbook</guid>
-      <description>The founder's playbook: Building an AI-native startup The founder's playbook: Building an AI-native startup</description>
     </item>
   </channel>
 </rss>
