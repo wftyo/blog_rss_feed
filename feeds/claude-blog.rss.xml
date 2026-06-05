@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>The Claude Cowork product guide</title>
+      <link>https://claude.com/blog/the-claude-cowork-product-guide</link>
+      <guid isPermaLink="true">https://claude.com/blog/the-claude-cowork-product-guide</guid>
+      <description>The Claude Cowork product guide The Claude Cowork product guide</description>
+    </item>
+    <item>
       <title>How one Anthropic seller rebuilt his team's workflows with Claude Code</title>
       <link>https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering</link>
       <guid isPermaLink="true">https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity</link>
       <guid isPermaLink="true">https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity</guid>
       <description>How our partners are putting Opus to work for cybersecurity How our partners are putting Opus to work for cybersecurity</description>
-    </item>
-    <item>
-      <title>Using Claude Code: The unreasonable effectiveness of HTML</title>
-      <link>https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html</link>
-      <guid isPermaLink="true">https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html</guid>
-      <description>Using Claude Code: The unreasonable effectiveness of HTML Using Claude Code: The unreasonable effectiveness of HTML</description>
     </item>
   </channel>
 </rss>
