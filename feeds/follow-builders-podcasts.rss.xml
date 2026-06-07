@@ -4,14 +4,23 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Sat, 06 Jun 2026 07:23:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 07:42:06 +0000</lastBuildDate>
     <item>
-      <title>[AI &amp; I by Every] The SaaS Apocalypse Is a Goldmine With Figma’s Matt Colyer</title>
-      <link>https://www.youtube.com/watch?v=kYKebKB3-d0</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=kYKebKB3-d0</guid>
-      <description>Speaker 1 | 00:00 - 00:27
-The SaaS apocalypse or the next era of software, if you will. I'm really excited about it, and I think Figma and a lot of other SaaS businesses are too. Because, like, I've worked in developer tools for a long time, and maybe five, ten years ago, the estimate of, like, number of developers worldwide was, like, 25,000,000, 30,000,000, 40,000,000, give or take. I think what's most exciting about this time is that I think it's gonna be, like, a billion, maybe even more tha...</description>
-      <pubDate>Wed, 03 Jun 2026 15:00:00 +0000</pubDate>
+      <title>[Unsupervised Learning] Ep 89: AI Research Legend’s Honest Assessment of Where We Are</title>
+      <link>https://www.youtube.com/watch?v=N1geOimmdDo</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=N1geOimmdDo</guid>
+      <description>Speaker 1 | 00:00 - 00:04
+Is reasoning enough to get to generalization, or is another method needed?
+
+Speaker 2 | 00:04 - 00:08
+It does feel like there is something else that possibly could generalize much better.
+
+Speaker 1 | 00:08 - 00:12
+Why do you think Anthropic was the first to be, like, really successful on the coding side?
+
+Speaker 2 | 00:12 - 00:21
+Anthropic made this very good decision to focus on coding. OpenAI was like, we're doing chat GPT. Partway Anthropic made this decision was t...</description>
+      <pubDate>Wed, 03 Jun 2026 12:50:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
