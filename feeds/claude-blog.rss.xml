@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Building intelligent apps for Apple platforms with Claude in the Foundation Models framework</title>
+      <link>https://claude.com/blog/claude-for-foundation-models</link>
+      <guid isPermaLink="true">https://claude.com/blog/claude-for-foundation-models</guid>
+      <description>Building intelligent apps for Apple platforms with Claude in the Foundation Models framework Building intelligent apps for Apple platforms with Claude in the Foundation Models framework</description>
+    </item>
+    <item>
       <title>Observability for developers building connectors</title>
       <link>https://claude.com/blog/observability-for-developers-building-connectors</link>
       <guid isPermaLink="true">https://claude.com/blog/observability-for-developers-building-connectors</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers</link>
       <guid isPermaLink="true">https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers</guid>
       <description>How Anthropic's finance team uses Claude to shape the narrative behind the numbers How Anthropic's finance team uses Claude to shape the narrative behind the numbers</description>
-    </item>
-    <item>
-      <title>Claude now works with more security and compliance tools</title>
-      <link>https://claude.com/blog/compliance-api-security-partners</link>
-      <guid isPermaLink="true">https://claude.com/blog/compliance-api-security-partners</guid>
-      <description>Claude now works with more security and compliance tools Claude now works with more security and compliance tools</description>
     </item>
   </channel>
 </rss>
