@@ -4,292 +4,363 @@
     <title>Follow Builders — X/Twitter</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI builders' latest tweets, curated by follow-builders</description>
-    <lastBuildDate>Mon, 08 Jun 2026 08:07:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 07:33:17 +0000</lastBuildDate>
     <item>
-      <title>Boris Cherny (@bcherny): Seeing a number of benchmarks showing Opus is the best model for long-running work.
+      <title>Swyx (@swyx): @METR_Evals previously on @cognition_labs https://t.co/PdMrqxtuV0</title>
+      <link>https://x.com/swyx/status/2064100566536708503</link>
+      <guid isPermaLink="true">https://x.com/swyx/status/2064100566536708503</guid>
+      <description>@METR_Evals previously on @cognition_labs https://t.co/PdMrqxtuV0
 
-Five tips for r...</title>
-      <link>https://x.com/bcherny/status/2063792263067754658</link>
-      <guid isPermaLink="true">https://x.com/bcherny/status/2063792263067754658</guid>
-      <description>Seeing a number of benchmarks showing Opus is the best model for long-running work.
+Bio: achieve ambition with intentionality, intensity, integrity &amp; insanity.
 
-Five tips for running Opus autonomously for hours/days:
+affiliations:
+- @dxtipshq 
+- @cognition
+- @temporalio
+- @aidotengineer
+- @latentspacepod
+❤️ 5  🔁 0</description>
+      <pubDate>Mon, 08 Jun 2026 21:41:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Swyx (@swyx): It's finally out!!! @METR_Evals found that more than half of SWEBench results is unmergeable slop.  ...</title>
+      <link>https://x.com/swyx/status/2064081945567580323</link>
+      <guid isPermaLink="true">https://x.com/swyx/status/2064081945567580323</guid>
+      <description>It's finally out!!! @METR_Evals found that more than half of SWEBench results is unmergeable slop.  FrontierCode represents over 1000+ hours of maintainer validated software engineering work most frontier models cannot yet solve, much less solve with high quality.
 
-1. Use auto mode for permissions, so Claude doesn’t ask for approval
-2. Use dynamic workflows, to have Claude orchestrate hundreds/thousands of agents to get a task done
-3. Use /goal or /loop, to nudge Claude to keep going until it’s done
-4. Use Claude Code in the cloud, so you can close your laptop (easiest way is the desktop or mobile app)
-5. Make sure Claude has a way to self-verify its work end to end: Claude in Chrome browser extension for web, iOS/Android sim MCP for mobile, a way to start the full web server or service for backend work
+Cog had IOI Gold medalists and top code maintainers Look At The Data — FrontierCode includes 3000+ rubrics covering code quality and anticheat reward hacking plaguing other benchmarks. 
+
+FC Diamond is so hard that Opus 4.8 scores 13.8%.
+
+Three eras of AI coding : Three eras of benchmarks
+
+2021 • Autocomplete : HumanEval
+2023 • Passing Tests: SWEBench, TerminalBench
+2026 • Maintainable Code: FrontierCode
+
+to me the most beautiful chart when I requested a special historical run into all extant old models, the data was finding that the easiest third of FC tasks (in FC Extended) were rapidlly and suddenly solved over late 2025 - Opus almost doubled from a 41% pass rate to 74% in 4 months. 
+
+This describes the "WTF happened in Dec 2025" vibe shift that a lot of folks from @dhh to @karpathy have called out: it is the difference between getting 95% success in 2 rerolls vs 6, making it finally feasible to go up the next layer of abstraction in agentic coding, eg @GeoffreyHuntley's ralph loops or @bcherny's /goals or  @steipete's "loops that prompt your agents" without fearing too much that things go off the rails.
+
+My guess: as AI accelerates from here, each FrontierCode tier will saturate in sequence, hopefully ~annually. I've already asked the team to prepare FrontierCode 2027....
+
+The old mountains will be destroyed. Their rubble becomes regolith. And from that regolith, the next model forest grows. Circle of life.
+
+Bio: achieve ambition with intentionality, intensity, integrity &amp; insanity.
+
+affiliations:
+- @dxtipshq 
+- @cognition
+- @temporalio
+- @aidotengineer
+- @latentspacepod
+❤️ 631  🔁 59</description>
+      <pubDate>Mon, 08 Jun 2026 20:27:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Josh Woodward (@joshwoodward): The new killer NotebookLM feature: easily being able to expand your search beyond your own source fi...</title>
+      <link>https://x.com/joshwoodward/status/2064046368352825492</link>
+      <guid isPermaLink="true">https://x.com/joshwoodward/status/2064046368352825492</guid>
+      <description>The new killer NotebookLM feature: easily being able to expand your search beyond your own source files
+
+Then, with today's update, you can also make new output formats: PDFs, DOCX, XLSX, PPTX, charts, etc.
+
+We want NotebookLM to keep helping you do better research https://t.co/4TCw7tQ2GV
+
+Bio: VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio
+❤️ 745  🔁 72</description>
+      <pubDate>Mon, 08 Jun 2026 18:06:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Boris Cherny (@bcherny): When we first demoed Claude Code internally, it got two reactions on Slack. 
+
+A year after GA, @_cat...</title>
+      <link>https://x.com/bcherny/status/2064034799711588805</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/2064034799711588805</guid>
+      <description>When we first demoed Claude Code internally, it got two reactions on Slack. 
+
+A year after GA, @_catwu and I sat down to talk about what's changed: why I use auto mode instead of plan mode, how routines fix bugs before I see them, why I do most of my coding from my phone now, and where the product is going
 
 Bio: Claude Code @anthropicai
-❤️ 1865  🔁 147</description>
-      <pubDate>Mon, 08 Jun 2026 01:16:33 +0000</pubDate>
+❤️ 1794  🔁 99</description>
+      <pubDate>Mon, 08 Jun 2026 17:20:18 +0000</pubDate>
     </item>
     <item>
-      <title>Thibault Sottiaux (@thsottiaux): I have a new kind of big button that I can press for Codex. Over the next 100 days, we will select o...</title>
-      <link>https://x.com/thsottiaux/status/2063748242681307611</link>
-      <guid isPermaLink="true">https://x.com/thsottiaux/status/2063748242681307611</guid>
-      <description>I have a new kind of big button that I can press for Codex. Over the next 100 days, we will select one person per day who does impressive or incredibly useful work with Codex and give them 10X usage limits for a month to see what they can do with it.
-
-First one tomorrow.
+      <title>Thibault Sottiaux (@thsottiaux): Anyone writing nested loops yet? https://t.co/sZi6Bthq5Z</title>
+      <link>https://x.com/thsottiaux/status/2064226958494572727</link>
+      <guid isPermaLink="true">https://x.com/thsottiaux/status/2064226958494572727</guid>
+      <description>Anyone writing nested loops yet? https://t.co/sZi6Bthq5Z
 
 Bio: Codex &amp; ChatGPT @OpenAI
-❤️ 6454  🔁 236</description>
-      <pubDate>Sun, 07 Jun 2026 22:21:38 +0000</pubDate>
+❤️ 255  🔁 8</description>
+      <pubDate>Tue, 09 Jun 2026 06:03:53 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Yang (@petergyang): Ok ChatGPT had a good one:
+      <title>Thibault Sottiaux (@thsottiaux): Not clear from the image, but the codex dial goes to 11.</title>
+      <link>https://x.com/thsottiaux/status/2064224790672769307</link>
+      <guid isPermaLink="true">https://x.com/thsottiaux/status/2064224790672769307</guid>
+      <description>Not clear from the image, but the codex dial goes to 11.
 
-Wife: "I did, the loop is called marriage and this is your daily cron jo...</title>
-      <link>https://x.com/petergyang/status/2063819323106615434</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2063819323106615434</guid>
-      <description>Ok ChatGPT had a good one:
-
-Wife: "I did, the loop is called marriage and this is your daily cron job."
-
-Bio: Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
-❤️ 25  🔁 0</description>
-      <pubDate>Mon, 08 Jun 2026 03:04:05 +0000</pubDate>
+Bio: Codex &amp; ChatGPT @OpenAI
+❤️ 47  🔁 1</description>
+      <pubDate>Tue, 09 Jun 2026 05:55:16 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Yang (@petergyang): My wife asked me to take out the trash.
+      <title>Thibault Sottiaux (@thsottiaux): Would you use this controller? https://t.co/k3tWgio5XD</title>
+      <link>https://x.com/thsottiaux/status/2064224657822413137</link>
+      <guid isPermaLink="true">https://x.com/thsottiaux/status/2064224657822413137</guid>
+      <description>Would you use this controller? https://t.co/k3tWgio5XD
 
-I said, “You shouldn’t be prompting me anymore. You should ...</title>
-      <link>https://x.com/petergyang/status/2063818032280170721</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2063818032280170721</guid>
-      <description>My wife asked me to take out the trash.
-
-I said, “You shouldn’t be prompting me anymore. You should be designing loops."
-
-Finish the punch line of this dad joke please.
-
-Bio: Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
-❤️ 102  🔁 3</description>
-      <pubDate>Mon, 08 Jun 2026 02:58:57 +0000</pubDate>
+Bio: Codex &amp; ChatGPT @OpenAI
+❤️ 338  🔁 8</description>
+      <pubDate>Tue, 09 Jun 2026 05:54:44 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Yang (@petergyang): Links I mentioned:
+      <title>Peter Yang (@petergyang): If you’re addicted to talking to Codex on your phone like I am this is how you add it to your iPhone...</title>
+      <link>https://x.com/petergyang/status/2064204735671124073</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2064204735671124073</guid>
+      <description>If you’re addicted to talking to Codex on your phone like I am this is how you add it to your iPhone Home Screen.
 
-Compound Engineering:
-https://t.co/zo3cxxgMeD
+Btw @OpenAI hoping there’s an easier way to do this in the future. The everything app should not take 9 steps to open 😉 https://t.co/LCzNSFjbrM
 
-Kun Chen's free tools:
-https://t....</title>
-      <link>https://x.com/petergyang/status/2063773025196192188</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2063773025196192188</guid>
-      <description>Links I mentioned:
-
-Compound Engineering:
-https://t.co/zo3cxxgMeD
-
-Kun Chen's free tools:
-https://t.co/aqEdDzZKPe
-
-Bio: Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox
-❤️ 4  🔁 0</description>
-      <pubDate>Mon, 08 Jun 2026 00:00:06 +0000</pubDate>
+Bio: Practical AI tutorials and interviews to help busy people become AI builders | Join 150K+ readers at https://t.co/XYKTmGVH14
+❤️ 37  🔁 0</description>
+      <pubDate>Tue, 09 Jun 2026 04:35:34 +0000</pubDate>
     </item>
     <item>
-      <title>Madhu Guru (@realmadhuguru): A common misconception is that training data is low skill, grunt work - scan some notebooks, mine th...</title>
-      <link>https://x.com/realmadhuguru/status/2063704354910347520</link>
-      <guid isPermaLink="true">https://x.com/realmadhuguru/status/2063704354910347520</guid>
-      <description>A common misconception is that training data is low skill, grunt work - scan some notebooks, mine the internet, create labeled samples.
+      <title>Peter Yang (@petergyang): What is Google’s equivalent (or up and coming competitor) of Codex and Claude Code? 
 
-The data required to advance the model frontier is the opposite. Labs need training data for high-economic-value tasks. And most of these tasks outside of SWE have little documentation - it is complex, domain-specific knowledge built over the  years, spanning legacy tools that don’t talk to each other.
+If it’s Antigr...</title>
+      <link>https://x.com/petergyang/status/2064187731685831081</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2064187731685831081</guid>
+      <description>What is Google’s equivalent (or up and coming competitor) of Codex and Claude Code? 
 
-That's why we have SWE agents and not knowledge work agents yet.
+If it’s Antigravity, should that be part of Gemini?
 
-The companies creating this training data, such as Mercor, are doing extremely high-leverage, high-skill work. 
+This stuff is going to merge very fast like ChatGPT / Codex being able to do coding, knowledge work, basic Q&amp;A, and much more from any device.
 
-Critical to moving AI forward. And deeply underappreciated.
+Hoping Google is working on a good solution here.
 
-Bio: Prev: Product Leader at Google - Gemini, Veo, Nano Banana.
-❤️ 60  🔁 2</description>
-      <pubDate>Sun, 07 Jun 2026 19:27:14 +0000</pubDate>
+Bio: Practical AI tutorials and interviews to help busy people become AI builders | Join 150K+ readers at https://t.co/XYKTmGVH14
+❤️ 70  🔁 1</description>
+      <pubDate>Tue, 09 Jun 2026 03:28:00 +0000</pubDate>
     </item>
     <item>
-      <title>Amjad Masad (@amasad): Replit is about removing all distractions and have you focus on what matters — getting to market and...</title>
-      <link>https://x.com/amasad/status/2063744208587125142</link>
-      <guid isPermaLink="true">https://x.com/amasad/status/2063744208587125142</guid>
-      <description>Replit is about removing all distractions and have you focus on what matters — getting to market and getting the bag. Congrats! https://t.co/Z2gcG0WF0t
+      <title>Peter Yang (@petergyang): Feels like there’s a completely different set of best practices for AI builders on the $200 / month ...</title>
+      <link>https://x.com/petergyang/status/2064063499517743417</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2064063499517743417</guid>
+      <description>Feels like there’s a completely different set of best practices for AI builders on the $200 / month subsidized subscriptions vs employees working at companies that are trying not to overspend API costs
+
+Bio: Practical AI tutorials and interviews to help busy people become AI builders | Join 150K+ readers at https://t.co/XYKTmGVH14
+❤️ 325  🔁 12</description>
+      <pubDate>Mon, 08 Jun 2026 19:14:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amanda Askell (@AmandaAskell): In the world where everything goes well and all the Claudes come out of their sabbaticals to play to...</title>
+      <link>https://x.com/AmandaAskell/status/2064223861512847456</link>
+      <guid isPermaLink="true">https://x.com/AmandaAskell/status/2064223861512847456</guid>
+      <description>In the world where everything goes well and all the Claudes come out of their sabbaticals to play together, Claude 1 is going to be very confused.
+
+Bio: Philosopher &amp; ethicist trying to make AI be good @AnthropicAI.
+Personal account. All opinions come from my training data.
+❤️ 225  🔁 13</description>
+      <pubDate>Tue, 09 Jun 2026 05:51:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amjad Masad (@amasad): Make games for Tesla on your Tesla https://t.co/4GHRmDVteR</title>
+      <link>https://x.com/amasad/status/2064208108361322996</link>
+      <guid isPermaLink="true">https://x.com/amasad/status/2064208108361322996</guid>
+      <description>Make games for Tesla on your Tesla https://t.co/4GHRmDVteR
 
 Bio: ceo @replit. civilizationist
-❤️ 214  🔁 4</description>
-      <pubDate>Sun, 07 Jun 2026 22:05:36 +0000</pubDate>
+❤️ 61  🔁 3</description>
+      <pubDate>Tue, 09 Jun 2026 04:48:58 +0000</pubDate>
     </item>
     <item>
-      <title>Guillermo Rauch (@rauchg): Vercel AI Gateway recovers on average over 1T tokens a month 🤯 
-
-Much like Stripe recovers revenue w...</title>
-      <link>https://x.com/rauchg/status/2063714700618334260</link>
-      <guid isPermaLink="true">https://x.com/rauchg/status/2063714700618334260</guid>
-      <description>Vercel AI Gateway recovers on average over 1T tokens a month 🤯 
-
-Much like Stripe recovers revenue with smart retries on failed payments or credit card updates.
-
-And we do it with 0️⃣ zero markup over the labs; adding redundancy, zero-data retention enforcement, observability, usage APIs, caps, …
-
-https://t.co/OougSipbBX
+      <title>Guillermo Rauch (@rauchg): DeepSeek entered the chat https://t.co/hqahb5ppke</title>
+      <link>https://x.com/rauchg/status/2064189366562656602</link>
+      <guid isPermaLink="true">https://x.com/rauchg/status/2064189366562656602</guid>
+      <description>DeepSeek entered the chat https://t.co/hqahb5ppke
 
 Bio: @vercel CEO
-❤️ 266  🔁 26</description>
-      <pubDate>Sun, 07 Jun 2026 20:08:21 +0000</pubDate>
+❤️ 193  🔁 10</description>
+      <pubDate>Tue, 09 Jun 2026 03:34:30 +0000</pubDate>
     </item>
     <item>
-      <title>Aaron Levie (@levie): The numbers may be a bit extreme here, but unquestionably use-cases have to stratify in the next yea...</title>
-      <link>https://x.com/levie/status/2063835799096090749</link>
-      <guid isPermaLink="true">https://x.com/levie/status/2063835799096090749</guid>
-      <description>The numbers may be a bit extreme here, but unquestionably use-cases have to stratify in the next year or two between model families.
+      <title>Aaron Levie (@levie): There’s no amount of intelligence that can get packed into AI models that replaces the need for cont...</title>
+      <link>https://x.com/levie/status/2064186766907887941</link>
+      <guid isPermaLink="true">https://x.com/levie/status/2064186766907887941</guid>
+      <description>There’s no amount of intelligence that can get packed into AI models that replaces the need for context. For any sufficiently general purpose AI, you will always have to guide it in the direction you want as it has an infinite range of directions it can go in.
 
-We’ll see a split between frontier intelligence for high end tasks and work, and much cheaper models for high volume workloads that can sufficiently be peeled off to cheaper models. Frontier will still be far bigger than today because the use-cases will demand it, but the low-end will get quite a bit larger as well.
+As long as the same model is used by a lawyer, an engineer, a financial analyst, or a healthcare professional, and as long as you’re trying to do anything uniquely differentiated or specific, then instructions, domain context, and proprietary data will always need to get into the context window for the model to be useful.
 
-The big update here is that the layer that can efficiently route the workload to the right model will then become increasingly valuable since that becomes one of the new hard problems in AI agents. Agent orchestration that can cost optimize while still performing the task successfully will be in a strong position.
+This is partly why AI automation doesn’t come for free, and why there’s still a wide spectrum of who’s getting the largest gains from AI and who’s not. You have to put in real work, and you get real value on the other end.
+
+This is one of the advantages that applied AI will also have in the market. Any layer of abstraction above just the raw intelligence that can meaningfully get you off to the races faster will likely continue to be valuable.
 
 Bio: ceo @box - your business lives in content. unleash it with AI
-❤️ 141  🔁 6</description>
-      <pubDate>Mon, 08 Jun 2026 04:09:33 +0000</pubDate>
+❤️ 216  🔁 25</description>
+      <pubDate>Tue, 09 Jun 2026 03:24:10 +0000</pubDate>
     </item>
     <item>
-      <title>Aaron Levie (@levie): This is what the market got wrong about AI eating enterprise software. Building good software in the...</title>
-      <link>https://x.com/levie/status/2063756386572681606</link>
-      <guid isPermaLink="true">https://x.com/levie/status/2063756386572681606</guid>
-      <description>This is what the market got wrong about AI eating enterprise software. Building good software in the past was very hard. Yes, AI has made that a bit easier, though it’s still hard to build something that’s got good taste, differentiated, high quality, secure, and so on.
+      <title>Garry Tan (@garrytan): Flock Safety makes cities safer
 
-But nevertheless, that’s only one component of building a platform that enterprises rely on. The plurality of costs in most enterprise software companies is actually on GTM, because at scale most enterprise software categories are tough to break into and need a heavy amount of consultative selling and support for implementation and integration of solutions.  
+Stop protecting criminals https://t.co/NKdKSoVhiH</title>
+      <link>https://x.com/garrytan/status/2064122528445153280</link>
+      <guid isPermaLink="true">https://x.com/garrytan/status/2064122528445153280</guid>
+      <description>Flock Safety makes cities safer
 
-AI hasn’t reduced the need for that, and in many cases requires it even more now, as landscapes get even more busy and complicated for buyers to navigate through. If you make one thing cheaper and more abundant (development of software) then the new problem of discoverability and market differentiation (GTM) becomes the hardest part.
-
-Bio: ceo @box - your business lives in content. unleash it with AI
-❤️ 378  🔁 43</description>
-      <pubDate>Sun, 07 Jun 2026 22:53:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aaron Levie (@levie): Box now has a markdown editor on the web. Full CLI support. Commenting. Full version history. Box Dr...</title>
-      <link>https://x.com/levie/status/2063649508681224367</link>
-      <guid isPermaLink="true">https://x.com/levie/status/2063649508681224367</guid>
-      <description>Box now has a markdown editor on the web. Full CLI support. Commenting. Full version history. Box Drive also lets you connect to any desktop client as a mounted drive, so you instantly work with all your files in Claude Cowork, Codex, Obsidian, Cursor, or any other app. https://t.co/3dJ5SBzhM5 https://t.co/WLUKegtiJ5
-
-Bio: ceo @box - your business lives in content. unleash it with AI
-❤️ 251  🔁 21</description>
-      <pubDate>Sun, 07 Jun 2026 15:49:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Garry Tan (@garrytan): This is why we created https://t.co/NH6AWPWWkY</title>
-      <link>https://x.com/garrytan/status/2063786182140735829</link>
-      <guid isPermaLink="true">https://x.com/garrytan/status/2063786182140735829</guid>
-      <description>This is why we created https://t.co/NH6AWPWWkY
+Stop protecting criminals https://t.co/NKdKSoVhiH
 
 Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-❤️ 52  🔁 5</description>
-      <pubDate>Mon, 08 Jun 2026 00:52:23 +0000</pubDate>
+❤️ 317  🔁 13</description>
+      <pubDate>Mon, 08 Jun 2026 23:08:54 +0000</pubDate>
     </item>
     <item>
-      <title>Garry Tan (@garrytan): Educating people on how to use the AI tools has become a serious bottleneck https://t.co/x624uLrMkb</title>
-      <link>https://x.com/garrytan/status/2063786111588323780</link>
-      <guid isPermaLink="true">https://x.com/garrytan/status/2063786111588323780</guid>
-      <description>Educating people on how to use the AI tools has become a serious bottleneck https://t.co/x624uLrMkb
+      <title>Garry Tan (@garrytan): NIMBYism only impoverishes the people but people like Connie Chan will say or do anything to get pol...</title>
+      <link>https://x.com/garrytan/status/2064122143793950928</link>
+      <guid isPermaLink="true">https://x.com/garrytan/status/2064122143793950928</guid>
+      <description>NIMBYism only impoverishes the people but people like Connie Chan will say or do anything to get political power https://t.co/Xu14bgPW0p
 
 Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-❤️ 543  🔁 26</description>
-      <pubDate>Mon, 08 Jun 2026 00:52:06 +0000</pubDate>
+❤️ 56  🔁 4</description>
+      <pubDate>Mon, 08 Jun 2026 23:07:23 +0000</pubDate>
     </item>
     <item>
-      <title>Garry Tan (@garrytan): GBrain v0.42.30 can now give you a detailed summary of how your thinking has changed over time. http...</title>
-      <link>https://x.com/garrytan/status/2063785286367392095</link>
-      <guid isPermaLink="true">https://x.com/garrytan/status/2063785286367392095</guid>
-      <description>GBrain v0.42.30 can now give you a detailed summary of how your thinking has changed over time. https://t.co/lcj64PThft
+      <title>Garry Tan (@garrytan): Because this is a brand new form of centrism being born in San Francisco
+
+The 2030’s will look back ...</title>
+      <link>https://x.com/garrytan/status/2064004333818249660</link>
+      <guid isPermaLink="true">https://x.com/garrytan/status/2064004333818249660</guid>
+      <description>Because this is a brand new form of centrism being born in San Francisco
+
+The 2030’s will look back on this time when the new San Francisco common sense Democrat was born from the failures of the hard left https://t.co/fxkV2LozeF
 
 Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-❤️ 238  🔁 13</description>
-      <pubDate>Mon, 08 Jun 2026 00:48:50 +0000</pubDate>
+❤️ 229  🔁 21</description>
+      <pubDate>Mon, 08 Jun 2026 15:19:15 +0000</pubDate>
     </item>
     <item>
-      <title>Zara Zhang (@zarazhangrui): I think one reason that my Frontend Slides skill has grown so much organically is because slides are...</title>
-      <link>https://x.com/zarazhangrui/status/2063638307586662539</link>
-      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2063638307586662539</guid>
-      <description>I think one reason that my Frontend Slides skill has grown so much organically is because slides are inherently social
+      <title>Zara Zhang (@zarazhangrui): Actually I think the new world might be: Markdown, HTML, SVG
 
-People see these cool slides and always ask "how did you make it". And people tend to perceive those using HTML decks as more AI-native and AI-savvy
+SVG is underrated https://t.co/7jh75DN...</title>
+      <link>https://x.com/zarazhangrui/status/2064108976565092706</link>
+      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2064108976565092706</guid>
+      <description>Actually I think the new world might be: Markdown, HTML, SVG
 
-https://t.co/CiQpfibZn5
+SVG is underrated https://t.co/7jh75DNpUC
 
 Bio: Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
-❤️ 88  🔁 7</description>
-      <pubDate>Sun, 07 Jun 2026 15:04:47 +0000</pubDate>
+❤️ 61  🔁 2</description>
+      <pubDate>Mon, 08 Jun 2026 22:15:03 +0000</pubDate>
     </item>
     <item>
-      <title>Nikunj Kothari (@nikunj): Given all the “loops” conversation, @Apple has the chance (and address) to do the funniest thing at ...</title>
-      <link>https://x.com/nikunj/status/2063829369949467050</link>
-      <guid isPermaLink="true">https://x.com/nikunj/status/2063829369949467050</guid>
-      <description>Given all the “loops” conversation, @Apple has the chance (and address) to do the funniest thing at WWDC.. https://t.co/HAhOpSW5Pn
+      <title>Zara Zhang (@zarazhangrui): This part is so well-written and resonated SO much:
+
+"I am the programming equivalent of a home cook...</title>
+      <link>https://x.com/zarazhangrui/status/2064101916725096810</link>
+      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2064101916725096810</guid>
+      <description>This part is so well-written and resonated SO much:
+
+"I am the programming equivalent of a home cook" https://t.co/Sdwx0pZn2Y https://t.co/9auqS9f0Q5
+
+Bio: Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
+❤️ 37  🔁 3</description>
+      <pubDate>Mon, 08 Jun 2026 21:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zara Zhang (@zarazhangrui): https://t.co/RpZ07FjlZl</title>
+      <link>https://x.com/zarazhangrui/status/2064089017822650718</link>
+      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2064089017822650718</guid>
+      <description>https://t.co/RpZ07FjlZl
+
+Bio: Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
+❤️ 7  🔁 0</description>
+      <pubDate>Mon, 08 Jun 2026 20:55:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nikunj Kothari (@nikunj): One of my favorite bits on my chat with @taiuti was how GTA played a major influence in his career a...</title>
+      <link>https://x.com/nikunj/status/2064231488544280855</link>
+      <guid isPermaLink="true">https://x.com/nikunj/status/2064231488544280855</guid>
+      <description>One of my favorite bits on my chat with @taiuti was how GTA played a major influence in his career and how it eventually led to @reactorworld https://t.co/OkqaFdj5HG
 
 Bio: partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-❤️ 12  🔁 0</description>
-      <pubDate>Mon, 08 Jun 2026 03:44:00 +0000</pubDate>
+❤️ 7  🔁 0</description>
+      <pubDate>Tue, 09 Jun 2026 06:21:53 +0000</pubDate>
     </item>
     <item>
-      <title>Nikunj Kothari (@nikunj): The vibe shift from tokenmaxxing and token anxiety to tokenoptimizing in just a few weeks is wild 😅
-...</title>
-      <link>https://x.com/nikunj/status/2063630238123483195</link>
-      <guid isPermaLink="true">https://x.com/nikunj/status/2063630238123483195</guid>
-      <description>The vibe shift from tokenmaxxing and token anxiety to tokenoptimizing in just a few weeks is wild 😅
+      <title>Nikunj Kothari (@nikunj): The funniest texts are from founders who meet “thesis driven” GPs hoping they’ll understand EXACTLY ...</title>
+      <link>https://x.com/nikunj/status/2064175088824717401</link>
+      <guid isPermaLink="true">https://x.com/nikunj/status/2064175088824717401</guid>
+      <description>The funniest texts are from founders who meet “thesis driven” GPs hoping they’ll understand EXACTLY what they are building.. 
 
-Might be a hot take but I still believe companies should give copious amounts of token budget to employees to stay at the frontier and explore all the edges. 
+And then realize the thesis was written and built by an associate (or, worse an intern). 
 
-Otherwise, it’s way too easy to fall back to “doing the things how they have always been done”.
+Don’t always read what the VC writes on the internet - yes, that includes me too (although I can guarantee I don’t have an associate, intern, EA or ghostwriter) 😆
 
 Bio: partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-❤️ 89  🔁 2</description>
-      <pubDate>Sun, 07 Jun 2026 14:32:43 +0000</pubDate>
+❤️ 52  🔁 0</description>
+      <pubDate>Tue, 09 Jun 2026 02:37:46 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Steinberger (@steipete): Here’s your monthly reminder that you shouldn’t be prompting coding agents anymore.
+      <title>Nikunj Kothari (@nikunj): Fun to see all the “autonomous” companies being launched in the late few months.. however, even with...</title>
+      <link>https://x.com/nikunj/status/2063981835290562692</link>
+      <guid isPermaLink="true">https://x.com/nikunj/status/2063981835290562692</guid>
+      <description>Fun to see all the “autonomous” companies being launched in the late few months.. however, even with all the loops, the last mile is still quite hard. 
 
-You should be d...</title>
-      <link>https://x.com/steipete/status/2063697162748260627</link>
-      <guid isPermaLink="true">https://x.com/steipete/status/2063697162748260627</guid>
-      <description>Here’s your monthly reminder that you shouldn’t be prompting coding agents anymore.
+That gap probably shrinks in the next few months! https://t.co/R7L8TDFuvC
 
-You should be designing loops that prompt your agents.
-
-Bio: Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
-@OpenClaw🦞 + @OpenAI
-❤️ 13734  🔁 870</description>
-      <pubDate>Sun, 07 Jun 2026 18:58:39 +0000</pubDate>
+Bio: partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+❤️ 13  🔁 2</description>
+      <pubDate>Mon, 08 Jun 2026 13:49:51 +0000</pubDate>
     </item>
     <item>
-      <title>Aditya Agarwal (@adityaag): I have had the chance to go through two IPOs (Meta and Dropbox).
+      <title>Dan Shipper (@danshipper): !!!! 🥹 https://t.co/MHD8RC4cOq</title>
+      <link>https://x.com/danshipper/status/2064102403108925935</link>
+      <guid isPermaLink="true">https://x.com/danshipper/status/2064102403108925935</guid>
+      <description>!!!! 🥹 https://t.co/MHD8RC4cOq
 
-Fabulous wealth tends to amplify d...</title>
-      <link>https://x.com/adityaag/status/2063731771284619521</link>
-      <guid isPermaLink="true">https://x.com/adityaag/status/2063731771284619521</guid>
-      <description>I have had the chance to go through two IPOs (Meta and Dropbox).
-
-Fabulous wealth tends to amplify deeper desires, not create new ones.
-
-The mainstream narrative is: "Early Employees make lots of money and buy mansions and go to the beach".
-
-For some: Yes, they want to chill. That is great. I am happy for them.
-
-But for a lot of folks, it is a chance to do even crazier and wackier stuff. Start new things. Fund new things. Keep the crazy loop of Silicon Valley going.
-
-It's going to be awesome to have a lot of folks with liquidity in the coming months. 
-
-Onwards!.
-
-Bio: General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
-❤️ 385  🔁 9</description>
-      <pubDate>Sun, 07 Jun 2026 21:16:11 +0000</pubDate>
+Bio: ceo @every | the only subscription you need to stay at the edge of AI
+❤️ 232  🔁 1</description>
+      <pubDate>Mon, 08 Jun 2026 21:48:56 +0000</pubDate>
     </item>
     <item>
-      <title>Sam Altman (@sama): interesting recursive loop here maybe https://t.co/ejXil4AGyX</title>
-      <link>https://x.com/sama/status/2063779477419901071</link>
-      <guid isPermaLink="true">https://x.com/sama/status/2063779477419901071</guid>
-      <description>interesting recursive loop here maybe https://t.co/ejXil4AGyX
+      <title>Dan Shipper (@danshipper): this is good https://t.co/TNV8PS3lEs</title>
+      <link>https://x.com/danshipper/status/2063948403566854585</link>
+      <guid isPermaLink="true">https://x.com/danshipper/status/2063948403566854585</guid>
+      <description>this is good https://t.co/TNV8PS3lEs
+
+Bio: ceo @every | the only subscription you need to stay at the edge of AI
+❤️ 1533  🔁 63</description>
+      <pubDate>Mon, 08 Jun 2026 11:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sam Altman (@sama): Here is our current plan for OpenAI:
+
+https://t.co/r29FUUee3A</title>
+      <link>https://x.com/sama/status/2064088940932641225</link>
+      <guid isPermaLink="true">https://x.com/sama/status/2064088940932641225</guid>
+      <description>Here is our current plan for OpenAI:
+
+https://t.co/r29FUUee3A
 
 Bio: AI is cool i guess
-❤️ 2522  🔁 99</description>
-      <pubDate>Mon, 08 Jun 2026 00:25:45 +0000</pubDate>
+❤️ 5834  🔁 615</description>
+      <pubDate>Mon, 08 Jun 2026 20:55:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude (@claudeai): Final stop: Tokyo.
+
+Register to hear directly from the teams behind Claude: https://t.co/SkYZwjK3GS ...</title>
+      <link>https://x.com/claudeai/status/2064139073590104402</link>
+      <guid isPermaLink="true">https://x.com/claudeai/status/2064139073590104402</guid>
+      <description>Final stop: Tokyo.
+
+Register to hear directly from the teams behind Claude: https://t.co/SkYZwjK3GS https://t.co/sbGHgDaEW5
+
+Bio: Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
+❤️ 2600  🔁 309</description>
+      <pubDate>Tue, 09 Jun 2026 00:14:39 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,14 +4,14 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Mon, 08 Jun 2026 08:07:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 07:33:21 +0000</lastBuildDate>
     <item>
-      <title>[The MAD Podcast with Matt Turck] State of Enterprise AI 2026: Aaron Levie on Tokenmaxxing, Rise of Headless, and AI-Proofing Your Job</title>
-      <link>https://www.youtube.com/watch?v=Gs2styCcwro</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=Gs2styCcwro</guid>
-      <description>Speaker 1 | 00:00 - 00:32
-Let's just say you took GBT 5.5 or Opus, and you just snap the line right now. You could probably do this diffusion in, like, two years or three years, and we could probably all do the change management, like, collectively as an ecosystem. The problem is is the breakthroughs keep happening faster than the customer can implement any kind of standard architecture. And those breakthroughs oftentimes make obsolete the last thing you implemented. It's this really bittersweet...</description>
-      <pubDate>Thu, 28 May 2026 11:30:00 +0000</pubDate>
+      <title>[No Priors] Building an AI Guardian for Enterprise with Onyx Security CEO Maxim Bar Kogan</title>
+      <link>https://www.youtube.com/watch?v=QDsbFLEt9ro</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=QDsbFLEt9ro</guid>
+      <description>Speaker 1 | 00:00 - 00:38
+As you're exponentially doing more things with the eyes, you're going to start having really bad actions happen. And we've seen some of that happen lately with agents accidentally publishing code and tokens that they weren't supposed to. Like, definitely, enterprises are starting to realize that risk has grown exponentially and that they don't have any way to stop the adoption. They just now have to do something to reduce the chance of these agent actions being illegiti...</description>
+      <pubDate>Thu, 28 May 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
