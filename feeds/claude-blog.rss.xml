@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults</title>
+      <link>https://claude.com/blog/whats-new-in-claude-managed-agents</link>
+      <guid isPermaLink="true">https://claude.com/blog/whats-new-in-claude-managed-agents</guid>
+      <description>New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults</description>
+    </item>
+    <item>
       <title>Building intelligent apps for Apple platforms with Claude in the Foundation Models framework</title>
       <link>https://claude.com/blog/claude-for-foundation-models</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-for-foundation-models</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build</link>
       <guid isPermaLink="true">https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build</guid>
       <description>Code w/ Claude London 2026: Rethinking how we build Code w/ Claude London 2026: Rethinking how we build</description>
-    </item>
-    <item>
-      <title>How Anthropic's finance team uses Claude to shape the narrative behind the numbers</title>
-      <link>https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers</link>
-      <guid isPermaLink="true">https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers</guid>
-      <description>How Anthropic's finance team uses Claude to shape the narrative behind the numbers How Anthropic's finance team uses Claude to shape the narrative behind the numbers</description>
     </item>
   </channel>
 </rss>
