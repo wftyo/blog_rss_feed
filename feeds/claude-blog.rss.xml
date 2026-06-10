@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>The evolution of agentic surfaces: building with Claude Managed Agents</title>
+      <link>https://claude.com/blog/building-with-claude-managed-agents</link>
+      <guid isPermaLink="true">https://claude.com/blog/building-with-claude-managed-agents</guid>
+      <description>The evolution of agentic surfaces: building with Claude Managed Agents The evolution of agentic surfaces: building with Claude Managed Agents</description>
+    </item>
+    <item>
       <title>New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults</title>
       <link>https://claude.com/blog/whats-new-in-claude-managed-agents</link>
       <guid isPermaLink="true">https://claude.com/blog/whats-new-in-claude-managed-agents</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/zero-trust-for-ai-agents</link>
       <guid isPermaLink="true">https://claude.com/blog/zero-trust-for-ai-agents</guid>
       <description>Zero Trust for AI agents Zero Trust for AI agents</description>
-    </item>
-    <item>
-      <title>Code w/ Claude London 2026: Rethinking how we build</title>
-      <link>https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build</link>
-      <guid isPermaLink="true">https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build</guid>
-      <description>Code w/ Claude London 2026: Rethinking how we build Code w/ Claude London 2026: Rethinking how we build</description>
     </item>
   </channel>
 </rss>
