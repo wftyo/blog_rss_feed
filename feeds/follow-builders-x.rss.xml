@@ -4,21 +4,14 @@
     <title>Follow Builders — X/Twitter</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI builders' latest tweets, curated by follow-builders</description>
-    <lastBuildDate>Sun, 14 Jun 2026 07:54:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 08:30:08 +0000</lastBuildDate>
     <item>
-      <title>Swyx (@swyx): Last chance to fill out the annual AI Engineering Survey this weekend and win great Vercel + Notion ...</title>
-      <link>https://x.com/swyx/status/2065909887025168887</link>
-      <guid isPermaLink="true">https://x.com/swyx/status/2065909887025168887</guid>
-      <description>Last chance to fill out the annual AI Engineering Survey this weekend and win great Vercel + Notion + AIE tix!
+      <title>Swyx (@swyx): havent seen many people outside anthropic ultracode yet. this thing is scarily good at burning token...</title>
+      <link>https://x.com/swyx/status/2066415484149633329</link>
+      <guid isPermaLink="true">https://x.com/swyx/status/2066415484149633329</guid>
+      <description>havent seen many people outside anthropic ultracode yet. this thing is scarily good at burning tokens but you need to set up your repo to parallelize properly to make use of the fanout that i think subagents are best at.
 
-link below 
-
-we had @devinai analyze registered attendee list and output a live chart of the people coming to the conference. it ended up being the single best data driven storytelling i've ever seen on what kind of community we are gathering in two weeks.
-
-survey link here!
-https://t.co/2oilc5lCDm
-
-no lurking, fill it out pls
+basically the idea is "subroutines but intelligent". when you undersatnd just how much knowledge work is just yakshaves after yakshaves that require some judgment and intelligence, you start to appreciate that dynamic workflows are not just for coding tasks...
 
 Bio: achieve ambition with intentionality, intensity, integrity &amp; insanity.
 
@@ -28,14 +21,22 @@ affiliations:
 - @temporalio
 - @aidotengineer
 - @latentspacepod
-❤️ 31  🔁 5</description>
-      <pubDate>Sat, 13 Jun 2026 21:31:14 +0000</pubDate>
+❤️ 45  🔁 2</description>
+      <pubDate>Mon, 15 Jun 2026 07:00:18 +0000</pubDate>
     </item>
     <item>
-      <title>Swyx (@swyx): @benthompson @digg https://t.co/fRodZJjXjN</title>
-      <link>https://x.com/swyx/status/2065886536768667769</link>
-      <guid isPermaLink="true">https://x.com/swyx/status/2065886536768667769</guid>
-      <description>@benthompson @digg https://t.co/fRodZJjXjN
+      <title>Swyx (@swyx): Satya on loops as IP:
+https://t.co/87HBsQptdQ
+&gt; This is the first time we can create a real cognitiv...</title>
+      <link>https://x.com/swyx/status/2066235625695850526</link>
+      <guid isPermaLink="true">https://x.com/swyx/status/2066235625695850526</guid>
+      <description>Satya on loops as IP:
+https://t.co/87HBsQptdQ
+&gt; This is the first time we can create a real cognitive loop between people and digital systems. That is a mind-bender, because it changes how we even conceptualize work inside an enterprise.
+
+&gt; This means the real opportunity is not in picking the best model but instead in building a learning loop on top of models where human capital and token capital compound. You can offload a task, or even a job, but you can never offload your learning
+
+&gt; In my view, our priority has to be building a frontier ecosystem, not just a frontier model, so value flows broadly across every company, every industry, and every country. One where every organization can own the learning loop that encodes its institutional knowledge, compounding its human and token capital.
 
 Bio: achieve ambition with intentionality, intensity, integrity &amp; insanity.
 
@@ -45,310 +46,276 @@ affiliations:
 - @temporalio
 - @aidotengineer
 - @latentspacepod
-❤️ 1  🔁 0</description>
-      <pubDate>Sat, 13 Jun 2026 19:58:27 +0000</pubDate>
+❤️ 8  🔁 0</description>
+      <pubDate>Sun, 14 Jun 2026 19:05:36 +0000</pubDate>
     </item>
     <item>
-      <title>Thibault Sottiaux (@thsottiaux): Hi, I'm Tibo and I just discovered Codex. AMA</title>
-      <link>https://x.com/thsottiaux/status/2066022651760721931</link>
-      <guid isPermaLink="true">https://x.com/thsottiaux/status/2066022651760721931</guid>
-      <description>Hi, I'm Tibo and I just discovered Codex. AMA
+      <title>Swyx (@swyx): @DevinAI link here! https://t.co/kdtMCNXwzI</title>
+      <link>https://x.com/swyx/status/2066225354885488709</link>
+      <guid isPermaLink="true">https://x.com/swyx/status/2066225354885488709</guid>
+      <description>@DevinAI link here! https://t.co/kdtMCNXwzI
+
+Bio: achieve ambition with intentionality, intensity, integrity &amp; insanity.
+
+affiliations:
+- @dxtipshq 
+- @cognition
+- @temporalio
+- @aidotengineer
+- @latentspacepod
+❤️ 2  🔁 0</description>
+      <pubDate>Sun, 14 Jun 2026 18:24:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thibault Sottiaux (@thsottiaux): Codex can see and set its own /goal. Everything we build, we build also as a tool for the agent. Thi...</title>
+      <link>https://x.com/thsottiaux/status/2066270561081454989</link>
+      <guid isPermaLink="true">https://x.com/thsottiaux/status/2066270561081454989</guid>
+      <description>Codex can see and set its own /goal. Everything we build, we build also as a tool for the agent. This is a generalization of meta prompting, where you let the agent set its own task based on your intent. https://t.co/8xyjRjFk4v
 
 Bio: Codex &amp; ChatGPT @OpenAI
-❤️ 1442  🔁 25</description>
-      <pubDate>Sun, 14 Jun 2026 04:59:19 +0000</pubDate>
+❤️ 2232  🔁 94</description>
+      <pubDate>Sun, 14 Jun 2026 21:24:25 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Yang (@petergyang): YOLO https://t.co/nkv0dtIkBC</title>
-      <link>https://x.com/petergyang/status/2066034464120345075</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2066034464120345075</guid>
-      <description>YOLO https://t.co/nkv0dtIkBC
+      <title>Peter Yang (@petergyang): @grok do you know why? Explain to us</title>
+      <link>https://x.com/petergyang/status/2066344036030636041</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2066344036030636041</guid>
+      <description>@grok do you know why? Explain to us
 
 Bio: Practical AI tutorials and interviews to help busy people become AI builders | Join 150K+ readers at https://t.co/XYKTmGVH14
-❤️ 16  🔁 0</description>
-      <pubDate>Sun, 14 Jun 2026 05:46:15 +0000</pubDate>
+❤️ 2  🔁 0</description>
+      <pubDate>Mon, 15 Jun 2026 02:16:23 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Yang (@petergyang): We need more amazing martial arts movies (and I need 10% of my feed to be about martial arts, anime,...</title>
-      <link>https://x.com/petergyang/status/2065973599119536181</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2065973599119536181</guid>
-      <description>We need more amazing martial arts movies (and I need 10% of my feed to be about martial arts, anime, and games 😅). Go watch The Furious it's amazing. https://t.co/r89WZPluUr
+      <title>Peter Yang (@petergyang): Dumb question - Why can’t China and India train good enough teams to qualify for the World Cup?</title>
+      <link>https://x.com/petergyang/status/2066331938760314909</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2066331938760314909</guid>
+      <description>Dumb question - Why can’t China and India train good enough teams to qualify for the World Cup?
 
 Bio: Practical AI tutorials and interviews to help busy people become AI builders | Join 150K+ readers at https://t.co/XYKTmGVH14
-❤️ 11  🔁 1</description>
-      <pubDate>Sun, 14 Jun 2026 01:44:24 +0000</pubDate>
+❤️ 307  🔁 3</description>
+      <pubDate>Mon, 15 Jun 2026 01:28:19 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Yang (@petergyang): Hey @peer_rich this is happening to me too and feels like a big security exploit. 
+      <title>Peter Yang (@petergyang): Watch the interviews here:
 
-I have no idea h...</title>
-      <link>https://x.com/petergyang/status/2065841885936316797</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2065841885936316797</guid>
-      <description>Hey @peer_rich this is happening to me too and feels like a big security exploit. 
+Kieran: https://t.co/bomAyU9Utg
 
-I have no idea how "Nora" booked a meeting with me.
+Kun: https://t.co/qfug4hOuhw
 
-Can you fix this?
+Matt: htt...</title>
+      <link>https://x.com/petergyang/status/2066309743619244174</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2066309743619244174</guid>
+      <description>Watch the interviews here:
 
-cc @calcom, @dfordp11 https://t.co/SyooohQvA0
+Kieran: https://t.co/bomAyU9Utg
+
+Kun: https://t.co/qfug4hOuhw
+
+Matt: https://t.co/vPVZNwtsCu
+
+Who should I interview next?
 
 Bio: Practical AI tutorials and interviews to help busy people become AI builders | Join 150K+ readers at https://t.co/XYKTmGVH14
-❤️ 10  🔁 2</description>
-      <pubDate>Sat, 13 Jun 2026 17:01:01 +0000</pubDate>
+❤️ 7  🔁 0</description>
+      <pubDate>Mon, 15 Jun 2026 00:00:07 +0000</pubDate>
     </item>
     <item>
-      <title>Nan Yu (@thenanyu): Imagine a piece of software so powerful it completely disables the operations of tech companies, fre...</title>
-      <link>https://x.com/thenanyu/status/2065953400395555255</link>
-      <guid isPermaLink="true">https://x.com/thenanyu/status/2065953400395555255</guid>
-      <description>Imagine a piece of software so powerful it completely disables the operations of tech companies, freezing progress and rendering them worthless. Such damaging capabilities must be controlled and stopped. 
-
-Import restrictions on Jira. Now.
+      <title>Nan Yu (@thenanyu): Counterpoint: everyone pair programs now, with a robot. https://t.co/eDDgBiPAkT</title>
+      <link>https://x.com/thenanyu/status/2066190061419282602</link>
+      <guid isPermaLink="true">https://x.com/thenanyu/status/2066190061419282602</guid>
+      <description>Counterpoint: everyone pair programs now, with a robot. https://t.co/eDDgBiPAkT
 
 Bio: head of product @linear
-❤️ 34  🔁 2</description>
-      <pubDate>Sun, 14 Jun 2026 00:24:08 +0000</pubDate>
+❤️ 46  🔁 2</description>
+      <pubDate>Sun, 14 Jun 2026 16:04:33 +0000</pubDate>
     </item>
     <item>
-      <title>Madhu Guru (@realmadhuguru): Having been through many frontier model launch reviews, I have empathy for everyone involved.
+      <title>Nan Yu (@thenanyu): Modern color graders been subconsciously turning everyone into Knicks fans this whole time https://t...</title>
+      <link>https://x.com/thenanyu/status/2066189299821711401</link>
+      <guid isPermaLink="true">https://x.com/thenanyu/status/2066189299821711401</guid>
+      <description>Modern color graders been subconsciously turning everyone into Knicks fans this whole time https://t.co/YWoP1fxegg
 
-Launc...</title>
-      <link>https://x.com/realmadhuguru/status/2065911676000752122</link>
-      <guid isPermaLink="true">https://x.com/realmadhuguru/status/2065911676000752122</guid>
-      <description>Having been through many frontier model launch reviews, I have empathy for everyone involved.
-
-Launching an LLM isn't like shipping traditional software - you're making a decision about a black box with effectively infinite use cases and infinite failure modes.
-
-The tradeoffs are hard - every increase in capability expands the space of both valuable use cases and potential misuse.
-
-As a lab, you build extensive evals, you red-team, you iterate on the model. You debate tradeoffs across candidate checkpoints before choosing the best one to launch.
-
-Then early-access partners still uncover behaviors you didn't anticipate.
-
-You can never be 100% certain you've understood a frontier model. You focus on reducing the uncertainty enough to launch.
-
-As frontier models become smarter across the industry, that decision will get harder - for labs and regulators.
-
-Bio: Prev: Product Leader at Google - Gemini, Veo, Nano Banana.
-❤️ 29  🔁 0</description>
-      <pubDate>Sat, 13 Jun 2026 21:38:20 +0000</pubDate>
+Bio: head of product @linear
+❤️ 8  🔁 0</description>
+      <pubDate>Sun, 14 Jun 2026 16:01:31 +0000</pubDate>
     </item>
     <item>
-      <title>Amjad Masad (@amasad): Feels like we’re getting psyoped. The end-game here is something bigger. https://t.co/4ye6B0RyBH</title>
-      <link>https://x.com/amasad/status/2065838585358745653</link>
-      <guid isPermaLink="true">https://x.com/amasad/status/2065838585358745653</guid>
-      <description>Feels like we’re getting psyoped. The end-game here is something bigger. https://t.co/4ye6B0RyBH
+      <title>Nan Yu (@thenanyu): I was told this mayor was good at graphic design https://t.co/XnmUjC88Up</title>
+      <link>https://x.com/thenanyu/status/2066158221648134602</link>
+      <guid isPermaLink="true">https://x.com/thenanyu/status/2066158221648134602</guid>
+      <description>I was told this mayor was good at graphic design https://t.co/XnmUjC88Up
+
+Bio: head of product @linear
+❤️ 48  🔁 0</description>
+      <pubDate>Sun, 14 Jun 2026 13:58:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amjad Masad (@amasad): This is the most inspiring positive-sum vision for AI in the enterprise. https://t.co/rltvxNEw0U</title>
+      <link>https://x.com/amasad/status/2066195933969412098</link>
+      <guid isPermaLink="true">https://x.com/amasad/status/2066195933969412098</guid>
+      <description>This is the most inspiring positive-sum vision for AI in the enterprise. https://t.co/rltvxNEw0U
 
 Bio: ceo @replit. civilizationist
-❤️ 2292  🔁 104</description>
-      <pubDate>Sat, 13 Jun 2026 16:47:54 +0000</pubDate>
+❤️ 2917  🔁 150</description>
+      <pubDate>Sun, 14 Jun 2026 16:27:53 +0000</pubDate>
     </item>
     <item>
-      <title>Guillermo Rauch (@rauchg): If you don’t love her at her foggiest, you don’t deserve at her sunniest https://t.co/emfuSvU6nF</title>
-      <link>https://x.com/rauchg/status/2065856253428179357</link>
-      <guid isPermaLink="true">https://x.com/rauchg/status/2065856253428179357</guid>
-      <description>If you don’t love her at her foggiest, you don’t deserve at her sunniest https://t.co/emfuSvU6nF
+      <title>Guillermo Rauch (@rauchg): My flight to London is Starlink-enabled 😭
+
+The greatest advancement to air travel since the Wright b...</title>
+      <link>https://x.com/rauchg/status/2066315273947500699</link>
+      <guid isPermaLink="true">https://x.com/rauchg/status/2066315273947500699</guid>
+      <description>My flight to London is Starlink-enabled 😭
+
+The greatest advancement to air travel since the Wright brothers. God bless America https://t.co/vyJvpobz9R
 
 Bio: @vercel CEO
-❤️ 816  🔁 27</description>
-      <pubDate>Sat, 13 Jun 2026 17:58:07 +0000</pubDate>
+❤️ 1064  🔁 14</description>
+      <pubDate>Mon, 15 Jun 2026 00:22:06 +0000</pubDate>
     </item>
     <item>
-      <title>Aaron Levie (@levie): The layer that can route to the best AI model for the particular job is going to increase in value s...</title>
-      <link>https://x.com/levie/status/2065989559905812973</link>
-      <guid isPermaLink="true">https://x.com/levie/status/2065989559905812973</guid>
-      <description>The layer that can route to the best AI model for the particular job is going to increase in value substantially. There are at least 3 big reasons: 
+      <title>Guillermo Rauch (@rauchg): https://t.co/pYz1Gn9F9b has passed 700,000 skills. wild!
+all organic and community-driven.
+the open⎵...</title>
+      <link>https://x.com/rauchg/status/2066299732277031042</link>
+      <guid isPermaLink="true">https://x.com/rauchg/status/2066299732277031042</guid>
+      <description>https://t.co/pYz1Gn9F9b has passed 700,000 skills. wild!
+all organic and community-driven.
+the open⎵ai ecosystem!
 
-* Cost optimization: there are plenty of use cases where you need frontier intelligence for some tasks and something far cheaper for others. Even in the same task you may use frontier intelligence for planning and review of the work, but an OSS or cheaper model for the bulk of the workload. This is going to be standard across large buckets of work going forward. 
+Bio: @vercel CEO
+❤️ 389  🔁 19</description>
+      <pubDate>Sun, 14 Jun 2026 23:20:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guillermo Rauch (@rauchg): I have 🇯🇵 winning 2-0 ⚽</title>
+      <link>https://x.com/rauchg/status/2066253064957509811</link>
+      <guid isPermaLink="true">https://x.com/rauchg/status/2066253064957509811</guid>
+      <description>I have 🇯🇵 winning 2-0 ⚽
 
-* Capability maximization: despite the bitter lesson and models generally getting better in the same direction, there are still lots of differences between models. Some are better at tool use, others better at coding, and others again better at certain domains of knowledge work. The ability to route between these at different times is a huge advantage.
+Bio: @vercel CEO
+❤️ 214  🔁 4</description>
+      <pubDate>Sun, 14 Jun 2026 20:14:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aaron Levie (@levie): Great post. The companies that are able to get their unique IP, institutional knowledge, and data in...</title>
+      <link>https://x.com/levie/status/2066237607244427761</link>
+      <guid isPermaLink="true">https://x.com/levie/status/2066237607244427761</guid>
+      <description>Great post. The companies that are able to get their unique IP, institutional knowledge, and data into a format and architecture that lets them capture all of the gains and progress in AI are going to be in the best position in the future.
 
-* Risk mitigation: while the Fable situation is somewhat of a black swan, it’s possible we’re heading toward a regulatory environment where governments may restrict models at different times based on their approval mechanisms or new things they discover. This means you’re going to want flexibility in being able to deploy workloads across different providers as a form of risk mitigation.
+“the real opportunity is not in picking the best model but instead in building a learning loop on top of models where human capital and token capital compound. You can offload a task, or even a job, but you can never offload your learning. The future of the firm is the ability to compound that learning across people and AI.
 
-Ultimately, it’s going to increasingly be a a strategic advantage for the applied AI layer that they can effectively route between models. Will be very interesting to see how this evolves.
+This requires a new architectural approach where every business is able to build agentic systems that improve over time, while still retaining control over their IP. A company should be able to switch out a “generalist” model without losing the “company veteran” expertise built into their learning system.”
+
+We’re all collectively figuring out the right architecture for the future of AI. But it’s clear that so much of the power and value will accrue to wherever can best leverage any AI system against their information. This is also why the applied AI layer will also gain so much value over the coming years.
 
 Bio: ceo @box - your business lives in content. unleash it with AI
-❤️ 209  🔁 16</description>
-      <pubDate>Sun, 14 Jun 2026 02:47:49 +0000</pubDate>
+❤️ 712  🔁 74</description>
+      <pubDate>Sun, 14 Jun 2026 19:13:29 +0000</pubDate>
     </item>
     <item>
-      <title>Aaron Levie (@levie): Everyone thinks this is some kind of 4D chess or conspiracy. But it’s quite standard to try and jail...</title>
-      <link>https://x.com/levie/status/2065964446489710939</link>
-      <guid isPermaLink="true">https://x.com/levie/status/2065964446489710939</guid>
-      <description>Everyone thinks this is some kind of 4D chess or conspiracy. But it’s quite standard to try and jailbreak AI models, and by definition they would share that research with the government given that’s whole point. I don’t think Amazon assumed this would be the next move. https://t.co/DizjwNcaLG
+      <title>Aaron Levie (@levie): The big winner in all of this is going to be open weights models. This is a huge win for the field, ...</title>
+      <link>https://x.com/levie/status/2066167615618466060</link>
+      <guid isPermaLink="true">https://x.com/levie/status/2066167615618466060</guid>
+      <description>The big winner in all of this is going to be open weights models. This is a huge win for the field, as a risk that was entirely theoretical and untested 2 days ago (that a model could be pulled back), now has a new precedent that’s been set.
+
+The game theory the US should highly consider, and the risk with regulating AI at the model layer vs. applied layer, is that other countries now have even more incentive to develop sovereign AI.
+
+If at any moment a model can be become unavailable to your country’s users or businesses, this poses very real risk on relying on technology from a particular country.
+
+As a result, it forces major countries to charter their own path on AI development, which reduces America’s leadership role in this tech stack over time. The most likely solution that other countries will rely on is open weights models, which currently is generally not coming from the US.
+
+America should be considering all of these downstream implications as it decides how and where in the stack to be regulating AI. At the same time, we should be doing a ton more OSS innovation.
 
 Bio: ceo @box - your business lives in content. unleash it with AI
-❤️ 195  🔁 8</description>
-      <pubDate>Sun, 14 Jun 2026 01:08:02 +0000</pubDate>
+❤️ 564  🔁 57</description>
+      <pubDate>Sun, 14 Jun 2026 14:35:21 +0000</pubDate>
     </item>
     <item>
-      <title>Aaron Levie (@levie): This whole Fable export control situation is actually net positive to regulation discourse. It’s an ...</title>
-      <link>https://x.com/levie/status/2065842361834651996</link>
-      <guid isPermaLink="true">https://x.com/levie/status/2065842361834651996</guid>
-      <description>This whole Fable export control situation is actually net positive to regulation discourse. It’s an early peek into what AI regulation would end up looking like at scale when enacted at the model layer instead of the specific application of the AI.
-
-The government would have sole discretion over when a model can be released to the to public, based on a bunch of factors that they inherently control. 
-
-In this case, based on the available reporting, the risk is that the model can be jailbroken to deliver increased cyber exploit capabilities. The issue is that actually you want models to be able to have those capabilities on the defense side of cyber as well, and for all intents and purposes, by Anthropic’s own response, you can execute these capabilities today in other models. 
-
-So thus the whole challenge will be that you’re debating with the government, over months and months, with every model release, what these models are actually capable of and what their risks are. Inherently, there’s not only a lot of subjectivity in determining those risks, but there’s also many other factors that go into the risks being practical in the first place.
-
-The net result is that we would end up with backlog of AI releases, progress in the market inherently would dramatically slow down, and AI would start to look more like any other sclerotic industry. If this paradigm had existed 3 years ago at the start of the current AI wave, we’d likely currently be stuck on GPT-4 level intelligence at this point.
-
-This is why, wherever possible, we should be regulating the applied use of AI. We should continue to study and enforce the dangerous use of AI in cyber attacks, financial services risks, fraud, biowarfare, and other spaces. AI safety is incredibly important, but slowing down progress this early in the development of AI I suspect is net harmful.
-
-Bio: ceo @box - your business lives in content. unleash it with AI
-❤️ 318  🔁 34</description>
-      <pubDate>Sat, 13 Jun 2026 17:02:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Garry Tan (@garrytan): In AI most people are still trying to use old maps on a new territory. 
-
-Throw the maps away. It's t...</title>
-      <link>https://x.com/garrytan/status/2065877443874038203</link>
-      <guid isPermaLink="true">https://x.com/garrytan/status/2065877443874038203</guid>
-      <description>In AI most people are still trying to use old maps on a new territory. 
-
-Throw the maps away. It's time to draw new ones. The only way you can do it is walking the land.
+      <title>Garry Tan (@garrytan): Open source is the escape hatch for businesses to be able to continue to control their own destiny l...</title>
+      <link>https://x.com/garrytan/status/2066307697574862905</link>
+      <guid isPermaLink="true">https://x.com/garrytan/status/2066307697574862905</guid>
+      <description>Open source is the escape hatch for businesses to be able to continue to control their own destiny long term https://t.co/9hVUR5w6Lp
 
 Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-❤️ 1154  🔁 128</description>
-      <pubDate>Sat, 13 Jun 2026 19:22:19 +0000</pubDate>
+❤️ 327  🔁 28</description>
+      <pubDate>Sun, 14 Jun 2026 23:51:59 +0000</pubDate>
     </item>
     <item>
-      <title>Garry Tan (@garrytan): I wish the significance of the model came from more people actually using it and coming to their own...</title>
-      <link>https://x.com/garrytan/status/2065791421362352476</link>
-      <guid isPermaLink="true">https://x.com/garrytan/status/2065791421362352476</guid>
-      <description>I wish the significance of the model came from more people actually using it and coming to their own conclusions
-
-But yes most people in the world learn about it through signifiers and not through interacting with that which is signified https://t.co/TcbmeHuXGQ
+      <title>Garry Tan (@garrytan): * Basically gbrain users https://t.co/yFpFU4pn5b</title>
+      <link>https://x.com/garrytan/status/2066269513935642689</link>
+      <guid isPermaLink="true">https://x.com/garrytan/status/2066269513935642689</guid>
+      <description>* Basically gbrain users https://t.co/yFpFU4pn5b
 
 Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-❤️ 198  🔁 8</description>
-      <pubDate>Sat, 13 Jun 2026 13:40:30 +0000</pubDate>
+❤️ 32  🔁 2</description>
+      <pubDate>Sun, 14 Jun 2026 21:20:16 +0000</pubDate>
     </item>
     <item>
-      <title>Zara Zhang (@zarazhangrui): Great essay on taste and how to cultivate it
+      <title>Garry Tan (@garrytan): The next generation of young people who change the world will almost certainly be the people who are...</title>
+      <link>https://x.com/garrytan/status/2066269412391637050</link>
+      <guid isPermaLink="true">https://x.com/garrytan/status/2066269412391637050</guid>
+      <description>The next generation of young people who change the world will almost certainly be the people who are most adept at making long-running multi-stage multi-team agent tasks work extremely well, and at high volume and across every part of their personal and work lives. https://t.co/xG2qvRNdW5
 
-Taste is not just personal preference; good taste requ...</title>
-      <link>https://x.com/zarazhangrui/status/2066036778713362747</link>
-      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2066036778713362747</guid>
-      <description>Great essay on taste and how to cultivate it
-
-Taste is not just personal preference; good taste requires mastery and experience https://t.co/uuxFF7sU58
+Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+❤️ 446  🔁 41</description>
+      <pubDate>Sun, 14 Jun 2026 21:19:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zara Zhang (@zarazhangrui): You make a skill by ending with one, not starting with one</title>
+      <link>https://x.com/zarazhangrui/status/2066394505037926426</link>
+      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2066394505037926426</guid>
+      <description>You make a skill by ending with one, not starting with one
 
 Bio: Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
-❤️ 30  🔁 2</description>
-      <pubDate>Sun, 14 Jun 2026 05:55:27 +0000</pubDate>
+❤️ 8  🔁 1</description>
+      <pubDate>Mon, 15 Jun 2026 05:36:56 +0000</pubDate>
     </item>
     <item>
-      <title>Nikunj Kothari (@nikunj): Not sure which founder needs to hear this..
+      <title>Zara Zhang (@zarazhangrui): You don't make a good skill by writing a skill. 
 
-but paid partnerships and boosting “views” on X are now...</title>
-      <link>https://x.com/nikunj/status/2065889759906644146</link>
-      <guid isPermaLink="true">https://x.com/nikunj/status/2065889759906644146</guid>
-      <description>Not sure which founder needs to hear this..
+You make it by doing the thing, fixing it 20 times...</title>
+      <link>https://x.com/zarazhangrui/status/2066388749244854771</link>
+      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2066388749244854771</guid>
+      <description>You don't make a good skill by writing a skill. 
 
-but paid partnerships and boosting “views” on X are now negative signal in all VC group chats.
+You make it by doing the thing, fixing it 20 times, then telling the AI to bottle up everything you just did.
 
-I’m hoping this comes to the inflating ARR trend soon, but that might still take another cycle.
-
-Bio: partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-❤️ 98  🔁 1</description>
-      <pubDate>Sat, 13 Jun 2026 20:11:15 +0000</pubDate>
+Bio: Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
+❤️ 112  🔁 8</description>
+      <pubDate>Mon, 15 Jun 2026 05:14:04 +0000</pubDate>
     </item>
     <item>
-      <title>Nikunj Kothari (@nikunj): Obligatory - if you are the rare application startup with a live product that is in the decisions an...</title>
-      <link>https://x.com/nikunj/status/2065832948709122120</link>
-      <guid isPermaLink="true">https://x.com/nikunj/status/2065832948709122120</guid>
-      <description>Obligatory - if you are the rare application startup with a live product that is in the decisions and dollars path, I’d love to chat 👋
+      <title>Zara Zhang (@zarazhangrui): Watch on YouTube: https://t.co/t6cVHdM3Oo</title>
+      <link>https://x.com/zarazhangrui/status/2066209311404208636</link>
+      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2066209311404208636</guid>
+      <description>Watch on YouTube: https://t.co/t6cVHdM3Oo
 
-Bio: partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-❤️ 2  🔁 0</description>
-      <pubDate>Sat, 13 Jun 2026 16:25:30 +0000</pubDate>
+Bio: Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
+❤️ 9  🔁 0</description>
+      <pubDate>Sun, 14 Jun 2026 17:21:02 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Steinberger (@steipete): This shortage of chips is getting out of hand. https://t.co/vZS92xB1Lv</title>
-      <link>https://x.com/steipete/status/2065998839467933862</link>
-      <guid isPermaLink="true">https://x.com/steipete/status/2065998839467933862</guid>
-      <description>This shortage of chips is getting out of hand. https://t.co/vZS92xB1Lv
+      <title>Peter Steinberger (@steipete): Mosh + tmux/zellij is a lifesaver for bad in-flight internet. (i prefer zellij but either works)</title>
+      <link>https://x.com/steipete/status/2066427449551036469</link>
+      <guid isPermaLink="true">https://x.com/steipete/status/2066427449551036469</guid>
+      <description>Mosh + tmux/zellij is a lifesaver for bad in-flight internet. (i prefer zellij but either works)
 
 Bio: Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
 @OpenClaw🦞 + @OpenAI
-❤️ 512  🔁 23</description>
-      <pubDate>Sun, 14 Jun 2026 03:24:42 +0000</pubDate>
+❤️ 80  🔁 0</description>
+      <pubDate>Mon, 15 Jun 2026 07:47:50 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Steinberger (@steipete): Got a PayPal verification text and thought I been hacked, but it was just codex signing up for a web...</title>
-      <link>https://x.com/steipete/status/2065997212015067508</link>
-      <guid isPermaLink="true">https://x.com/steipete/status/2065997212015067508</guid>
-      <description>Got a PayPal verification text and thought I been hacked, but it was just codex signing up for a web service it needed.
-
-Bio: Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
-@OpenClaw🦞 + @OpenAI
-❤️ 1371  🔁 27</description>
-      <pubDate>Sun, 14 Jun 2026 03:18:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dan Shipper (@danshipper): dario at the wellness retreat when they told him hegseth was on the phone https://t.co/UgwQA8h7fg</title>
-      <link>https://x.com/danshipper/status/2065975981039649058</link>
-      <guid isPermaLink="true">https://x.com/danshipper/status/2065975981039649058</guid>
-      <description>dario at the wellness retreat when they told him hegseth was on the phone https://t.co/UgwQA8h7fg
+      <title>Dan Shipper (@danshipper): FREE FABLE https://t.co/nFihacLkaq</title>
+      <link>https://x.com/danshipper/status/2066217865943093514</link>
+      <guid isPermaLink="true">https://x.com/danshipper/status/2066217865943093514</guid>
+      <description>FREE FABLE https://t.co/nFihacLkaq
 
 Bio: ceo @every | the only subscription you need to stay at the edge of AI
-❤️ 74  🔁 0</description>
-      <pubDate>Sun, 14 Jun 2026 01:53:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dan Shipper (@danshipper): before and after fable ban:
-
-my claude app vs. codex app usage https://t.co/ddBRm7bp21</title>
-      <link>https://x.com/danshipper/status/2065856703397278060</link>
-      <guid isPermaLink="true">https://x.com/danshipper/status/2065856703397278060</guid>
-      <description>before and after fable ban:
-
-my claude app vs. codex app usage https://t.co/ddBRm7bp21
-
-Bio: ceo @every | the only subscription you need to stay at the edge of AI
-❤️ 146  🔁 6</description>
-      <pubDate>Sat, 13 Jun 2026 17:59:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dan Shipper (@danshipper): the last thing you see before andy jassy gets your model banned by the usg https://t.co/dz9LHpbcOn h...</title>
-      <link>https://x.com/danshipper/status/2065843763327738153</link>
-      <guid isPermaLink="true">https://x.com/danshipper/status/2065843763327738153</guid>
-      <description>the last thing you see before andy jassy gets your model banned by the usg https://t.co/dz9LHpbcOn https://t.co/1y33OySAEH
-
-Bio: ceo @every | the only subscription you need to stay at the edge of AI
-❤️ 90  🔁 2</description>
-      <pubDate>Sat, 13 Jun 2026 17:08:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aditya Agarwal (@adityaag): I have been thinking about this photo a lot.
-
-It's a beautiful testament to human civilization and o...</title>
-      <link>https://x.com/adityaag/status/2065990670184247341</link>
-      <guid isPermaLink="true">https://x.com/adityaag/status/2065990670184247341</guid>
-      <description>I have been thinking about this photo a lot.
-
-It's a beautiful testament to human civilization and our ability to reach for the stars.
-
-But the thing that I can't get over is that a *human being* took this photo. From a tin cylinder flying on the other side of the moon. 
-
-A machine could have taken it and it would have still been cool. But man was there. And that makes it so much more evocative.
-
-Bio: General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
-❤️ 49  🔁 1</description>
-      <pubDate>Sun, 14 Jun 2026 02:52:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aditya Agarwal (@adityaag): Watching Brazil play Morocco at 30K feet using Starlink is a visceral reminder of SpaceX.</title>
-      <link>https://x.com/adityaag/status/2065948194723520709</link>
-      <guid isPermaLink="true">https://x.com/adityaag/status/2065948194723520709</guid>
-      <description>Watching Brazil play Morocco at 30K feet using Starlink is a visceral reminder of SpaceX.
-
-Bio: General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
-❤️ 23  🔁 0</description>
-      <pubDate>Sun, 14 Jun 2026 00:03:27 +0000</pubDate>
+❤️ 613  🔁 38</description>
+      <pubDate>Sun, 14 Jun 2026 17:55:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
