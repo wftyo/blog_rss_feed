@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Meet the winners of Built with Opus 4.7 Claude Code hackathon</title>
+      <link>https://claude.com/blog/meet-the-winners-of-built-with-opus-4-7-claude-code-hackathon</link>
+      <guid isPermaLink="true">https://claude.com/blog/meet-the-winners-of-built-with-opus-4-7-claude-code-hackathon</guid>
+      <description>Meet the winners of Built with Opus 4.7 Claude Code hackathon Meet the winners of Built with Opus 4.7 Claude Code hackathon</description>
+    </item>
+    <item>
       <title>The evolution of agentic surfaces: building with Claude Managed Agents</title>
       <link>https://claude.com/blog/building-with-claude-managed-agents</link>
       <guid isPermaLink="true">https://claude.com/blog/building-with-claude-managed-agents</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system</link>
       <guid isPermaLink="true">https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system</guid>
       <description>How CodeRabbit used Claude to build an agent orchestration system How CodeRabbit used Claude to build an agent orchestration system</description>
-    </item>
-    <item>
-      <title>Zero Trust for AI agents</title>
-      <link>https://claude.com/blog/zero-trust-for-ai-agents</link>
-      <guid isPermaLink="true">https://claude.com/blog/zero-trust-for-ai-agents</guid>
-      <description>Zero Trust for AI agents Zero Trust for AI agents</description>
     </item>
   </channel>
 </rss>
