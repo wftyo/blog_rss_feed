@@ -5,6 +5,24 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Steering Claude Code: CLAUDE.md files, skills, hooks, rules, subagents and more</title>
+      <link>https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more</link>
+      <guid isPermaLink="true">https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more</guid>
+      <description>Steering Claude Code: CLAUDE.md files, skills, hooks, rules, subagents and more Steering Claude Code: CLAUDE.md files, skills, hooks, rules, subagents and more</description>
+    </item>
+    <item>
+      <title>Centrally manage authorization for MCP connectors</title>
+      <link>https://claude.com/blog/enterprise-managed-auth</link>
+      <guid isPermaLink="true">https://claude.com/blog/enterprise-managed-auth</guid>
+      <description>Centrally manage authorization for MCP connectors Centrally manage authorization for MCP connectors</description>
+    </item>
+    <item>
+      <title>Claude Code now supports artifacts</title>
+      <link>https://claude.com/blog/artifacts-in-claude-code</link>
+      <guid isPermaLink="true">https://claude.com/blog/artifacts-in-claude-code</guid>
+      <description>Claude Code now supports artifacts Claude Code now supports artifacts</description>
+    </item>
+    <item>
       <title>Meet the winners of our Claude Opus 4.8 Build Day hackathon</title>
       <link>https://claude.com/blog/meet-the-winners-of-our-claude-opus-4-8-build-day-hackathon</link>
       <guid isPermaLink="true">https://claude.com/blog/meet-the-winners-of-our-claude-opus-4-8-build-day-hackathon</guid>
@@ -75,24 +93,6 @@
       <link>https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills</link>
       <guid isPermaLink="true">https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills</guid>
       <description>Lessons from building Claude Code: How we use skills Lessons from building Claude Code: How we use skills</description>
-    </item>
-    <item>
-      <title>Best practices for getting started with Claude Cowork</title>
-      <link>https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork</link>
-      <guid isPermaLink="true">https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork</guid>
-      <description>Best practices for getting started with Claude Cowork Best practices for getting started with Claude Cowork</description>
-    </item>
-    <item>
-      <title>Running an AI-native engineering org</title>
-      <link>https://claude.com/blog/running-an-ai-native-engineering-org</link>
-      <guid isPermaLink="true">https://claude.com/blog/running-an-ai-native-engineering-org</guid>
-      <description>Running an AI-native engineering org Running an AI-native engineering org</description>
-    </item>
-    <item>
-      <title>A harness for every task: dynamic workflows in Claude Code</title>
-      <link>https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code</link>
-      <guid isPermaLink="true">https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code</guid>
-      <description>A harness for every task: dynamic workflows in Claude Code A harness for every task: dynamic workflows in Claude Code</description>
     </item>
   </channel>
 </rss>
