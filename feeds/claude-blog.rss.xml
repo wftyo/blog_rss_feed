@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Building effective human-agent teams</title>
+      <link>https://claude.com/blog/building-effective-human-agent-teams</link>
+      <guid isPermaLink="true">https://claude.com/blog/building-effective-human-agent-teams</guid>
+      <description>Building effective human-agent teams Building effective human-agent teams</description>
+    </item>
+    <item>
       <title>Agent identity in Claude Tag: a new access model for autonomous, team-wide AI</title>
       <link>https://claude.com/blog/agent-identity-access-model</link>
       <guid isPermaLink="true">https://claude.com/blog/agent-identity-access-model</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/the-claude-cowork-product-guide</link>
       <guid isPermaLink="true">https://claude.com/blog/the-claude-cowork-product-guide</guid>
       <description>The Claude Cowork product guide The Claude Cowork product guide</description>
-    </item>
-    <item>
-      <title>How one Anthropic seller rebuilt his team's workflows with Claude Code</title>
-      <link>https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering</link>
-      <guid isPermaLink="true">https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering</guid>
-      <description>How one Anthropic seller rebuilt his team's workflows with Claude Code How one Anthropic seller rebuilt his team's workflows with Claude Code</description>
     </item>
   </channel>
 </rss>
