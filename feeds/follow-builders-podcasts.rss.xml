@@ -4,17 +4,17 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Sat, 27 Jun 2026 07:24:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 07:39:23 +0000</lastBuildDate>
     <item>
-      <title>[No Priors] Why Traditional Benchmarks Fail Modern AI Models with OpenAI Research Scientist Noam Brown</title>
-      <link>https://www.youtube.com/watch?v=AZrU6y3pUcU</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=AZrU6y3pUcU</guid>
-      <description>Speaker 1 | 00:00 - 00:13
-With GBT three, you couldn't scale test time compute. Like, if you gave it a budget of $10,000,000 and said, okay. Well, let's see what GBT three can do. It really can't do that much. The precarious frameworks and responsible scaling policies, they don't really account for the amount of test time compute.
+      <title>[Training Data] Memory and Continual Learning: Engram's Dan Biderman and Jessy Lin</title>
+      <link>https://www.youtube.com/watch?v=aiR7F4jqjXY</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=aiR7F4jqjXY</guid>
+      <description>Speaker 1 | 00:00 - 00:24
+What about pre training or even post training makes it possible for the models to generalize in these magical emergent ways and controlling that process so that a company has a set of private data? How do we make the models learn that just as well as the models know, like, the capital of France or, you know, like, how to write Python? So I think it's a really fun problem to think about.
 
-Speaker 1 | 00:13 - 00:32
-They just say, okay. Well, what's the capability of the model? The problem is we're in a world now where the capability of the model is a fu...</description>
-      <pubDate>Fri, 26 Jun 2026 10:13:00 +0000</pubDate>
+Speaker 2 | 00:41 - 00:57
+Welcome to training data. We are delighted to have Don Bi...</description>
+      <pubDate>Wed, 24 Jun 2026 14:22:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
