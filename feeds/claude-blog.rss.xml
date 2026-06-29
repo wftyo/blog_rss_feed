@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud</title>
+      <link>https://claude.com/blog/introducing-the-claude-apps-gateway</link>
+      <guid isPermaLink="true">https://claude.com/blog/introducing-the-claude-apps-gateway</guid>
+      <description>Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud</description>
+    </item>
+    <item>
       <title>Claude in Microsoft Foundry is now generally available</title>
       <link>https://claude.com/blog/claude-in-microsoft-foundry</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-in-microsoft-foundry</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/claude-for-foundation-models</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-for-foundation-models</guid>
       <description>Building intelligent apps for Apple platforms with Claude in the Foundation Models framework Building intelligent apps for Apple platforms with Claude in the Foundation Models framework</description>
-    </item>
-    <item>
-      <title>Observability for developers building connectors</title>
-      <link>https://claude.com/blog/observability-for-developers-building-connectors</link>
-      <guid isPermaLink="true">https://claude.com/blog/observability-for-developers-building-connectors</guid>
-      <description>Observability for developers building connectors Observability for developers building connectors</description>
     </item>
   </channel>
 </rss>
