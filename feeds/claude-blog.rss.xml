@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Claude in Microsoft Foundry is now generally available</title>
+      <link>https://claude.com/blog/claude-in-microsoft-foundry</link>
+      <guid isPermaLink="true">https://claude.com/blog/claude-in-microsoft-foundry</guid>
+      <description>Claude in Microsoft Foundry is now generally available Claude in Microsoft Foundry is now generally available</description>
+    </item>
+    <item>
       <title>Building effective human-agent teams</title>
       <link>https://claude.com/blog/building-effective-human-agent-teams</link>
       <guid isPermaLink="true">https://claude.com/blog/building-effective-human-agent-teams</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/observability-for-developers-building-connectors</link>
       <guid isPermaLink="true">https://claude.com/blog/observability-for-developers-building-connectors</guid>
       <description>Observability for developers building connectors Observability for developers building connectors</description>
-    </item>
-    <item>
-      <title>The Claude Cowork product guide</title>
-      <link>https://claude.com/blog/the-claude-cowork-product-guide</link>
-      <guid isPermaLink="true">https://claude.com/blog/the-claude-cowork-product-guide</guid>
-      <description>The Claude Cowork product guide The Claude Cowork product guide</description>
     </item>
   </channel>
 </rss>
