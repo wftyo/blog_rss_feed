@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>A Field Guide to Claude Fable: Finding Your Unknowns</title>
+      <link>https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns</link>
+      <guid isPermaLink="true">https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns</guid>
+      <description>A Field Guide to Claude Fable: Finding Your Unknowns A Field Guide to Claude Fable: Finding Your Unknowns</description>
+    </item>
+    <item>
       <title>Giving admins more visibility and control over Claude spend</title>
       <link>https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend</link>
       <guid isPermaLink="true">https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/meet-the-winners-of-built-with-opus-4-7-claude-code-hackathon</link>
       <guid isPermaLink="true">https://claude.com/blog/meet-the-winners-of-built-with-opus-4-7-claude-code-hackathon</guid>
       <description>Meet the winners of the Built with Opus 4.7 Claude Code hackathon Meet the winners of the Built with Opus 4.7 Claude Code hackathon</description>
-    </item>
-    <item>
-      <title>The evolution of agentic surfaces: building with Claude Managed Agents</title>
-      <link>https://claude.com/blog/building-with-claude-managed-agents</link>
-      <guid isPermaLink="true">https://claude.com/blog/building-with-claude-managed-agents</guid>
-      <description>The evolution of agentic surfaces: building with Claude Managed Agents The evolution of agentic surfaces: building with Claude Managed Agents</description>
     </item>
   </channel>
 </rss>
