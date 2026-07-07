@@ -5,10 +5,28 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Bringing Claude Code and Claude Cowork to government</title>
+      <link>https://claude.com/blog/bringing-claude-code-and-claude-cowork-to-government</link>
+      <guid isPermaLink="true">https://claude.com/blog/bringing-claude-code-and-claude-cowork-to-government</guid>
+      <description>Bringing Claude Code and Claude Cowork to government Bringing Claude Code and Claude Cowork to government</description>
+    </item>
+    <item>
       <title>Choosing a Claude model and effort level in Claude Code</title>
       <link>https://claude.com/blog/claude-model-and-effort-level-in-claude-code</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-model-and-effort-level-in-claude-code</guid>
       <description>Choosing a Claude model and effort level in Claude Code Choosing a Claude model and effort level in Claude Code</description>
+    </item>
+    <item>
+      <title>Claude Cowork is coming to mobile and web</title>
+      <link>https://claude.com/blog/cowork-web-mobile</link>
+      <guid isPermaLink="true">https://claude.com/blog/cowork-web-mobile</guid>
+      <description>Claude Cowork is coming to mobile and web Claude Cowork is coming to mobile and web</description>
+    </item>
+    <item>
+      <title>How people are using Claude Cowork</title>
+      <link>https://claude.com/blog/how-people-are-using-claude-cowork</link>
+      <guid isPermaLink="true">https://claude.com/blog/how-people-are-using-claude-cowork</guid>
+      <description>How people are using Claude Cowork How people are using Claude Cowork</description>
     </item>
     <item>
       <title>A field guide to Claude Fable 5: Finding your unknowns</title>
@@ -75,24 +93,6 @@
       <link>https://claude.com/blog/artifacts-in-claude-code</link>
       <guid isPermaLink="true">https://claude.com/blog/artifacts-in-claude-code</guid>
       <description>Claude Code now supports artifacts Claude Code now supports artifacts</description>
-    </item>
-    <item>
-      <title>Meet the winners of our Claude Opus 4.8 Build Day hackathon</title>
-      <link>https://claude.com/blog/meet-the-winners-of-our-claude-opus-4-8-build-day-hackathon</link>
-      <guid isPermaLink="true">https://claude.com/blog/meet-the-winners-of-our-claude-opus-4-8-build-day-hackathon</guid>
-      <description>Meet the winners of our Claude Opus 4.8 Build Day hackathon Meet the winners of our Claude Opus 4.8 Build Day hackathon</description>
-    </item>
-    <item>
-      <title>Claude Design now stays on brand for daily work</title>
-      <link>https://claude.com/blog/claude-design-stays-on-brand-for-daily-work</link>
-      <guid isPermaLink="true">https://claude.com/blog/claude-design-stays-on-brand-for-daily-work</guid>
-      <description>Claude Design now stays on brand for daily work Claude Design now stays on brand for daily work</description>
-    </item>
-    <item>
-      <title>Secure access to the Claude Platform with Workload Identity Federation</title>
-      <link>https://claude.com/blog/workload-identity-federation</link>
-      <guid isPermaLink="true">https://claude.com/blog/workload-identity-federation</guid>
-      <description>Secure access to the Claude Platform with Workload Identity Federation Secure access to the Claude Platform with Workload Identity Federation</description>
     </item>
   </channel>
 </rss>
