@@ -4,304 +4,458 @@
     <title>Follow Builders — X/Twitter</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI builders' latest tweets, curated by follow-builders</description>
-    <lastBuildDate>Mon, 06 Jul 2026 07:52:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 07:28:28 +0000</lastBuildDate>
     <item>
-      <title>Peter Yang (@petergyang): What a game wow what a game</title>
-      <link>https://x.com/petergyang/status/2073966701629374820</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2073966701629374820</guid>
-      <description>What a game wow what a game
+      <title>Swyx (@swyx): imo this is the most impt part of anthropic's J-space paper today. it's a two-parter:
 
-Bio: Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-❤️ 37  🔁 0</description>
-      <pubDate>Mon, 06 Jul 2026 03:06:08 +0000</pubDate>
+1) ant proved...</title>
+      <link>https://x.com/swyx/status/2074344727202463832</link>
+      <guid isPermaLink="true">https://x.com/swyx/status/2074344727202463832</guid>
+      <description>imo this is the most impt part of anthropic's J-space paper today. it's a two-parter:
+
+1) ant proved that they can do "brain surgery" interventions into reasoning to change topics midstream*
+2) THE MODEL IS ABLE TO DETECT WHAT INTERVENTION WAS DONE - close cousin to eval awareness**
+
+*control &gt; correlation - this convincingly demonstrates understanding
+
+**this was prompted awareness... surely @mlpowered's team also tried to eval unprompted awareness but i didn't see evidence of that
+
+Bio: achieve ambition with intentionality, intensity, integrity &amp; insanity.
+
+affiliations:
+- @dxtipshq 
+- @cognition
+- @temporalio
+- @aidotengineer
+- @latentspacepod
+❤️ 130  🔁 7</description>
+      <pubDate>Tue, 07 Jul 2026 04:08:17 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Yang (@petergyang): Damn they better have some armored vehicles to escort these English players out of the stadium 😅</title>
-      <link>https://x.com/petergyang/status/2073945318283252167</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2073945318283252167</guid>
-      <description>Damn they better have some armored vehicles to escort these English players out of the stadium 😅
+      <title>Boris Cherny (@bcherny): This is our first time telling the story of how we first built and launched Claude Code, starting wi...</title>
+      <link>https://x.com/bcherny/status/2074247226038063316</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/2074247226038063316</guid>
+      <description>This is our first time telling the story of how we first built and launched Claude Code, starting with its origins in Anthropic safety research.
 
-Bio: Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-❤️ 200  🔁 4</description>
-      <pubDate>Mon, 06 Jul 2026 01:41:10 +0000</pubDate>
+So much more to do. We are 1% done. https://t.co/QSkt89cB8q
+
+Bio: Claude Code @anthropicai
+❤️ 2513  🔁 171</description>
+      <pubDate>Mon, 06 Jul 2026 21:40:50 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Yang (@petergyang): I'm really excited to share these upcoming episodes for my podcast soon.
+      <title>Thibault Sottiaux (@thsottiaux): https://t.co/PXjlm4RLJJ https://t.co/G1K5KnFNtf</title>
+      <link>https://x.com/thsottiaux/status/2074209421799166138</link>
+      <guid isPermaLink="true">https://x.com/thsottiaux/status/2074209421799166138</guid>
+      <description>https://t.co/PXjlm4RLJJ https://t.co/G1K5KnFNtf
 
-One small ask: My birthday...</title>
-      <link>https://x.com/petergyang/status/2073930836551032858</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2073930836551032858</guid>
-      <description>I'm really excited to share these upcoming episodes for my podcast soon.
-
-One small ask: My birthday is on Thursday, July 9, and it would be amazing to finally hit 100K YouTube subscribers by then.
-
-I’m at 98.5K now, so pretty close :)
-
-📌 If you’re looking forward to these episodes, consider subscribing here: https://t.co/eOPREwafQV
-
-I appreciate your support!
-
-Bio: Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-❤️ 40  🔁 5</description>
-      <pubDate>Mon, 06 Jul 2026 00:43:37 +0000</pubDate>
+Bio: Codex &amp; ChatGPT @OpenAI
+❤️ 4509  🔁 126</description>
+      <pubDate>Mon, 06 Jul 2026 19:10:37 +0000</pubDate>
     </item>
     <item>
-      <title>Nan Yu (@thenanyu): Bragging about running 10 Claude code tabs is just theater</title>
-      <link>https://x.com/thenanyu/status/2073920959011074292</link>
-      <guid isPermaLink="true">https://x.com/thenanyu/status/2073920959011074292</guid>
-      <description>Bragging about running 10 Claude code tabs is just theater
+      <title>Thibault Sottiaux (@thsottiaux): Closing this week. Much of the teams building ChatGPT, Codex and OpenClaw will be there and we'll ha...</title>
+      <link>https://x.com/thsottiaux/status/2074195169990357398</link>
+      <guid isPermaLink="true">https://x.com/thsottiaux/status/2074195169990357398</guid>
+      <description>Closing this week. Much of the teams building ChatGPT, Codex and OpenClaw will be there and we'll have a few surprises for folks. Hope to see many of you 👀 https://t.co/0bvnIVPbwb
 
-Bio: head of product @linear
+Bio: Codex &amp; ChatGPT @OpenAI
+❤️ 1970  🔁 49</description>
+      <pubDate>Mon, 06 Jul 2026 18:13:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Peter Yang (@petergyang): Ughhhhhhh</title>
+      <link>https://x.com/petergyang/status/2074312096960123318</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2074312096960123318</guid>
+      <description>Ughhhhhhh
+
+Bio: Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+❤️ 5  🔁 0</description>
+      <pubDate>Tue, 07 Jul 2026 01:58:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Peter Yang (@petergyang): Go USA!!!</title>
+      <link>https://x.com/petergyang/status/2074295408902479910</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2074295408902479910</guid>
+      <description>Go USA!!!
+
+Bio: Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
 ❤️ 12  🔁 0</description>
-      <pubDate>Mon, 06 Jul 2026 00:04:22 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 00:52:18 +0000</pubDate>
     </item>
     <item>
-      <title>Nan Yu (@thenanyu): The “real-time strategy game” model of managing agents is clearly a dead end. 
+      <title>Peter Yang (@petergyang): Fable 5 will leave Claude subscriptions tomorrow at midnight. Here are 5 use cases worth trying befo...</title>
+      <link>https://x.com/petergyang/status/2074206798631071796</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2074206798631071796</guid>
+      <description>Fable 5 will leave Claude subscriptions tomorrow at midnight. Here are 5 use cases worth trying before then, with prompts you can copy and paste:
 
-AI that’s ancient by...</title>
-      <link>https://x.com/thenanyu/status/2073920326304460847</link>
-      <guid isPermaLink="true">https://x.com/thenanyu/status/2073920326304460847</guid>
-      <description>The “real-time strategy game” model of managing agents is clearly a dead end. 
+1) FIND FABLE-WORTHY WORK
+You're Fable 5, the most capable model available. Look through my projects, docs, and your memory, and list the top 5 tasks genuinely worth running on you. Rank them with a one-line reason each. Don't do the work yet.
 
-AI that’s ancient by current standards already beats &amp;gt;99% of human players and out-micros them to an extreme degree
+2) GET LIFE &amp; BUSINESS ADVICE
+You're my business advisor. Read my plan doc and pull live data from my connected tools. Write a one-page assessment of my business and the top 3 things to focus on for the next 3 months, plus what to drop and why.
+
+3) MAKE YOUR PROJECT SHIP-READY
+I'm about to ship this project. Find everything wrong with it first. Read the whole codebase and hunt for real bugs, broken edge cases, and anything that'll break in front of a user. List each issue with how to reproduce it and the fix. Hold a high bar.
+
+4) PLAN THE NEXT BIG THING
+I want to plan a big project: [describe it]. Don't build yet. Lay out the full plan: phases, key decisions, risks, and open questions. Flag anything that could sink it, and make it clear enough that a cheaper model could execute step by step.
+
+5) REFACTOR YOUR AI SKILLS
+Refactor my AI skill system. Read all my skills, map where they overlap or conflict, then clean them up: tighten workflows, cut bloat, and standardize structure. Keep each skill working and check in at major milestones.
+
+📌 Watch my tutorial for a live demo of all 5 use cases: https://t.co/XElMEV3FwK
+
+Bio: Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+❤️ 340  🔁 20</description>
+      <pubDate>Mon, 06 Jul 2026 19:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nan Yu (@thenanyu): Yeah, this resonates. I was horribly inefficient, so I brute forced a lot of stuff. The biggest diff...</title>
+      <link>https://x.com/thenanyu/status/2074258147015897357</link>
+      <guid isPermaLink="true">https://x.com/thenanyu/status/2074258147015897357</guid>
+      <description>Yeah, this resonates. I was horribly inefficient, so I brute forced a lot of stuff. The biggest difference now, even for early stage startups, is you can do way more in parallel because of agents.
+
+https://t.co/Bplx8imZ9n
 
 Bio: head of product @linear
-❤️ 31  🔁 1</description>
-      <pubDate>Mon, 06 Jul 2026 00:01:52 +0000</pubDate>
+❤️ 3  🔁 0</description>
+      <pubDate>Mon, 06 Jul 2026 22:24:14 +0000</pubDate>
     </item>
     <item>
-      <title>Nan Yu (@thenanyu): Guess you can give up a goal when the opponent is down a man and their best player, and still talk s...</title>
-      <link>https://x.com/thenanyu/status/2073873527082566097</link>
-      <guid isPermaLink="true">https://x.com/thenanyu/status/2073873527082566097</guid>
-      <description>Guess you can give up a goal when the opponent is down a man and their best player, and still talk shit https://t.co/xObZmc2tY0
+      <title>Nan Yu (@thenanyu): The biggest advantage that 20-year-old me had over today me is the ability to slam unbelievable hour...</title>
+      <link>https://x.com/thenanyu/status/2074133468007587932</link>
+      <guid isPermaLink="true">https://x.com/thenanyu/status/2074133468007587932</guid>
+      <description>The biggest advantage that 20-year-old me had over today me is the ability to slam unbelievable hours into work. 
+
+But looking back, those hours were mostly spent on tedious programming tasks, which are largely automated now. 
+
+996 still has uses, but it’s not as universally effective as it was.
 
 Bio: head of product @linear
-❤️ 2  🔁 0</description>
-      <pubDate>Sun, 05 Jul 2026 20:55:54 +0000</pubDate>
+❤️ 347  🔁 6</description>
+      <pubDate>Mon, 06 Jul 2026 14:08:48 +0000</pubDate>
     </item>
     <item>
-      <title>Amanda Askell (@AmandaAskell): Extracting a probability from a doctor is one of life's unnecessary boss battles. Even if you beg th...</title>
-      <link>https://x.com/AmandaAskell/status/2073786264059625897</link>
-      <guid isPermaLink="true">https://x.com/AmandaAskell/status/2073786264059625897</guid>
-      <description>Extracting a probability from a doctor is one of life's unnecessary boss battles. Even if you beg them for an interval-valued subjective probability, and at that point you're basically asking for their hunch. I don't know if they get sued for giving out information or something.
-
-Bio: Philosopher &amp; ethicist trying to make AI be good @AnthropicAI.
-Personal account. All opinions come from my training data.
-❤️ 1382  🔁 38</description>
-      <pubDate>Sun, 05 Jul 2026 15:09:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cat Wu (@_catwu): what are your top claude code + workflows + artifacts use cases?
-
-one of my new favorites is for sou...</title>
-      <link>https://x.com/_catwu/status/2073806626965049686</link>
-      <guid isPermaLink="true">https://x.com/_catwu/status/2073806626965049686</guid>
-      <description>what are your top claude code + workflows + artifacts use cases?
-
-one of my new favorites is for sourcing candidates:
-- tell cc about the role and backgrounds i’m looking for
-- ask cc to kick off a dynamic workflow to find 100 candidates, and include linkedin, twitter, blog, podcasts, and one-line pitch for each
-- ask cc to make an artifact and email it to me. then, i lock my laptop and head out for the day
-- i review the list on the go once cc is done!
+      <title>Cat Wu (@_catwu): a retrospective on making claude code from our early team! https://t.co/Kk9mz4BYXx</title>
+      <link>https://x.com/_catwu/status/2074258446686536167</link>
+      <guid isPermaLink="true">https://x.com/_catwu/status/2074258446686536167</guid>
+      <description>a retrospective on making claude code from our early team! https://t.co/Kk9mz4BYXx
 
 Bio: claude code + cowork @anthropicai, prev: @dagster, @scale_ai
-❤️ 555  🔁 22</description>
-      <pubDate>Sun, 05 Jul 2026 16:30:03 +0000</pubDate>
+❤️ 196  🔁 9</description>
+      <pubDate>Mon, 06 Jul 2026 22:25:26 +0000</pubDate>
     </item>
     <item>
-      <title>Thariq (@trq212): "God gave me a sign"
-
-(remembering i live in San Francisco)
-
-"I mean, I was acasually influenced by ...</title>
-      <link>https://x.com/trq212/status/2073956140610924936</link>
-      <guid isPermaLink="true">https://x.com/trq212/status/2073956140610924936</guid>
-      <description>"God gave me a sign"
-
-(remembering i live in San Francisco)
-
-"I mean, I was acasually influenced by the ASI at the end of time to maximize EV for humanity"
+      <title>Thariq (@trq212): great post by @delba_oliveira https://t.co/xZ2bCh7yOL</title>
+      <link>https://x.com/trq212/status/2074209928961819081</link>
+      <guid isPermaLink="true">https://x.com/trq212/status/2074209928961819081</guid>
+      <description>great post by @delba_oliveira https://t.co/xZ2bCh7yOL
 
 Bio: Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab
-❤️ 581  🔁 18</description>
-      <pubDate>Mon, 06 Jul 2026 02:24:10 +0000</pubDate>
+❤️ 1971  🔁 127</description>
+      <pubDate>Mon, 06 Jul 2026 19:12:38 +0000</pubDate>
     </item>
     <item>
-      <title>Amjad Masad (@amasad): Happy 250 🇺🇸 https://t.co/Ya1Ymnq87G</title>
-      <link>https://x.com/amasad/status/2073840276414616006</link>
-      <guid isPermaLink="true">https://x.com/amasad/status/2073840276414616006</guid>
-      <description>Happy 250 🇺🇸 https://t.co/Ya1Ymnq87G
+      <title>Thariq (@trq212): this is now on the Claude blog! https://t.co/7LW0yDuixR</title>
+      <link>https://x.com/trq212/status/2074186977147273540</link>
+      <guid isPermaLink="true">https://x.com/trq212/status/2074186977147273540</guid>
+      <description>this is now on the Claude blog! https://t.co/7LW0yDuixR
+
+Bio: Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab
+❤️ 28  🔁 2</description>
+      <pubDate>Mon, 06 Jul 2026 17:41:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thariq (@trq212): to be specific the date/time is will be 11:59:59pm PT on 7/7</title>
+      <link>https://x.com/trq212/status/2074185669598237047</link>
+      <guid isPermaLink="true">https://x.com/trq212/status/2074185669598237047</guid>
+      <description>to be specific the date/time is will be 11:59:59pm PT on 7/7
+
+Bio: Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab
+❤️ 64  🔁 5</description>
+      <pubDate>Mon, 06 Jul 2026 17:36:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amjad Masad (@amasad): Major inflection point around the time of the brief bear market fall of last year. https://t.co/OvC5...</title>
+      <link>https://x.com/amasad/status/2074353874996211831</link>
+      <guid isPermaLink="true">https://x.com/amasad/status/2074353874996211831</guid>
+      <description>Major inflection point around the time of the brief bear market fall of last year. https://t.co/OvC596JzLY
 
 Bio: ceo @replit. civilizationist
-❤️ 791  🔁 10</description>
-      <pubDate>Sun, 05 Jul 2026 18:43:46 +0000</pubDate>
+❤️ 48  🔁 0</description>
+      <pubDate>Tue, 07 Jul 2026 04:44:38 +0000</pubDate>
     </item>
     <item>
-      <title>Guillermo Rauch (@rauchg): 🇺🇸 USA - 🇦🇷 ARG final 
-you heard it here first</title>
-      <link>https://x.com/rauchg/status/2073822630742983062</link>
-      <guid isPermaLink="true">https://x.com/rauchg/status/2073822630742983062</guid>
-      <description>🇺🇸 USA - 🇦🇷 ARG final 
-you heard it here first
+      <title>Amjad Masad (@amasad): Atlanta-based real estate company saved $100k by replacing Salesforce with their Replit-built CRM. h...</title>
+      <link>https://x.com/amasad/status/2074274666709987663</link>
+      <guid isPermaLink="true">https://x.com/amasad/status/2074274666709987663</guid>
+      <description>Atlanta-based real estate company saved $100k by replacing Salesforce with their Replit-built CRM. https://t.co/3l7t6VljVw
+
+Bio: ceo @replit. civilizationist
+❤️ 1487  🔁 92</description>
+      <pubDate>Mon, 06 Jul 2026 23:29:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amjad Masad (@amasad): Many are asking how Replit is improving so rapidly—we closed the loop and the agent is self-improvin...</title>
+      <link>https://x.com/amasad/status/2074257906594177279</link>
+      <guid isPermaLink="true">https://x.com/amasad/status/2074257906594177279</guid>
+      <description>Many are asking how Replit is improving so rapidly—we closed the loop and the agent is self-improving. 
+
+Technical details here: https://t.co/jfyBidPEQo
+
+Bio: ceo @replit. civilizationist
+❤️ 1244  🔁 76</description>
+      <pubDate>Mon, 06 Jul 2026 22:23:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guillermo Rauch (@rauchg): Update: 🇪🇸 ESP - 🇦🇷 ARG final.
+
+The legendary Spanish team will avenge team USA with a decisive defe...</title>
+      <link>https://x.com/rauchg/status/2074313180554412076</link>
+      <guid isPermaLink="true">https://x.com/rauchg/status/2074313180554412076</guid>
+      <description>Update: 🇪🇸 ESP - 🇦🇷 ARG final.
+
+The legendary Spanish team will avenge team USA with a decisive defeat of 🇧🇪.
 
 Bio: @vercel CEO
-❤️ 1545  🔁 31</description>
-      <pubDate>Sun, 05 Jul 2026 17:33:39 +0000</pubDate>
+❤️ 414  🔁 7</description>
+      <pubDate>Tue, 07 Jul 2026 02:02:55 +0000</pubDate>
     </item>
     <item>
-      <title>Garry Tan (@garrytan): Age of the Unc confirmed</title>
-      <link>https://x.com/garrytan/status/2073997128222040471</link>
-      <guid isPermaLink="true">https://x.com/garrytan/status/2073997128222040471</guid>
-      <description>Age of the Unc confirmed
+      <title>Guillermo Rauch (@rauchg): 🆒 eve evals itself with 𝚎𝚟𝚎 𝚎𝚟𝚊𝚕.
+
+Web frameworks made testing an ecosystem choice. e.g.: React didn...</title>
+      <link>https://x.com/rauchg/status/2074287795028512773</link>
+      <guid isPermaLink="true">https://x.com/rauchg/status/2074287795028512773</guid>
+      <description>🆒 eve evals itself with 𝚎𝚟𝚎 𝚎𝚟𝚊𝚕.
+
+Web frameworks made testing an ecosystem choice. e.g.: React didn’t ship with a built-in testing solution.
+
+For agents, evals are essential… thus we ship 𝚎𝚟𝚎 𝚎𝚟𝚊𝚕 out of the box. For your agents and eve’s own evolution. https://t.co/Ujh4FHpPdN
+
+Bio: @vercel CEO
+❤️ 285  🔁 9</description>
+      <pubDate>Tue, 07 Jul 2026 00:22:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guillermo Rauch (@rauchg): The ultimate test for coding AI: is software as a whole getting better? Are companies shipping faste...</title>
+      <link>https://x.com/rauchg/status/2074222247548735996</link>
+      <guid isPermaLink="true">https://x.com/rauchg/status/2074222247548735996</guid>
+      <description>The ultimate test for coding AI: is software as a whole getting better? Are companies shipping faster? Do you now have apps and games you couldn't even dream of before? Is the software you're getting bug-free?
+
+For me: my own ability to influence my productivity has radically increased. I feel a level of agency and autonomy I never had before. I'm free to create and execute. I can communicate a vision with my colleagues instantly. Personal software is real and a big win, I have a bunch of web tools and macOS apps I wrote just for myself.
+
+For Vercel: it's been amazing to see our CTO @cramforce bring novel software to life with swaths of agents. Genuinely useful software that's having an impact industry-wide emerged nearly autonomously (https://t.co/zwHPbMHK45, https://t.co/TTbSu13EjV, https://t.co/HedSpZpVQI). That's just an example. Our PM team ships software and fixes bugs. Our junior engineers and interns ship quality software at scale. On a personal note, AI at my fingertips, as CLI or v0, allows me to keep up with all the product updates. I can build demos, apps and benchmarks on top of @vercel as new products go out.
+
+But the ultimate jury is that people should love our products, expand their usage, refer their friends and colleagues to the platform. So far that tracks well, and it's the main metric I watch (and obviously we take token costs seriously, just like any other infrastructure spend… there isn't and has never been a proclamation to "tokenmaxxx").
+
+Bio: @vercel CEO
+❤️ 372  🔁 18</description>
+      <pubDate>Mon, 06 Jul 2026 20:01:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aaron Levie (@levie): Great post on how to think about open source AI and the applied AI layer. Two things will always be ...</title>
+      <link>https://x.com/levie/status/2074163686990913576</link>
+      <guid isPermaLink="true">https://x.com/levie/status/2074163686990913576</guid>
+      <description>Great post on how to think about open source AI and the applied AI layer. Two things will always be true in AI. Frontier intelligence will likely remain at the forefront of solving brand new used cases and often be used for orchestrating and planning of any type of complex workflow. 
+
+At the same time, as use-cases become mature and predictable in an enterprise context, you can begin to peel off some set of the tokens to either lower cost open or closed models *or* models that are trained for the task at hand. 
+
+Doing this too early in the adoption curve of any new use-case doesn’t make sense as you don’t know what you’re optimizing for, which is why there will always be a bit of a lag here.
+
+This process can essentially run on forever as there is no end for both the benefits of frontier intelligence or tuned models. This is why the spend and token volume for both approaches will continue to go up for years to come as we’re still early on both.
+
+Again, the only reason this dynamic is possible though is because of the applied AI layer that can effectively eval their workflows in a specific domain, choose a mixture of models to solve tasks, and have enough scale to eventually train their own models for their purposes.
+
+Bio: ceo @box - your business lives in content. unleash it with AI
+❤️ 323  🔁 34</description>
+      <pubDate>Mon, 06 Jul 2026 16:08:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Garry Tan (@garrytan): This is how media is a bludgeon for an entrenched class of doom loop politicians
+
+They want their do...</title>
+      <link>https://x.com/garrytan/status/2074287157007806932</link>
+      <guid isPermaLink="true">https://x.com/garrytan/status/2074287157007806932</guid>
+      <description>This is how media is a bludgeon for an entrenched class of doom loop politicians
+
+They want their doom loop politician Gary McCoy in at any cost and will lie, cheat and steal to do it
+
+And legacy media does nothing to stop it
+
+Pure sociopathy
 
 Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-❤️ 50  🔁 2</description>
-      <pubDate>Mon, 06 Jul 2026 05:07:03 +0000</pubDate>
+❤️ 50  🔁 1</description>
+      <pubDate>Tue, 07 Jul 2026 00:19:31 +0000</pubDate>
     </item>
     <item>
-      <title>Garry Tan (@garrytan): So the real constraint on human wealth was never resources. It was good ideas for how to serve one a...</title>
-      <link>https://x.com/garrytan/status/2073881439700168925</link>
-      <guid isPermaLink="true">https://x.com/garrytan/status/2073881439700168925</guid>
-      <description>So the real constraint on human wealth was never resources. It was good ideas for how to serve one another, and the leverage to act on them. We just deleted the leverage constraint for everybody. 
-
-Now it's only the ideas. Go have them, and then build them. It's your time.
+      <title>Garry Tan (@garrytan): When headlines lie by omission, it says a lot about the headline writers in a news room https://t.co...</title>
+      <link>https://x.com/garrytan/status/2074286755185086538</link>
+      <guid isPermaLink="true">https://x.com/garrytan/status/2074286755185086538</guid>
+      <description>When headlines lie by omission, it says a lot about the headline writers in a news room https://t.co/AR3Gcs7vh3
 
 Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-❤️ 51  🔁 5</description>
-      <pubDate>Sun, 05 Jul 2026 21:27:20 +0000</pubDate>
+❤️ 87  🔁 3</description>
+      <pubDate>Tue, 07 Jul 2026 00:17:55 +0000</pubDate>
     </item>
     <item>
-      <title>Garry Tan (@garrytan): I'm in Osaka now, and it's clear: Japan already ran the experiment on the ceiling. Thirty years of z...</title>
-      <link>https://x.com/garrytan/status/2073881438123110512</link>
-      <guid isPermaLink="true">https://x.com/garrytan/status/2073881438123110512</guid>
-      <description>I'm in Osaka now, and it's clear: Japan already ran the experiment on the ceiling. Thirty years of zero growth and it built the best trains, service, and craft on earth. When you can't compete on more, you compete on better. Better AND more at the same time.
+      <title>Garry Tan (@garrytan): Oakland will continue to be a case study in virtue signal policies by ideologies that don’t work
+
+Th...</title>
+      <link>https://x.com/garrytan/status/2074279598612000785</link>
+      <guid isPermaLink="true">https://x.com/garrytan/status/2074279598612000785</guid>
+      <description>Oakland will continue to be a case study in virtue signal policies by ideologies that don’t work
+
+The city will continue to crumble until the common sense and business forces unite to vote smarter https://t.co/310Nlcl7cy
 
 Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-❤️ 39  🔁 3</description>
-      <pubDate>Sun, 05 Jul 2026 21:27:20 +0000</pubDate>
+❤️ 324  🔁 16</description>
+      <pubDate>Mon, 06 Jul 2026 23:49:29 +0000</pubDate>
     </item>
     <item>
-      <title>Matt Turck (@mattturck): when I ask my AI agent to “make no mistakes” https://t.co/HTMnW0h8OX</title>
-      <link>https://x.com/mattturck/status/2073972907491865062</link>
-      <guid isPermaLink="true">https://x.com/mattturck/status/2073972907491865062</guid>
-      <description>when I ask my AI agent to “make no mistakes” https://t.co/HTMnW0h8OX
-
-Bio: VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
-❤️ 26  🔁 3</description>
-      <pubDate>Mon, 06 Jul 2026 03:30:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Matt Turck (@mattturck): Tournament of the older goalies https://t.co/0QS0AqjKmw</title>
-      <link>https://x.com/mattturck/status/2073890630569251150</link>
-      <guid isPermaLink="true">https://x.com/mattturck/status/2073890630569251150</guid>
-      <description>Tournament of the older goalies https://t.co/0QS0AqjKmw
-
-Bio: VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
-❤️ 64  🔁 1</description>
-      <pubDate>Sun, 05 Jul 2026 22:03:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Matt Turck (@mattturck): Norway: best jersey, best fan celebration, best striker.</title>
-      <link>https://x.com/mattturck/status/2073889293567693110</link>
-      <guid isPermaLink="true">https://x.com/mattturck/status/2073889293567693110</guid>
-      <description>Norway: best jersey, best fan celebration, best striker.
-
-Bio: VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
-❤️ 70  🔁 4</description>
-      <pubDate>Sun, 05 Jul 2026 21:58:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zara Zhang (@zarazhangrui): Resurfacing this skill I built (now that understanding your code is in vogue) https://t.co/rx8rngpEC...</title>
-      <link>https://x.com/zarazhangrui/status/2073768913310200310</link>
-      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2073768913310200310</guid>
-      <description>Resurfacing this skill I built (now that understanding your code is in vogue) https://t.co/rx8rngpECg
+      <title>Zara Zhang (@zarazhangrui): @aiDotEngineer @cursor_ai Also don't be constrained by your titles/roles. Even though I'm not an eng...</title>
+      <link>https://x.com/zarazhangrui/status/2074305070955639077</link>
+      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2074305070955639077</guid>
+      <description>@aiDotEngineer @cursor_ai Also don't be constrained by your titles/roles. Even though I'm not an engineer/designer by training, I find the Cursor/AI Engineer/Config talks SO helpful. Everyone is an engineer and a PM and a designer now
 
 Bio: Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
-❤️ 125  🔁 6</description>
-      <pubDate>Sun, 05 Jul 2026 14:00:12 +0000</pubDate>
+❤️ 14  🔁 1</description>
+      <pubDate>Tue, 07 Jul 2026 01:30:42 +0000</pubDate>
     </item>
     <item>
-      <title>Nikunj Kothari (@nikunj): Still waiting on that one founder who gates a VC chat until they have played with the product and co...</title>
-      <link>https://x.com/nikunj/status/2073903310982218088</link>
-      <guid isPermaLink="true">https://x.com/nikunj/status/2073903310982218088</guid>
-      <description>Still waiting on that one founder who gates a VC chat until they have played with the product and come with at least two pieces of feedback..
+      <title>Zara Zhang (@zarazhangrui): If you wanna level up as an AI builder, binge watch the talks from these 3 conferences (all freshly ...</title>
+      <link>https://x.com/zarazhangrui/status/2074304295097561490</link>
+      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2074304295097561490</guid>
+      <description>If you wanna level up as an AI builder, binge watch the talks from these 3 conferences (all freshly wrapped). You can literally learn from the best in the field from the comfort of your home.
 
-Blows my mind that people go on Zoom and chat for 30 mins on a parroted deck for literally the entire day - where it could have been a significantly more productive conversation if you just did a product brainstorm instead. Or even better just spend the entire time getting to know each other. 
+- AI Engineer @aiDotEngineer https://t.co/zsLvuWWBMl
+- Cursor Compile @cursor_ai https://t.co/EzpGKd8O4Y
+- Figma Config https://t.co/m3KdubDk0i
 
-Am I just weird? Like how do you (both founders while fundraising and VCs generally) do this all day? What alpha do you get from hearing the same story again? It’s just more efficient for both sides to upload their personal “prompts” to Claude at this point to do this digitally 😂
+It's crazy that all of this high-quality knowledge is freely shared on the Internet (the tickets to these conferences often cost hundreds of dollars), and I'm surprised that most of these videos only get tens of thousands of views. High-quality conference talks are massively, massively underrated! 
+
+Watching on YouTube is also arguably a better experience than attending in person: no bad audio, no crowd blocking the screen, no distractions, and you can pause to take notes
+
+Bio: Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
+❤️ 535  🔁 68</description>
+      <pubDate>Tue, 07 Jul 2026 01:27:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zara Zhang (@zarazhangrui): Great talk! Really enjoyed this https://t.co/vOtrsQai4V</title>
+      <link>https://x.com/zarazhangrui/status/2074209416606634048</link>
+      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2074209416606634048</guid>
+      <description>Great talk! Really enjoyed this https://t.co/vOtrsQai4V
+
+Bio: Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
+❤️ 62  🔁 4</description>
+      <pubDate>Mon, 06 Jul 2026 19:10:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nikunj Kothari (@nikunj): When you ask a founder what "me and the boys" means when they talked about their 4th of July weekend...</title>
+      <link>https://x.com/nikunj/status/2074194480354488750</link>
+      <guid isPermaLink="true">https://x.com/nikunj/status/2074194480354488750</guid>
+      <description>When you ask a founder what "me and the boys" means when they talked about their 4th of July weekend plans.. https://t.co/QncfxXSjgY
 
 Bio: partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-❤️ 113  🔁 0</description>
-      <pubDate>Sun, 05 Jul 2026 22:54:15 +0000</pubDate>
+❤️ 59  🔁 3</description>
+      <pubDate>Mon, 06 Jul 2026 18:11:15 +0000</pubDate>
     </item>
     <item>
-      <title>Nikunj Kothari (@nikunj): All recommendations acknowledged by Claude Code thanks! https://t.co/eIbdech9Pk</title>
-      <link>https://x.com/nikunj/status/2073860953687638344</link>
-      <guid isPermaLink="true">https://x.com/nikunj/status/2073860953687638344</guid>
-      <description>All recommendations acknowledged by Claude Code thanks! https://t.co/eIbdech9Pk
+      <title>Nikunj Kothari (@nikunj): VCs: this job is investing in outliers. 
+
+Also VC: here’s our revolutionary sourcing algorithm, cust...</title>
+      <link>https://x.com/nikunj/status/2074141483356340475</link>
+      <guid isPermaLink="true">https://x.com/nikunj/status/2074141483356340475</guid>
+      <description>VCs: this job is investing in outliers. 
+
+Also VC: here’s our revolutionary sourcing algorithm, custom built by our in house team, RLed on decades of data, with proprietary data signals from the moment someone is born. 
+
+This job is very weird where there is so much serendipity and luck involved in how you stumbled upon an investment. However, it does take a lot of conviction and if you have years of bets where you have been right, then you aren’t simply “lucky”. 
+
+Returns are the only alpha.. but those take time and so we tend to resort to random metrics to prove how we’re different from the next VC. 
+
+The unscientific way I have tried to play this game is by massively expanding my surface of luck to try to find these outliers generally and having a prepared mind for 3-4 areas that are 6-12 months early where I can meet every entrepreneur. 
+
+Time will only tell if this works!
 
 Bio: partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-❤️ 4  🔁 1</description>
-      <pubDate>Sun, 05 Jul 2026 20:05:56 +0000</pubDate>
+❤️ 100  🔁 1</description>
+      <pubDate>Mon, 06 Jul 2026 14:40:39 +0000</pubDate>
     </item>
     <item>
-      <title>Nikunj Kothari (@nikunj): Headed to Paris, Interlaken and Zurich after 20+ years in just a few days.. 
+      <title>Peter Steinberger (@steipete): You don't wanna miss this. Signup closes this week.
 
-Hit me with your favor...</title>
-      <link>https://x.com/nikunj/status/2073803608722939935</link>
-      <guid isPermaLink="true">https://x.com/nikunj/status/2073803608722939935</guid>
-      <description>Headed to Paris, Interlaken and Zurich after 20+ years in just a few days.. 
+Will be there and share some claws and tokens 🦞...</title>
+      <link>https://x.com/steipete/status/2074389082017550720</link>
+      <guid isPermaLink="true">https://x.com/steipete/status/2074389082017550720</guid>
+      <description>You don't wanna miss this. Signup closes this week.
 
-Hit me with your favorite spots that are kid-friendly (4.5 yr old + 1.5 yr old) and vegetarian-friendly. 
-
-Trying to see if we can set up play dates with local families - DM if that’s you!
-
-Bio: partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-❤️ 134  🔁 1</description>
-      <pubDate>Sun, 05 Jul 2026 16:18:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Peter Steinberger (@steipete): Can’t recommend enough. use via https://t.co/SEj2XRpIsz https://t.co/yglUHjKFMh</title>
-      <link>https://x.com/steipete/status/2074007001802367446</link>
-      <guid isPermaLink="true">https://x.com/steipete/status/2074007001802367446</guid>
-      <description>Can’t recommend enough. use via https://t.co/SEj2XRpIsz https://t.co/yglUHjKFMh
+Will be there and share some claws and tokens 🦞 https://t.co/RAXcyt4bFv
 
 Bio: Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
 @OpenClaw🦞 + @OpenAI
-❤️ 184  🔁 3</description>
-      <pubDate>Mon, 06 Jul 2026 05:46:17 +0000</pubDate>
+❤️ 54  🔁 2</description>
+      <pubDate>Tue, 07 Jul 2026 07:04:32 +0000</pubDate>
     </item>
     <item>
-      <title>Dan Shipper (@danshipper): fable on ultracode "make no mistakes" https://t.co/fuqze4pJTQ</title>
-      <link>https://x.com/danshipper/status/2073894034225897602</link>
-      <guid isPermaLink="true">https://x.com/danshipper/status/2073894034225897602</guid>
-      <description>fable on ultracode "make no mistakes" https://t.co/fuqze4pJTQ
+      <title>Peter Steinberger (@steipete): How do folks run AI-assisted engineering interviews these days?</title>
+      <link>https://x.com/steipete/status/2074380549318443311</link>
+      <guid isPermaLink="true">https://x.com/steipete/status/2074380549318443311</guid>
+      <description>How do folks run AI-assisted engineering interviews these days?
+
+Bio: Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
+❤️ 203  🔁 3</description>
+      <pubDate>Tue, 07 Jul 2026 06:30:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Peter Steinberger (@steipete): We been cooking, by the time this went through review main again is materially better 🥲 https://t.co...</title>
+      <link>https://x.com/steipete/status/2074210475777364197</link>
+      <guid isPermaLink="true">https://x.com/steipete/status/2074210475777364197</guid>
+      <description>We been cooking, by the time this went through review main again is materially better 🥲 https://t.co/3CB3eJu5tr
+
+Bio: Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
+❤️ 344  🔁 7</description>
+      <pubDate>Mon, 06 Jul 2026 19:14:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dan Shipper (@danshipper): the gremlins have arrived in fable https://t.co/oeLAU7ilPH</title>
+      <link>https://x.com/danshipper/status/2074160985452028406</link>
+      <guid isPermaLink="true">https://x.com/danshipper/status/2074160985452028406</guid>
+      <description>the gremlins have arrived in fable https://t.co/oeLAU7ilPH
 
 Bio: ceo @every | the only subscription you need to stay at the edge of AI
-❤️ 21  🔁 1</description>
-      <pubDate>Sun, 05 Jul 2026 22:17:23 +0000</pubDate>
+❤️ 52  🔁 1</description>
+      <pubDate>Mon, 06 Jul 2026 15:58:09 +0000</pubDate>
     </item>
     <item>
-      <title>Dan Shipper (@danshipper): me: change this button color
-Fable: sure I just spun up a fleet of 100 agents to get that done for y...</title>
-      <link>https://x.com/danshipper/status/2073764166700048480</link>
-      <guid isPermaLink="true">https://x.com/danshipper/status/2073764166700048480</guid>
-      <description>me: change this button color
-Fable: sure I just spun up a fleet of 100 agents to get that done for you https://t.co/eSWCIuhmmO
+      <title>Dan Shipper (@danshipper): interestingly, this holds true for how you use models too
+
+should you use fable to take a big expens...</title>
+      <link>https://x.com/danshipper/status/2074160886164451735</link>
+      <guid isPermaLink="true">https://x.com/danshipper/status/2074160886164451735</guid>
+      <description>interestingly, this holds true for how you use models too
+
+should you use fable to take a big expensive swing? or play small ball to grind your way up the hill? https://t.co/81CYUR7E0O https://t.co/i2X34loQAV
 
 Bio: ceo @every | the only subscription you need to stay at the edge of AI
-❤️ 153  🔁 3</description>
-      <pubDate>Sun, 05 Jul 2026 13:41:20 +0000</pubDate>
+❤️ 161  🔁 8</description>
+      <pubDate>Mon, 06 Jul 2026 15:57:45 +0000</pubDate>
     </item>
     <item>
-      <title>Sam Altman (@sama): our older kid put two words together for the first time and i am approximately as amazed by this cog...</title>
-      <link>https://x.com/sama/status/2073791666553844074</link>
-      <guid isPermaLink="true">https://x.com/sama/status/2073791666553844074</guid>
-      <description>our older kid put two words together for the first time and i am approximately as amazed by this cognitive feat as i am by GPT-5.6 discovering new math
+      <title>Claude (@claudeai): We've put together a short history of how Claude Code came to be, told by the people who built it an...</title>
+      <link>https://x.com/claudeai/status/2074244664199115201</link>
+      <guid isPermaLink="true">https://x.com/claudeai/status/2074244664199115201</guid>
+      <description>We've put together a short history of how Claude Code came to be, told by the people who built it and the early users who helped make it what it is today.
 
-Bio: AI is cool i guess
-❤️ 11071  🔁 294</description>
-      <pubDate>Sun, 05 Jul 2026 15:30:37 +0000</pubDate>
+https://t.co/0gXEPID8lh https://t.co/2qeCVrD6Ep
+
+Bio: Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
+❤️ 2959  🔁 314</description>
+      <pubDate>Mon, 06 Jul 2026 21:30:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
