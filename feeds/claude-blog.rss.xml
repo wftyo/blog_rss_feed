@@ -11,6 +11,12 @@
       <description>Working at the frontier: How Thomson Reuters builds AI for high-stakes professional work Working at the frontier: How Thomson Reuters builds AI for high-stakes professional work</description>
     </item>
     <item>
+      <title>How Anthropic's marketing operations team uses Claude Cowork to automate reporting and campaign builds</title>
+      <link>https://claude.com/blog/how-anthropics-marketing-operations-team-uses-claude-cowork-to-automate-reporting-and-campaign-builds</link>
+      <guid isPermaLink="true">https://claude.com/blog/how-anthropics-marketing-operations-team-uses-claude-cowork-to-automate-reporting-and-campaign-builds</guid>
+      <description>How Anthropic's marketing operations team uses Claude Cowork to automate reporting and campaign builds How Anthropic's marketing operations team uses Claude Cowork to automate reporting and campaign builds</description>
+    </item>
+    <item>
       <title>Bringing Claude Code and Claude Cowork to government</title>
       <link>https://claude.com/blog/bringing-claude-code-and-claude-cowork-to-government</link>
       <guid isPermaLink="true">https://claude.com/blog/bringing-claude-code-and-claude-cowork-to-government</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more</link>
       <guid isPermaLink="true">https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more</guid>
       <description>Steering Claude Code: when to use CLAUDE.md, skills, hooks, and subagents Steering Claude Code: when to use CLAUDE.md, skills, hooks, and subagents</description>
-    </item>
-    <item>
-      <title>Centrally manage authorization for MCP connectors</title>
-      <link>https://claude.com/blog/enterprise-managed-auth</link>
-      <guid isPermaLink="true">https://claude.com/blog/enterprise-managed-auth</guid>
-      <description>Centrally manage authorization for MCP connectors Centrally manage authorization for MCP connectors</description>
     </item>
   </channel>
 </rss>
