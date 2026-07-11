@@ -4,29 +4,17 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Fri, 10 Jul 2026 07:28:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 07:01:32 +0000</lastBuildDate>
     <item>
-      <title>[Unsupervised Learning] Ep 90: AI Pioneer Jürgen Schmidhuber on the State of AI Today</title>
-      <link>https://www.youtube.com/watch?v=RKjR8DQ40po</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=RKjR8DQ40po</guid>
-      <description>Speaker 1 | 00:00 - 00:01
-Sounds like you think a crash is coming.
+      <title>[The MAD Podcast with Matt Turck] Stripe's AI Chief: How AI Agents Will Buy, Sell, and Pay</title>
+      <link>https://www.youtube.com/@DataDrivenNYC/videos</link>
+      <guid isPermaLink="true">https://www.youtube.com/@DataDrivenNYC/videos</guid>
+      <description>Speaker 1 | 00:00 - 00:17
+Fraudsters have figured out that in AI, you actually don't really need to steal money or credentials. You can just steal tokens. And the scale of this actually shocked me when I looked at the data. So more than one in six signups at AI companies are this kind of abuse. Whatever.
 
-Speaker 2 | 00:01 - 00:04
-That would be one of these stock market crashes.
-
-Speaker 1 | 00:04 - 00:05
-What about, like, robotics?
-
-Speaker 2 | 00:05 - 00:13
-Robot hardware is really inferior compared to human bodies, and there's no human made technology that compares to this hand. It seems a
-
-Speaker 1 | 00:13 - 00:14
-lot more than a hardware problem.
-
-Speaker 2 | 00:14 - 00:20
-But you can't have AGI without hardware like that. ...</description>
-      <pubDate>Thu, 09 Jul 2026 13:00:00 +0000</pubDate>
+Speaker 1 | 00:17 - 00:41
+The dine and dash, but it's for token. When I go and ask my friends and family whether they'd be comfortable letting an agent buy things on their behalf, they usually ...</description>
+      <pubDate>Thu, 09 Jul 2026 11:30:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
