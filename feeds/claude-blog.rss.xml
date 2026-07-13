@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Working at the frontier: How Hebbia builds AI for financial diligence that can't miss a detail</title>
+      <link>https://claude.com/blog/working-at-the-frontier-how-hebbia-builds-ai-for-financial-diligence-that-cant-miss-a-detail</link>
+      <guid isPermaLink="true">https://claude.com/blog/working-at-the-frontier-how-hebbia-builds-ai-for-financial-diligence-that-cant-miss-a-detail</guid>
+      <description>Working at the frontier: How Hebbia builds AI for financial diligence that can't miss a detail Working at the frontier: How Hebbia builds AI for financial diligence that can't miss a detail</description>
+    </item>
+    <item>
       <title>Working at the frontier: How Cognition trusts Claude Fable 5 to work through the night</title>
       <link>https://claude.com/blog/working-at-the-frontier-how-cognition-trusts-claude-fable-5-to-work-through-the-night</link>
       <guid isPermaLink="true">https://claude.com/blog/working-at-the-frontier-how-cognition-trusts-claude-fable-5-to-work-through-the-night</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/agent-identity-access-model</link>
       <guid isPermaLink="true">https://claude.com/blog/agent-identity-access-model</guid>
       <description>Agent identity in Claude Tag: a new access model for autonomous, team-wide AI Agent identity in Claude Tag: a new access model for autonomous, team-wide AI</description>
-    </item>
-    <item>
-      <title>The full Claude Desktop experience on AWS, Google Cloud, and Microsoft Foundry</title>
-      <link>https://claude.com/blog/the-full-claude-desktop-experience-on-aws-google-cloud-and-microsoft-foundry</link>
-      <guid isPermaLink="true">https://claude.com/blog/the-full-claude-desktop-experience-on-aws-google-cloud-and-microsoft-foundry</guid>
-      <description>The full Claude Desktop experience on AWS, Google Cloud, and Microsoft Foundry The full Claude Desktop experience on AWS, Google Cloud, and Microsoft Foundry</description>
     </item>
   </channel>
 </rss>
