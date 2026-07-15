@@ -4,17 +4,14 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Tue, 14 Jul 2026 06:59:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 07:02:03 +0000</lastBuildDate>
     <item>
-      <title>[The MAD Podcast with Matt Turck] Inside Nemotron &amp; NVIDIA’s AI Lab | Bryan Catanzaro</title>
-      <link>https://www.youtube.com/@DataDrivenNYC/videos</link>
-      <guid isPermaLink="true">https://www.youtube.com/@DataDrivenNYC/videos</guid>
-      <description>Speaker 1 | 00:00 - 00:21
-If you accept as the truth that we're gonna be running at the limit, then what that means is that the way to get more intelligence is to be more efficient. We can't get more intelligence by applying more force if we're already at the limit. We have to be more thoughtful about how we use what we have. We build tools. We build external organs that help us solve problems.
-
-Speaker 1 | 00:21 - 00:30
-You know, we we have an external stomach. We call it kitchen. Now we're cre...</description>
-      <pubDate>Thu, 02 Jul 2026 11:30:00 +0000</pubDate>
+      <title>[Training Data] Anthropic's Katelyn Lesse &amp;amp; Angela Jiang: Building an Ecosystem, not a Walled Garden</title>
+      <link>https://www.youtube.com/watch?v=vPnVTHYplrQ</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=vPnVTHYplrQ</guid>
+      <description>Speaker 1 | 00:00 - 00:31
+The last layer of abstraction on top of this is probably the coordination layer. So you have knowledge, and you have execution, and you have coordination. And at the coordination layer, we're beginning to think of these things called, like, strategies where, basically, it's almost like a meta harness. The true low level harness is designed for execution. But the next one is about, okay, if tokens aren't really fungible and you need to give them different jobs, like mayb...</description>
+      <pubDate>Tue, 14 Jul 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
