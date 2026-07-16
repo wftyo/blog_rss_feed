@@ -5,6 +5,18 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>How Anthropic runs large-scale code migrations with Claude Code</title>
+      <link>https://claude.com/blog/ai-code-migration</link>
+      <guid isPermaLink="true">https://claude.com/blog/ai-code-migration</guid>
+      <description>How Anthropic runs large-scale code migrations with Claude Code How Anthropic runs large-scale code migrations with Claude Code</description>
+    </item>
+    <item>
+      <title>Working with Claude Fable 5 in Claude Cowork</title>
+      <link>https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork</link>
+      <guid isPermaLink="true">https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork</guid>
+      <description>Working with Claude Fable 5 in Claude Cowork Working with Claude Fable 5 in Claude Cowork</description>
+    </item>
+    <item>
       <title>Working at the frontier: Why Base44 trusts Claude Fable 5 with their most challenging engineering work</title>
       <link>https://claude.com/blog/working-at-the-frontier-why-base44-trusts-claude-fable-5-with-their-most-challenging-engineering-work</link>
       <guid isPermaLink="true">https://claude.com/blog/working-at-the-frontier-why-base44-trusts-claude-fable-5-with-their-most-challenging-engineering-work</guid>
@@ -81,18 +93,6 @@
       <link>https://claude.com/blog/introducing-the-claude-apps-gateway</link>
       <guid isPermaLink="true">https://claude.com/blog/introducing-the-claude-apps-gateway</guid>
       <description>Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud</description>
-    </item>
-    <item>
-      <title>Claude in Microsoft Foundry is now generally available</title>
-      <link>https://claude.com/blog/claude-in-microsoft-foundry</link>
-      <guid isPermaLink="true">https://claude.com/blog/claude-in-microsoft-foundry</guid>
-      <description>Claude in Microsoft Foundry is now generally available Claude in Microsoft Foundry is now generally available</description>
-    </item>
-    <item>
-      <title>Building effective human-agent teams</title>
-      <link>https://claude.com/blog/building-effective-human-agent-teams</link>
-      <guid isPermaLink="true">https://claude.com/blog/building-effective-human-agent-teams</guid>
-      <description>Building effective human-agent teams Building effective human-agent teams</description>
     </item>
   </channel>
 </rss>
