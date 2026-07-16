@@ -4,14 +4,20 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Wed, 15 Jul 2026 07:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 07:07:36 +0000</lastBuildDate>
     <item>
-      <title>[Training Data] Anthropic's Katelyn Lesse &amp;amp; Angela Jiang: Building an Ecosystem, not a Walled Garden</title>
-      <link>https://www.youtube.com/watch?v=vPnVTHYplrQ</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=vPnVTHYplrQ</guid>
-      <description>Speaker 1 | 00:00 - 00:31
-The last layer of abstraction on top of this is probably the coordination layer. So you have knowledge, and you have execution, and you have coordination. And at the coordination layer, we're beginning to think of these things called, like, strategies where, basically, it's almost like a meta harness. The true low level harness is designed for execution. But the next one is about, okay, if tokens aren't really fungible and you need to give them different jobs, like mayb...</description>
-      <pubDate>Tue, 14 Jul 2026 09:00:00 +0000</pubDate>
+      <title>[AI &amp; I by Every] The Founder of a $1.5B AI Company on What Comes After the First Wave of AI Apps</title>
+      <link>https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL</link>
+      <guid isPermaLink="true">https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL</guid>
+      <description>Speaker 1 | 00:00 - 00:07
+You are the cofounder and CEO of Granolah. One of the first new AI apps where people were like, holy shit. This actually works.
+
+Speaker 2 | 00:07 - 00:24
+Meeting notes are not the end all, be all value that everyone's running after. There's something much bigger. I think we are in the very, very early steps of a computing revolution. What has come thus far will pale in comparison to what will come soon. Startups are like knife fights.
+
+Speaker 2 | 00:24 - 00:29
+And I t...</description>
+      <pubDate>Wed, 15 Jul 2026 15:08:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
