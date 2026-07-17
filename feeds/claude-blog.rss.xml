@@ -5,6 +5,18 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems</title>
+      <link>https://claude.com/blog/working-at-the-frontier-cursor</link>
+      <guid isPermaLink="true">https://claude.com/blog/working-at-the-frontier-cursor</guid>
+      <description>Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems</description>
+    </item>
+    <item>
+      <title>Zero risk isn't the job: a CISO's guide to agentic AI</title>
+      <link>https://claude.com/blog/ciso-guide-to-agentic-ai</link>
+      <guid isPermaLink="true">https://claude.com/blog/ciso-guide-to-agentic-ai</guid>
+      <description>Zero risk isn't the job: a CISO's guide to agentic AI Zero risk isn't the job: a CISO's guide to agentic AI</description>
+    </item>
+    <item>
       <title>How Anthropic runs large-scale code migrations with Claude Code</title>
       <link>https://claude.com/blog/ai-code-migration</link>
       <guid isPermaLink="true">https://claude.com/blog/ai-code-migration</guid>
@@ -81,18 +93,6 @@
       <link>https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend</link>
       <guid isPermaLink="true">https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend</guid>
       <description>Giving admins more visibility and control over Claude spend Giving admins more visibility and control over Claude spend</description>
-    </item>
-    <item>
-      <title>Loop engineering: Getting started with loops</title>
-      <link>https://claude.com/blog/getting-started-with-loops</link>
-      <guid isPermaLink="true">https://claude.com/blog/getting-started-with-loops</guid>
-      <description>Loop engineering: Getting started with loops Loop engineering: Getting started with loops</description>
-    </item>
-    <item>
-      <title>Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud</title>
-      <link>https://claude.com/blog/introducing-the-claude-apps-gateway</link>
-      <guid isPermaLink="true">https://claude.com/blog/introducing-the-claude-apps-gateway</guid>
-      <description>Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud</description>
     </item>
   </channel>
 </rss>
