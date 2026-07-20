@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Working at the frontier: How Rakuten builds agents overnight with Claude Fable 5</title>
+      <link>https://claude.com/blog/working-at-the-frontier-rakuten</link>
+      <guid isPermaLink="true">https://claude.com/blog/working-at-the-frontier-rakuten</guid>
+      <description>Working at the frontier: How Rakuten builds agents overnight with Claude Fable 5 Working at the frontier: How Rakuten builds agents overnight with Claude Fable 5</description>
+    </item>
+    <item>
       <title>Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems</title>
       <link>https://claude.com/blog/working-at-the-frontier-cursor</link>
       <guid isPermaLink="true">https://claude.com/blog/working-at-the-frontier-cursor</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns</link>
       <guid isPermaLink="true">https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns</guid>
       <description>A field guide to Claude Fable 5: Finding your unknowns A field guide to Claude Fable 5: Finding your unknowns</description>
-    </item>
-    <item>
-      <title>Giving admins more visibility and control over Claude spend</title>
-      <link>https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend</link>
-      <guid isPermaLink="true">https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend</guid>
-      <description>Giving admins more visibility and control over Claude spend Giving admins more visibility and control over Claude spend</description>
     </item>
   </channel>
 </rss>
