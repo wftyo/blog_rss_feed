@@ -5,6 +5,18 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>How Anthropic Secures Its AI-Native Software Development Lifecycle</title>
+      <link>https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle</link>
+      <guid isPermaLink="true">https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle</guid>
+      <description>How Anthropic Secures Its AI-Native Software Development Lifecycle How Anthropic Secures Its AI-Native Software Development Lifecycle</description>
+    </item>
+    <item>
+      <title>How Datadog built a “universal machine tool” for Claude Code</title>
+      <link>https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code</link>
+      <guid isPermaLink="true">https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code</guid>
+      <description>How Datadog built a “universal machine tool” for Claude Code How Datadog built a “universal machine tool” for Claude Code</description>
+    </item>
+    <item>
       <title>Working at the frontier: How Rakuten builds agents overnight with Claude Fable 5</title>
       <link>https://claude.com/blog/working-at-the-frontier-rakuten</link>
       <guid isPermaLink="true">https://claude.com/blog/working-at-the-frontier-rakuten</guid>
@@ -81,18 +93,6 @@
       <link>https://claude.com/blog/cowork-web-mobile</link>
       <guid isPermaLink="true">https://claude.com/blog/cowork-web-mobile</guid>
       <description>Claude Cowork is coming to mobile and web Claude Cowork is coming to mobile and web</description>
-    </item>
-    <item>
-      <title>How people are using Claude Cowork</title>
-      <link>https://claude.com/blog/how-people-are-using-claude-cowork</link>
-      <guid isPermaLink="true">https://claude.com/blog/how-people-are-using-claude-cowork</guid>
-      <description>How people are using Claude Cowork How people are using Claude Cowork</description>
-    </item>
-    <item>
-      <title>A field guide to Claude Fable 5: Finding your unknowns</title>
-      <link>https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns</link>
-      <guid isPermaLink="true">https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns</guid>
-      <description>A field guide to Claude Fable 5: Finding your unknowns A field guide to Claude Fable 5: Finding your unknowns</description>
     </item>
   </channel>
 </rss>
