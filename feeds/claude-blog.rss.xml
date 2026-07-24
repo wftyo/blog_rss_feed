@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Four role-based certifications for the people who put Claude to work for customers</title>
+      <link>https://claude.com/blog/four-role-based-claude-certifications</link>
+      <guid isPermaLink="true">https://claude.com/blog/four-role-based-claude-certifications</guid>
+      <description>Four role-based certifications for the people who put Claude to work for customers Four role-based certifications for the people who put Claude to work for customers</description>
+    </item>
+    <item>
       <title>Think through hard problems in voice mode</title>
       <link>https://claude.com/blog/think-through-hard-problems-in-voice-mode</link>
       <guid isPermaLink="true">https://claude.com/blog/think-through-hard-problems-in-voice-mode</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/working-at-the-frontier-how-thomson-reuters-builds-ai-for-high--stakes-professional-work</link>
       <guid isPermaLink="true">https://claude.com/blog/working-at-the-frontier-how-thomson-reuters-builds-ai-for-high--stakes-professional-work</guid>
       <description>Working at the frontier: How Thomson Reuters builds AI for high-stakes professional work Working at the frontier: How Thomson Reuters builds AI for high-stakes professional work</description>
-    </item>
-    <item>
-      <title>How Anthropic's marketing operations team uses Claude Cowork to automate reporting and campaign builds</title>
-      <link>https://claude.com/blog/how-anthropics-marketing-operations-team-uses-claude-cowork-to-automate-reporting-and-campaign-builds</link>
-      <guid isPermaLink="true">https://claude.com/blog/how-anthropics-marketing-operations-team-uses-claude-cowork-to-automate-reporting-and-campaign-builds</guid>
-      <description>How Anthropic's marketing operations team uses Claude Cowork to automate reporting and campaign builds How Anthropic's marketing operations team uses Claude Cowork to automate reporting and campaign builds</description>
     </item>
   </channel>
 </rss>
