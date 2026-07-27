@@ -4,23 +4,17 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Sun, 26 Jul 2026 07:11:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 07:26:58 +0000</lastBuildDate>
     <item>
-      <title>[Unsupervised Learning] Ep 91: Top AI Analyst Unpacks Today&amp;apos;s AI Hype Cycle</title>
-      <link>https://www.youtube.com/watch?v=vDY_ocrkQ5w</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=vDY_ocrkQ5w</guid>
-      <description>Speaker 1 | 00:00 - 00:03
-You can wave your hands and say, no. This is like electricity. Okay. Fine. It's like electricity.
+      <title>[The MAD Podcast with Matt Turck] OpenAI’s Compute Chief: We Can’t Build Fast Enough | Sachin Katti</title>
+      <link>https://www.youtube.com/watch?v=wEZBlmvxx4o</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=wEZBlmvxx4o</guid>
+      <description>Speaker 1 | 00:00 - 00:19
+Anytime you have thought you have enough compute, we can slow down. Always negatively surprises like, oh, we should not have slowed down. Demand far outstrips compute supply today. So anything we can bring online, we consume immediately. Our biggest worry is that still at the scale at which we are trying to get compute and build compute.
 
-Speaker 1 | 00:03 - 00:09
-Well, what happened with electricity? And there was a time before electricity, and people before electricity weren't dumb either. Do you
-
-Speaker 2 | 00:09 - 00:12
-think it's irrational that, like, the heads of these labs are talking so much about job loss?
-
-Speaker 1 | 00:12 - 00:20
-We get deep into logical fallacies here. So we've got Jeff Hinto...</description>
-      <pubDate>Thu, 16 Jul 2026 12:48:06 +0000</pubDate>
+Speaker 1 | 00:19 - 00:30
+The physical world does not move that fast. We do believe that the world of recursion is not that far where...</description>
+      <pubDate>Thu, 16 Jul 2026 11:30:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
