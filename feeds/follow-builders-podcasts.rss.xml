@@ -4,17 +4,16 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Sat, 01 Aug 2026 07:08:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 07:10:21 +0000</lastBuildDate>
     <item>
-      <title>[Unsupervised Learning] Ep 92: xAI Co-Founder Unpacks the Future of Model Development</title>
-      <link>https://www.youtube.com/@RedpointAI</link>
-      <guid isPermaLink="true">https://www.youtube.com/@RedpointAI</guid>
-      <description>Speaker 1 | 00:00 - 00:16
-Welcome back to unsupervised learning. I'm Jacob Efron. We had an awesome episode today with Igor Babushkin. Igor has been at all the right places at all the right times, leading a lot of really interesting AI work. He was at DeepMind where he led a lot of the work around StarCraft as well as AlphaCode.
+      <title>[No Priors] Building an Autonomous Enterprise for Real-World Services with Netic Founder Melisa Tokmak</title>
+      <link>https://www.youtube.com/watch?v=wWbX3NL6_Uo</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=wWbX3NL6_Uo</guid>
+      <description>Speaker 1 | 00:05 - 00:30
+Today on our priors, we're joined by Melissa Tachmak. Melissa is the founder and CEO of Netic, a company that builds AI for different real world services like HVAC, pet care, a variety of other things like that, roofers. Prior to Netic, Melissa was a director of engineering and worked on various aspects of go to market for Scale dot AI and, also has experiences from Meta. Welcome to No Prize, Melissa. Melissa, thanks for joining us today at No Prize.
 
-Speaker 1 | 00:16 - 00:53
-He was at OpenAI, we're doing the early work on reasoning. Then he was a co founder of x AI, where he did some of the heroic work on Colossus,...</description>
-      <pubDate>Fri, 31 Jul 2026 15:15:49 +0000</pubDate>
+Speaker 2 | 00:30 ...</description>
+      <pubDate>Fri, 31 Jul 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
