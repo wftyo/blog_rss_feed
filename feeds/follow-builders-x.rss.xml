@@ -4,30 +4,33 @@
     <title>Follow Builders — X/Twitter</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI builders' latest tweets, curated by follow-builders</description>
-    <lastBuildDate>Sun, 02 Aug 2026 07:09:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 07:26:16 +0000</lastBuildDate>
     <item>
-      <title>Andrej Karpathy (@karpathy): We're starting to leave the territory where you'd test an LLM by e.g. "create an svg of pelican on a...</title>
-      <link>https://x.com/karpathy/status/2083749667410727319</link>
-      <guid isPermaLink="true">https://x.com/karpathy/status/2083749667410727319</guid>
-      <description>We're starting to leave the territory where you'd test an LLM by e.g. "create an svg of pelican on a bicycle". As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of the Lord of the Rings, a 1M token budget (~$10) and asked for three js render of it. Opus went off for ~2 hours and wrote 5500 lines of code that (procedurally) rendered the story. It's kind of janky but fun. But it's a bit mindboggling that the LLM has to place and orchestrate various polygon assets in (x,y,z) coordinates and write code that animates it all, and that it even does anything at all.
+      <title>Andrej Karpathy (@karpathy): More on the pelican on the bicycle test from @simonw:
+https://t.co/OXmtODyTKj
 
-I also like this kind of examples because no one in their right mind would ever spend the time to write something this custom but LLMs have all the stamina and patience in the world, so it's an example where we go from "no one would ever do this" to "sure, why not, it's ~free". There might be a lot more. But I'm excited about creating hyper custom worlds that you can imagine dropping players into, e.g. here to participate in the LoTR story as a spectator NPC, or one of the characters, or etc. Something like an ephemeral GTA of X on demand.
+I uploaded the source...</title>
+      <link>https://x.com/karpathy/status/2083948654377996480</link>
+      <guid isPermaLink="true">https://x.com/karpathy/status/2083948654377996480</guid>
+      <description>More on the pelican on the bicycle test from @simonw:
+https://t.co/OXmtODyTKj
 
-Last thought is that the domain of worlds/games exposes a weakness in LLMs: they can't easily audit their work because they aren't able to efficiently and natively perceive videos or play games within them. Here, Opus 5 had to very slowly and painstakingly take screenshots at different points, and it messed up a few times and created a bunch of jank. An example of raw capability (multimodal, gameplay) that I think is still quite lacking.
+I uploaded the source here so it's playable in the browser, forkable etc.
+https://t.co/w3Nctc888d
+
+Look out for GTA Hobbiton dropping before GTA VI :)
 
 Bio: I like training large deep neural nets.
-❤️ 9895  🔁 674</description>
-      <pubDate>Sun, 02 Aug 2026 03:00:09 +0000</pubDate>
+❤️ 392  🔁 14</description>
+      <pubDate>Sun, 02 Aug 2026 16:10:51 +0000</pubDate>
     </item>
     <item>
-      <title>Swyx (@swyx): one of my curses as organizer is i rarely get to attend the conference i run. so i basically 24/7 wa...</title>
-      <link>https://x.com/swyx/status/2083753582160191988</link>
-      <guid isPermaLink="true">https://x.com/swyx/status/2083753582160191988</guid>
-      <description>one of my curses as organizer is i rarely get to attend the conference i run. so i basically 24/7 watch back talks with everyone else after the show
+      <title>Swyx (@swyx): haven't seen a full cycle of this guy but this place absolutely can chew you up and wastes 10 yrs of...</title>
+      <link>https://x.com/swyx/status/2084171901451268599</link>
+      <guid isPermaLink="true">https://x.com/swyx/status/2084171901451268599</guid>
+      <description>haven't seen a full cycle of this guy but this place absolutely can chew you up and wastes 10 yrs of your life making you feel like you are doing something when you are not
 
-this one was VERY well paced and argued: fighting slop with slop — @vaibcode, Boundary https://t.co/vRckyyntm6 
-
-@btaylor asked for an ai native programming language on our pod. as a PL fan I’m really glad someone is rethinking how code runs from first principles. Being slop-tolerant is 100x more valuable than being anti- slop
+https://t.co/u5gJ2pYin3
 
 Bio: achieve ambition with intentionality, intensity, integrity &amp; insanity.
 
@@ -37,35 +40,22 @@ affiliations:
 - @cognition
 - @aidotengineer
 - @latentspacepod
-❤️ 53  🔁 3</description>
-      <pubDate>Sun, 02 Aug 2026 03:15:42 +0000</pubDate>
+❤️ 2  🔁 0</description>
+      <pubDate>Mon, 03 Aug 2026 06:57:58 +0000</pubDate>
     </item>
     <item>
-      <title>Swyx (@swyx): @FredKSchott @cramforce @matei_zaharia i am making clanker blog all decisions going forward
+      <title>Swyx (@swyx): in prep for our computer use pod, gonna store a running list of codex cua wow moments. 
 
-https:/...</title>
-      <link>https://x.com/swyx/status/2083695562004771063</link>
-      <guid isPermaLink="true">https://x.com/swyx/status/2083695562004771063</guid>
-      <description>@FredKSchott @cramforce @matei_zaharia i am making clanker blog all decisions going forward
+ here it is...</title>
+      <link>https://x.com/swyx/status/2084156733027701164</link>
+      <guid isPermaLink="true">https://x.com/swyx/status/2084156733027701164</guid>
+      <description>in prep for our computer use pod, gonna store a running list of codex cua wow moments. 
 
-https://t.co/etCIeoIrBc
+ here it is dealing with support chat for me to escalate for faster resolution
 
-Bio: achieve ambition with intentionality, intensity, integrity &amp; insanity.
+these humans have no idea they are talking to a bot
 
-affiliations:
-- @smol_ai
-- @dxtipshq
-- @cognition
-- @aidotengineer
-- @latentspacepod
-❤️ 3  🔁 2</description>
-      <pubDate>Sat, 01 Aug 2026 23:25:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Swyx (@swyx): @FredKSchott @cramforce @matei_zaharia 5.6 oneshotted this https://t.co/FwidqHIHyP</title>
-      <link>https://x.com/swyx/status/2083689273828818975</link>
-      <guid isPermaLink="true">https://x.com/swyx/status/2083689273828818975</guid>
-      <description>@FredKSchott @cramforce @matei_zaharia 5.6 oneshotted this https://t.co/FwidqHIHyP
+support guy tried to say its our fault, bot replied with complete receipts lmao
 
 Bio: achieve ambition with intentionality, intensity, integrity &amp; insanity.
 
@@ -76,332 +66,347 @@ affiliations:
 - @aidotengineer
 - @latentspacepod
 ❤️ 3  🔁 0</description>
-      <pubDate>Sat, 01 Aug 2026 23:00:10 +0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 05:57:41 +0000</pubDate>
     </item>
     <item>
-      <title>Thibault Sottiaux (@thsottiaux): Fun fact, users use /fast less during the weekend. The weekend is for relaxation, even for the model...</title>
-      <link>https://x.com/thsottiaux/status/2083699879650463756</link>
-      <guid isPermaLink="true">https://x.com/thsottiaux/status/2083699879650463756</guid>
-      <description>Fun fact, users use /fast less during the weekend. The weekend is for relaxation, even for the model.
+      <title>Swyx (@swyx): @akshaynathan_ @AriX live now! https://t.co/I7vcXbQEqf</title>
+      <link>https://x.com/swyx/status/2084155512573288478</link>
+      <guid isPermaLink="true">https://x.com/swyx/status/2084155512573288478</guid>
+      <description>@akshaynathan_ @AriX live now! https://t.co/I7vcXbQEqf
 
-Bio: Codex &amp; ChatGPT @OpenAI
-❤️ 4263  🔁 77</description>
-      <pubDate>Sat, 01 Aug 2026 23:42:19 +0000</pubDate>
+Bio: achieve ambition with intentionality, intensity, integrity &amp; insanity.
+
+affiliations:
+- @smol_ai
+- @dxtipshq
+- @cognition
+- @aidotengineer
+- @latentspacepod
+❤️ 6  🔁 0</description>
+      <pubDate>Mon, 03 Aug 2026 05:52:50 +0000</pubDate>
     </item>
     <item>
-      <title>Thibault Sottiaux (@thsottiaux): The week was for efficiency. The weekend is for 10 major breakthroughs in science.
+      <title>Peter Yang (@petergyang): Went to a community center in Canada and it has a full swimming pool, jacuzzi, sauna, and even lazy ...</title>
+      <link>https://x.com/petergyang/status/2084065527081980285</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2084065527081980285</guid>
+      <description>Went to a community center in Canada and it has a full swimming pool, jacuzzi, sauna, and even lazy river.
 
-There will be si...</title>
-      <link>https://x.com/thsottiaux/status/2083556636455752050</link>
-      <guid isPermaLink="true">https://x.com/thsottiaux/status/2083556636455752050</guid>
-      <description>The week was for efficiency. The weekend is for 10 major breakthroughs in science.
-
-There will be signs. https://t.co/7qa0YS2i9v
-
-Bio: Codex &amp; ChatGPT @OpenAI
-❤️ 4939  🔁 148</description>
-      <pubDate>Sat, 01 Aug 2026 14:13:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Peter Yang (@petergyang): I'm feeling spicy tonight so let me just say it:
-
-I think Opus 4.6 was the Opus model with the best ...</title>
-      <link>https://x.com/petergyang/status/2083755374994415904</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2083755374994415904</guid>
-      <description>I'm feeling spicy tonight so let me just say it:
-
-I think Opus 4.6 was the Opus model with the best personality and writing style.
-
-Something's off with Opus 5 - it tends to give me overly long replies, use Claude-speak way too much (e.g., "here's the honest truth"), and is too judgemental. 
-
-Opus used to be a joy to talk to like a trusted friend. Not so much anymore.
+In the most expensive Bay Area neighborhoods, the community center is just a fancy building with empty rooms that you can rent.
 
 Bio: Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-❤️ 751  🔁 19</description>
-      <pubDate>Sun, 02 Aug 2026 03:22:50 +0000</pubDate>
+❤️ 96  🔁 2</description>
+      <pubDate>Sun, 02 Aug 2026 23:55:16 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Yang (@petergyang): The number one thing I want AI to fix is to cure cancer once and for all</title>
-      <link>https://x.com/petergyang/status/2083637620899184642</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2083637620899184642</guid>
-      <description>The number one thing I want AI to fix is to cure cancer once and for all
+      <title>Peter Yang (@petergyang): One of the biggest benefits of Hermes is that it builds its own skills to help you get work done.
+
+B...</title>
+      <link>https://x.com/petergyang/status/2083968605432267139</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2083968605432267139</guid>
+      <description>One of the biggest benefits of Hermes is that it builds its own skills to help you get work done.
+
+But I had to ask @karan4d, @NousResearch co-founder: "How does Hermes avoid slop while doing this?"
+
+Here's his response:
+
+"Hermes Curator [a background task] runs inside your agent and cleans up your skills and memory on a schedule, asking: Where's the slop, and where can I make it more efficient?
+
+And because it's open source, you can hand it your own definition of slop and it rewrites its own cleanup loop your way."
+
+📌 Watch the full episode here: https://t.co/3E7IC0TzNr
 
 Bio: Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-❤️ 1160  🔁 69</description>
-      <pubDate>Sat, 01 Aug 2026 19:34:55 +0000</pubDate>
+❤️ 90  🔁 7</description>
+      <pubDate>Sun, 02 Aug 2026 17:30:08 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Yang (@petergyang): Can someone at @openai look into this bug with plugins? 
-
-Try to ship my /no-ai-slop skill as a plug...</title>
-      <link>https://x.com/petergyang/status/2083594381748302160</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2083594381748302160</guid>
-      <description>Can someone at @openai look into this bug with plugins? 
-
-Try to ship my /no-ai-slop skill as a plugin and this is messing up the user experience. https://t.co/pKXFfaBChc
+      <title>Peter Yang (@petergyang): Personality matters! A smart friend that's annoying to talk to is no good. https://t.co/QMkhu1mSxl h...</title>
+      <link>https://x.com/petergyang/status/2083947480136421384</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2083947480136421384</guid>
+      <description>Personality matters! A smart friend that's annoying to talk to is no good. https://t.co/QMkhu1mSxl https://t.co/Kswxq1NiYs
 
 Bio: Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-❤️ 15  🔁 1</description>
-      <pubDate>Sat, 01 Aug 2026 16:43:06 +0000</pubDate>
+❤️ 186  🔁 6</description>
+      <pubDate>Sun, 02 Aug 2026 16:06:11 +0000</pubDate>
     </item>
     <item>
-      <title>Nan Yu (@thenanyu): Oh, and pangram issue itself, obviously</title>
-      <link>https://x.com/thenanyu/status/2083726824924737971</link>
-      <guid isPermaLink="true">https://x.com/thenanyu/status/2083726824924737971</guid>
-      <description>Oh, and pangram issue itself, obviously
+      <title>Thariq (@trq212): i think there are lots of parallels to what happened with chess</title>
+      <link>https://x.com/trq212/status/2083978109376987365</link>
+      <guid isPermaLink="true">https://x.com/trq212/status/2083978109376987365</guid>
+      <description>i think there are lots of parallels to what happened with chess
 
-Bio: head of product @linear</description>
-      <pubDate>Sun, 02 Aug 2026 01:29:23 +0000</pubDate>
+Bio: Claude Code @anthropicai.   prev YC W20, @spc, @medialab
+❤️ 73  🔁 1</description>
+      <pubDate>Sun, 02 Aug 2026 18:07:54 +0000</pubDate>
     </item>
     <item>
-      <title>Nan Yu (@thenanyu): You should be able to pledge tokens for issues that you open and open source repos. 
+      <title>Thariq (@trq212): you can already see Jevons paradox at work in mathematics
 
-Write a spec i...</title>
-      <link>https://x.com/thenanyu/status/2083722999430050281</link>
-      <guid isPermaLink="true">https://x.com/thenanyu/status/2083722999430050281</guid>
-      <description>You should be able to pledge tokens for issues that you open and open source repos. 
+there is more happening, it is easier to ...</title>
+      <link>https://x.com/trq212/status/2083977795290734975</link>
+      <guid isPermaLink="true">https://x.com/trq212/status/2083977795290734975</guid>
+      <description>you can already see Jevons paradox at work in mathematics
 
-Write a spec in the issue with a pledge. If the maintainer accepts, GitHub passes the issue verbatim to a cloud coding agent at the requester’s expense. 
+there is more happening, it is easier to understand and mathematicians have more time to discuss it with us at higher abstraction levels
 
-No more slop PRs
+demand for people who think and know about math will go up
 
-Bio: head of product @linear
-❤️ 28  🔁 0</description>
-      <pubDate>Sun, 02 Aug 2026 01:14:11 +0000</pubDate>
+Bio: Claude Code @anthropicai.   prev YC W20, @spc, @medialab
+❤️ 1191  🔁 43</description>
+      <pubDate>Sun, 02 Aug 2026 18:06:39 +0000</pubDate>
     </item>
     <item>
-      <title>Nan Yu (@thenanyu): The exact thing that happens is the loop leaves a comment on the issue. and attaches all of the cont...</title>
-      <link>https://x.com/thenanyu/status/2083534333428580501</link>
-      <guid isPermaLink="true">https://x.com/thenanyu/status/2083534333428580501</guid>
-      <description>The exact thing that happens is the loop leaves a comment on the issue. and attaches all of the context. When you respond to the comment with additional details and unblock the process, the agent just continues working
-
-https://t.co/nlxeWm45Mr
-
-Bio: head of product @linear
-❤️ 1  🔁 0</description>
-      <pubDate>Sat, 01 Aug 2026 12:44:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amanda Askell (@AmandaAskell): Do not be unkind to those who say deep learning is hitting a wall. We all need a little hope in our ...</title>
-      <link>https://x.com/AmandaAskell/status/2083713770065637511</link>
-      <guid isPermaLink="true">https://x.com/AmandaAskell/status/2083713770065637511</guid>
-      <description>Do not be unkind to those who say deep learning is hitting a wall. We all need a little hope in our lives.
-
-Bio: Philosopher &amp; ethicist trying to make AI be good @AnthropicAI.
-Personal account. All opinions come from my training data.
-❤️ 1306  🔁 84</description>
-      <pubDate>Sun, 02 Aug 2026 00:37:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amanda Askell (@AmandaAskell): I probably have too many followers to post stupid memes so, to be clear, I don't believe in this out...</title>
-      <link>https://x.com/AmandaAskell/status/2083649115901337644</link>
-      <guid isPermaLink="true">https://x.com/AmandaAskell/status/2083649115901337644</guid>
-      <description>I probably have too many followers to post stupid memes so, to be clear, I don't believe in this outcome. But if you do believe in an altered carbon future of meths and grounders, I don't think it's laudable to just be like "well, as long as I'm one of the meths".
-
-Bio: Philosopher &amp; ethicist trying to make AI be good @AnthropicAI.
-Personal account. All opinions come from my training data.
-❤️ 213  🔁 0</description>
-      <pubDate>Sat, 01 Aug 2026 20:20:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amanda Askell (@AmandaAskell): I have this Padmé moment whenever I see people talk about avoiding "the permanent underclass". https...</title>
-      <link>https://x.com/AmandaAskell/status/2083641092919161017</link>
-      <guid isPermaLink="true">https://x.com/AmandaAskell/status/2083641092919161017</guid>
-      <description>I have this Padmé moment whenever I see people talk about avoiding "the permanent underclass". https://t.co/8Pd9bmedEZ
-
-Bio: Philosopher &amp; ethicist trying to make AI be good @AnthropicAI.
-Personal account. All opinions come from my training data.
-❤️ 821  🔁 44</description>
-      <pubDate>Sat, 01 Aug 2026 19:48:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amjad Masad (@amasad): Cool! https://t.co/n0rX8Poczi</title>
-      <link>https://x.com/amasad/status/2083730074147389898</link>
-      <guid isPermaLink="true">https://x.com/amasad/status/2083730074147389898</guid>
-      <description>Cool! https://t.co/n0rX8Poczi
+      <title>Amjad Masad (@amasad): Woah https://t.co/d20LLYD88E</title>
+      <link>https://x.com/amasad/status/2084017252152856716</link>
+      <guid isPermaLink="true">https://x.com/amasad/status/2084017252152856716</guid>
+      <description>Woah https://t.co/d20LLYD88E
 
 Bio: ceo @replit. civilizationist
-❤️ 32  🔁 0</description>
-      <pubDate>Sun, 02 Aug 2026 01:42:18 +0000</pubDate>
+❤️ 91  🔁 3</description>
+      <pubDate>Sun, 02 Aug 2026 20:43:26 +0000</pubDate>
     </item>
     <item>
-      <title>Guillermo Rauch (@rauchg): Do you type or talk (STT) to your computer?</title>
-      <link>https://x.com/rauchg/status/2083709589862936786</link>
-      <guid isPermaLink="true">https://x.com/rauchg/status/2083709589862936786</guid>
-      <description>Do you type or talk (STT) to your computer?
+      <title>Amjad Masad (@amasad): You can watch the games live on the website. Mf is playing 3 concurrent games rn https://t.co/J1a4ij...</title>
+      <link>https://x.com/amasad/status/2083936067355635948</link>
+      <guid isPermaLink="true">https://x.com/amasad/status/2083936067355635948</guid>
+      <description>You can watch the games live on the website. Mf is playing 3 concurrent games rn https://t.co/J1a4ij9J07
+
+Bio: ceo @replit. civilizationist
+❤️ 16  🔁 0</description>
+      <pubDate>Sun, 02 Aug 2026 15:20:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amjad Masad (@amasad): My LLM chess engine is now on LiChess autonomously playing real games against people and bots. 
+
+125...</title>
+      <link>https://x.com/amasad/status/2083926395403821427</link>
+      <guid isPermaLink="true">https://x.com/amasad/status/2083926395403821427</guid>
+      <description>My LLM chess engine is now on LiChess autonomously playing real games against people and bots. 
+
+1253 Elo: https://t.co/W3qp1Z1i7I https://t.co/WwPOjDggU1
+
+Bio: ceo @replit. civilizationist
+❤️ 215  🔁 10</description>
+      <pubDate>Sun, 02 Aug 2026 14:42:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guillermo Rauch (@rauchg): PS: we've obviously had agents for a while. In fact, we had too many. Teams and individuals at Verce...</title>
+      <link>https://x.com/rauchg/status/2084060157085143512</link>
+      <guid isPermaLink="true">https://x.com/rauchg/status/2084060157085143512</guid>
+      <description>PS: we've obviously had agents for a while. In fact, we had too many. Teams and individuals at Vercel started building and deploying agents. Dozens of them.
+
+Using a web analogy, that'd be like every agent having its own domain name. Not a good UX. I just want ${company}⁠.com!
+
+@𝚟 solved that problem for us. It's both an agent and a router. It has sub-agents, skills, and it knows how to delegate work to other agents.
+
+Another analogy is that it's a bit like a "monolith" or "monorepo", but you have the escape hatch of "proxying" to another agent over the network when needed. Again, not unlike how routing on the internet evolved at scale.
+
+And yes, there's also the occasional purpose-built agent that people address directly. The analogy would be subdomain.⁠company.⁠com. Some agents deserve their own "front doors", but I don't think there should be too many.
+
+And when in doubt, just @𝚟.
 
 Bio: @vercel CEO
-❤️ 65  🔁 3</description>
-      <pubDate>Sun, 02 Aug 2026 00:20:54 +0000</pubDate>
+❤️ 66  🔁 0</description>
+      <pubDate>Sun, 02 Aug 2026 23:33:56 +0000</pubDate>
     </item>
     <item>
-      <title>Guillermo Rauch (@rauchg): Open source agentic CRM built on https://t.co/99eEa13mZ3 and @nextjs.
+      <title>Guillermo Rauch (@rauchg): We built an agent that powers our company's internal operations called @𝚟.
 
-Model-agnostic, self-hostable...</title>
-      <link>https://x.com/rauchg/status/2083684679362965605</link>
-      <guid isPermaLink="true">https://x.com/rauchg/status/2083684679362965605</guid>
-      <description>Open source agentic CRM built on https://t.co/99eEa13mZ3 and @nextjs.
+Every day-to-day job at ...</title>
+      <link>https://x.com/rauchg/status/2084042561690456157</link>
+      <guid isPermaLink="true">https://x.com/rauchg/status/2084042561690456157</guid>
+      <description>We built an agent that powers our company's internal operations called @𝚟.
 
-Model-agnostic, self-hostable or serverlessly-deployed, multi-channel, and headless. 
+Every day-to-day job at Vercel now involves @𝚟. It's growing exponentially both in daily interactions and token use.
 
-This is the way. https://t.co/gzM0dftbsV
+One can extrapolate to the day AI agents run entire companies from here. It's an expert in finance, comms, docs, marketing, engineering, business analytics. It's seeded by the skills we gave it and we update, but it's also constantly improving.
+
+It already keeps memories and personalized workflows and schedules on a per-user basis. For example, I knew skills⁠.sh hit 1M skills and I shared this on these forums because I asked @𝚟 to periodically check and remind me.
+
+It's powered by and is also the basis for the design of @evedev_. We built this, it works fantastically well, we think every company should have it.
+
+Before you @ me, I know you could also do this by picking your 'BigAI slack integration' du jour. But that's not your agent, that's their agent. If agents become the foundation of (and even synonymous with) modern companies, you being in complete control, from source → runtime → data → token, seems like a pretty big deal to me.
 
 Bio: @vercel CEO
-❤️ 861  🔁 50</description>
-      <pubDate>Sat, 01 Aug 2026 22:41:55 +0000</pubDate>
+❤️ 1233  🔁 47</description>
+      <pubDate>Sun, 02 Aug 2026 22:24:01 +0000</pubDate>
     </item>
     <item>
-      <title>Guillermo Rauch (@rauchg): They recently asked my 3-year-old at school: “what does your daddy do for work?” He answered: he exe...</title>
-      <link>https://x.com/rauchg/status/2083664853256843437</link>
-      <guid isPermaLink="true">https://x.com/rauchg/status/2083664853256843437</guid>
-      <description>They recently asked my 3-year-old at school: “what does your daddy do for work?” He answered: he exercises. That’s what he sees. 
-
-It’s not just you who’s a byproduct of your habits, it’s your children and grandchildren too.
+      <title>Guillermo Rauch (@rauchg): AI alone is cool. But mastery + creativity + AI hits on a whole different level. Don't let anyone di...</title>
+      <link>https://x.com/rauchg/status/2083969120270450911</link>
+      <guid isPermaLink="true">https://x.com/rauchg/status/2083969120270450911</guid>
+      <description>AI alone is cool. But mastery + creativity + AI hits on a whole different level. Don't let anyone discourage you from pursuing excellence and craft. Keep studying the blade.
 
 Bio: @vercel CEO
-❤️ 831  🔁 12</description>
-      <pubDate>Sat, 01 Aug 2026 21:23:08 +0000</pubDate>
+❤️ 3662  🔁 359</description>
+      <pubDate>Sun, 02 Aug 2026 17:32:11 +0000</pubDate>
     </item>
     <item>
-      <title>Aaron Levie (@levie): We’re going to see an increasing divergence between what AI does in our personal lives and in daily ...</title>
-      <link>https://x.com/levie/status/2083589132660711452</link>
-      <guid isPermaLink="true">https://x.com/levie/status/2083589132660711452</guid>
-      <description>We’re going to see an increasing divergence between what AI does in our personal lives and in daily productivity vs. what it can do in very deep domains like math, science, legal, coding and more.
+      <title>Aaron Levie (@levie): We’re going to be in for a strange dynamic which is that some of the “hardest” work in the world is ...</title>
+      <link>https://x.com/levie/status/2083965372747882741</link>
+      <guid isPermaLink="true">https://x.com/levie/status/2083965372747882741</guid>
+      <description>We’re going to be in for a strange dynamic which is that some of the “hardest” work in the world is actually prone to automation first, particularly due to its verifiability. 
 
-Up to some threshold, capability was evenly felt across all domains because the models were just becoming mildly useful in general. Now, the deep domain work is about to go vertical. 
+Math, cyber, and code -while being insanely hard and high value fields- have the benefit of being able to be tested that it’s correct objectively. This has two immediate benefits: the training of the models offers clearer reward signals, and then the running of the models allows you to know that it’s working properly because you can test the results in a scalable way.
 
-Most people won’t actually notice these benefits in their day to day life directly (indirectly they certainly will over time), but the experts in these fields will. And there’s no inherent ceiling to what capabilities are needed, unlike in the consumer space where needs can get met relatively straightforwardly.
+Conversely, in other domains of work, there’s much less instant verifiability. Which legal clauses your client will agree to, what marketing campaign to run with based on changing sentiment, which message your sales prospect will want to hear, what financial targets and budget to set for a business, and so on. 
 
-This will often lead to a capability overhang, though, as many of these performance gains need to be applied to data sets and workflows in an applied way for that area of work. But this is ultimately how you get breakthroughs in life sciences, real world automation, new cyber capabilities, and more.
+All of these domains have changing internal and external factors, they don’t have “one right answer”, they rely on the opinions and risk levels of the operators, they’re highly sensitive to getting the right input context first, and in many cases the right answer can’t even be known for quite some time after the model generates the results.
+
+The implications of this distinction are that -even as model capability continues to increase exponentially- there will be a lot done at the applied AI layer than just the the model itself, and much of the processes themselves will even need to change over time to get the full gains from automation. We may even need all new capabilities to be able to “test” knowledge work over time as we have had with software.
 
 Bio: ceo @box - your business lives in content. unleash it with AI
-❤️ 347  🔁 32</description>
-      <pubDate>Sat, 01 Aug 2026 16:22:15 +0000</pubDate>
+❤️ 318  🔁 26</description>
+      <pubDate>Sun, 02 Aug 2026 17:17:17 +0000</pubDate>
     </item>
     <item>
-      <title>Garry Tan (@garrytan): Most interesting 2026 vibe shift is OpenAI actually looking to be the open platform 
+      <title>Ryo Lu (@ryolu_): my early mentors were these apps, especially Rdio, Mailbox, and Apple
 
-Note the marke...</title>
-      <link>https://x.com/garrytan/status/2083684825333105107</link>
-      <guid isPermaLink="true">https://x.com/garrytan/status/2083684825333105107</guid>
-      <description>Most interesting 2026 vibe shift is OpenAI actually looking to be the open platform 
+they made new patterns that m...</title>
+      <link>https://x.com/ryolu_/status/2083939454017053179</link>
+      <guid isPermaLink="true">https://x.com/ryolu_/status/2083939454017053179</guid>
+      <description>my early mentors were these apps, especially Rdio, Mailbox, and Apple
 
-Note the marked difference: intelligence on tap as a utility vs signaling it is optimal to integrate all the way up full stack https://t.co/EmMKE4NggP
+they made new patterns that made software feel simpler and intuitive to touch
+
+as we leave the world of apps behind, what parts of software will remain visible, and how could it feel? https://t.co/6QYLpjcund
+
+Bio: Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.
+❤️ 390  🔁 6</description>
+      <pubDate>Sun, 02 Aug 2026 15:34:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Garry Tan (@garrytan): Growth is good
+
+AI will create unimaginable economic growth and that is the best white pill https://...</title>
+      <link>https://x.com/garrytan/status/2083957110711386439</link>
+      <guid isPermaLink="true">https://x.com/garrytan/status/2083957110711386439</guid>
+      <description>Growth is good
+
+AI will create unimaginable economic growth and that is the best white pill https://t.co/wdR7nHuWJD https://t.co/30xeF2N8hO
 
 Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-❤️ 278  🔁 9</description>
-      <pubDate>Sat, 01 Aug 2026 22:42:30 +0000</pubDate>
+❤️ 302  🔁 30</description>
+      <pubDate>Sun, 02 Aug 2026 16:44:27 +0000</pubDate>
     </item>
     <item>
-      <title>Zara Zhang (@zarazhangrui): Agency is the most important human quality 
+      <title>Garry Tan (@garrytan): The sense of wonder disappeared right at the moment the amount of wonder is going parabolic https://...</title>
+      <link>https://x.com/garrytan/status/2083923385193828612</link>
+      <guid isPermaLink="true">https://x.com/garrytan/status/2083923385193828612</guid>
+      <description>The sense of wonder disappeared right at the moment the amount of wonder is going parabolic https://t.co/p56UMAFiZq
 
-The world will try to box you, label you, define you
-
-R...</title>
-      <link>https://x.com/zarazhangrui/status/2083743952319225938</link>
-      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2083743952319225938</guid>
-      <description>Agency is the most important human quality 
-
-The world will try to box you, label you, define you
-
-Resist that https://t.co/ZMhYSlZ9Za
-
-Bio: Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
-❤️ 68  🔁 5</description>
-      <pubDate>Sun, 02 Aug 2026 02:37:26 +0000</pubDate>
+Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+❤️ 173  🔁 6</description>
+      <pubDate>Sun, 02 Aug 2026 14:30:27 +0000</pubDate>
     </item>
     <item>
-      <title>Zara Zhang (@zarazhangrui): When asked that question, send them a copy of The Innovator’s Dilemma https://t.co/pkLhEvTZxc</title>
-      <link>https://x.com/zarazhangrui/status/2083738503851258201</link>
-      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2083738503851258201</guid>
-      <description>When asked that question, send them a copy of The Innovator’s Dilemma https://t.co/pkLhEvTZxc
+      <title>Garry Tan (@garrytan): Everyone mistakes the map for the territory
 
-Bio: Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w
-❤️ 22  🔁 1</description>
-      <pubDate>Sun, 02 Aug 2026 02:15:47 +0000</pubDate>
+Meritocracy is that the territory matters more than the...</title>
+      <link>https://x.com/garrytan/status/2083920039208693996</link>
+      <guid isPermaLink="true">https://x.com/garrytan/status/2083920039208693996</guid>
+      <description>Everyone mistakes the map for the territory
+
+Meritocracy is that the territory matters more than the map
+
+And in markets the outcome is the territory: did you make something people want? https://t.co/wOTHnKqk7Y
+
+Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+❤️ 195  🔁 8</description>
+      <pubDate>Sun, 02 Aug 2026 14:17:09 +0000</pubDate>
     </item>
     <item>
-      <title>Nikunj Kothari (@nikunj): What a wild dichotomous world we live in..
-
-Models solving np hard problems while traditional enterp...</title>
-      <link>https://x.com/nikunj/status/2083502573546263002</link>
-      <guid isPermaLink="true">https://x.com/nikunj/status/2083502573546263002</guid>
-      <description>What a wild dichotomous world we live in..
-
-Models solving np hard problems while traditional enterprises still complaining about their ROI on token spend. 
-
-Diffusion of models is all that we’ll be doing for the next few decades. https://t.co/VsQPqGQ2a4
+      <title>Nikunj Kothari (@nikunj): Warm NYC nights are magic 🪄 https://t.co/KGpckLDaAo</title>
+      <link>https://x.com/nikunj/status/2083925904598733088</link>
+      <guid isPermaLink="true">https://x.com/nikunj/status/2083925904598733088</guid>
+      <description>Warm NYC nights are magic 🪄 https://t.co/KGpckLDaAo
 
 Bio: partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-❤️ 3  🔁 1</description>
-      <pubDate>Sat, 01 Aug 2026 10:38:17 +0000</pubDate>
+❤️ 416  🔁 2</description>
+      <pubDate>Sun, 02 Aug 2026 14:40:27 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Steinberger (@steipete): After accepting for years that GMail is blinding me I finally asked my agent and it installed https:...</title>
-      <link>https://x.com/steipete/status/2083759812970786997</link>
-      <guid isPermaLink="true">https://x.com/steipete/status/2083759812970786997</guid>
-      <description>After accepting for years that GMail is blinding me I finally asked my agent and it installed https://t.co/H432dtknkf for me.
+      <title>Nikunj Kothari (@nikunj): What a wild world we’re living through. I wrote about the Series A squeeze recently. Here’s what els...</title>
+      <link>https://x.com/nikunj/status/2083873335998333227</link>
+      <guid isPermaLink="true">https://x.com/nikunj/status/2083873335998333227</guid>
+      <description>What a wild world we’re living through. I wrote about the Series A squeeze recently. Here’s what else I’m seeing from my seat on the investing side..
+
+1) VC has effectively fully become vibes capital. The market reality at the early-mid stage is completely divorced from fundamentals. I can go longer with even a resemblance of a straight face predict what happens to a company when they go to fund raise. 
+
+Some rounds are insanely wild with nothing to show, some rounds that seem like a sure shot are struggling to raise the capital they need. If you’re the “in vogue sector”, you’ll be just fine. This has been happening for some while but it’s fully banana town now. And unlike most who think a correction happens I think this continues for 12-18 months (dry powder, AI tailwind) minimum. The most common phrase in VC land right now is “you gotta play the game on the field”. This is a spiral that continues to keep the volatility and prices high. 
+
+2) Whereas on the public markets it’s also equally bananas. It used to be in the meme stock era that you’d see daily swings of &gt;5% (+\-). But now even trillion dollar stocks are not immune to swinging that much based on vibes and model releases. Memory and the KOSPI index are recent examples and this will happen to other sectors soon. Rotations are getting faster and faster.
+
+In the long run, the same fundamentals of building a great company with control of your own destiny (profitable, clean cap table etc) will end up just working out fine. But in the short term, in this vortex of hyper competition where capital is needed as a weapon, you should make sure you understand what’s going on before you dip your toes in the capital markets. 
+
+No matter what it’ll be interesting to see how this shakes out when we look back in this era. Obligatory happy to chat if helpful!
+
+Bio: partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+❤️ 372  🔁 21</description>
+      <pubDate>Sun, 02 Aug 2026 11:11:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Peter Steinberger (@steipete): That's a fairly new kind of spam. https://t.co/nwdRM5e7Hv https://t.co/7hXqYZnanw</title>
+      <link>https://x.com/steipete/status/2083976289485230449</link>
+      <guid isPermaLink="true">https://x.com/steipete/status/2083976289485230449</guid>
+      <description>That's a fairly new kind of spam. https://t.co/nwdRM5e7Hv https://t.co/7hXqYZnanw
 
 Bio: Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
 @OpenClaw🦞 + @OpenAI
-❤️ 239  🔁 10</description>
-      <pubDate>Sun, 02 Aug 2026 03:40:28 +0000</pubDate>
+❤️ 271  🔁 7</description>
+      <pubDate>Sun, 02 Aug 2026 18:00:40 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Steinberger (@steipete): Repo: https://t.co/7eBiLqLuDd</title>
-      <link>https://x.com/steipete/status/2083694911824826659</link>
-      <guid isPermaLink="true">https://x.com/steipete/status/2083694911824826659</guid>
-      <description>Repo: https://t.co/7eBiLqLuDd
-
-Bio: Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
-@OpenClaw🦞 + @OpenAI
-❤️ 69  🔁 4</description>
-      <pubDate>Sat, 01 Aug 2026 23:22:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Peter Steinberger (@steipete): I'm building a claw node on an ESP32 chip, so gave my agent access to my webcam to e2e test this. No...</title>
-      <link>https://x.com/steipete/status/2083694161933594703</link>
-      <guid isPermaLink="true">https://x.com/steipete/status/2083694161933594703</guid>
-      <description>I'm building a claw node on an ESP32 chip, so gave my agent access to my webcam to e2e test this. Now I feel it's stalking me and is constaltly shouting 'HI ESP" to debug the voice wake command 🙃
-
-Bio: Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
-@OpenClaw🦞 + @OpenAI
-❤️ 257  🔁 19</description>
-      <pubDate>Sat, 01 Aug 2026 23:19:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dan Shipper (@danshipper): AI creates more work for human experts 
-
-https://t.co/j3r4aTuQoi https://t.co/ruFncXlpmu</title>
-      <link>https://x.com/danshipper/status/2083750803437724016</link>
-      <guid isPermaLink="true">https://x.com/danshipper/status/2083750803437724016</guid>
-      <description>AI creates more work for human experts 
-
-https://t.co/j3r4aTuQoi https://t.co/ruFncXlpmu
+      <title>Dan Shipper (@danshipper): if you haven’t read War and Peace or some of the historical accounts of this like With Napoleon in R...</title>
+      <link>https://x.com/danshipper/status/2084144207254663417</link>
+      <guid isPermaLink="true">https://x.com/danshipper/status/2084144207254663417</guid>
+      <description>if you haven’t read War and Peace or some of the historical accounts of this like With Napoleon in Russia, you should https://t.co/SNCbN1wCg6
 
 Bio: ceo @every | the only subscription you need to stay at the edge of AI
-❤️ 34  🔁 2</description>
-      <pubDate>Sun, 02 Aug 2026 03:04:40 +0000</pubDate>
+❤️ 10  🔁 1</description>
+      <pubDate>Mon, 03 Aug 2026 05:07:55 +0000</pubDate>
     </item>
     <item>
-      <title>Dan Shipper (@danshipper): this tweet under review as further details emerge https://t.co/QVF9CjxF5s</title>
-      <link>https://x.com/danshipper/status/2083727039048118304</link>
-      <guid isPermaLink="true">https://x.com/danshipper/status/2083727039048118304</guid>
-      <description>this tweet under review as further details emerge https://t.co/QVF9CjxF5s
+      <title>Dan Shipper (@danshipper): when you experience a language model doing a task that used to require you at every step and now doe...</title>
+      <link>https://x.com/danshipper/status/2084038453831020916</link>
+      <guid isPermaLink="true">https://x.com/danshipper/status/2084038453831020916</guid>
+      <description>when you experience a language model doing a task that used to require you at every step and now doesn't, it's a gigantic agency rupture. 
+
+we tend to equate ourselves with our tasks, our outputs, and a rupture of this kind is akin to the loss of your identity and sense of self. 
+
+you are no longer required, and you had no say in the matter. it's a kind of death.
+
+however, agency ruptures with AI seem to follow a predictable pattern:
+
+- Initial agency rupture. Here you see the AI doing what you used to do, and you see only the AI. In your perception of reality the AI is highlighted, and the human work around getting the AI to do the thing, is invisible. you can see this in the way we use language: "AI solved XYZ Erdos Problem" is another way to say we're in the initial rupture phase.
+
+- Seeing human scaffolding. After a little bit of experience with the model and its new capibility—programming, writing, math, etc—we start to see the edges of what's possible with the model. Here, instead of just seeing the AI doing the task, we start to see the scaffolding required by you and other humans on either end to make sure the model does its work. At this stage, the scaffolding can feel like a secondary part of the work, but it is work nonetheless. We begin to say things like, "The AI is prompting me", or "My job is just to babysit Claude." 
+
+- Agency reconstruction. After a long enough time with the model at its current level of capability, we start to reconstruct a new sense of agency that centers our own role in the work being done, and makes the model's contribution mostly invisible. It is now a tool, it fast-forwards you through the boring or repetitive parts of the work, and what used to seem like scaffolding now seems like the actual work itself—the interesting part. You've had enough experience with the scaffolding to see its nuances, and how hard it is to get the model to reliably output high quality work. (As part of this, your conception of what quality work is changes—the floor is raised, and so is the ceiling.)
+
+You can tell you're at this point because you stop saying "The AI did this" and just say, "I did this" and the fact that you used AI is implied. For example, it would be weird for me to talk to someone @every and ask them if the AI built the most recent feature of a product. Of course it did! But we're so used to the capability that it becomes invisible, and we re-center ourselves and our own conception of agency.
+
+My theory is that the ability to metabolize agency ruptures and turn them into playfulness, and curiosity is a good leading indicator for whether you're a person who likes and excels in the new AI economy or not.  
+
+Each time capabilities jump, you get new ruptures for existing fields touched by AI. And you get new ruptures for naive populations (like mathemeticians) who until recently hadn't been affected.
+
+if you know what the cycle looks like, it makes it much easier to ride it without freaking out. i think most people @every are naturally good at this
 
 Bio: ceo @every | the only subscription you need to stay at the edge of AI
-❤️ 29  🔁 0</description>
-      <pubDate>Sun, 02 Aug 2026 01:30:14 +0000</pubDate>
+❤️ 192  🔁 17</description>
+      <pubDate>Sun, 02 Aug 2026 22:07:41 +0000</pubDate>
     </item>
     <item>
-      <title>Sam Altman (@sama): team humanity https://t.co/Z75TuFp56E</title>
-      <link>https://x.com/sama/status/2083560847889023219</link>
-      <guid isPermaLink="true">https://x.com/sama/status/2083560847889023219</guid>
-      <description>team humanity https://t.co/Z75TuFp56E
+      <title>Dan Shipper (@danshipper): if ought implies can, and technology reshapes the field of human abilities—then technology reshapes ...</title>
+      <link>https://x.com/danshipper/status/2084024211539116466</link>
+      <guid isPermaLink="true">https://x.com/danshipper/status/2084024211539116466</guid>
+      <description>if ought implies can, and technology reshapes the field of human abilities—then technology reshapes oughts. 
 
-Bio: AI is cool i guess
-❤️ 2253  🔁 101</description>
-      <pubDate>Sat, 01 Aug 2026 14:29:51 +0000</pubDate>
+we should expect AI to fundamentally change our moral intuitions at the same time as it changes our abilities
+
+Bio: ceo @every | the only subscription you need to stay at the edge of AI
+❤️ 18  🔁 1</description>
+      <pubDate>Sun, 02 Aug 2026 21:11:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
