@@ -4,14 +4,26 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Mon, 03 Aug 2026 07:26:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 07:12:18 +0000</lastBuildDate>
     <item>
-      <title>[Training Data] Building the Automated AGI Lab: Core Automation's Jerry Tworek and Rohan Anil</title>
-      <link>https://www.youtube.com/watch?v=2RJiaf0SY8s</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=2RJiaf0SY8s</guid>
-      <description>Speaker 1 | 00:00 - 00:29
-If I play football, for example, it looks very, very closely to reinforcement learning. I kick a ball a lot of times, and every time I adjust it a little bit and I see if it roughly matches what I what I wanted and either there's some self reinforcement happening. When I learn mathematics, it's very different type of thing. It's it's like reading about hard concepts and thinking about them very deeply inside my head until things click and until until have them connected...</description>
-      <pubDate>Wed, 29 Jul 2026 09:00:00 +0000</pubDate>
+      <title>[Unsupervised Learning] AI Vibe Check: Chinese Open Models, Distillation &amp;amp; The Hugging Face Breach</title>
+      <link>https://www.youtube.com/watch?v=_GlSkJjRDMM</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=_GlSkJjRDMM</guid>
+      <description>Speaker 1 | 00:00 - 00:06
+My mom, like, knows nothing about AI. She texted me last week, Rob, what do you think about OpenAI's agents hacking into Hugging Face?
+
+Speaker 2 | 00:06 - 00:07
+What did you make of it?
+
+Speaker 3 | 00:07 - 00:12
+I think this is actually a great example of why open models of that capability are important.
+
+Speaker 2 | 00:12 - 00:16
+How much do you think distillation is the explanation for what's happened here?
+
+Speaker 3 | 00:16 - 00:19
+I don't think it explains nearly...</description>
+      <pubDate>Mon, 03 Aug 2026 12:55:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
