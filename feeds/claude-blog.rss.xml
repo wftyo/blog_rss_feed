@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>A guide to cost visibility and control in Claude</title>
+      <link>https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude</link>
+      <guid isPermaLink="true">https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude</guid>
+      <description>A guide to cost visibility and control in Claude A guide to cost visibility and control in Claude</description>
+    </item>
+    <item>
       <title>Bringing MCP 2026-07-28 to Claude</title>
       <link>https://claude.com/blog/bringing-mcp-2026-07-28-to-claude</link>
       <guid isPermaLink="true">https://claude.com/blog/bringing-mcp-2026-07-28-to-claude</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/ai-code-migration</link>
       <guid isPermaLink="true">https://claude.com/blog/ai-code-migration</guid>
       <description>How Anthropic runs large-scale code migrations with Claude Code How Anthropic runs large-scale code migrations with Claude Code</description>
-    </item>
-    <item>
-      <title>Working with Claude Fable 5 in Claude Cowork</title>
-      <link>https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork</link>
-      <guid isPermaLink="true">https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork</guid>
-      <description>Working with Claude Fable 5 in Claude Cowork Working with Claude Fable 5 in Claude Cowork</description>
     </item>
   </channel>
 </rss>
