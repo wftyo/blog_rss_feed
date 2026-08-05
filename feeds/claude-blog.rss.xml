@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Inference hooks: inline data loss prevention for Claude Enterprise</title>
+      <link>https://claude.com/blog/claude-enterprise-inference-hooks</link>
+      <guid isPermaLink="true">https://claude.com/blog/claude-enterprise-inference-hooks</guid>
+      <description>Inference hooks: inline data loss prevention for Claude Enterprise Inference hooks: inline data loss prevention for Claude Enterprise</description>
+    </item>
+    <item>
       <title>A guide to cost visibility and control in Claude</title>
       <link>https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude</link>
       <guid isPermaLink="true">https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/ciso-guide-to-agentic-ai</link>
       <guid isPermaLink="true">https://claude.com/blog/ciso-guide-to-agentic-ai</guid>
       <description>Zero risk isn't the job: a CISO's guide to agentic AI Zero risk isn't the job: a CISO's guide to agentic AI</description>
-    </item>
-    <item>
-      <title>How Anthropic runs large-scale code migrations with Claude Code</title>
-      <link>https://claude.com/blog/ai-code-migration</link>
-      <guid isPermaLink="true">https://claude.com/blog/ai-code-migration</guid>
-      <description>How Anthropic runs large-scale code migrations with Claude Code How Anthropic runs large-scale code migrations with Claude Code</description>
     </item>
   </channel>
 </rss>
