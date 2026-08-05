@@ -4,26 +4,14 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Tue, 04 Aug 2026 07:12:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 07:12:29 +0000</lastBuildDate>
     <item>
-      <title>[Unsupervised Learning] AI Vibe Check: Chinese Open Models, Distillation &amp;amp; The Hugging Face Breach</title>
-      <link>https://www.youtube.com/watch?v=_GlSkJjRDMM</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=_GlSkJjRDMM</guid>
-      <description>Speaker 1 | 00:00 - 00:06
-My mom, like, knows nothing about AI. She texted me last week, Rob, what do you think about OpenAI's agents hacking into Hugging Face?
-
-Speaker 2 | 00:06 - 00:07
-What did you make of it?
-
-Speaker 3 | 00:07 - 00:12
-I think this is actually a great example of why open models of that capability are important.
-
-Speaker 2 | 00:12 - 00:16
-How much do you think distillation is the explanation for what's happened here?
-
-Speaker 3 | 00:16 - 00:19
-I don't think it explains nearly...</description>
-      <pubDate>Mon, 03 Aug 2026 12:55:21 +0000</pubDate>
+      <title>[Training Data] Chai Discovery's Bitter Lesson: Drug Design Is Another Scaling Problem</title>
+      <link>https://www.youtube.com/watch?v=wv53mDmY-k0</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=wv53mDmY-k0</guid>
+      <description>Speaker 1 | 00:00 - 00:22
+One of our big guiding principles is just simplicity. So, like, when you look at a model like, let's say, CHI one, I think there are 23 distinct submodules in CHI one. And, like, when you're trying to iterate on something like that, it gets really hard because you're like, I kinda I need to understand each of these sub modules independently. I need to understand all of their behaviors, their dynamics, and, like, that doesn't actually scale that well. So, like, you can s...</description>
+      <pubDate>Tue, 04 Aug 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
