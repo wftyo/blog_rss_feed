@@ -4,14 +4,17 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Wed, 05 Aug 2026 07:12:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 07:13:12 +0000</lastBuildDate>
     <item>
-      <title>[Training Data] Chai Discovery's Bitter Lesson: Drug Design Is Another Scaling Problem</title>
-      <link>https://www.youtube.com/watch?v=wv53mDmY-k0</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=wv53mDmY-k0</guid>
-      <description>Speaker 1 | 00:00 - 00:22
-One of our big guiding principles is just simplicity. So, like, when you look at a model like, let's say, CHI one, I think there are 23 distinct submodules in CHI one. And, like, when you're trying to iterate on something like that, it gets really hard because you're like, I kinda I need to understand each of these sub modules independently. I need to understand all of their behaviors, their dynamics, and, like, that doesn't actually scale that well. So, like, you can s...</description>
-      <pubDate>Tue, 04 Aug 2026 09:00:00 +0000</pubDate>
+      <title>[AI &amp; I by Every] Why the Next Hit AI Product Will Be Social Why the Next Hit AI Product Will Be Social (Best of the Pod)</title>
+      <link>https://www.youtube.com/watch?v=dlI-5W7d7uU</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=dlI-5W7d7uU</guid>
+      <description>Speaker 1 | 00:00 - 00:20
+Google was a founding team that was deeply, deeply technical. As the technology, the underlying technology got more mature, the slider goes forward, forward, forward, more towards the product thinker, product experience. Pinterest, where I was, Snap, Instagram. The CEOs weren't technical at all. They were product geniuses.
+
+Speaker 1 | 00:20 - 00:42
+What are the big consumer wins so far in AI? Of course, it's ChatGPT, which is, in a way, not that dissimilar from Google ...</description>
+      <pubDate>Wed, 05 Aug 2026 16:02:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
