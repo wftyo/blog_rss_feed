@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Millennium and Anthropic are building a digital risk analyst with Claude</title>
+      <link>https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude</link>
+      <guid isPermaLink="true">https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude</guid>
+      <description>Millennium and Anthropic are building a digital risk analyst with Claude Millennium and Anthropic are building a digital risk analyst with Claude</description>
+    </item>
+    <item>
       <title>Inference hooks: inline data loss prevention for Claude Enterprise</title>
       <link>https://claude.com/blog/claude-enterprise-inference-hooks</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-enterprise-inference-hooks</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/working-at-the-frontier-cursor</link>
       <guid isPermaLink="true">https://claude.com/blog/working-at-the-frontier-cursor</guid>
       <description>Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems</description>
-    </item>
-    <item>
-      <title>Zero risk isn't the job: a CISO's guide to agentic AI</title>
-      <link>https://claude.com/blog/ciso-guide-to-agentic-ai</link>
-      <guid isPermaLink="true">https://claude.com/blog/ciso-guide-to-agentic-ai</guid>
-      <description>Zero risk isn't the job: a CISO's guide to agentic AI Zero risk isn't the job: a CISO's guide to agentic AI</description>
     </item>
   </channel>
 </rss>
