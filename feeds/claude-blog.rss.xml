@@ -5,6 +5,18 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Auto mode is now the default in Claude Code for Pro, Max, and Team plans</title>
+      <link>https://claude.com/blog/auto-mode-default-in-claude-code</link>
+      <guid isPermaLink="true">https://claude.com/blog/auto-mode-default-in-claude-code</guid>
+      <description>Auto mode is now the default in Claude Code for Pro, Max, and Team plans Auto mode is now the default in Claude Code for Pro, Max, and Team plans</description>
+    </item>
+    <item>
+      <title>Running auto mode in production</title>
+      <link>https://claude.com/blog/auto-mode-in-production</link>
+      <guid isPermaLink="true">https://claude.com/blog/auto-mode-in-production</guid>
+      <description>Running auto mode in production Running auto mode in production</description>
+    </item>
+    <item>
       <title>Millennium and Anthropic are building a digital risk analyst with Claude</title>
       <link>https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude</link>
       <guid isPermaLink="true">https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude</guid>
@@ -81,18 +93,6 @@
       <link>https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle</link>
       <guid isPermaLink="true">https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle</guid>
       <description>How Anthropic secures its AI-native software development lifecycle How Anthropic secures its AI-native software development lifecycle</description>
-    </item>
-    <item>
-      <title>How Datadog built a “universal machine tool” for Claude Code</title>
-      <link>https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code</link>
-      <guid isPermaLink="true">https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code</guid>
-      <description>How Datadog built a “universal machine tool” for Claude Code How Datadog built a “universal machine tool” for Claude Code</description>
-    </item>
-    <item>
-      <title>Working at the frontier: How Rakuten builds agents overnight with Claude Fable 5</title>
-      <link>https://claude.com/blog/working-at-the-frontier-rakuten</link>
-      <guid isPermaLink="true">https://claude.com/blog/working-at-the-frontier-rakuten</guid>
-      <description>Working at the frontier: How Rakuten builds agents overnight with Claude Fable 5 Working at the frontier: How Rakuten builds agents overnight with Claude Fable 5</description>
     </item>
   </channel>
 </rss>
