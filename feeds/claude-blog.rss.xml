@@ -11,6 +11,12 @@
       <description>Millennium and Anthropic are building a digital risk analyst with Claude Millennium and Anthropic are building a digital risk analyst with Claude</description>
     </item>
     <item>
+      <title>Run Claude Code sessions on your own compute</title>
+      <link>https://claude.com/blog/run-claude-code-sessions-on-your-own-compute</link>
+      <guid isPermaLink="true">https://claude.com/blog/run-claude-code-sessions-on-your-own-compute</guid>
+      <description>Run Claude Code sessions on your own compute Run Claude Code sessions on your own compute</description>
+    </item>
+    <item>
       <title>Inference hooks: inline data loss prevention for Claude Enterprise</title>
       <link>https://claude.com/blog/claude-enterprise-inference-hooks</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-enterprise-inference-hooks</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/working-at-the-frontier-rakuten</link>
       <guid isPermaLink="true">https://claude.com/blog/working-at-the-frontier-rakuten</guid>
       <description>Working at the frontier: How Rakuten builds agents overnight with Claude Fable 5 Working at the frontier: How Rakuten builds agents overnight with Claude Fable 5</description>
-    </item>
-    <item>
-      <title>Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems</title>
-      <link>https://claude.com/blog/working-at-the-frontier-cursor</link>
-      <guid isPermaLink="true">https://claude.com/blog/working-at-the-frontier-cursor</guid>
-      <description>Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems</description>
     </item>
   </channel>
 </rss>
