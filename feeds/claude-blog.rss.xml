@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>How Anthropic's business development team uses Claude to run inbound and outbound at scale</title>
+      <link>https://claude.com/blog/how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale</link>
+      <guid isPermaLink="true">https://claude.com/blog/how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale</guid>
+      <description>How Anthropic's business development team uses Claude to run inbound and outbound at scale How Anthropic's business development team uses Claude to run inbound and outbound at scale</description>
+    </item>
+    <item>
       <title>Auto mode is now the default in Claude Code for Pro, Max, and Team plans</title>
       <link>https://claude.com/blog/auto-mode-default-in-claude-code</link>
       <guid isPermaLink="true">https://claude.com/blog/auto-mode-default-in-claude-code</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/how-outtake-built-a-cyber-investigator-on-claude</link>
       <guid isPermaLink="true">https://claude.com/blog/how-outtake-built-a-cyber-investigator-on-claude</guid>
       <description>How Outtake built a cyber investigator on Claude How Outtake built a cyber investigator on Claude</description>
-    </item>
-    <item>
-      <title>How Anthropic secures its AI-native software development lifecycle</title>
-      <link>https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle</link>
-      <guid isPermaLink="true">https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle</guid>
-      <description>How Anthropic secures its AI-native software development lifecycle How Anthropic secures its AI-native software development lifecycle</description>
     </item>
   </channel>
 </rss>
