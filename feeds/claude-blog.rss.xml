@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Compliance API coverage extends to Claude Cowork and Claude Code</title>
+      <link>https://claude.com/blog/compliance-api-cowork-and-claude-code</link>
+      <guid isPermaLink="true">https://claude.com/blog/compliance-api-cowork-and-claude-code</guid>
+      <description>Compliance API coverage extends to Claude Cowork and Claude Code Compliance API coverage extends to Claude Cowork and Claude Code</description>
+    </item>
+    <item>
       <title>How Anthropic's business development team uses Claude to run inbound and outbound at scale</title>
       <link>https://claude.com/blog/how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale</link>
       <guid isPermaLink="true">https://claude.com/blog/how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/building-verification-loops-in-claude-code-with-skills</link>
       <guid isPermaLink="true">https://claude.com/blog/building-verification-loops-in-claude-code-with-skills</guid>
       <description>Building verification loops in Claude Code with skills Building verification loops in Claude Code with skills</description>
-    </item>
-    <item>
-      <title>How Outtake built a cyber investigator on Claude</title>
-      <link>https://claude.com/blog/how-outtake-built-a-cyber-investigator-on-claude</link>
-      <guid isPermaLink="true">https://claude.com/blog/how-outtake-built-a-cyber-investigator-on-claude</guid>
-      <description>How Outtake built a cyber investigator on Claude How Outtake built a cyber investigator on Claude</description>
     </item>
   </channel>
 </rss>
