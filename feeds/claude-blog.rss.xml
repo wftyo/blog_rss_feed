@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>The Claude in Chrome side panel is now Claude Cowork</title>
+      <link>https://claude.com/blog/cowork-chrome-side-panel</link>
+      <guid isPermaLink="true">https://claude.com/blog/cowork-chrome-side-panel</guid>
+      <description>The Claude in Chrome side panel is now Claude Cowork The Claude in Chrome side panel is now Claude Cowork</description>
+    </item>
+    <item>
       <title>Compliance API coverage extends to Claude Cowork and Claude Code</title>
       <link>https://claude.com/blog/compliance-api-cowork-and-claude-code</link>
       <guid isPermaLink="true">https://claude.com/blog/compliance-api-cowork-and-claude-code</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/think-through-hard-problems-in-voice-mode</link>
       <guid isPermaLink="true">https://claude.com/blog/think-through-hard-problems-in-voice-mode</guid>
       <description>Think through hard problems in voice mode Think through hard problems in voice mode</description>
-    </item>
-    <item>
-      <title>Building verification loops in Claude Code with skills</title>
-      <link>https://claude.com/blog/building-verification-loops-in-claude-code-with-skills</link>
-      <guid isPermaLink="true">https://claude.com/blog/building-verification-loops-in-claude-code-with-skills</guid>
-      <description>Building verification loops in Claude Code with skills Building verification loops in Claude Code with skills</description>
     </item>
   </channel>
 </rss>
