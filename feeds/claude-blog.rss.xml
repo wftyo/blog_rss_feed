@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Claude Tag now reads even more of the room</title>
+      <link>https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room</link>
+      <guid isPermaLink="true">https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room</guid>
+      <description>Claude Tag now reads even more of the room Claude Tag now reads even more of the room</description>
+    </item>
+    <item>
       <title>The Claude in Chrome side panel is now Claude Cowork</title>
       <link>https://claude.com/blog/cowork-chrome-side-panel</link>
       <guid isPermaLink="true">https://claude.com/blog/cowork-chrome-side-panel</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/four-role-based-claude-certifications</link>
       <guid isPermaLink="true">https://claude.com/blog/four-role-based-claude-certifications</guid>
       <description>Four role-based certifications for the people who put Claude to work for customers Four role-based certifications for the people who put Claude to work for customers</description>
-    </item>
-    <item>
-      <title>Think through hard problems in voice mode</title>
-      <link>https://claude.com/blog/think-through-hard-problems-in-voice-mode</link>
-      <guid isPermaLink="true">https://claude.com/blog/think-through-hard-problems-in-voice-mode</guid>
-      <description>Think through hard problems in voice mode Think through hard problems in voice mode</description>
     </item>
   </channel>
 </rss>
