@@ -17,6 +17,12 @@
       <description>Claude Tag now reads even more of the room Claude Tag now reads even more of the room</description>
     </item>
     <item>
+      <title>Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5</title>
+      <link>https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5</link>
+      <guid isPermaLink="true">https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5</guid>
+      <description>Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5 Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5</description>
+    </item>
+    <item>
       <title>The Claude in Chrome side panel is now Claude Cowork</title>
       <link>https://claude.com/blog/cowork-chrome-side-panel</link>
       <guid isPermaLink="true">https://claude.com/blog/cowork-chrome-side-panel</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models</link>
       <guid isPermaLink="true">https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models</guid>
       <description>The new rules of context engineering for Claude 5 generation models The new rules of context engineering for Claude 5 generation models</description>
-    </item>
-    <item>
-      <title>Claude models explained: choosing the best model for your use case</title>
-      <link>https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case</link>
-      <guid isPermaLink="true">https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case</guid>
-      <description>Claude models explained: choosing the best model for your use case Claude models explained: choosing the best model for your use case</description>
     </item>
   </channel>
 </rss>
