@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Maximizing the value of your Claude Code sessions</title>
+      <link>https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions</link>
+      <guid isPermaLink="true">https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions</guid>
+      <description>Maximizing the value of your Claude Code sessions Maximizing the value of your Claude Code sessions</description>
+    </item>
+    <item>
       <title>Self-service data analytics in Slack: how Anthropic deploys Claude Tag for ad-hoc questions</title>
       <link>https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions</link>
       <guid isPermaLink="true">https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them</link>
       <guid isPermaLink="true">https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them</guid>
       <description>How the product designer who built Claude Design uses it to explore ideas before building them How the product designer who built Claude Design uses it to explore ideas before building them</description>
-    </item>
-    <item>
-      <title>The new rules of context engineering for Claude 5 generation models</title>
-      <link>https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models</link>
-      <guid isPermaLink="true">https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models</guid>
-      <description>The new rules of context engineering for Claude 5 generation models The new rules of context engineering for Claude 5 generation models</description>
     </item>
   </channel>
 </rss>
