@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>How ABC Legal turned every employee into a builder with Claude Managed Agents</title>
+      <link>https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents</link>
+      <guid isPermaLink="true">https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents</guid>
+      <description>How ABC Legal turned every employee into a builder with Claude Managed Agents How ABC Legal turned every employee into a builder with Claude Managed Agents</description>
+    </item>
+    <item>
       <title>Maximizing the value of your Claude Code sessions</title>
       <link>https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions</link>
       <guid isPermaLink="true">https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/bringing-mcp-2026-07-28-to-claude</link>
       <guid isPermaLink="true">https://claude.com/blog/bringing-mcp-2026-07-28-to-claude</guid>
       <description>Bringing MCP 2026-07-28 to Claude Bringing MCP 2026-07-28 to Claude</description>
-    </item>
-    <item>
-      <title>How the product designer who built Claude Design uses it to explore ideas before building them</title>
-      <link>https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them</link>
-      <guid isPermaLink="true">https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them</guid>
-      <description>How the product designer who built Claude Design uses it to explore ideas before building them How the product designer who built Claude Design uses it to explore ideas before building them</description>
     </item>
   </channel>
 </rss>
