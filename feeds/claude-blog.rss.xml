@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>The Claude Science product guide</title>
+      <link>https://claude.com/blog/the-claude-science-product-guide</link>
+      <guid isPermaLink="true">https://claude.com/blog/the-claude-science-product-guide</guid>
+      <description>The Claude Science product guide The Claude Science product guide</description>
+    </item>
+    <item>
       <title>How ABC Legal turned every employee into a builder with Claude Managed Agents</title>
       <link>https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents</link>
       <guid isPermaLink="true">https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude</link>
       <guid isPermaLink="true">https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude</guid>
       <description>A guide to cost visibility and control in Claude A guide to cost visibility and control in Claude</description>
-    </item>
-    <item>
-      <title>Bringing MCP 2026-07-28 to Claude</title>
-      <link>https://claude.com/blog/bringing-mcp-2026-07-28-to-claude</link>
-      <guid isPermaLink="true">https://claude.com/blog/bringing-mcp-2026-07-28-to-claude</guid>
-      <description>Bringing MCP 2026-07-28 to Claude Bringing MCP 2026-07-28 to Claude</description>
     </item>
   </channel>
 </rss>
