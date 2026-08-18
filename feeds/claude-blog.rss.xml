@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures</title>
+      <link>https://claude.com/blog/ai-ci-cd-on-call</link>
+      <guid isPermaLink="true">https://claude.com/blog/ai-ci-cd-on-call</guid>
+      <description>Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures</description>
+    </item>
+    <item>
       <title>The Claude Science product guide</title>
       <link>https://claude.com/blog/the-claude-science-product-guide</link>
       <guid isPermaLink="true">https://claude.com/blog/the-claude-science-product-guide</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/claude-enterprise-inference-hooks</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-enterprise-inference-hooks</guid>
       <description>Inference hooks: inline data loss prevention for Claude Enterprise Inference hooks: inline data loss prevention for Claude Enterprise</description>
-    </item>
-    <item>
-      <title>A guide to cost visibility and control in Claude</title>
-      <link>https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude</link>
-      <guid isPermaLink="true">https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude</guid>
-      <description>A guide to cost visibility and control in Claude A guide to cost visibility and control in Claude</description>
     </item>
   </channel>
 </rss>
