@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Anthropic’s approach to teaching and learning AI</title>
+      <link>https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai</link>
+      <guid isPermaLink="true">https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai</guid>
+      <description>Anthropic’s approach to teaching and learning AI Anthropic’s approach to teaching and learning AI</description>
+    </item>
+    <item>
       <title>How monday.com transformed its platform into an agent-first product where humans and agents collaborate</title>
       <link>https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate</link>
       <guid isPermaLink="true">https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate</guid>
@@ -15,6 +21,12 @@
       <link>https://claude.com/blog/claude-code-guide-for-startups</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-code-guide-for-startups</guid>
       <description>The Claude Code guide for startups The Claude Code guide for startups</description>
+    </item>
+    <item>
+      <title>Build production agents with computer use, the Skills API, and the Files API</title>
+      <link>https://claude.com/blog/computer-use-skills-api-files-api</link>
+      <guid isPermaLink="true">https://claude.com/blog/computer-use-skills-api-files-api</guid>
+      <description>Build production agents with computer use, the Skills API, and the Files API Build production agents with computer use, the Skills API, and the Files API</description>
     </item>
     <item>
       <title>Turning conversation into knowledge: how Slack builds human-agent teams</title>
@@ -81,18 +93,6 @@
       <link>https://claude.com/blog/auto-mode-default-in-claude-code</link>
       <guid isPermaLink="true">https://claude.com/blog/auto-mode-default-in-claude-code</guid>
       <description>Auto mode is now the default in Claude Code for Pro, Max, and Team plans Auto mode is now the default in Claude Code for Pro, Max, and Team plans</description>
-    </item>
-    <item>
-      <title>Running auto mode in production</title>
-      <link>https://claude.com/blog/auto-mode-in-production</link>
-      <guid isPermaLink="true">https://claude.com/blog/auto-mode-in-production</guid>
-      <description>Running auto mode in production Running auto mode in production</description>
-    </item>
-    <item>
-      <title>Millennium and Anthropic are building a digital risk analyst with Claude</title>
-      <link>https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude</link>
-      <guid isPermaLink="true">https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude</guid>
-      <description>Millennium and Anthropic are building a digital risk analyst with Claude Millennium and Anthropic are building a digital risk analyst with Claude</description>
     </item>
   </channel>
 </rss>
