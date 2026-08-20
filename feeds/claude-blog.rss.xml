@@ -5,10 +5,16 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
-      <title>The Claude Code Guide For Startups</title>
+      <title>How monday.com transformed its platform into an agent-first product where humans and agents collaborate</title>
+      <link>https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate</link>
+      <guid isPermaLink="true">https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate</guid>
+      <description>How monday.com transformed its platform into an agent-first product where humans and agents collaborate How monday.com transformed its platform into an agent-first product where humans and agents collaborate</description>
+    </item>
+    <item>
+      <title>The Claude Code guide for startups</title>
       <link>https://claude.com/blog/claude-code-guide-for-startups</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-code-guide-for-startups</guid>
-      <description>The Claude Code Guide For Startups The Claude Code Guide For Startups</description>
+      <description>The Claude Code guide for startups The Claude Code guide for startups</description>
     </item>
     <item>
       <title>Turning conversation into knowledge: how Slack builds human-agent teams</title>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude</link>
       <guid isPermaLink="true">https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude</guid>
       <description>Millennium and Anthropic are building a digital risk analyst with Claude Millennium and Anthropic are building a digital risk analyst with Claude</description>
-    </item>
-    <item>
-      <title>Run Claude Code sessions on your own compute</title>
-      <link>https://claude.com/blog/run-claude-code-sessions-on-your-own-compute</link>
-      <guid isPermaLink="true">https://claude.com/blog/run-claude-code-sessions-on-your-own-compute</guid>
-      <description>Run Claude Code sessions on your own compute Run Claude Code sessions on your own compute</description>
     </item>
   </channel>
 </rss>
