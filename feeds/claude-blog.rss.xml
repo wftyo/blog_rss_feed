@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>The Claude Code Guide For Startups</title>
+      <link>https://claude.com/blog/claude-code-guide-for-startups</link>
+      <guid isPermaLink="true">https://claude.com/blog/claude-code-guide-for-startups</guid>
+      <description>The Claude Code Guide For Startups The Claude Code Guide For Startups</description>
+    </item>
+    <item>
       <title>Turning conversation into knowledge: how Slack builds human-agent teams</title>
       <link>https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams</link>
       <guid isPermaLink="true">https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/run-claude-code-sessions-on-your-own-compute</link>
       <guid isPermaLink="true">https://claude.com/blog/run-claude-code-sessions-on-your-own-compute</guid>
       <description>Run Claude Code sessions on your own compute Run Claude Code sessions on your own compute</description>
-    </item>
-    <item>
-      <title>Inference hooks: inline data loss prevention for Claude Enterprise</title>
-      <link>https://claude.com/blog/claude-enterprise-inference-hooks</link>
-      <guid isPermaLink="true">https://claude.com/blog/claude-enterprise-inference-hooks</guid>
-      <description>Inference hooks: inline data loss prevention for Claude Enterprise Inference hooks: inline data loss prevention for Claude Enterprise</description>
     </item>
   </channel>
 </rss>
