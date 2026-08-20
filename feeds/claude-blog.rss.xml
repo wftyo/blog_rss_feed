@@ -17,12 +17,6 @@
       <description>Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures</description>
     </item>
     <item>
-      <title>The Claude Science product guide</title>
-      <link>https://claude.com/blog/the-claude-science-product-guide</link>
-      <guid isPermaLink="true">https://claude.com/blog/the-claude-science-product-guide</guid>
-      <description>The Claude Science product guide The Claude Science product guide</description>
-    </item>
-    <item>
       <title>How ABC Legal turned every employee into a builder with Claude Managed Agents</title>
       <link>https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents</link>
       <guid isPermaLink="true">https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents</guid>
@@ -93,6 +87,12 @@
       <link>https://claude.com/blog/run-claude-code-sessions-on-your-own-compute</link>
       <guid isPermaLink="true">https://claude.com/blog/run-claude-code-sessions-on-your-own-compute</guid>
       <description>Run Claude Code sessions on your own compute Run Claude Code sessions on your own compute</description>
+    </item>
+    <item>
+      <title>Inference hooks: inline data loss prevention for Claude Enterprise</title>
+      <link>https://claude.com/blog/claude-enterprise-inference-hooks</link>
+      <guid isPermaLink="true">https://claude.com/blog/claude-enterprise-inference-hooks</guid>
+      <description>Inference hooks: inline data loss prevention for Claude Enterprise Inference hooks: inline data loss prevention for Claude Enterprise</description>
     </item>
   </channel>
 </rss>
