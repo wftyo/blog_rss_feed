@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>The AI-Native SDLC playbook</title>
+      <link>https://claude.com/blog/the-ai-native-sdlc-playbook</link>
+      <guid isPermaLink="true">https://claude.com/blog/the-ai-native-sdlc-playbook</guid>
+      <description>The AI-Native SDLC playbook The AI-Native SDLC playbook</description>
+    </item>
+    <item>
       <title>Anthropic’s approach to teaching and learning AI</title>
       <link>https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai</link>
       <guid isPermaLink="true">https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale</link>
       <guid isPermaLink="true">https://claude.com/blog/how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale</guid>
       <description>How Anthropic's business development team uses Claude to run inbound and outbound at scale How Anthropic's business development team uses Claude to run inbound and outbound at scale</description>
-    </item>
-    <item>
-      <title>Auto mode is now the default in Claude Code for Pro, Max, and Team plans</title>
-      <link>https://claude.com/blog/auto-mode-default-in-claude-code</link>
-      <guid isPermaLink="true">https://claude.com/blog/auto-mode-default-in-claude-code</guid>
-      <description>Auto mode is now the default in Claude Code for Pro, Max, and Team plans Auto mode is now the default in Claude Code for Pro, Max, and Team plans</description>
     </item>
   </channel>
 </rss>
