@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders</title>
+      <link>https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders</link>
+      <guid isPermaLink="true">https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders</guid>
+      <description>Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders</description>
+    </item>
+    <item>
       <title>The AI-Native SDLC playbook</title>
       <link>https://claude.com/blog/the-ai-native-sdlc-playbook</link>
       <guid isPermaLink="true">https://claude.com/blog/the-ai-native-sdlc-playbook</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/compliance-api-cowork-and-claude-code</link>
       <guid isPermaLink="true">https://claude.com/blog/compliance-api-cowork-and-claude-code</guid>
       <description>Compliance API coverage extends to Claude Cowork and Claude Code Compliance API coverage extends to Claude Cowork and Claude Code</description>
-    </item>
-    <item>
-      <title>How Anthropic's business development team uses Claude to run inbound and outbound at scale</title>
-      <link>https://claude.com/blog/how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale</link>
-      <guid isPermaLink="true">https://claude.com/blog/how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale</guid>
-      <description>How Anthropic's business development team uses Claude to run inbound and outbound at scale How Anthropic's business development team uses Claude to run inbound and outbound at scale</description>
     </item>
   </channel>
 </rss>
