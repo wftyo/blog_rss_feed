@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep</title>
+      <link>https://claude.com/blog/how-an-anthropic-field-marketer-uses-claude-code-to-send-weekly-personalized-updates-to-every-sales-rep</link>
+      <guid isPermaLink="true">https://claude.com/blog/how-an-anthropic-field-marketer-uses-claude-code-to-send-weekly-personalized-updates-to-every-sales-rep</guid>
+      <description>How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep</description>
+    </item>
+    <item>
       <title>Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders</title>
       <link>https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders</link>
       <guid isPermaLink="true">https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/cowork-chrome-side-panel</link>
       <guid isPermaLink="true">https://claude.com/blog/cowork-chrome-side-panel</guid>
       <description>The Claude in Chrome side panel is now Claude Cowork The Claude in Chrome side panel is now Claude Cowork</description>
-    </item>
-    <item>
-      <title>Compliance API coverage extends to Claude Cowork and Claude Code</title>
-      <link>https://claude.com/blog/compliance-api-cowork-and-claude-code</link>
-      <guid isPermaLink="true">https://claude.com/blog/compliance-api-cowork-and-claude-code</guid>
-      <description>Compliance API coverage extends to Claude Cowork and Claude Code Compliance API coverage extends to Claude Cowork and Claude Code</description>
     </item>
   </channel>
 </rss>
