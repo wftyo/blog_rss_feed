@@ -4,296 +4,338 @@
     <title>Follow Builders — X/Twitter</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI builders' latest tweets, curated by follow-builders</description>
-    <lastBuildDate>Sun, 23 Aug 2026 06:27:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 06:28:47 +0000</lastBuildDate>
     <item>
-      <title>Thibault Sottiaux (@thsottiaux): Update on rate limits in Codex. 
-
-We’ve found (a) some inefficiencies when using images in long sess...</title>
-      <link>https://x.com/thsottiaux/status/2091407991736332689</link>
-      <guid isPermaLink="true">https://x.com/thsottiaux/status/2091407991736332689</guid>
-      <description>Update on rate limits in Codex. 
-
-We’ve found (a) some inefficiencies when using images in long sessions with multiple compactions (b) high p95+ usage for Computer History (c) a feature that was meant to generate conversation titles that was draining a bit more usage than intended. And we have a tiger team combing through everything and shipping fixes tomorrow. We also found a novel approach to drive efficiency up significantly that is completely unrelated and we will be working on next week.
-
-As part of some of the fixes tomorrow, we will also do a full reset of the usage for all paid subscriptions.
-
-See you then.
+      <title>Thibault Sottiaux (@thsottiaux): Good Sunday. Reset has been propagated to accounts and we landed some fixes to usage for things ment...</title>
+      <link>https://x.com/thsottiaux/status/2091688655828246890</link>
+      <guid isPermaLink="true">https://x.com/thsottiaux/status/2091688655828246890</guid>
+      <description>Good Sunday. Reset has been propagated to accounts and we landed some fixes to usage for things mentioned yesterday as issues we found. You should feel a positive difference. More to come tomorrow and will keep communicating. https://t.co/6mgUetJnhg
 
 Bio: Codex &amp; ChatGPT @OpenAI
-❤️ 1382  🔁 113</description>
-      <pubDate>Sun, 23 Aug 2026 06:11:36 +0000</pubDate>
+❤️ 7425  🔁 316</description>
+      <pubDate>Mon, 24 Aug 2026 00:46:51 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Yang (@petergyang): If you care about your privacy:
+      <title>Thibault Sottiaux (@thsottiaux): 2026 is the year companies start seriously caring about model efficiency and reliability as it becom...</title>
+      <link>https://x.com/thsottiaux/status/2091581575108653374</link>
+      <guid isPermaLink="true">https://x.com/thsottiaux/status/2091581575108653374</guid>
+      <description>2026 is the year companies start seriously caring about model efficiency and reliability as it becomes critical infrastructure
 
-1. Go to https://t.co/yICN6WAe9R in Chrome
-2. Run this prompt in Co...</title>
-      <link>https://x.com/petergyang/status/2091331251211059468</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2091331251211059468</guid>
-      <description>If you care about your privacy:
+Bio: Codex &amp; ChatGPT @OpenAI
+❤️ 5442  🔁 155</description>
+      <pubDate>Sun, 23 Aug 2026 17:41:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thibault Sottiaux (@thsottiaux): Meant 2pm obviously</title>
+      <link>https://x.com/thsottiaux/status/2091413240337326588</link>
+      <guid isPermaLink="true">https://x.com/thsottiaux/status/2091413240337326588</guid>
+      <description>Meant 2pm obviously
 
-1. Go to https://t.co/yICN6WAe9R in Chrome
-2. Run this prompt in Codex or Claude Code and tell it there's an open tab in your browser
-3. Then pick the ones you want to remove and tell AI to do it
+Bio: Codex &amp; ChatGPT @OpenAI
+❤️ 2474  🔁 27</description>
+      <pubDate>Sun, 23 Aug 2026 06:32:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Peter Yang (@petergyang): I've been working with Char, my (human!) assistant from @oceanstalent for 6 months.
 
-Just disconnected half the apps that should no longer have my Google info.
+I think the bes...</title>
+      <link>https://x.com/petergyang/status/2091631590799737306</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2091631590799737306</guid>
+      <description>I've been working with Char, my (human!) assistant from @oceanstalent for 6 months.
+
+I think the best assistants today need to know how to work with AI agents.
+
+Char uses Claude Code and Codex to help me run podcast post-production, draft show notes, and make clips. He's made copies of my AI skills and tailored them for his own workflows over time.
+
+If you want to hire vetted, AI-fluent operators who can help you run your business, check out Oceans at https://t.co/kKx6GaKTqw
+
+#sponsored
 
 Bio: Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-❤️ 447  🔁 23</description>
-      <pubDate>Sun, 23 Aug 2026 01:06:40 +0000</pubDate>
+❤️ 21  🔁 3</description>
+      <pubDate>Sun, 23 Aug 2026 21:00:06 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Yang (@petergyang): I’m working on a new AI skill. 
+      <title>Peter Yang (@petergyang): There are two types of AI evals - tops down and bottoms up.
 
-It’s called /fuck-cancer
+From @sh_reya:
 
-Goal is to help patients and their family...</title>
-      <link>https://x.com/petergyang/status/2091239339204415969</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2091239339204415969</guid>
-      <description>I’m working on a new AI skill. 
+“Think of top-down as: ...</title>
+      <link>https://x.com/petergyang/status/2091586298779955512</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2091586298779955512</guid>
+      <description>There are two types of AI evals - tops down and bottoms up.
 
-It’s called /fuck-cancer
+From @sh_reya:
 
-Goal is to help patients and their family navigate this whole process and stay informed. 
+“Think of top-down as: If you’re in a vacuum, just given the task description, what would you come up with? Claude does a very good job of helping you with these top-down evals.
 
-What should I include in it?
+Bottom-up evals are the other half. When you look at lots and lots of sample outputs, what is your gut feedback that you want externalized into evals? “Claude is very, very bad at coming up with bottom-up evals. That’s all you.”
+
+📌 Watch the full episode here: https://t.co/BuTklgfbr4
 
 Bio: Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-❤️ 188  🔁 5</description>
-      <pubDate>Sat, 22 Aug 2026 19:01:26 +0000</pubDate>
+❤️ 43  🔁 9</description>
+      <pubDate>Sun, 23 Aug 2026 18:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Yang (@petergyang): Looks like you can now delete external data (like my 36 Gmail records) if you go to https://t.co/iZV...</title>
-      <link>https://x.com/petergyang/status/2091187611507499321</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2091187611507499321</guid>
-      <description>Looks like you can now delete external data (like my 36 Gmail records) if you go to https://t.co/iZVklVswyI and scroll down to Data Privacy.
+      <title>Peter Yang (@petergyang): If you enjoyed this episode, I highly recommend Shreya and Hamel's industry-leading AI evals course....</title>
+      <link>https://x.com/petergyang/status/2091529714104168870</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2091529714104168870</guid>
+      <description>If you enjoyed this episode, I highly recommend Shreya and Hamel's industry-leading AI evals course.
 
-Kudos to the Instinct team for listening and shipping this quickly. 
+It has 4.7 stars with 900 reviews, which is almost unheard of on Maven.
 
-I will always say it like it is, especially when it comes to privacy &amp; trust.
+The next cohort starts on 9/5 and you can get 25% off with this link: https://t.co/K7nu51cgOo
+
+Check it out and get your company to expense it if you can!
 
 Bio: Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-❤️ 13  🔁 0</description>
-      <pubDate>Sat, 22 Aug 2026 15:35:53 +0000</pubDate>
+❤️ 1  🔁 1</description>
+      <pubDate>Sun, 23 Aug 2026 14:15:17 +0000</pubDate>
     </item>
     <item>
-      <title>Madhu Guru (@realmadhuguru): Part 1
-https://t.co/9PCxjUITL6
+      <title>Nan Yu (@thenanyu): Also every other category of software https://t.co/OYC8Ss5zld</title>
+      <link>https://x.com/thenanyu/status/2091559951739277451</link>
+      <guid isPermaLink="true">https://x.com/thenanyu/status/2091559951739277451</guid>
+      <description>Also every other category of software https://t.co/OYC8Ss5zld
 
-Part 2
-https://t.co/oMkXFWt9m7
+Bio: product enthusiast
+❤️ 5  🔁 0</description>
+      <pubDate>Sun, 23 Aug 2026 16:15:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Madhu Guru (@realmadhuguru): How to build great evals - part 7.
 
-Part 3
-https://t.co/dwQ8cOzIrR
+The Goldilocks principle for eval construction.
 
-Part...</title>
-      <link>https://x.com/realmadhuguru/status/2091278899711967441</link>
-      <guid isPermaLink="true">https://x.com/realmadhuguru/status/2091278899711967441</guid>
-      <description>Part 1
-https://t.co/9PCxjUITL6
+Your evals shou...</title>
+      <link>https://x.com/realmadhuguru/status/2091684812012875981</link>
+      <guid isPermaLink="true">https://x.com/realmadhuguru/status/2091684812012875981</guid>
+      <description>How to build great evals - part 7.
 
-Part 2
-https://t.co/oMkXFWt9m7
+The Goldilocks principle for eval construction.
 
-Part 3
-https://t.co/dwQ8cOzIrR
+Your evals should measure at the level of the various jobs to be done, not just the final answer.
 
-Part 4
-https://t.co/NeaJzD7dry
+E.g. consider a financial analysis agent. It's ultimate output is a stock recommendation. The most common mistake I see is teams create a golden set of right answers and check if the agent recommended the "right” stock.
 
-Part 5
-https://t.co/G0R7ZlEVDt
+The problem here is that there are probably a bunch of meaningful jobs that happened before this recommendation. E.g.
+
+1/ Understanding the client: their portfolio, risk tolerance, investment horizon, goals, constraints
+
+2/ Gather evidence: latest data points on the different stock stocks, the sectors, macro environment, Fed policy, recent and upcoming news events
+
+3/ Analyze the data: revenue growth, valuation guidance, growth projections and produce a narrower number of candidate stocks
+
+4/ Make a recommendation: stock ticker name, bid/sell price, timeframe
+
+Each of these is a stage and produces an intermittent output. Each of them can (and maybe should have) their own eval so you can diagnose issues.
+
+If the final recommendation is wrong, a well designed eval set would tell you:
+Client understanding : 92%,
+Evidence extraction : 92%,
+Data analysis: 70%
+Recommendation: 75%
+
+Now you know where to go dig. And you might go, man the data analysis step is too complex and I need to break it down into a set of jobs to be done, and construct eval sets for them.
+
+Not too granular. Not too coarse. Just right.
+Make your eval set as granular as you need to diagnose and act.
+
+Drop your eval questions in the comments and I will answer in future posts.
+
+Share this with your teammates!
+
+See you tomorrow.
 
 Bio: Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.
-❤️ 2  🔁 0</description>
-      <pubDate>Sat, 22 Aug 2026 21:38:38 +0000</pubDate>
+❤️ 110  🔁 8</description>
+      <pubDate>Mon, 24 Aug 2026 00:31:35 +0000</pubDate>
     </item>
     <item>
-      <title>Madhu Guru (@realmadhuguru): How to build great evals - part 6
+      <title>Guillermo Rauch (@rauchg): Intelligence is getting cheaper.
 
-Hill climbing on evals is just a fancy way of saying: pick a dime...</title>
-      <link>https://x.com/realmadhuguru/status/2091278653435072523</link>
-      <guid isPermaLink="true">https://x.com/realmadhuguru/status/2091278653435072523</guid>
-      <description>How to build great evals - part 6
+@OpenAI Sol's price reductions &amp; discounts on Vercel AI Gateway ha...</title>
+      <link>https://x.com/rauchg/status/2091671326897713424</link>
+      <guid isPermaLink="true">https://x.com/rauchg/status/2091671326897713424</guid>
+      <description>Intelligence is getting cheaper.
 
-Hill climbing on evals is just a fancy way of saying: pick a dimension that matters and optimize for it.
+@OpenAI Sol's price reductions &amp; discounts on Vercel AI Gateway have made Sol our fastest-growing frontier model.
 
-This could be improving the quality of existing features based on your latest production data on high value user journeys, expanding to adjacent use cases, lowering cost or latency.
+This shows ① that the demand for intelligence is highly elastic: as inference costs fall, usage grows rapidly.
 
-The actual work boils down to better harnesses and model selection through methods like prompt eng, context eng, memory, post training, deterministic old school code etc.
+② If you're not using a gateway, you're missing out on this incredible price volatility, which lowers your operating costs and increases your margins. 
 
-Your failure mode taxonomy (from part 3) is a good compass for where your product struggles and needs some love.
-
-E.g. maybe tool calling failures are your most common problem. You dig in and notice you stuff 20 tools in context, when each task really only needs 3-5. hill climbing here involves context eng to give it the right tools at the right stage and iterate until you get it to good.
-
-Or take the cost reduction goal..
-I’ve written about how I advise launching your product with the best model first. Get the quality as high as you can. Once you know users love the experience, hill climb to get similar quality with a smaller, cheaper, faster model. Same methods - harness, models.
-
-The important thing is to have evals that tell you whether you are actually moving in the right direction.
-
-More tomorrow. 
-
-Send this to your teammates!
-
-Drop your questions in the comments and I will answer in future posts.
-
-Bio: Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.
-❤️ 143  🔁 8</description>
-      <pubDate>Sat, 22 Aug 2026 21:37:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amjad Masad (@amasad): A week has 7 days
-
-That means 7 ships https://t.co/DFGoTnEy5G</title>
-      <link>https://x.com/amasad/status/2091346778746757204</link>
-      <guid isPermaLink="true">https://x.com/amasad/status/2091346778746757204</guid>
-      <description>A week has 7 days
-
-That means 7 ships https://t.co/DFGoTnEy5G
-
-Bio: ceo @replit. civilizationist
-❤️ 70  🔁 4</description>
-      <pubDate>Sun, 23 Aug 2026 02:08:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amjad Masad (@amasad): “Pretty soon” turned out to be 3 months. https://t.co/LC19TuXUuP</title>
-      <link>https://x.com/amasad/status/2091217410615644349</link>
-      <guid isPermaLink="true">https://x.com/amasad/status/2091217410615644349</guid>
-      <description>“Pretty soon” turned out to be 3 months. https://t.co/LC19TuXUuP
-
-Bio: ceo @replit. civilizationist
-❤️ 643  🔁 43</description>
-      <pubDate>Sat, 22 Aug 2026 17:34:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Guillermo Rauch (@rauchg): AI can do many wonderful things and grant many wishes, but we have only one earth, one California, o...</title>
-      <link>https://x.com/rauchg/status/2091338152791474331</link>
-      <guid isPermaLink="true">https://x.com/rauchg/status/2091338152791474331</guid>
-      <description>AI can do many wonderful things and grant many wishes, but we have only one earth, one California, one Patagonia, one Mendoza. USA and Argentina are two of the freest countries that also happen to have the most glorious land and geography. I'm very long 🇺🇸🇦🇷. We're so early.
+It's no wonder the router space has heated up… gateways are inevitable.
 
 Bio: @vercel CEO
-❤️ 735  🔁 30</description>
-      <pubDate>Sun, 23 Aug 2026 01:34:05 +0000</pubDate>
+❤️ 325  🔁 17</description>
+      <pubDate>Sun, 23 Aug 2026 23:38:00 +0000</pubDate>
     </item>
     <item>
-      <title>Guillermo Rauch (@rauchg): cc @windows https://t.co/jwb1iekgRg</title>
-      <link>https://x.com/rauchg/status/2091265836719956474</link>
-      <guid isPermaLink="true">https://x.com/rauchg/status/2091265836719956474</guid>
-      <description>cc @windows https://t.co/jwb1iekgRg
+      <title>Guillermo Rauch (@rauchg): Our philosophy on extending 𝚏𝚡: open protocols.
+∙ MCP (modelcontextprotocol⁠.io)
+∙ Skills (agentskil...</title>
+      <link>https://x.com/rauchg/status/2091583525661384813</link>
+      <guid isPermaLink="true">https://x.com/rauchg/status/2091583525661384813</guid>
+      <description>Our philosophy on extending 𝚏𝚡: open protocols.
+∙ MCP (modelcontextprotocol⁠.io)
+∙ Skills (agentskills⁠.io)
+∙ Plugins (agent-plugins⁠.org)
+
+And the best one, Unix:
+
+① Small programs that do one thing well and compose by calling other programs.
+
+② 𝚕𝚒𝚋𝚏𝚡 that enables embeddability into more complex programs. You should be able to build your own CLI, background agent, software factory. Local or cloud.
 
 Bio: @vercel CEO
-❤️ 57  🔁 0</description>
-      <pubDate>Sat, 22 Aug 2026 20:46:43 +0000</pubDate>
+❤️ 703  🔁 33</description>
+      <pubDate>Sun, 23 Aug 2026 17:49:06 +0000</pubDate>
     </item>
     <item>
-      <title>Guillermo Rauch (@rauchg): San Francisco is a paradise on Earth https://t.co/NqAfgzAnTB</title>
-      <link>https://x.com/rauchg/status/2091263423359389951</link>
-      <guid isPermaLink="true">https://x.com/rauchg/status/2091263423359389951</guid>
-      <description>San Francisco is a paradise on Earth https://t.co/NqAfgzAnTB
-
-Bio: @vercel CEO
-❤️ 1084  🔁 20</description>
-      <pubDate>Sat, 22 Aug 2026 20:37:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aaron Levie (@levie): AI diffusion is far more rate limited by having good evals than most realize. The kind of evals that...</title>
-      <link>https://x.com/levie/status/2091359223368315050</link>
-      <guid isPermaLink="true">https://x.com/levie/status/2091359223368315050</guid>
-      <description>AI diffusion is far more rate limited by having good evals than most realize. The kind of evals that you see for every model release are incredibly helpful, but only tell you the shape of general AI progress and the relative capability level of models.
-
-The far bigger space over time are evals on all the major workflows that enterprises do, down to the specifics of an individual company. 
-
-This will be a huge space over time because you can’t automate what you can’t assess the progress on. Enterprises will not be able to go just on vibes.
+      <title>Aaron Levie (@levie): I’m good to retire now https://t.co/YjTjVxlKvN</title>
+      <link>https://x.com/levie/status/2091580656598102047</link>
+      <guid isPermaLink="true">https://x.com/levie/status/2091580656598102047</guid>
+      <description>I’m good to retire now https://t.co/YjTjVxlKvN
 
 Bio: ceo @box - your business lives in content. unleash it with AI
-❤️ 138  🔁 12</description>
-      <pubDate>Sun, 23 Aug 2026 02:57:49 +0000</pubDate>
+❤️ 1985  🔁 43</description>
+      <pubDate>Sun, 23 Aug 2026 17:37:42 +0000</pubDate>
     </item>
     <item>
-      <title>Zara Zhang (@zarazhangrui): There’s a phenomenon where talented individuals can achieve 10x their potential thanks to AI when wo...</title>
-      <link>https://x.com/zarazhangrui/status/2091379220257603593</link>
-      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2091379220257603593</guid>
-      <description>There’s a phenomenon where talented individuals can achieve 10x their potential thanks to AI when working on their own thing 
+      <title>Ryo Lu (@ryolu_): https://t.co/BNr8qU8a6e</title>
+      <link>https://x.com/ryolu_/status/2091597222987383155</link>
+      <guid isPermaLink="true">https://x.com/ryolu_/status/2091597222987383155</guid>
+      <description>https://t.co/BNr8qU8a6e
 
-But when the same individual is put into a large organization, they at most increase their potential by 20% (and sometimes it’s even decreased)
-
-This is why I’m seeing more and more talented people leave large companies. (The only exceptions are probably top AI labs like OpenAI/Anthropic)
-
-Bio: Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd 
-YouTube: https://t.co/8xzbGWsHgY
-❤️ 147  🔁 7</description>
-      <pubDate>Sun, 23 Aug 2026 04:17:16 +0000</pubDate>
+Bio: Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.
+❤️ 41  🔁 0</description>
+      <pubDate>Sun, 23 Aug 2026 18:43:32 +0000</pubDate>
     </item>
     <item>
-      <title>Zara Zhang (@zarazhangrui): Everyone who’s ahead in using AI thinks they’re behind</title>
-      <link>https://x.com/zarazhangrui/status/2091338374447763481</link>
-      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2091338374447763481</guid>
-      <description>Everyone who’s ahead in using AI thinks they’re behind
+      <title>Ryo Lu (@ryolu_): leaving
 
-Bio: Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd 
-YouTube: https://t.co/8xzbGWsHgY
-❤️ 336  🔁 20</description>
-      <pubDate>Sun, 23 Aug 2026 01:34:58 +0000</pubDate>
+leaving is the process from fullness into emptiness
+
+from the familiar circle of life
+the r...</title>
+      <link>https://x.com/ryolu_/status/2091596272654582062</link>
+      <guid isPermaLink="true">https://x.com/ryolu_/status/2091596272654582062</guid>
+      <description>leaving
+
+leaving is the process from fullness into emptiness
+
+from the familiar circle of life
+the routines undone
+the streets i knew by heart
+the people i kept meeting
+the names and labels that had gathered on my skin
+
+toward a place entirely unknown
+where a new life waits to be written
+
+before i go
+i take out everything i had hidden in my heart
+and say goodbye to it
+piece by piece
+
+memory rises
+and feeling rises with it
+
+one by one
+i empty the rooms within me
+until i am almost as i was when i first arrived
+unfurnished
+unclaimed
+open
+
+what remains is a blankness
+echoing with my fear of loneliness
+my longing for freedom
+and the questions i still cannot answer
+
+what is freedom
+what is happiness
+
+when i first came here
+i was drifting in a river
+carried by the current
+thinking only of making things
+
+now i have to place my own hands on the helm
+
+no longer mistaking the waves for fate
+or the shore for salvation
+
+i will miss the days i lived here
+
+but i must learn again
+how to sleep inside loneliness
+how to eat inside uncertainty
+how to recognize desire in the blank
+
+and through the act of leaving
+turn freedom from an idea
+into a life i practice every day
+
+Bio: Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.
+❤️ 808  🔁 31</description>
+      <pubDate>Sun, 23 Aug 2026 18:39:46 +0000</pubDate>
     </item>
     <item>
-      <title>Nikunj Kothari (@nikunj): Few things:
-1) These are Twitter DMs. I try to be helpful to as many cold DMs as I can. This one sho...</title>
-      <link>https://x.com/nikunj/status/2091403643815604629</link>
-      <guid isPermaLink="true">https://x.com/nikunj/status/2091403643815604629</guid>
-      <description>Few things:
-1) These are Twitter DMs. I try to be helpful to as many cold DMs as I can. This one shouldn’t have passed the bar. 
+      <title>Garry Tan (@garrytan): Prediction: systems of record will need to become AI harnesses or face replacement by agents</title>
+      <link>https://x.com/garrytan/status/2091742825042030681</link>
+      <guid isPermaLink="true">https://x.com/garrytan/status/2091742825042030681</guid>
+      <description>Prediction: systems of record will need to become AI harnesses or face replacement by agents
 
-2) Doxxing someone is not my style. I hope they learned their lesson. 
+Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+❤️ 567  🔁 29</description>
+      <pubDate>Mon, 24 Aug 2026 04:22:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nikunj Kothari (@nikunj): Mother in law is visiting from India..
 
-3) I can’t stress enough how important it is to find the right people to take advice from. It boils my blood to see many talented young people who actually have substance play these stupid games.
+Wants to do serendipitous date night with her grand daughter...</title>
+      <link>https://x.com/nikunj/status/2091696412744700268</link>
+      <guid isPermaLink="true">https://x.com/nikunj/status/2091696412744700268</guid>
+      <description>Mother in law is visiting from India..
+
+Wants to do serendipitous date night with her grand daughter. 
+
+Realized she didn’t sign up for roaming and we need a way to communicate. 
+
+I get a data eSIM in under three minutes and she’s connected. 
+
+What a wonderful world we live in 🤗
+
+(real ones know this would historically be a trip to the store or calling the carrier for an extra line that I need to cancel in a month)
 
 Bio: partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-❤️ 23  🔁 0</description>
-      <pubDate>Sun, 23 Aug 2026 05:54:19 +0000</pubDate>
+❤️ 170  🔁 0</description>
+      <pubDate>Mon, 24 Aug 2026 01:17:41 +0000</pubDate>
     </item>
     <item>
-      <title>Nikunj Kothari (@nikunj): Kids, I don't know what advice you are getting, but ragebaiting investors and then sending them SAFE...</title>
-      <link>https://x.com/nikunj/status/2091381756012511244</link>
-      <guid isPermaLink="true">https://x.com/nikunj/status/2091381756012511244</guid>
-      <description>Kids, I don't know what advice you are getting, but ragebaiting investors and then sending them SAFE docs to just wire you money is NOT how investing works.. https://t.co/MSXm6S85Vd
+      <title>Peter Steinberger (@steipete): cli is nice, having UI visualizations and your team where you work is nicer. https://t.co/OFmkkkq6l5</title>
+      <link>https://x.com/steipete/status/2091650136506327253</link>
+      <guid isPermaLink="true">https://x.com/steipete/status/2091650136506327253</guid>
+      <description>cli is nice, having UI visualizations and your team where you work is nicer. https://t.co/OFmkkkq6l5
 
-Bio: partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-❤️ 370  🔁 4</description>
-      <pubDate>Sun, 23 Aug 2026 04:27:21 +0000</pubDate>
+Bio: Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
+❤️ 1067  🔁 44</description>
+      <pubDate>Sun, 23 Aug 2026 22:13:48 +0000</pubDate>
     </item>
     <item>
-      <title>Nikunj Kothari (@nikunj): We complain about slop at X, but LinkedIn has stooped to unimaginable levels of slop 🤮 https://t.co/...</title>
-      <link>https://x.com/nikunj/status/2091220881590927441</link>
-      <guid isPermaLink="true">https://x.com/nikunj/status/2091220881590927441</guid>
-      <description>We complain about slop at X, but LinkedIn has stooped to unimaginable levels of slop 🤮 https://t.co/ULMk7CdxGL https://t.co/MP3lxxhTQ5
+      <title>Peter Steinberger (@steipete): I added the rotation USB protocol to https://t.co/kyF8ap5Pq6 and told my claw to look around- now it...</title>
+      <link>https://x.com/steipete/status/2091639468935831910</link>
+      <guid isPermaLink="true">https://x.com/steipete/status/2091639468935831910</guid>
+      <description>I added the rotation USB protocol to https://t.co/kyF8ap5Pq6 and told my claw to look around- now it's having fun with my 360 webcam.
 
-Bio: partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-❤️ 40  🔁 1</description>
-      <pubDate>Sat, 22 Aug 2026 17:48:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dan Shipper (@danshipper): we’re hiring @every!
-
-https://t.co/UVzy1MRevu https://t.co/QLoIrG8K5Z</title>
-      <link>https://x.com/danshipper/status/2091361962068254840</link>
-      <guid isPermaLink="true">https://x.com/danshipper/status/2091361962068254840</guid>
-      <description>we’re hiring @every!
-
-https://t.co/UVzy1MRevu https://t.co/QLoIrG8K5Z
-
-Bio: ceo @every | the only subscription you need to stay at the edge of AI
-❤️ 131  🔁 3</description>
-      <pubDate>Sun, 23 Aug 2026 03:08:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dan Shipper (@danshipper): agent native ftw https://t.co/C1mGoNcXpO</title>
-      <link>https://x.com/danshipper/status/2091162447029608735</link>
-      <guid isPermaLink="true">https://x.com/danshipper/status/2091162447029608735</guid>
-      <description>agent native ftw https://t.co/C1mGoNcXpO
-
-Bio: ceo @every | the only subscription you need to stay at the edge of AI
-❤️ 149  🔁 1</description>
-      <pubDate>Sat, 22 Aug 2026 13:55:53 +0000</pubDate>
+Bio: Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
+❤️ 208  🔁 11</description>
+      <pubDate>Sun, 23 Aug 2026 21:31:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
