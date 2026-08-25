@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Bain &amp; Company joins the Claude Partner Network as a Global Premier partner</title>
+      <link>https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner</link>
+      <guid isPermaLink="true">https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner</guid>
+      <description>Bain &amp; Company joins the Claude Partner Network as a Global Premier partner Bain &amp; Company joins the Claude Partner Network as a Global Premier partner</description>
+    </item>
+    <item>
       <title>How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep</title>
       <link>https://claude.com/blog/how-an-anthropic-field-marketer-uses-claude-code-to-send-weekly-personalized-updates-to-every-sales-rep</link>
       <guid isPermaLink="true">https://claude.com/blog/how-an-anthropic-field-marketer-uses-claude-code-to-send-weekly-personalized-updates-to-every-sales-rep</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5</link>
       <guid isPermaLink="true">https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5</guid>
       <description>Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5 Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5</description>
-    </item>
-    <item>
-      <title>The Claude in Chrome side panel is now Claude Cowork</title>
-      <link>https://claude.com/blog/cowork-chrome-side-panel</link>
-      <guid isPermaLink="true">https://claude.com/blog/cowork-chrome-side-panel</guid>
-      <description>The Claude in Chrome side panel is now Claude Cowork The Claude in Chrome side panel is now Claude Cowork</description>
     </item>
   </channel>
 </rss>
