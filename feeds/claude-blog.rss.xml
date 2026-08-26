@@ -11,6 +11,18 @@
       <description>How Warp builds self-improving agents on Claude How Warp builds self-improving agents on Claude</description>
     </item>
     <item>
+      <title>Claude in Chrome is generally available</title>
+      <link>https://claude.com/blog/claude-in-chrome-generally-available</link>
+      <guid isPermaLink="true">https://claude.com/blog/claude-in-chrome-generally-available</guid>
+      <description>Claude in Chrome is generally available Claude in Chrome is generally available</description>
+    </item>
+    <item>
+      <title>Claude gets its own browser in Cowork</title>
+      <link>https://claude.com/blog/cowork-built-in-browser</link>
+      <guid isPermaLink="true">https://claude.com/blog/cowork-built-in-browser</guid>
+      <description>Claude gets its own browser in Cowork Claude gets its own browser in Cowork</description>
+    </item>
+    <item>
       <title>Bain &amp; Company joins the Claude Partner Network as a Global Premier partner</title>
       <link>https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner</link>
       <guid isPermaLink="true">https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner</guid>
@@ -81,18 +93,6 @@
       <link>https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents</link>
       <guid isPermaLink="true">https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents</guid>
       <description>How ABC Legal turned every employee into a builder with Claude Managed Agents How ABC Legal turned every employee into a builder with Claude Managed Agents</description>
-    </item>
-    <item>
-      <title>Maximizing the value of your Claude Code sessions</title>
-      <link>https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions</link>
-      <guid isPermaLink="true">https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions</guid>
-      <description>Maximizing the value of your Claude Code sessions Maximizing the value of your Claude Code sessions</description>
-    </item>
-    <item>
-      <title>Self-service data analytics in Slack: how Anthropic deploys Claude Tag for ad-hoc questions</title>
-      <link>https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions</link>
-      <guid isPermaLink="true">https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions</guid>
-      <description>Self-service data analytics in Slack: how Anthropic deploys Claude Tag for ad-hoc questions Self-service data analytics in Slack: how Anthropic deploys Claude Tag for ad-hoc questions</description>
     </item>
   </channel>
 </rss>
