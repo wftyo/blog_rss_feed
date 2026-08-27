@@ -4,14 +4,17 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Wed, 26 Aug 2026 06:28:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 09:24:44 +0000</lastBuildDate>
     <item>
-      <title>[Training Data] Parallel’s Parag Agrawal: Building a New Web for AI Agents</title>
-      <link>https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8</link>
-      <guid isPermaLink="true">https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8</guid>
-      <description>Speaker 1 | 00:00 - 00:40
-Our view at Parallel is that human click data is a bug, and agent doing work with search should rely on agent feedback, not human feedback. We believe that these models are really good at compressing information and we can benefit from a lot of the research that have gone into building models and apply it to search indexing and ranking. And so you can now make many, many arguments. And that's the arguments we made back then that actually now it's way more tractable as a...</description>
-      <pubDate>Tue, 25 Aug 2026 09:00:00 +0000</pubDate>
+      <title>[AI &amp; I by Every] A $10B Hedge Fund’s AI Playbook (Best of the Pod)</title>
+      <link>https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL</link>
+      <guid isPermaLink="true">https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL</guid>
+      <description>Speaker 1 | 00:00 - 00:13
+It's becoming a meme that CEOs are, like, writing basically, like, the We're AI first memo. You have the best example of that memo that I've ever seen. Would you mind just, like, reading, I don't know, maybe the first paragraph or two of what you wrote? Because I think it's amazing.
+
+Speaker 2 | 00:13 - 00:29
+Using ChatGPT is not cheating. That's a non applicable idea from academia. I use ChatGPT to write this email. You should be using it too and be proud of it. As a h...</description>
+      <pubDate>Wed, 26 Aug 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
