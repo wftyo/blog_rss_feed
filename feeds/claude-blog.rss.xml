@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Claude for Teachers, now available for schools and districts</title>
+      <link>https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts</link>
+      <guid isPermaLink="true">https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts</guid>
+      <description>Claude for Teachers, now available for schools and districts Claude for Teachers, now available for schools and districts</description>
+    </item>
+    <item>
       <title>How Warp builds self-improving agents on Claude</title>
       <link>https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude</link>
       <guid isPermaLink="true">https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/ai-ci-cd-on-call</link>
       <guid isPermaLink="true">https://claude.com/blog/ai-ci-cd-on-call</guid>
       <description>Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures</description>
-    </item>
-    <item>
-      <title>How ABC Legal turned every employee into a builder with Claude Managed Agents</title>
-      <link>https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents</link>
-      <guid isPermaLink="true">https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents</guid>
-      <description>How ABC Legal turned every employee into a builder with Claude Managed Agents How ABC Legal turned every employee into a builder with Claude Managed Agents</description>
     </item>
   </channel>
 </rss>
