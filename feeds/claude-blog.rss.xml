@@ -5,10 +5,16 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
-      <title>Claude for Teachers, now available for schools and districts</title>
+      <title>How Anthropic employees use Claude Tag</title>
+      <link>https://claude.com/blog/how-anthropic-employees-use-claude-tag</link>
+      <guid isPermaLink="true">https://claude.com/blog/how-anthropic-employees-use-claude-tag</guid>
+      <description>How Anthropic employees use Claude Tag How Anthropic employees use Claude Tag</description>
+    </item>
+    <item>
+      <title>Claude for Teachers, now available for U.S. K-12 schools and districts</title>
       <link>https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts</guid>
-      <description>Claude for Teachers, now available for schools and districts Claude for Teachers, now available for schools and districts</description>
+      <description>Claude for Teachers, now available for U.S. K-12 schools and districts Claude for Teachers, now available for U.S. K-12 schools and districts</description>
     </item>
     <item>
       <title>How Warp builds self-improving agents on Claude</title>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams</link>
       <guid isPermaLink="true">https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams</guid>
       <description>Turning conversation into knowledge: how Slack builds human-agent teams Turning conversation into knowledge: how Slack builds human-agent teams</description>
-    </item>
-    <item>
-      <title>Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures</title>
-      <link>https://claude.com/blog/ai-ci-cd-on-call</link>
-      <guid isPermaLink="true">https://claude.com/blog/ai-ci-cd-on-call</guid>
-      <description>Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures</description>
     </item>
   </channel>
 </rss>
