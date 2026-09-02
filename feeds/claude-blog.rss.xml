@@ -5,6 +5,18 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>A guide to the anatomy of effective commerce agents</title>
+      <link>https://claude.com/blog/the-anatomy-of-effective-commerce-agents</link>
+      <guid isPermaLink="true">https://claude.com/blog/the-anatomy-of-effective-commerce-agents</guid>
+      <description>A guide to the anatomy of effective commerce agents A guide to the anatomy of effective commerce agents</description>
+    </item>
+    <item>
+      <title>Building commerce agents with Claude</title>
+      <link>https://claude.com/blog/claude-for-commerce-agents</link>
+      <guid isPermaLink="true">https://claude.com/blog/claude-for-commerce-agents</guid>
+      <description>Building commerce agents with Claude Building commerce agents with Claude</description>
+    </item>
+    <item>
       <title>How Anthropic employees use Claude Tag</title>
       <link>https://claude.com/blog/how-anthropic-employees-use-claude-tag</link>
       <guid isPermaLink="true">https://claude.com/blog/how-anthropic-employees-use-claude-tag</guid>
@@ -81,18 +93,6 @@
       <link>https://claude.com/blog/claude-code-guide-for-startups</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-code-guide-for-startups</guid>
       <description>The Claude Code guide for startups The Claude Code guide for startups</description>
-    </item>
-    <item>
-      <title>Build production agents with computer use, the Skills API, and the Files API</title>
-      <link>https://claude.com/blog/computer-use-skills-api-files-api</link>
-      <guid isPermaLink="true">https://claude.com/blog/computer-use-skills-api-files-api</guid>
-      <description>Build production agents with computer use, the Skills API, and the Files API Build production agents with computer use, the Skills API, and the Files API</description>
-    </item>
-    <item>
-      <title>Turning conversation into knowledge: how Slack builds human-agent teams</title>
-      <link>https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams</link>
-      <guid isPermaLink="true">https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams</guid>
-      <description>Turning conversation into knowledge: how Slack builds human-agent teams Turning conversation into knowledge: how Slack builds human-agent teams</description>
     </item>
   </channel>
 </rss>
