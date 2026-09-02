@@ -4,247 +4,532 @@
     <title>Follow Builders — X/Twitter</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI builders' latest tweets, curated by follow-builders</description>
-    <lastBuildDate>Tue, 01 Sep 2026 06:42:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 06:45:11 +0000</lastBuildDate>
     <item>
-      <title>Thibault Sottiaux (@thsottiaux): If you still haven't tried Codex but have considered it in the past, what's the one thing holding yo...</title>
-      <link>https://x.com/thsottiaux/status/2094588317245509959</link>
-      <guid isPermaLink="true">https://x.com/thsottiaux/status/2094588317245509959</guid>
-      <description>If you still haven't tried Codex but have considered it in the past, what's the one thing holding you back?
+      <title>Boris Cherny (@bcherny): Last but not least, Fable 5.1 writes better and has better tone. We heard your feedback, and are act...</title>
+      <link>https://x.com/bcherny/status/2094864064648536068</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/2094864064648536068</guid>
+      <description>Last but not least, Fable 5.1 writes better and has better tone. We heard your feedback, and are actively working on reducing Claude-speak. Solid progress with 5.1, more to come.
+
+Bio: Claude Code @anthropicai
+❤️ 286  🔁 6</description>
+      <pubDate>Tue, 01 Sep 2026 19:04:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Boris Cherny (@bcherny): We have been working on how often safeguards intervene. Our latest biology safeguards intervene on b...</title>
+      <link>https://x.com/bcherny/status/2094864063478276288</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/2094864063478276288</guid>
+      <description>We have been working on how often safeguards intervene. Our latest biology safeguards intervene on benign requests 85% less often than the ones we shipped with Fable 5, and Claude Code users should see around 60% fewer cyber interventions per session. Expect more improvements soon.
+
+Bio: Claude Code @anthropicai
+❤️ 317  🔁 3</description>
+      <pubDate>Tue, 01 Sep 2026 19:04:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Boris Cherny (@bcherny): We have also reduced prices for Enterprise, API, and SDK customers. Cache reads on Fable 5.1 are now...</title>
+      <link>https://x.com/bcherny/status/2094864062186426373</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/2094864062186426373</guid>
+      <description>We have also reduced prices for Enterprise, API, and SDK customers. Cache reads on Fable 5.1 are now $0.25 per million tokens (previously: $1). Up to 38% cheaper for a typical Claude Code session.
+
+Bio: Claude Code @anthropicai
+❤️ 372  🔁 8</description>
+      <pubDate>Tue, 01 Sep 2026 19:04:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thibault Sottiaux (@thsottiaux): Bullish</title>
+      <link>https://x.com/thsottiaux/status/2094939684015317363</link>
+      <guid isPermaLink="true">https://x.com/thsottiaux/status/2094939684015317363</guid>
+      <description>Bullish
 
 Bio: Codex &amp; ChatGPT @OpenAI
-❤️ 2344  🔁 42</description>
-      <pubDate>Tue, 01 Sep 2026 00:49:05 +0000</pubDate>
+❤️ 5162  🔁 120</description>
+      <pubDate>Wed, 02 Sep 2026 00:05:17 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Yang (@petergyang): Btw @drhoeflinger I just watched your videos and wow they’re so good. Keep going and thanks for shar...</title>
-      <link>https://x.com/petergyang/status/2094648002656993704</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2094648002656993704</guid>
-      <description>Btw @drhoeflinger I just watched your videos and wow they’re so good. Keep going and thanks for sharing your knowledge
+      <title>Thibault Sottiaux (@thsottiaux): https://t.co/DxRAhWI0y8</title>
+      <link>https://x.com/thsottiaux/status/2094826841622348106</link>
+      <guid isPermaLink="true">https://x.com/thsottiaux/status/2094826841622348106</guid>
+      <description>https://t.co/DxRAhWI0y8
 
-Bio: Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6</description>
-      <pubDate>Tue, 01 Sep 2026 04:46:15 +0000</pubDate>
+Bio: Codex &amp; ChatGPT @OpenAI
+❤️ 1412  🔁 12</description>
+      <pubDate>Tue, 01 Sep 2026 16:36:53 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Yang (@petergyang): Trust is going to be the biggest barrier (and driver) of personal agent adoption.</title>
-      <link>https://x.com/petergyang/status/2094639655258091792</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2094639655258091792</guid>
-      <description>Trust is going to be the biggest barrier (and driver) of personal agent adoption.
+      <title>Thibault Sottiaux (@thsottiaux): Should we do a merch line? https://t.co/IgyRywd8yH</title>
+      <link>https://x.com/thsottiaux/status/2094826808114057246</link>
+      <guid isPermaLink="true">https://x.com/thsottiaux/status/2094826808114057246</guid>
+      <description>Should we do a merch line? https://t.co/IgyRywd8yH
+
+Bio: Codex &amp; ChatGPT @OpenAI
+❤️ 8384  🔁 142</description>
+      <pubDate>Tue, 01 Sep 2026 16:36:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Peter Yang (@petergyang): fwiw I dislike having alot of random skills installed. 
+
+I'm at a point where I only have about a do...</title>
+      <link>https://x.com/petergyang/status/2094999358525821099</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2094999358525821099</guid>
+      <description>fwiw I dislike having alot of random skills installed. 
+
+I'm at a point where I only have about a dozen or so (mostly my own) and I regularly delete skills that I don't use anymore.
+
+Also I try to keep all my skills as short as possible.
+
+I encourage you to do the same.
 
 Bio: Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
 ❤️ 28  🔁 0</description>
-      <pubDate>Tue, 01 Sep 2026 04:13:04 +0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 04:02:24 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Yang (@petergyang): Great advice https://t.co/0jwmg8sFEC</title>
-      <link>https://x.com/petergyang/status/2094529713524117596</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2094529713524117596</guid>
-      <description>Great advice https://t.co/0jwmg8sFEC
+      <title>Peter Yang (@petergyang): While I'm cleaning up my AI skills I have a question for the experts here. Sometimes I end up in thi...</title>
+      <link>https://x.com/petergyang/status/2094995775952740795</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2094995775952740795</guid>
+      <description>While I'm cleaning up my AI skills I have a question for the experts here. Sometimes I end up in this pattern:
+
+1. I run my skill and it doesn't get it perfect in one shot
+2. I do manual iteration with AI to get it right
+3. I then ask AI something like: "How would you update the skill so we can one-shot this?" before reviewing and approving its edits.
+
+The problem is AI often overfits on this one thread and over time the skill drifts. Any good solutions here?
 
 Bio: Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-❤️ 1333  🔁 49</description>
-      <pubDate>Mon, 31 Aug 2026 20:56:12 +0000</pubDate>
+❤️ 102  🔁 2</description>
+      <pubDate>Wed, 02 Sep 2026 03:48:10 +0000</pubDate>
     </item>
     <item>
-      <title>Nan Yu (@thenanyu): Concerning
+      <title>Peter Yang (@petergyang): If you're trying out Fable 5.1 I highly recommend running:
 
-https://t.co/EzMoXoilgR</title>
-      <link>https://x.com/thenanyu/status/2094659984428867901</link>
-      <guid isPermaLink="true">https://x.com/thenanyu/status/2094659984428867901</guid>
-      <description>Concerning
+/claude-api prompt-audit
 
-https://t.co/EzMoXoilgR
+on your skills...</title>
+      <link>https://x.com/petergyang/status/2094987791566622971</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2094987791566622971</guid>
+      <description>If you're trying out Fable 5.1 I highly recommend running:
 
-Bio: (soon) member of product staff @openai. prev head of product @linear. I am grader.</description>
-      <pubDate>Tue, 01 Sep 2026 05:33:51 +0000</pubDate>
+/claude-api prompt-audit
+
+on your skills. It finds a bunch of redundancies and rules to remove for the latest models.
+
+Running it for all my skills now.
+
+Bio: Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+❤️ 1514  🔁 71</description>
+      <pubDate>Wed, 02 Sep 2026 03:16:27 +0000</pubDate>
     </item>
     <item>
-      <title>Nan Yu (@thenanyu): 🤞🏻 https://t.co/pG71r0YZxw</title>
-      <link>https://x.com/thenanyu/status/2094442960209539371</link>
-      <guid isPermaLink="true">https://x.com/thenanyu/status/2094442960209539371</guid>
-      <description>🤞🏻 https://t.co/pG71r0YZxw
+      <title>Nan Yu (@thenanyu): A new Claude release where one of the headline features is less annoying writing 
+
+https://t.co/xHS4...</title>
+      <link>https://x.com/thenanyu/status/2094928209095872530</link>
+      <guid isPermaLink="true">https://x.com/thenanyu/status/2094928209095872530</guid>
+      <description>A new Claude release where one of the headline features is less annoying writing 
+
+https://t.co/xHS4TdxaX4
 
 Bio: (soon) member of product staff @openai. prev head of product @linear. I am grader.
-❤️ 167  🔁 1</description>
-      <pubDate>Mon, 31 Aug 2026 15:11:29 +0000</pubDate>
+❤️ 7  🔁 0</description>
+      <pubDate>Tue, 01 Sep 2026 23:19:41 +0000</pubDate>
     </item>
     <item>
-      <title>Nan Yu (@thenanyu): Some personal news—I’m joining OpenAI to work on Codex and ChatGPT. 
+      <title>Nan Yu (@thenanyu): Like this kind of thing may seem small but makes a big difference
 
-I’m grateful to the Linear tea...</title>
-      <link>https://x.com/thenanyu/status/2094427243565269107</link>
-      <guid isPermaLink="true">https://x.com/thenanyu/status/2094427243565269107</guid>
-      <description>Some personal news—I’m joining OpenAI to work on Codex and ChatGPT. 
+https://t.co/JrAjOa8pMS</title>
+      <link>https://x.com/thenanyu/status/2094928207179067682</link>
+      <guid isPermaLink="true">https://x.com/thenanyu/status/2094928207179067682</guid>
+      <description>Like this kind of thing may seem small but makes a big difference
 
-I’m grateful to the Linear team for an incredible 4 years and proud of what we've built together. I look forward to bringing everything I've learned there about the craft of software into this next chapter.
+https://t.co/JrAjOa8pMS
 
 Bio: (soon) member of product staff @openai. prev head of product @linear. I am grader.
-❤️ 3062  🔁 37</description>
-      <pubDate>Mon, 31 Aug 2026 14:09:02 +0000</pubDate>
+❤️ 13  🔁 0</description>
+      <pubDate>Tue, 01 Sep 2026 23:19:41 +0000</pubDate>
     </item>
     <item>
-      <title>Madhu Guru (@realmadhuguru): If you’re a PM, there is immense alpha in understanding the model frontier for your specific product...</title>
-      <link>https://x.com/realmadhuguru/status/2094591503981281503</link>
-      <guid isPermaLink="true">https://x.com/realmadhuguru/status/2094591503981281503</guid>
-      <description>If you’re a PM, there is immense alpha in understanding the model frontier for your specific product and use cases.
+      <title>Nan Yu (@thenanyu): There’s a lot of alpha in making your agents *less annoying*. If you want users to get to value they...</title>
+      <link>https://x.com/thenanyu/status/2094928205753040999</link>
+      <guid isPermaLink="true">https://x.com/thenanyu/status/2094928205753040999</guid>
+      <description>There’s a lot of alpha in making your agents *less annoying*. If you want users to get to value they need to stop rage-quitting. 
 
-You should be able to answer the following better than most frontier lab researchers and PMs for your use cases:
+I think an untapped opportunity for UX designers is to become conversation/rhetoric designers.
 
-1/ What can models in each size category do well today?
+Bio: (soon) member of product staff @openai. prev head of product @linear. I am grader.
+❤️ 113  🔁 3</description>
+      <pubDate>Tue, 01 Sep 2026 23:19:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Madhu Guru (@realmadhuguru): Great example of the immense opportunity enterprises have if they build their own post training syst...</title>
+      <link>https://x.com/realmadhuguru/status/2094973690576576675</link>
+      <guid isPermaLink="true">https://x.com/realmadhuguru/status/2094973690576576675</guid>
+      <description>Great example of the immense opportunity enterprises have if they build their own post training systems, great evals and a data flywheel.
 
-2/ Where does each model fail?
+I’ve worked with the Shopify ML team and they are world class. 
 
-3/ What workarounds can you use to overcome these failures ?
-
-4/ Given the trajectory, what will these models likely be able to do 2–3 months from now? How should your roadmap look given this?
-
-This is a core part of the PM job now.
+More enterprises should be doing this. https://t.co/IzlWkndA6u
 
 Bio: Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.
-❤️ 140  🔁 10</description>
-      <pubDate>Tue, 01 Sep 2026 01:01:44 +0000</pubDate>
+❤️ 53  🔁 1</description>
+      <pubDate>Wed, 02 Sep 2026 02:20:25 +0000</pubDate>
     </item>
     <item>
-      <title>Amjad Masad (@amasad): Good iOS interaction tips! https://t.co/Xs9awfK7WP</title>
-      <link>https://x.com/amasad/status/2094642492125950394</link>
-      <guid isPermaLink="true">https://x.com/amasad/status/2094642492125950394</guid>
-      <description>Good iOS interaction tips! https://t.co/Xs9awfK7WP
+      <title>Madhu Guru (@realmadhuguru): Self-improving products is a meta idea every company should be implementing.  
 
-Bio: ceo @replit. civilizationist
-❤️ 30  🔁 2</description>
-      <pubDate>Tue, 01 Sep 2026 04:24:21 +0000</pubDate>
+Some of the core pie...</title>
+      <link>https://x.com/realmadhuguru/status/2094817857821704659</link>
+      <guid isPermaLink="true">https://x.com/realmadhuguru/status/2094817857821704659</guid>
+      <description>Self-improving products is a meta idea every company should be implementing.  
+
+Some of the core pieces you will need:
+
+1/ a crisp definition of the various metrics you care about : primary, secondary, guardrail
+
+2/ an articulation of your strategy, roadmap and metrics you care about moving the most
+
+3/ knowledge base of past product decisions and principles so the agent knows how decisions get made 
+
+4/ connections to your to your internal product systems: dashboards, APIs, MCPs, and tools your agent  needs to observe and act on your product. 
+
+5/ a harness built with knowledge of  your end to end product development flow. 
+
+Depending on the complexity of your product, you might be able to prototype with fairly simple versions of each of the above and reuse existing swe agents.
+
+Bio: Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.
+❤️ 236  🔁 17</description>
+      <pubDate>Tue, 01 Sep 2026 16:01:11 +0000</pubDate>
     </item>
     <item>
-      <title>Guillermo Rauch (@rauchg): Your next design system is… Markdown.
+      <title>Cat Wu (@_catwu): With Fable 5.1, our team has taken on more ambitious projects that would have previously taken month...</title>
+      <link>https://x.com/_catwu/status/2094933602228416603</link>
+      <guid isPermaLink="true">https://x.com/_catwu/status/2094933602228416603</guid>
+      <description>With Fable 5.1, our team has taken on more ambitious projects that would have previously taken months. What big bets do you want to take? 
 
-We wrote about how 𝙳𝙴𝚂𝙸𝙶𝙽.𝚖𝚍 is helping solve the hardest pro...</title>
-      <link>https://x.com/rauchg/status/2094541309579235680</link>
-      <guid isPermaLink="true">https://x.com/rauchg/status/2094541309579235680</guid>
-      <description>Your next design system is… Markdown.
+Ask Fable 5.1 in Claude Code, Claude Cowork, Claude Tag to take on the task and let us know what you think! https://t.co/LCloUBWKeO
 
-We wrote about how 𝙳𝙴𝚂𝙸𝙶𝙽.𝚖𝚍 is helping solve the hardest problem in AI today: slop.
+Bio: claude code + cowork @anthropicai, prev: @dagster, @scale_ai
+❤️ 325  🔁 13</description>
+      <pubDate>Tue, 01 Sep 2026 23:41:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thariq (@trq212): it’s a very good model, I spent a lot of time diving into it- longer write up coming 
 
-And how you can truly, finally scale design taste within a large organization. https://t.co/1boTl2fWyM https://t.co/yrHwa9fYUH
+but try it on...</title>
+      <link>https://x.com/trq212/status/2094945951865520458</link>
+      <guid isPermaLink="true">https://x.com/trq212/status/2094945951865520458</guid>
+      <description>it’s a very good model, I spent a lot of time diving into it- longer write up coming 
+
+but try it on lower effort for tasks that need less verification or have fewer edge cases, switching effort no longer breaks prompt cache as well https://t.co/MCGYQTnR0X
+
+Bio: Claude Code @anthropicai. prev YC W20, @spc, @medialab
+❤️ 1414  🔁 50</description>
+      <pubDate>Wed, 02 Sep 2026 00:30:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guillermo Rauch (@rauchg): Excited to partner with and support @tannerlinsley and team, champion of React, open source, and the...</title>
+      <link>https://x.com/rauchg/status/2094901483414372716</link>
+      <guid isPermaLink="true">https://x.com/rauchg/status/2094901483414372716</guid>
+      <description>Excited to partner with and support @tannerlinsley and team, champion of React, open source, and the web
+
+What this means for our customers: whether you choose @nextjs or @tan_stack, we are committed to the highest quality service and support. https://t.co/9lnHQIqHxZ
 
 Bio: @vercel CEO
-❤️ 2443  🔁 103</description>
-      <pubDate>Mon, 31 Aug 2026 21:42:17 +0000</pubDate>
+❤️ 595  🔁 17</description>
+      <pubDate>Tue, 01 Sep 2026 21:33:29 +0000</pubDate>
     </item>
     <item>
-      <title>Guillermo Rauch (@rauchg): Coding tokens are basically infrastructure. Yet, the way companies have approached them amounts to:
-...</title>
-      <link>https://x.com/rauchg/status/2094523399280435630</link>
-      <guid isPermaLink="true">https://x.com/rauchg/status/2094523399280435630</guid>
-      <description>Coding tokens are basically infrastructure. Yet, the way companies have approached them amounts to:
-
-"Hey all, here's an AWS key. It can spin up anything from a 𝚝𝟹.𝚗𝚊𝚗𝚘 (＄𝟹.𝟾𝟶/𝚖𝚘) to an 𝚙𝟻.𝟺𝟾𝚡𝚕𝚊𝚛𝚐𝚎 (＄𝟺𝟶𝚔/𝚖𝚘). Go wild"
-
-And obviously the reason companies don't do this for their core infra is that you need to govern, optimize, and observe usage and costs.
-
-The intern might decide to host a static website in that 192 vCPU machine, and you won't be very happy about the bill.
-
-AI Gateway fixes this for all your tokens, with per-key, and now per-user budgets.
+      <title>Guillermo Rauch (@rauchg): Fable 5.1 now on @vercel AI Gateway
+Try it with https://t.co/OL0LzGtvAw. Every model at your fingert...</title>
+      <link>https://x.com/rauchg/status/2094867652573528074</link>
+      <guid isPermaLink="true">https://x.com/rauchg/status/2094867652573528074</guid>
+      <description>Fable 5.1 now on @vercel AI Gateway
+Try it with https://t.co/OL0LzGtvAw. Every model at your fingertips 🥹
 
 Bio: @vercel CEO
-❤️ 250  🔁 7</description>
-      <pubDate>Mon, 31 Aug 2026 20:31:07 +0000</pubDate>
+❤️ 326  🔁 14</description>
+      <pubDate>Tue, 01 Sep 2026 19:19:03 +0000</pubDate>
     </item>
     <item>
-      <title>Aaron Levie (@levie): Now that the base open weights AI models are getting far better, and post training infra is becoming...</title>
-      <link>https://x.com/levie/status/2094650992818274514</link>
-      <guid isPermaLink="true">https://x.com/levie/status/2094650992818274514</guid>
-      <description>Now that the base open weights AI models are getting far better, and post training infra is becoming more mature and commercialized, there are going to be all new plays for companies that have large amounts of data to have their own models.
+      <title>Guillermo Rauch (@rauchg): Fluid is the thing that has enabled Vercel's:
+◾ Industry-leading Build performance
+◾ Sandbox reliabi...</title>
+      <link>https://x.com/rauchg/status/2094831747037085978</link>
+      <guid isPermaLink="true">https://x.com/rauchg/status/2094831747037085978</guid>
+      <description>Fluid is the thing that has enabled Vercel's:
+◾ Industry-leading Build performance
+◾ Sandbox reliability &amp; massive concurrency
+◾ 30min Function durations (&amp; soon longer)
 
-Licensing data for external model training was previously the only play if you had a large corpus of information, but you can now reasonably go and train your own models as well without incurring the cost and complexity of competing with the labs on research.
+This unification makes the best DX possible. Shared 𝙳𝚘𝚌𝚔𝚎𝚛𝚏𝚒𝚕𝚎, security perimeters, networking, file systems, across all compute products. 
 
-The general purpose frontier models will still have a leg up in broad areas due to the ability to handle the widest set of tasks, but you can absolutely see a future where we have far more models than today across every vertical and domain.
+You already see this in some pretty unique Vercel capabilities, like our Builds and Functions being able to participate in the same Secure Compute boundary and config.
+
+Imagine the same egress Firewall features for Sandbox that prevent agent escapes, applying to your Builds, Functions and Servers.
+
+The future is one global and unified compute platform, with only known physics as the limiting factor 😊
+
+Bio: @vercel CEO
+❤️ 136  🔁 5</description>
+      <pubDate>Tue, 01 Sep 2026 16:56:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alex Albert (@alexalbert__): One non-model thing I'm very excited we announced today with Fable 5.1 is Enterprise Frontier Safegu...</title>
+      <link>https://x.com/alexalbert__/status/2094889286990446769</link>
+      <guid isPermaLink="true">https://x.com/alexalbert__/status/2094889286990446769</guid>
+      <description>One non-model thing I'm very excited we announced today with Fable 5.1 is Enterprise Frontier Safeguards (EFS).
+
+Even if you're not a CEO/CISO, this blog post is a look into how big companies are thinking about AI adoption which is important to understand if you're interested in how AI might diffuse across industry.
+
+Companies are giving agents more and more access to internal systems. With traditional zero data retention, there's been no way to spot patterns in what agents might be doing across sessions on these systems.
+
+EFS is ZDR++. It's ZDR built for a world with agents. A company's data stays in its own cloud, and an automated monitoring layer we built flags risky patterns to its team.
+
+I think of this as an observability and risk mitigation layer for agents. My guess is it will become a standard requirement from enterprises for running increasingly powerful AI on their systems.
+
+Bio: Research @AnthropicAI. Opinions are my own!
+❤️ 234  🔁 14</description>
+      <pubDate>Tue, 01 Sep 2026 20:45:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alex Albert (@alexalbert__): using blender headless btw</title>
+      <link>https://x.com/alexalbert__/status/2094860189316899083</link>
+      <guid isPermaLink="true">https://x.com/alexalbert__/status/2094860189316899083</guid>
+      <description>using blender headless btw
+
+Bio: Research @AnthropicAI. Opinions are my own!
+❤️ 695  🔁 10</description>
+      <pubDate>Tue, 01 Sep 2026 18:49:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alex Albert (@alexalbert__): Fable 5.1 is a beast at many things but one thing in particular I have been having a ton of fun with...</title>
+      <link>https://x.com/alexalbert__/status/2094860187743986169</link>
+      <guid isPermaLink="true">https://x.com/alexalbert__/status/2094860187743986169</guid>
+      <description>Fable 5.1 is a beast at many things but one thing in particular I have been having a ton of fun with is generating videos through code. 
+
+For this one I gave it a picture of a property lot. It designed a house for the lot, rendered it, and produced a cinematic walkthrough. https://t.co/eBIaCmaav8
+
+Bio: Research @AnthropicAI. Opinions are my own!
+❤️ 5997  🔁 279</description>
+      <pubDate>Tue, 01 Sep 2026 18:49:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aaron Levie (@levie): AI for cyber is about to go vertical. The models increasingly becoming insanely good at finding and ...</title>
+      <link>https://x.com/levie/status/2095024699441119612</link>
+      <guid isPermaLink="true">https://x.com/levie/status/2095024699441119612</guid>
+      <description>AI for cyber is about to go vertical. The models increasingly becoming insanely good at finding and exploiting vulnerabilities. Frontier models are ahead, but we’re already seeing that open weights is not far behind.
+
+Most enterprises are already inundated with cyber discoveries, so now that’s only going to multiply. Triaging and automating the fixes with more AI -along with human oversight- is essentially the only way forward. 
+
+In case you were wondering what jobs AI was going to create, it’s definitely going to great time to be in security.
 
 Bio: ceo @box - your business lives in content. unleash it with AI
-❤️ 119  🔁 13</description>
-      <pubDate>Tue, 01 Sep 2026 04:58:08 +0000</pubDate>
+❤️ 47  🔁 5</description>
+      <pubDate>Wed, 02 Sep 2026 05:43:06 +0000</pubDate>
     </item>
     <item>
-      <title>Aaron Levie (@levie): As AI security events pick up, it’s going to be critical that we have the most sophisticated AI agen...</title>
-      <link>https://x.com/levie/status/2094545525102235844</link>
-      <guid isPermaLink="true">https://x.com/levie/status/2094545525102235844</guid>
-      <description>As AI security events pick up, it’s going to be critical that we have the most sophisticated AI agents for being able to detect and prevent security issues. Frontier models are clearly still ahead in cyber, but open models are catching up quickly. Wild times. https://t.co/F0eEZLe6tt
+      <title>Aaron Levie (@levie): At Box, we’ve been testing Fable 5.1 in early release against our complex enterprise work eval. Fabl...</title>
+      <link>https://x.com/levie/status/2094851976769257770</link>
+      <guid isPermaLink="true">https://x.com/levie/status/2094851976769257770</guid>
+      <description>At Box, we’ve been testing Fable 5.1 in early release against our complex enterprise work eval. Fable 5.1 delivers a huge 7 percentage point jump over Fable 5 for unstructured data tasks in the enterprise.
+
+On this updated test, we use the Box Agent with Fable 5.1 to work through a wide range of real world enterprise scenarios with documents in financial services, life sciences, the public sector, and more industries. All of these tasks require a high degree of analytical, math, logic, and domain knowledge to perform successfully.
+
+Here are a few examples of wins:
+
+* Financial Services (+17% improvement): on a tax-adjusted profit projection, Fable 5.1 correctly applies capital allowances before computing tax liability; this is a subtle ordering that Fable 5 misses, producing wrong figures all the way through retained earnings.
+
+* Technology (+37% improvement): on a cost-optimization analysis where a key metric's normalization is ambiguous, Fable 5.1 recognized the ambiguity, computed both forms, and presented the correct one, where Fable 5 committed to the wrong normalization.
+
+* Public Sector (+16% improvement): on an educational data analysis task, Fable 5.1 works through the full weighted-mean methodology and produces correct rankings, while Fable 5 miscategorizes one item and cascades errors through the whole sheet.
+
+These are just a few of the wins we saw. Overall major jump in capability for long running agentic workflows in the enterprise. 
+
+Fable 5.1 will be available shortly in the Box AI Studio for building custom AI agents with enterprise content.
 
 Bio: ceo @box - your business lives in content. unleash it with AI
-❤️ 77  🔁 13</description>
-      <pubDate>Mon, 31 Aug 2026 21:59:02 +0000</pubDate>
+❤️ 249  🔁 23</description>
+      <pubDate>Tue, 01 Sep 2026 18:16:46 +0000</pubDate>
     </item>
     <item>
-      <title>Garry Tan (@garrytan): Circleback is so much better than Granola, it's not even close
+      <title>Matt Turck (@mattturck): Do you want to grow massively on X? 
 
-Granola still doesn't even support m...</title>
-      <link>https://x.com/garrytan/status/2094465505142960443</link>
-      <guid isPermaLink="true">https://x.com/garrytan/status/2094465505142960443</guid>
-      <description>Circleback is so much better than Granola, it's not even close
+Here are the top hacks, a 🧵
 
-Granola still doesn't even support multiple person disambiguation https://t.co/bus8bFOfec
+1) Become CEO of Apple https://t....</title>
+      <link>https://x.com/mattturck/status/2094829606855462940</link>
+      <guid isPermaLink="true">https://x.com/mattturck/status/2094829606855462940</guid>
+      <description>Do you want to grow massively on X? 
 
-Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-❤️ 603  🔁 12</description>
-      <pubDate>Mon, 31 Aug 2026 16:41:04 +0000</pubDate>
+Here are the top hacks, a 🧵
+
+1) Become CEO of Apple https://t.co/WO9aMocWUY
+
+Bio: VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
+❤️ 97  🔁 2</description>
+      <pubDate>Tue, 01 Sep 2026 16:47:52 +0000</pubDate>
     </item>
     <item>
-      <title>Garry Tan (@garrytan): I just made some new GBrain evals that help prove that my retrieval-for-AI-agent open source layer i...</title>
-      <link>https://x.com/garrytan/status/2094462971598754010</link>
-      <guid isPermaLink="true">https://x.com/garrytan/status/2094462971598754010</guid>
-      <description>I just made some new GBrain evals that help prove that my retrieval-for-AI-agent open source layer is SOTA for reading memory back without LLM-in-loop
+      <title>Zara Zhang (@zarazhangrui): I wish every city was in Tokyo https://t.co/j1ppDGCx7p</title>
+      <link>https://x.com/zarazhangrui/status/2094999513627025757</link>
+      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2094999513627025757</guid>
+      <description>I wish every city was in Tokyo https://t.co/j1ppDGCx7p
 
-And I've also added evals for memory-save from agent transcript, which is the best way to enrich your brain
-
-Receipts at https://t.co/iRLJR9Vxto
-
-Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-❤️ 403  🔁 33</description>
-      <pubDate>Mon, 31 Aug 2026 16:31:00 +0000</pubDate>
+Bio: Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd 
+YouTube: https://t.co/8xzbGWsHgY
+❤️ 37  🔁 2</description>
+      <pubDate>Wed, 02 Sep 2026 04:03:01 +0000</pubDate>
     </item>
     <item>
-      <title>Nikunj Kothari (@nikunj): https://t.co/gl6YBgEgAn</title>
-      <link>https://x.com/nikunj/status/2094556598492631281</link>
-      <guid isPermaLink="true">https://x.com/nikunj/status/2094556598492631281</guid>
-      <description>https://t.co/gl6YBgEgAn
+      <title>Zara Zhang (@zarazhangrui): Since when did this type of website design become in vogue? https://t.co/Cwnz0MhMhz</title>
+      <link>https://x.com/zarazhangrui/status/2094943457769099520</link>
+      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2094943457769099520</guid>
+      <description>Since when did this type of website design become in vogue? https://t.co/Cwnz0MhMhz
+
+Bio: Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd 
+YouTube: https://t.co/8xzbGWsHgY
+❤️ 109  🔁 1</description>
+      <pubDate>Wed, 02 Sep 2026 00:20:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zara Zhang (@zarazhangrui): Be a person, not a persona</title>
+      <link>https://x.com/zarazhangrui/status/2094812574395371857</link>
+      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2094812574395371857</guid>
+      <description>Be a person, not a persona
+
+Bio: Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd 
+YouTube: https://t.co/8xzbGWsHgY
+❤️ 142  🔁 16</description>
+      <pubDate>Tue, 01 Sep 2026 15:40:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nikunj Kothari (@nikunj): Terrifying.. also just the start of how leaks like this are going to get way worse 😭 https://t.co/gN...</title>
+      <link>https://x.com/nikunj/status/2095002897859912044</link>
+      <guid isPermaLink="true">https://x.com/nikunj/status/2095002897859912044</guid>
+      <description>Terrifying.. also just the start of how leaks like this are going to get way worse 😭 https://t.co/gN8PiNCUXJ
 
 Bio: partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-❤️ 176  🔁 4</description>
-      <pubDate>Mon, 31 Aug 2026 22:43:02 +0000</pubDate>
+❤️ 3  🔁 0</description>
+      <pubDate>Wed, 02 Sep 2026 04:16:28 +0000</pubDate>
     </item>
     <item>
-      <title>Dan Shipper (@danshipper): had me in the first half https://t.co/GRl9kFEWCN</title>
-      <link>https://x.com/danshipper/status/2094584301966782794</link>
-      <guid isPermaLink="true">https://x.com/danshipper/status/2094584301966782794</guid>
-      <description>had me in the first half https://t.co/GRl9kFEWCN
+      <title>Nikunj Kothari (@nikunj): People are still sleeping on WebMCP.. 
 
-Bio: ceo @every | the only subscription you need to stay at the edge of AI
-❤️ 27  🔁 0</description>
-      <pubDate>Tue, 01 Sep 2026 00:33:07 +0000</pubDate>
+You can now give agents tool calls to interact with your web...</title>
+      <link>https://x.com/nikunj/status/2094922789128196314</link>
+      <guid isPermaLink="true">https://x.com/nikunj/status/2094922789128196314</guid>
+      <description>People are still sleeping on WebMCP.. 
+
+You can now give agents tool calls to interact with your website natively. Including full UI/UX support and interactive elements to build their own views.
+
+Sharing a demo below that I submitted for the WebMCP challenge - see how agents can interact with the El Nino situation tracker. It creates it's own views, preserves human edits, and creates a shareable link to share with other agents (or humans). 
+
+Video and code by Codex @ChatGPT &amp; @Railway
+
+Live at elneenyo dot com to try out today!
+
+Bio: partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+❤️ 68  🔁 2</description>
+      <pubDate>Tue, 01 Sep 2026 22:58:09 +0000</pubDate>
     </item>
     <item>
-      <title>Dan Shipper (@danshipper): Anthropomorphization of AI is good when it serves to help us use (understand, predict, etc) AI bette...</title>
-      <link>https://x.com/danshipper/status/2094406185109647580</link>
-      <guid isPermaLink="true">https://x.com/danshipper/status/2094406185109647580</guid>
-      <description>Anthropomorphization of AI is good when it serves to help us use (understand, predict, etc) AI better. 
+      <title>Nikunj Kothari (@nikunj): Casual MG banger that started as a comment to my recent essay via *checks notes* iMessage 😂 https://...</title>
+      <link>https://x.com/nikunj/status/2094784484625531065</link>
+      <guid isPermaLink="true">https://x.com/nikunj/status/2094784484625531065</guid>
+      <description>Casual MG banger that started as a comment to my recent essay via *checks notes* iMessage 😂 https://t.co/t0YSIB4Ui9
 
-It’s bad when it serves to sow panic, fear, and unrealistic / unwarranted comparisons to human beings. 
-
-Most opponents of anthropomorphism are rightly reacting to its misuse to sow panic or alter the moral status of agents by claiming consciousness etc. 
-
-It’s possible to use anthropomorphism without doing that though
-
-Bio: ceo @every | the only subscription you need to stay at the edge of AI
-❤️ 87  🔁 10</description>
-      <pubDate>Mon, 31 Aug 2026 12:45:21 +0000</pubDate>
+Bio: partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
+❤️ 18  🔁 0</description>
+      <pubDate>Tue, 01 Sep 2026 13:48:35 +0000</pubDate>
     </item>
     <item>
-      <title>Dan Shipper (@danshipper): Pragmatists stay winning in the age of AI</title>
-      <link>https://x.com/danshipper/status/2094397684186481057</link>
-      <guid isPermaLink="true">https://x.com/danshipper/status/2094397684186481057</guid>
-      <description>Pragmatists stay winning in the age of AI
+      <title>Dan Shipper (@danshipper): remember when we used to have to type out low level code like this? https://t.co/h30xZEfRle</title>
+      <link>https://x.com/danshipper/status/2094942644497457527</link>
+      <guid isPermaLink="true">https://x.com/danshipper/status/2094942644497457527</guid>
+      <description>remember when we used to have to type out low level code like this? https://t.co/h30xZEfRle
 
 Bio: ceo @every | the only subscription you need to stay at the edge of AI
-❤️ 22  🔁 2</description>
-      <pubDate>Mon, 31 Aug 2026 12:11:34 +0000</pubDate>
+❤️ 56  🔁 0</description>
+      <pubDate>Wed, 02 Sep 2026 00:17:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dan Shipper (@danshipper): READ THE FABLE 5.1 VIBE CHECK ON @every 
+https://t.co/VxEDSTgqVL https://t.co/6UqJw8Z70N</title>
+      <link>https://x.com/danshipper/status/2094855479167996036</link>
+      <guid isPermaLink="true">https://x.com/danshipper/status/2094855479167996036</guid>
+      <description>READ THE FABLE 5.1 VIBE CHECK ON @every 
+https://t.co/VxEDSTgqVL https://t.co/6UqJw8Z70N
+
+Bio: ceo @every | the only subscription you need to stay at the edge of AI
+❤️ 49  🔁 5</description>
+      <pubDate>Tue, 01 Sep 2026 18:30:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dan Shipper (@danshipper): READ THE FULL VIBE CHECK: https://t.co/z7axZ7Sr1j</title>
+      <link>https://x.com/danshipper/status/2094854526574424203</link>
+      <guid isPermaLink="true">https://x.com/danshipper/status/2094854526574424203</guid>
+      <description>READ THE FULL VIBE CHECK: https://t.co/z7axZ7Sr1j
+
+Bio: ceo @every | the only subscription you need to stay at the edge of AI
+❤️ 6  🔁 2</description>
+      <pubDate>Tue, 01 Sep 2026 18:26:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sam Altman (@sama): Over the summer, we have been sprinting on safety priorities; it's more important than ever for capa...</title>
+      <link>https://x.com/sama/status/2094934592062959832</link>
+      <guid isPermaLink="true">https://x.com/sama/status/2094934592062959832</guid>
+      <description>Over the summer, we have been sprinting on safety priorities; it's more important than ever for capabilities and safeguards to advance together. We have more to do but have made a lot of progress. We are also going to be launching our next model soon.
+
+There is an obvious tension here: on one hand, Astra is very good and we are excited to see what people will build with it. We are proud of our work.
+
+On the other hand, we are clearly in a phase of development where we believe caution is warranted, and we are pacing our progress to ensure that we can meet the safety standards required by new capability levels.
+
+Astra has been done training for a while now and is a significant step forward in both capabilities and alignment. For the models after that, we have been slowing things as needed to ensure that we can do sufficient work on safety and alignment.
+
+AI is getting extremely capable; no one fully understands the consequences of this. Managing the transition to a world with abundant and powerful AI to optimize for safety and benefits to people should be one of the highest priorities in the world. It is our highest priority at OpenAI.
+
+We have been living with the tension between being excited and anxious about progress for some time, and it is still discordant for us. We know it is much more discordant for other people. And yet, we believe strongly that the world needs to understand where AI is going and how models perform in the real world. More importantly, we believe the world will need aligned AI to manage the future phases of this transition.
+
+An iterative loop where society and this technology evolve together is what will lead to the highest chance of getting this right.
+
+So we hope you enjoy our new model, and we hope the world continues to take what’s happening in AI extremely seriously.
+
+Bio: The mission of OpenAI to ensure that AGI benefits all of humanity
+❤️ 8686  🔁 559</description>
+      <pubDate>Tue, 01 Sep 2026 23:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude (@claudeai): Claude Fable 5.1 is available everywhere today. Claude Mythos 5.1, our model for cyberdefenders and ...</title>
+      <link>https://x.com/claudeai/status/2094848592812917122</link>
+      <guid isPermaLink="true">https://x.com/claudeai/status/2094848592812917122</guid>
+      <description>Claude Fable 5.1 is available everywhere today. Claude Mythos 5.1, our model for cyberdefenders and life scientists, is available through trusted access programs.
+
+Read more: https://t.co/nfkH5hyDyO
+
+Bio: Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
+❤️ 2135  🔁 101</description>
+      <pubDate>Tue, 01 Sep 2026 18:03:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude (@claudeai): Finally, we’ve improved our safeguards. Our cybersecurity safeguards now flag benign requests about ...</title>
+      <link>https://x.com/claudeai/status/2094848591617483020</link>
+      <guid isPermaLink="true">https://x.com/claudeai/status/2094848591617483020</guid>
+      <description>Finally, we’ve improved our safeguards. Our cybersecurity safeguards now flag benign requests about 60% less often.
+
+On basic biology and medical questions, we’ve recently reduced the fallback rate by around 85%.
+
+Bio: Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
+❤️ 2251  🔁 83</description>
+      <pubDate>Tue, 01 Sep 2026 18:03:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude (@claudeai): We’re also introducing Enterprise Frontier Safeguards (EFS), which give enterprise customers complet...</title>
+      <link>https://x.com/claudeai/status/2094848590245965931</link>
+      <guid isPermaLink="true">https://x.com/claudeai/status/2094848590245965931</guid>
+      <description>We’re also introducing Enterprise Frontier Safeguards (EFS), which give enterprise customers complete privacy (the same as zero data retention), while still being state-of-the-art at preventing adversarial use. EFS rolls out in phases, starting this fall. https://t.co/EMbLgL5KVo
+
+Bio: Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.
+❤️ 1448  🔁 33</description>
+      <pubDate>Tue, 01 Sep 2026 18:03:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
