@@ -4,14 +4,17 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Fri, 04 Sep 2026 06:44:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 06:36:34 +0000</lastBuildDate>
     <item>
-      <title>[Unsupervised Learning] Ep 93: CEO of Redwood Research Buck Shlegeris on OpenAI/HuggingFace Revelations, Fixing AI Safety &amp;amp; Takeover Odds</title>
-      <link>https://www.youtube.com/@RedpointAI</link>
-      <guid isPermaLink="true">https://www.youtube.com/@RedpointAI</guid>
-      <description>Speaker 1 | 00:00 - 00:37
-The OpenAI Hugging Face incident has dominated the discourse these past days. It feels straight out of a sci fi novel, some of the things that happened, you know, the agent coordination, the obsession with the scores, and and what they would want. And we had the perfect person on today to just discuss everything that happened and the implications for AI safety going forward in Buck Schlegeris, who's the CEO of Redwood Research. Redwood was deeply involved in the creatio...</description>
-      <pubDate>Thu, 03 Sep 2026 13:03:11 +0000</pubDate>
+      <title>[No Priors] Redefining Chip Architecture with Arm CEO Rene Haas</title>
+      <link>https://www.youtube.com/@NoPriorsPodcast</link>
+      <guid isPermaLink="true">https://www.youtube.com/@NoPriorsPodcast</guid>
+      <description>Speaker 1 | 00:00 - 00:15
+There's no computing problem that's ever been invented that doesn't utilize and can't utilize the microprocessor. It is the heart of everything. All roads lead through it, around it, past it. Something has to do the orchestration, arbitration decision around where those tokens go. That's what CPUs do.
+
+Speaker 1 | 00:15 - 00:36
+Chip design can take anywhere from twenty four to thirty six months depending on the complexity of the chip, etcetera, etcetera. The actual desi...</description>
+      <pubDate>Thu, 03 Sep 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
