@@ -4,17 +4,17 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Sat, 05 Sep 2026 06:36:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 22:50:07 +0000</lastBuildDate>
     <item>
-      <title>[No Priors] Redefining Chip Architecture with Arm CEO Rene Haas</title>
-      <link>https://www.youtube.com/@NoPriorsPodcast</link>
-      <guid isPermaLink="true">https://www.youtube.com/@NoPriorsPodcast</guid>
-      <description>Speaker 1 | 00:00 - 00:15
-There's no computing problem that's ever been invented that doesn't utilize and can't utilize the microprocessor. It is the heart of everything. All roads lead through it, around it, past it. Something has to do the orchestration, arbitration decision around where those tokens go. That's what CPUs do.
+      <title>[The MAD Podcast with Matt Turck] AI Could Take Over in 2029. Is It Already Too Late? | Ryan Greenblatt</title>
+      <link>https://www.youtube.com/watch?v=SK9ITBK5osA</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=SK9ITBK5osA</guid>
+      <description>Speaker 1 | 00:00 - 00:21
+I think that the AI company CEOs understand that they're on the path of building wildly smarter than human systems, like super intelligent AI systems. They understand that we don't really have a, like, clear thought through plan for how to manage the risks from that. I wouldn't say superintelligence is bad. I would say it's dangerous. It seems pretty likely that you end up with AI takeover as a result of building superintelligence.
 
-Speaker 1 | 00:15 - 00:36
-Chip design can take anywhere from twenty four to thirty six months depending on the complexity of the chip, etcetera, etcetera. The actual desi...</description>
-      <pubDate>Thu, 03 Sep 2026 10:00:00 +0000</pubDate>
+Speaker 1 | 00:21 - 00:39
+And so you ...</description>
+      <pubDate>Thu, 27 Aug 2026 14:22:21 +0000</pubDate>
     </item>
   </channel>
 </rss>

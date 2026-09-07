@@ -4,345 +4,98 @@
     <title>Follow Builders — X/Twitter</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI builders' latest tweets, curated by follow-builders</description>
-    <lastBuildDate>Sat, 05 Sep 2026 06:35:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 22:54:40 +0000</lastBuildDate>
     <item>
-      <title>Swyx (@swyx): i am working on a massive Astra/Fable frontier model AEO report and it looks like Claude loves @late...</title>
-      <link>https://x.com/swyx/status/2096095862732755342</link>
-      <guid isPermaLink="true">https://x.com/swyx/status/2096095862732755342</guid>
-      <description>i am working on a massive Astra/Fable frontier model AEO report and it looks like Claude loves @latentspacepod when asked for best ai newsletter/podcast!! was so surprised that @ricmac made me doublecheck for memory leaks lol https://t.co/fpiS98Tzu8
+      <title>Thibault Sottiaux (@thsottiaux): To calibrate you all on which reasoning effort to use for Astra, know that GPT-6 Astra on low perfor...</title>
+      <link>https://x.com/thsottiaux/status/2096688770523467947</link>
+      <guid isPermaLink="true">https://x.com/thsottiaux/status/2096688770523467947</guid>
+      <description>To calibrate you all on which reasoning effort to use for Astra, know that GPT-6 Astra on low performs better than GPT-5.6 Sol on high.
 
-Bio: achieve ambition with intentionality, intensity, integrity &amp; insanity.
-
-affiliations:
-- @smol_ai
-- @dxtipshq
-- @cognition
-- @aidotengineer
-- @latentspacepod
-❤️ 7  🔁 1</description>
-      <pubDate>Sat, 05 Sep 2026 04:39:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Thibault Sottiaux (@thsottiaux): Astra was probably our biggest competitive advantage while it wasn’t generally available.
-
-Since we’...</title>
-      <link>https://x.com/thsottiaux/status/2096101429832552872</link>
-      <guid isPermaLink="true">https://x.com/thsottiaux/status/2096101429832552872</guid>
-      <description>Astra was probably our biggest competitive advantage while it wasn’t generally available.
-
-Since we’ve had it our productivity jumped so much that we shifted some of our plans 6 months ahead and will ship them at DevDay instead of mid next year.
+If you were using high reasoning efforts with Sol and were happy, I suggest you move down to low or medium for Astra.
 
 Bio: Codex &amp; ChatGPT @OpenAI
-❤️ 7364  🔁 296</description>
-      <pubDate>Sat, 05 Sep 2026 05:01:39 +0000</pubDate>
+❤️ 10989  🔁 480</description>
+      <pubDate>Sun, 06 Sep 2026 19:55:32 +0000</pubDate>
     </item>
     <item>
-      <title>Thibault Sottiaux (@thsottiaux): And the team will have some nice sleep now. See you next week for some more ships.</title>
-      <link>https://x.com/thsottiaux/status/2096035748130795560</link>
-      <guid isPermaLink="true">https://x.com/thsottiaux/status/2096035748130795560</guid>
-      <description>And the team will have some nice sleep now. See you next week for some more ships.
+      <title>Peter Yang (@petergyang): “Cheating and explaining the answer [to your child] are closer than you’d think.”
 
-Bio: Codex &amp; ChatGPT @OpenAI
-❤️ 3232  🔁 50</description>
-      <pubDate>Sat, 05 Sep 2026 00:40:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Thibault Sottiaux (@thsottiaux): Because we are beyond happy to have Astra rolled out today ahead of schedule and you have been super...</title>
-      <link>https://x.com/thsottiaux/status/2096035437299237298</link>
-      <guid isPermaLink="true">https://x.com/thsottiaux/status/2096035437299237298</guid>
-      <description>Because we are beyond happy to have Astra rolled out today ahead of schedule and you have been super patient with us (not really, but it’s ok!)… we will do the full banked reset today too for all Plus, Pro and Business users. Lands end of day.
+Here’s my new epi...</title>
+      <link>https://x.com/petergyang/status/2096612718098911590</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2096612718098911590</guid>
+      <description>“Cheating and explaining the answer [to your child] are closer than you’d think.”
 
-Happy Astra day and enjoy a phenomenal weekend. 
+Here’s my new episode with @suekhim, co-founder of @brilliantorg, who showed me how AI can help kids think for themselves. We talked about:
 
-PS: If you create the account or upgrade before 8pm PT you will get it too. Still time!
+→ Why better grades don’t always mean more learning
 
-Bio: Codex &amp; ChatGPT @OpenAI
-❤️ 17706  🔁 848</description>
-      <pubDate>Sat, 05 Sep 2026 00:39:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Peter Yang (@petergyang): OpenAI should ship an app for Apple Watch where I can just voice dictate to my Codex threads and it'...</title>
-      <link>https://x.com/petergyang/status/2096086845159563476</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2096086845159563476</guid>
-      <description>OpenAI should ship an app for Apple Watch where I can just voice dictate to my Codex threads and it'll reply back with voice too. 
+→ How to help kids enjoy doing hard things vs. only trying to please adults
 
-Then I won't have to carry my phone around and have screen addiction.
+→ Why her #1 product principle is “Never tell the learner the answer”
 
-Or maybe this is what the rumored OpenAI device does.
+Some quotes from Sue:
+
+“Using AI to skip learning is like bringing a robotic arm to the gym to lift weights for you.”
+
+“Learning isn’t about the answer. It is about strengthening that part of you that can concentrate and struggle, that’s unafraid of trying new problems.”
+
+“When building AI products, try to find areas where you have unique data that makes your product better over time.”
+
+📌 Watch the full episode: https://t.co/jzogacrhiK
+
+Thanks to our sponsors:
+
+@linear: The AI agent platform for modern teams https://t.co/tgWf9oL4bs
+
+@RiversidedotFM: All-in-one AI studio for podcasts and video https://t.co/uWnS6aiMPE
 
 Bio: Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-❤️ 58  🔁 1</description>
-      <pubDate>Sat, 05 Sep 2026 04:03:41 +0000</pubDate>
+❤️ 36  🔁 7</description>
+      <pubDate>Sun, 06 Sep 2026 14:53:19 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Yang (@petergyang): Astra generated the most stereotypical image of a PM I've ever seen for my game https://t.co/kTHOWcV...</title>
-      <link>https://x.com/petergyang/status/2096036429159973348</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2096036429159973348</guid>
-      <description>Astra generated the most stereotypical image of a PM I've ever seen for my game https://t.co/kTHOWcVSWP
+      <title>Peter Yang (@petergyang): I’ve been sleeping on Widow’s Bay and in general Apple’s shows are so much better any other streamer</title>
+      <link>https://x.com/petergyang/status/2096466888935276719</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2096466888935276719</guid>
+      <description>I’ve been sleeping on Widow’s Bay and in general Apple’s shows are so much better any other streamer
 
 Bio: Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-❤️ 42  🔁 0</description>
-      <pubDate>Sat, 05 Sep 2026 00:43:21 +0000</pubDate>
+❤️ 59  🔁 1</description>
+      <pubDate>Sun, 06 Sep 2026 05:13:51 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Yang (@petergyang): Would you all want to play my roguelike deckbuilder https://t.co/5XUsQU7S83</title>
-      <link>https://x.com/petergyang/status/2096020213775118765</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2096020213775118765</guid>
-      <description>Would you all want to play my roguelike deckbuilder https://t.co/5XUsQU7S83
+      <title>Nan Yu (@thenanyu): Every tech startup logo https://t.co/52Prjggey0</title>
+      <link>https://x.com/thenanyu/status/2096438571838370096</link>
+      <guid isPermaLink="true">https://x.com/thenanyu/status/2096438571838370096</guid>
+      <description>Every tech startup logo https://t.co/52Prjggey0
 
-Bio: Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-❤️ 19  🔁 0</description>
-      <pubDate>Fri, 04 Sep 2026 23:38:55 +0000</pubDate>
+Bio: (soon) member of product staff @openai. prev head of product @linear. I am grader.
+❤️ 101  🔁 1</description>
+      <pubDate>Sun, 06 Sep 2026 03:21:20 +0000</pubDate>
     </item>
     <item>
-      <title>Madhu Guru (@realmadhuguru): Here’s one practical thing you can do this weekend to get better at building AI products.
+      <title>Peter Steinberger (@steipete): Can’t remember last time we had such a large jump in capabilities. https://t.co/iGxVUYmGHj</title>
+      <link>https://x.com/steipete/status/2096403459579015374</link>
+      <guid isPermaLink="true">https://x.com/steipete/status/2096403459579015374</guid>
+      <description>Can’t remember last time we had such a large jump in capabilities. https://t.co/iGxVUYmGHj
 
-Pick a wo...</title>
-      <link>https://x.com/realmadhuguru/status/2095907570540335174</link>
-      <guid isPermaLink="true">https://x.com/realmadhuguru/status/2095907570540335174</guid>
-      <description>Here’s one practical thing you can do this weekend to get better at building AI products.
-
-Pick a workflow you know well - from your personal life or your work.
-
-Automate the whole thing with AI.
-
-Use the AI product you’re comfortable with - you’ll probably have to experiment with a few.
-
-This exercise will force you to think about
-
-1/ What does a great end-to-end experience look like?
-2/ How should you use MCPs and tools?
-3/ Where should humans stay in the loop?
-4/ How do you evaluate it?
-
-Then keep expanding the ambition.
-
-You’ll learn more by doing this once than by reading about AI product building for a month.
-
-The only way to learn is to build.
-
-Bio: Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.
-❤️ 129  🔁 9</description>
-      <pubDate>Fri, 04 Sep 2026 16:11:19 +0000</pubDate>
+Bio: Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
+❤️ 1756  🔁 59</description>
+      <pubDate>Sun, 06 Sep 2026 01:01:48 +0000</pubDate>
     </item>
     <item>
-      <title>Amjad Masad (@amasad): The singularity is here, it’s just not evenly distributed https://t.co/8osY33GqLS</title>
-      <link>https://x.com/amasad/status/2096022087035195647</link>
-      <guid isPermaLink="true">https://x.com/amasad/status/2096022087035195647</guid>
-      <description>The singularity is here, it’s just not evenly distributed https://t.co/8osY33GqLS
+      <title>Peter Steinberger (@steipete): One step closer in building the harness I wanna use. The one thing that’s not yet there are cloud se...</title>
+      <link>https://x.com/steipete/status/2096400749869830325</link>
+      <guid isPermaLink="true">https://x.com/steipete/status/2096400749869830325</guid>
+      <description>One step closer in building the harness I wanna use. The one thing that’s not yet there are cloud sessions, goal is seconds, which requires clever snapshotting. (Right now it still clones repos fresh which isn’t fast enough.)
 
-Bio: ceo @replit. civilizationist
-❤️ 512  🔁 17</description>
-      <pubDate>Fri, 04 Sep 2026 23:46:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amjad Masad (@amasad): Astra on Replit ✨ https://t.co/ONm0dLAwoD</title>
-      <link>https://x.com/amasad/status/2095986658185453928</link>
-      <guid isPermaLink="true">https://x.com/amasad/status/2095986658185453928</guid>
-      <description>Astra on Replit ✨ https://t.co/ONm0dLAwoD
+Will have that next week. https://t.co/lpiszOtVGP
 
-Bio: ceo @replit. civilizationist
-❤️ 233  🔁 17</description>
-      <pubDate>Fri, 04 Sep 2026 21:25:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amjad Masad (@amasad): It’s coming 🤗 https://t.co/FUYGCMIFmV https://t.co/K9SJQxdAj6</title>
-      <link>https://x.com/amasad/status/2095792059647234204</link>
-      <guid isPermaLink="true">https://x.com/amasad/status/2095792059647234204</guid>
-      <description>It’s coming 🤗 https://t.co/FUYGCMIFmV https://t.co/K9SJQxdAj6
-
-Bio: ceo @replit. civilizationist
-❤️ 285  🔁 15</description>
-      <pubDate>Fri, 04 Sep 2026 08:32:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Guillermo Rauch (@rauchg): これ https://t.co/ZDbjqCl3M6</title>
-      <link>https://x.com/rauchg/status/2096092393569501263</link>
-      <guid isPermaLink="true">https://x.com/rauchg/status/2096092393569501263</guid>
-      <description>これ https://t.co/ZDbjqCl3M6
-
-Bio: @vercel CEO
-❤️ 95  🔁 9</description>
-      <pubDate>Sat, 05 Sep 2026 04:25:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Guillermo Rauch (@rauchg): Super bullish on WebMCP. Much like Tesla FSD meets the world where it is (streets, stoplights, potho...</title>
-      <link>https://x.com/rauchg/status/2096065378598441431</link>
-      <guid isPermaLink="true">https://x.com/rauchg/status/2096065378598441431</guid>
-      <description>Super bullish on WebMCP. Much like Tesla FSD meets the world where it is (streets, stoplights, potholes and all), agents *need* to ride the existing WWW infrastructure… WebMCP makes it more efficient.
-
-Some pretty unique wins too. e.g: Next.js dev pages could expose debugging tools directly to agents in the specific tab they’re testing, with page-specific context, instead of sifting through server logs. No separate MCP server to find and configure because the page directly exposes its own 'agent tools'.
-
-e.g: in this world 𝚏𝚡 + 𝚊𝚐𝚎𝚗𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛 is a complete web dev stack with zero loss in debugging depth
-
-Bio: @vercel CEO
-❤️ 550  🔁 23</description>
-      <pubDate>Sat, 05 Sep 2026 02:38:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Guillermo Rauch (@rauchg): AI software factories will yield bug-free, self-improving software https://t.co/m8J9LT2wbR</title>
-      <link>https://x.com/rauchg/status/2095926173293572467</link>
-      <guid isPermaLink="true">https://x.com/rauchg/status/2095926173293572467</guid>
-      <description>AI software factories will yield bug-free, self-improving software https://t.co/m8J9LT2wbR
-
-Bio: @vercel CEO
-❤️ 780  🔁 29</description>
-      <pubDate>Fri, 04 Sep 2026 17:25:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Garry Tan (@garrytan): Absolutely insane experience using @AsideAI as an AI harness - trying to setup OpenClaw with Slack w...</title>
-      <link>https://x.com/garrytan/status/2095971990645755941</link>
-      <guid isPermaLink="true">https://x.com/garrytan/status/2095971990645755941</guid>
-      <description>Absolutely insane experience using @AsideAI as an AI harness - trying to setup OpenClaw with Slack was a 2 hour experience. 
-
-Aside's harness with full integrations AND browser integration did it in less than 3 minutes, and it's fully featured with smart access control defaults https://t.co/ja81EcaMUh
-
-Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-❤️ 296  🔁 17</description>
-      <pubDate>Fri, 04 Sep 2026 20:27:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Garry Tan (@garrytan): GStack now uses @AsideAI browser as it's preferred remote session browser
-
-Does your AI agent need a...</title>
-      <link>https://x.com/garrytan/status/2095948689823121872</link>
-      <guid isPermaLink="true">https://x.com/garrytan/status/2095948689823121872</guid>
-      <description>GStack now uses @AsideAI browser as it's preferred remote session browser
-
-Does your AI agent need access to web and credentials as you? Aside is now the #1 absolute best way to do it I've found out of all AI agent tools. 
-
-Aside is a/ an amazing browser, b/ great at credentials, c/ has all the integrations you need and c/ actually an amazing harness and memory system in its own right
-
-It's my new favorite AI browser
-
-Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-❤️ 271  🔁 13</description>
-      <pubDate>Fri, 04 Sep 2026 18:54:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Matt Turck (@mattturck): From our recent pod: 
-
-https://t.co/ZOvmqrsNSx</title>
-      <link>https://x.com/mattturck/status/2095885287960264962</link>
-      <guid isPermaLink="true">https://x.com/mattturck/status/2095885287960264962</guid>
-      <description>From our recent pod: 
-
-https://t.co/ZOvmqrsNSx
-
-Bio: VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
-❤️ 3  🔁 0</description>
-      <pubDate>Fri, 04 Sep 2026 14:42:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Matt Turck (@mattturck): Hugging Face and @Thom_Wolf cannot stop winning, first the acquisition and now this comment lol http...</title>
-      <link>https://x.com/mattturck/status/2095885284801982779</link>
-      <guid isPermaLink="true">https://x.com/mattturck/status/2095885284801982779</guid>
-      <description>Hugging Face and @Thom_Wolf cannot stop winning, first the acquisition and now this comment lol https://t.co/Mj4Iy4ssT4
-
-Bio: VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
-❤️ 58  🔁 1</description>
-      <pubDate>Fri, 04 Sep 2026 14:42:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zara Zhang (@zarazhangrui): Most people perceive AI to be a better writer than it actually is https://t.co/3OotzOgCkW</title>
-      <link>https://x.com/zarazhangrui/status/2096082116828406233</link>
-      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2096082116828406233</guid>
-      <description>Most people perceive AI to be a better writer than it actually is https://t.co/3OotzOgCkW
-
-Bio: Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd 
-YouTube: https://t.co/8xzbGWsHgY
-❤️ 15  🔁 1</description>
-      <pubDate>Sat, 05 Sep 2026 03:44:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nikunj Kothari (@nikunj): Adding “sovereign” to this list based on the last few weeks https://t.co/Qyu5uXanZA</title>
-      <link>https://x.com/nikunj/status/2095890365723406590</link>
-      <guid isPermaLink="true">https://x.com/nikunj/status/2095890365723406590</guid>
-      <description>Adding “sovereign” to this list based on the last few weeks https://t.co/Qyu5uXanZA
-
-Bio: partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-❤️ 11  🔁 0</description>
-      <pubDate>Fri, 04 Sep 2026 15:02:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dan Shipper (@danshipper): can’t help myself https://t.co/ZEZh9OlqvI</title>
-      <link>https://x.com/danshipper/status/2095925615467659637</link>
-      <guid isPermaLink="true">https://x.com/danshipper/status/2095925615467659637</guid>
-      <description>can’t help myself https://t.co/ZEZh9OlqvI
-
-Bio: ceo @every | the only subscription you need to stay at the edge of AI
-❤️ 27  🔁 0</description>
-      <pubDate>Fri, 04 Sep 2026 17:23:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dan Shipper (@danshipper): can you tell Astra is running my @every office fantasy team
-
-this is my team name: https://t.co/2t1f...</title>
-      <link>https://x.com/danshipper/status/2095885899871449385</link>
-      <guid isPermaLink="true">https://x.com/danshipper/status/2095885899871449385</guid>
-      <description>can you tell Astra is running my @every office fantasy team
-
-this is my team name: https://t.co/2t1fY52eFh
-
-Bio: ceo @every | the only subscription you need to stay at the edge of AI
-❤️ 11  🔁 0</description>
-      <pubDate>Fri, 04 Sep 2026 14:45:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dan Shipper (@danshipper): i've got Astra doing film study for our @every fantasy football draft 
-
-we going to take over this l...</title>
-      <link>https://x.com/danshipper/status/2095882683729490108</link>
-      <guid isPermaLink="true">https://x.com/danshipper/status/2095882683729490108</guid>
-      <description>i've got Astra doing film study for our @every fantasy football draft 
-
-we going to take over this league 😤 https://t.co/kMKz5XscV8
-
-Bio: ceo @every | the only subscription you need to stay at the edge of AI
-❤️ 62  🔁 1</description>
-      <pubDate>Fri, 04 Sep 2026 14:32:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aditya Agarwal (@adityaag): Me: I totally understand how RL, inference time scaling, modern data-verification loops work.
-
-Also ...</title>
-      <link>https://x.com/adityaag/status/2095910036652577028</link>
-      <guid isPermaLink="true">https://x.com/adityaag/status/2095910036652577028</guid>
-      <description>Me: I totally understand how RL, inference time scaling, modern data-verification loops work.
-
-Also Me: These models are total sorcery. There is no way that they should be able to do what they do.
-
-Bio: General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
-❤️ 88  🔁 3</description>
-      <pubDate>Fri, 04 Sep 2026 16:21:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sam Altman (@sama): Now out to all Plus and Business users.
-
-Happy building! https://t.co/66tabg3Yid</title>
-      <link>https://x.com/sama/status/2096008528834244741</link>
-      <guid isPermaLink="true">https://x.com/sama/status/2096008528834244741</guid>
-      <description>Now out to all Plus and Business users.
-
-Happy building! https://t.co/66tabg3Yid
-
-Bio: The mission of OpenAI to ensure that AGI benefits all of humanity
-❤️ 12851  🔁 549</description>
-      <pubDate>Fri, 04 Sep 2026 22:52:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sam Altman (@sama): GPT-6 Astra is now available to all Pro, Enterprise, and Business Premium users in Work/Codex, and i...</title>
-      <link>https://x.com/sama/status/2095973658867171733</link>
-      <guid isPermaLink="true">https://x.com/sama/status/2095973658867171733</guid>
-      <description>GPT-6 Astra is now available to all Pro, Enterprise, and Business Premium users in Work/Codex, and is available in the API.
-
-We will start rollout to Plus and Business users next.
-
-Thank you for the patience.
-
-Bio: The mission of OpenAI to ensure that AGI benefits all of humanity
-❤️ 15960  🔁 711</description>
-      <pubDate>Fri, 04 Sep 2026 20:33:56 +0000</pubDate>
+Bio: Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
+❤️ 755  🔁 35</description>
+      <pubDate>Sun, 06 Sep 2026 00:51:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
