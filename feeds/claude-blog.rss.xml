@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>T. Rowe Price brings more of Claude to its investment process</title>
+      <link>https://claude.com/blog/t-rowe-price-brings-more-of-claude-to-its-investment-process</link>
+      <guid isPermaLink="true">https://claude.com/blog/t-rowe-price-brings-more-of-claude-to-its-investment-process</guid>
+      <description>T. Rowe Price brings more of Claude to its investment process T. Rowe Price brings more of Claude to its investment process</description>
+    </item>
+    <item>
       <title>Reducing cost and improving performance with Claude Platform</title>
       <link>https://claude.com/blog/reducing-cost-and-improving-performance-with-claude-platform</link>
       <guid isPermaLink="true">https://claude.com/blog/reducing-cost-and-improving-performance-with-claude-platform</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai</link>
       <guid isPermaLink="true">https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai</guid>
       <description>Anthropic’s approach to teaching and learning AI Anthropic’s approach to teaching and learning AI</description>
-    </item>
-    <item>
-      <title>How monday.com transformed its platform into an agent-first product where humans and agents collaborate</title>
-      <link>https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate</link>
-      <guid isPermaLink="true">https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate</guid>
-      <description>How monday.com transformed its platform into an agent-first product where humans and agents collaborate How monday.com transformed its platform into an agent-first product where humans and agents collaborate</description>
     </item>
   </channel>
 </rss>
