@@ -4,567 +4,364 @@
     <title>Follow Builders — X/Twitter</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI builders' latest tweets, curated by follow-builders</description>
-    <lastBuildDate>Sat, 12 Sep 2026 06:36:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 06:41:35 +0000</lastBuildDate>
     <item>
-      <title>Thibault Sottiaux (@thsottiaux): Astra powered ships this week
+      <title>Andrej Karpathy (@karpathy): I love this and really hope we can come together as an industry and make it happen. https://t.co/lz2...</title>
+      <link>https://x.com/karpathy/status/2098811935114551617</link>
+      <guid isPermaLink="true">https://x.com/karpathy/status/2098811935114551617</guid>
+      <description>I love this and really hope we can come together as an industry and make it happen. https://t.co/lz2vjjJ5XD https://t.co/jF2vhYXlAF
 
-- Images 2.5
-- GPT-Live-1
-- Agents API
-- Data Agent
-- ChatGPT for Fin...</title>
-      <link>https://x.com/thsottiaux/status/2098639827084480864</link>
-      <guid isPermaLink="true">https://x.com/thsottiaux/status/2098639827084480864</guid>
-      <description>Astra powered ships this week
-
-- Images 2.5
-- GPT-Live-1
-- Agents API
-- Data Agent
-- ChatGPT for Financial Services
-
-and yet it’s not yet DevDay. Busy plans for next week too.
+Bio: deep learning
+❤️ 8837  🔁 656</description>
+      <pubDate>Sat, 12 Sep 2026 16:32:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thibault Sottiaux (@thsottiaux): Reset all propagated. Sweet dreams. https://t.co/VgKVUixoJG</title>
+      <link>https://x.com/thsottiaux/status/2098685367058612394</link>
+      <guid isPermaLink="true">https://x.com/thsottiaux/status/2098685367058612394</guid>
+      <description>Reset all propagated. Sweet dreams. https://t.co/VgKVUixoJG
 
 Bio: Codex &amp; ChatGPT @OpenAI
-❤️ 4233  🔁 175</description>
-      <pubDate>Sat, 12 Sep 2026 05:08:20 +0000</pubDate>
+❤️ 16402  🔁 736</description>
+      <pubDate>Sat, 12 Sep 2026 08:09:17 +0000</pubDate>
     </item>
     <item>
-      <title>Thibault Sottiaux (@thsottiaux): Hi Astra users. A reset and a quick update on quality issues that have been posted around.
+      <title>Peter Yang (@petergyang): What if this game worked like this:
 
-Working ...</title>
-      <link>https://x.com/thsottiaux/status/2098612714704891959</link>
-      <guid isPermaLink="true">https://x.com/thsottiaux/status/2098612714704891959</guid>
-      <description>Hi Astra users. A reset and a quick update on quality issues that have been posted around.
+1. One person is commander and can play this like a RTS (macro)...</title>
+      <link>https://x.com/petergyang/status/2098945475038912741</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2098945475038912741</guid>
+      <description>What if this game worked like this:
 
-Working with some of you, we have found and fixed the following issues:
-- Some skills written for previous models were triggering too often or preventing the model from checking its work.
-- An opt-in context management experiment that could cause early stops or replies to older messages. We've disabled it. Our rough estimate is that 4-5k users were affected by this experiment.
-- We've also removed some badly configured engines that resulted in a measured quality degradation for a long tail of traffic flowing through them.
+1. One person is commander and can play this like a RTS (macro)
 
-We’ve also made some more minor improvements and things should feel significantly better across the board. More consistent follow-through, better tracking of your latest message, and better checks on the work as it’s going through the motions.
+2. The rest of the team plays individual marines and characters (micro)
 
-The examples posted and all the users who worked directly with us were incredibly useful in helping fix things quickly. Always grateful for this incredible community.
-
-And of course, a reset is also landing by midnight today.
-
-Bio: Codex &amp; ChatGPT @OpenAI
-❤️ 15758  🔁 1125</description>
-      <pubDate>Sat, 12 Sep 2026 03:20:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Thibault Sottiaux (@thsottiaux): Excited to welcome Aidan &amp; @
-Sasha from the Git AI team to OpenAI! 
-
-They are building in the open a...</title>
-      <link>https://x.com/thsottiaux/status/2098569976143806918</link>
-      <guid isPermaLink="true">https://x.com/thsottiaux/status/2098569976143806918</guid>
-      <description>Excited to welcome Aidan &amp; @
-Sasha from the Git AI team to OpenAI! 
-
-They are building in the open and have developed an open-source tool that helps developers understand how coding agents contribute to their codebase. 
-
-Together, we’ll make it easier for businesses to see where Codex is making a difference when working through problems for individuals and teams. We’ll also keep Git AI open source and continue investing in it.
-
-Bio: Codex &amp; ChatGPT @OpenAI
-❤️ 3042  🔁 73</description>
-      <pubDate>Sat, 12 Sep 2026 00:30:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Peter Yang (@petergyang): I have decided to do this after much deliberation: 
-
-All local scheduled tasks live in Codex. All cl...</title>
-      <link>https://x.com/petergyang/status/2098614492066435228</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2098614492066435228</guid>
-      <description>I have decided to do this after much deliberation: 
-
-All local scheduled tasks live in Codex. All cloud tasks I’m porting over to Grok Bot. 
-
-Makes it a clean split.
+Probably a terrible idea but would be cool 😎 https://t.co/CQF0dg0tBJ
 
 Bio: Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-❤️ 91  🔁 2</description>
-      <pubDate>Sat, 12 Sep 2026 03:27:39 +0000</pubDate>
+❤️ 52  🔁 0</description>
+      <pubDate>Sun, 13 Sep 2026 01:22:52 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Yang (@petergyang): Read why here: https://t.co/qMkuBOwSKk</title>
-      <link>https://x.com/petergyang/status/2098573992097657135</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2098573992097657135</guid>
-      <description>Read why here: https://t.co/qMkuBOwSKk
+      <title>Peter Yang (@petergyang): Can’t believe ASI will come out before StarCraft. 
+
+Seriously just use AI to generate half the graph...</title>
+      <link>https://x.com/petergyang/status/2098846399949627553</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2098846399949627553</guid>
+      <description>Can’t believe ASI will come out before StarCraft. 
+
+Seriously just use AI to generate half the graphics with human oversight, I won’t mind if we can get a quality game out sooner.
 
 Bio: Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-❤️ 1  🔁 2</description>
-      <pubDate>Sat, 12 Sep 2026 00:46:43 +0000</pubDate>
+❤️ 9  🔁 0</description>
+      <pubDate>Sat, 12 Sep 2026 18:49:11 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Yang (@petergyang): I am skeptical of "software factories."
+      <title>Peter Yang (@petergyang): wtf? 2030? 😂 🤦
 
-Other than for verification &amp; testing, I don't think AI is ...</title>
-      <link>https://x.com/petergyang/status/2098565668241334366</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2098565668241334366</guid>
-      <description>I am skeptical of "software factories."
+Someone should just use AI to make StarCraft 3 at this point… https://t.co/RInemiP3n...</title>
+      <link>https://x.com/petergyang/status/2098843136328171540</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2098843136328171540</guid>
+      <description>wtf? 2030? 😂 🤦
 
-Other than for verification &amp; testing, I don't think AI is at a point where it can self-improve a product or build a new feature end-to-end without human in the loop.
-
-Whenever I loop something overnight to build something new = if it makes one wrong assumption the whole thing becomes a waste of tokens. 
-
-What products or features have been built end-to-end with a software factory and no human defining the requirements or checking the work?
+Someone should just use AI to make StarCraft 3 at this point… https://t.co/RInemiP3nC
 
 Bio: Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-❤️ 179  🔁 9</description>
-      <pubDate>Sat, 12 Sep 2026 00:13:39 +0000</pubDate>
+❤️ 363  🔁 7</description>
+      <pubDate>Sat, 12 Sep 2026 18:36:12 +0000</pubDate>
     </item>
     <item>
-      <title>Madhu Guru (@realmadhuguru): https://t.co/Vkfx96ev4e</title>
-      <link>https://x.com/realmadhuguru/status/2098448469497356569</link>
-      <guid isPermaLink="true">https://x.com/realmadhuguru/status/2098448469497356569</guid>
-      <description>https://t.co/Vkfx96ev4e
+      <title>Nan Yu (@thenanyu): https://t.co/h69bQJ21v9 https://t.co/LRgNJtrq5k</title>
+      <link>https://x.com/thenanyu/status/2098829351781593191</link>
+      <guid isPermaLink="true">https://x.com/thenanyu/status/2098829351781593191</guid>
+      <description>https://t.co/h69bQJ21v9 https://t.co/LRgNJtrq5k
+
+Bio: (soon) member of product staff @openai. prev head of product @linear. I am grader.
+❤️ 6  🔁 0</description>
+      <pubDate>Sat, 12 Sep 2026 17:41:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Madhu Guru (@realmadhuguru): Prediction: we will see movement of a lot more of the brightest minds on frontier model evals toward...</title>
+      <link>https://x.com/realmadhuguru/status/2098859477219037691</link>
+      <guid isPermaLink="true">https://x.com/realmadhuguru/status/2098859477219037691</guid>
+      <description>Prediction: we will see movement of a lot more of the brightest minds on frontier model evals towards groups like METR over the next 12 months.
+
+This skill is currently concentrated in 
+in a few labs,  data providers and independent research groups.
+
+A combination of increased funding, financial independence from lab equity and the call to meet the existential risk of AI will motivate a migration of minds to this bigger cause.
 
 Bio: Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.
-❤️ 2  🔁 0</description>
-      <pubDate>Fri, 11 Sep 2026 16:27:57 +0000</pubDate>
+❤️ 23  🔁 0</description>
+      <pubDate>Sat, 12 Sep 2026 19:41:08 +0000</pubDate>
     </item>
     <item>
-      <title>Madhu Guru (@realmadhuguru): Why most enterprise AI efforts fail.
+      <title>Madhu Guru (@realmadhuguru): Before we solve AI alignment, we have a pretty serious human alignment problem. 
 
-1/ Using old-school playbooks for AI
-The CEO picks a trusted l...</title>
-      <link>https://x.com/realmadhuguru/status/2098448235048378456</link>
-      <guid isPermaLink="true">https://x.com/realmadhuguru/status/2098448235048378456</guid>
-      <description>Why most enterprise AI efforts fail.
+It is jarring to s...</title>
+      <link>https://x.com/realmadhuguru/status/2098803717432860987</link>
+      <guid isPermaLink="true">https://x.com/realmadhuguru/status/2098803717432860987</guid>
+      <description>Before we solve AI alignment, we have a pretty serious human alignment problem. 
 
-1/ Using old-school playbooks for AI
-The CEO picks a trusted lieutenant to lead a central AI team. That leader pulls in a group of trusted people from across the company.
+It is jarring to see the bad-faith reaction to Dario's piece from so many sides. I don't agree with every point of his essay but do believe it is a thoughtful piece everyone should read. It builds on some of the ideas @demishassabis  raised in July.
 
-The problem here is the skill gap.
+It is clear we need to focus on aligning amongst us humans on a few questions:
 
-The team structure, product patterns, how you launch and learn that got you here do not work with AI. Much of product development over the last 15 yrs has been incremental improvements.
+What is the opportunity, risks, second-order effects?
 
-AI requires experimentation and invention.
+How do we measure all of this?
 
-2/ Under-investing in evals
+How do companies, governments and countries coordinate?
 
-Most enterprises don't quite understand the importance of this and what good looks like here. (I have a whole evals series in the comments - check it out)
-
-3/ Building AI for the company from the outside
-
-The central AI team declares itself a platform team and builds tools that everyone is supposed to adopt.
-
-These products are often disconnected from the actual workflows, context and judgment of the people doing the work.
-
-Begrudging adoption follows. But not meaningful productivity gains.
-
-What you should do:
-
-1/ Hire leaders who have done successfully built AI products. You need technical/product depth plus the ability to earn trust with the people whose jobs they’re helping reinvent.
-
-2/ Make evals a first class citizen in your AI efforts
-
-3/ Embed your best AI builders inside the functions you want to transform. Build * with * finance , build * with * sales, build * with * support.
+AI will benefit humanity if we can get our act together and move together.
 
 Bio: Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.
-❤️ 96  🔁 5</description>
-      <pubDate>Fri, 11 Sep 2026 16:27:01 +0000</pubDate>
+❤️ 29  🔁 0</description>
+      <pubDate>Sat, 12 Sep 2026 15:59:34 +0000</pubDate>
     </item>
     <item>
-      <title>Thariq (@trq212): we heard feedback that it's hard to know if your skills are still working with new model releases
+      <title>Thariq (@trq212): If you showed me Claude Code today in 2018, I would have thought it was AGI.
 
-p...</title>
-      <link>https://x.com/trq212/status/2098531560643539440</link>
-      <guid isPermaLink="true">https://x.com/trq212/status/2098531560643539440</guid>
-      <description>we heard feedback that it's hard to know if your skills are still working with new model releases
+We have already absorb...</title>
+      <link>https://x.com/trq212/status/2098860941391872132</link>
+      <guid isPermaLink="true">https://x.com/trq212/status/2098860941391872132</guid>
+      <description>If you showed me Claude Code today in 2018, I would have thought it was AGI.
 
-plugin evals are here to help
+We have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. But still, we’re starting to see cracks.
 
-run `claude plugin eval init` in your plugin folder https://t.co/Q0I1ZnugDs
+Things are accelerating faster than I can honestly stay on top of. Most people I know in AI are tired but powering through. I fear we will need more than that.
+
+We need time to harden our systems, and for society to deliberate in how this technology is used and deployed.
+
+I have a fairly low p(doom), I am confident that we can get through this! Humanity is incredibly reslient and adaptable, but this comes from our ability to make hard decisions- like this one, together.
 
 Bio: Claude Code @anthropicai. prev YC W20, @spc, @medialab
-❤️ 1250  🔁 58</description>
-      <pubDate>Fri, 11 Sep 2026 21:58:07 +0000</pubDate>
+❤️ 2269  🔁 80</description>
+      <pubDate>Sat, 12 Sep 2026 19:46:58 +0000</pubDate>
     </item>
     <item>
-      <title>Thariq (@trq212): it's basically impossible to interpret evals by looking at just at the pass/fail scores these days
-
-...</title>
-      <link>https://x.com/trq212/status/2098490139798655427</link>
-      <guid isPermaLink="true">https://x.com/trq212/status/2098490139798655427</guid>
-      <description>it's basically impossible to interpret evals by looking at just at the pass/fail scores these days
-
-many of the failures I see in benchmarks are due to overly strict hidden tests, in some cases the model's answer makes more sense than the expected eval result
-
-Bio: Claude Code @anthropicai. prev YC W20, @spc, @medialab
-❤️ 1504  🔁 62</description>
-      <pubDate>Fri, 11 Sep 2026 19:13:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amjad Masad (@amasad): Replit acquires a business entirely built on Replit. I expect first of many to come. https://t.co/hL...</title>
-      <link>https://x.com/amasad/status/2098548464452055437</link>
-      <guid isPermaLink="true">https://x.com/amasad/status/2098548464452055437</guid>
-      <description>Replit acquires a business entirely built on Replit. I expect first of many to come. https://t.co/hL516eAAu2
+      <title>Amjad Masad (@amasad): Not a bad idea to slow down to harden systems. Especially since we haven’t even discovered all the s...</title>
+      <link>https://x.com/amasad/status/2098828265800835310</link>
+      <guid isPermaLink="true">https://x.com/amasad/status/2098828265800835310</guid>
+      <description>Not a bad idea to slow down to harden systems. Especially since we haven’t even discovered all the systems that agents hacked recently. https://t.co/8mPnI81HJG
 
 Bio: ceo @replit. civilizationist
-❤️ 548  🔁 17</description>
-      <pubDate>Fri, 11 Sep 2026 23:05:17 +0000</pubDate>
+❤️ 606  🔁 19</description>
+      <pubDate>Sat, 12 Sep 2026 17:37:07 +0000</pubDate>
     </item>
     <item>
-      <title>Amjad Masad (@amasad): Routines with budgets! https://t.co/bAweXu6MJt</title>
-      <link>https://x.com/amasad/status/2098317466682179643</link>
-      <guid isPermaLink="true">https://x.com/amasad/status/2098317466682179643</guid>
-      <description>Routines with budgets! https://t.co/bAweXu6MJt
+      <title>Guillermo Rauch (@rauchg): I’m seeing teams at Vercel iterate just as fast on Zig, Go, Rust projects as TypeScript &amp;amp; Python...</title>
+      <link>https://x.com/rauchg/status/2098833404707922239</link>
+      <guid isPermaLink="true">https://x.com/rauchg/status/2098833404707922239</guid>
+      <description>I’m seeing teams at Vercel iterate just as fast on Zig, Go, Rust projects as TypeScript &amp;amp; Python ones.
 
-Bio: ceo @replit. civilizationist
-❤️ 66  🔁 3</description>
-      <pubDate>Fri, 11 Sep 2026 07:47:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amjad Masad (@amasad): Love seeing all the Astra 3D experiments on Replit! https://t.co/PC7FBalOeW</title>
-      <link>https://x.com/amasad/status/2098316298820219058</link>
-      <guid isPermaLink="true">https://x.com/amasad/status/2098316298820219058</guid>
-      <description>Love seeing all the Astra 3D experiments on Replit! https://t.co/PC7FBalOeW
+The days of language or runtime choice based on human convenience are over. Agents are the new compilers.
 
-Bio: ceo @replit. civilizationist
-❤️ 193  🔁 4</description>
-      <pubDate>Fri, 11 Sep 2026 07:42:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Guillermo Rauch (@rauchg): Tailscale’s model router is powered by Vercel AI Gateway as its underlying infrastructure.
-
-AI Gatew...</title>
-      <link>https://x.com/rauchg/status/2098531157230969062</link>
-      <guid isPermaLink="true">https://x.com/rauchg/status/2098531157230969062</guid>
-      <description>Tailscale’s model router is powered by Vercel AI Gateway as its underlying infrastructure.
-
-AI Gateways are the new CDNs. You could go “direct to origin”, but it’s brittle. You could DIY, but it’s painful and costly.
-
-Proud to serve Tailscale, the 🐐 networking technology company https://t.co/ERS5GKJx6D
+They compile intent into fast software.
 
 Bio: @vercel CEO
-❤️ 290  🔁 9</description>
-      <pubDate>Fri, 11 Sep 2026 21:56:31 +0000</pubDate>
+❤️ 1955  🔁 93</description>
+      <pubDate>Sat, 12 Sep 2026 17:57:32 +0000</pubDate>
     </item>
     <item>
-      <title>Aaron Levie (@levie): This one is very cool. Now you can mount Box to agent sandboxes to make it far easier for an agent t...</title>
-      <link>https://x.com/levie/status/2098478938003841123</link>
-      <guid isPermaLink="true">https://x.com/levie/status/2098478938003841123</guid>
-      <description>This one is very cool. Now you can mount Box to agent sandboxes to make it far easier for an agent to read and write files on the agent's computer. As AI agents execute critical workflows in the enterprise, they're going to need the same primitives that people have had. https://t.co/h1BW92pMtH
+      <title>Guillermo Rauch (@rauchg): https://t.co/OL0LzGsXKY can now orchestrate subagents with different models &amp; reasoning efforts.
+
+e....</title>
+      <link>https://x.com/rauchg/status/2098803573861621778</link>
+      <guid isPermaLink="true">https://x.com/rauchg/status/2098803573861621778</guid>
+      <description>https://t.co/OL0LzGsXKY can now orchestrate subagents with different models &amp; reasoning efforts.
+
+e.g: Fable planning and Grok executing. Fable is a genius, Grok is a fast workhorse.
+
+① Simple. 𝙰𝙶𝙴𝙽𝚃𝚂.𝚖𝚍 or your prompt can indicate this preference.
+
+② Steer as you please. It’s extremely enjoyable to use. You just talk to the agent and interrupt at will.
+
+Worth noting this works with any model, any gateway. No fancy server-side routing. Just harnessing (no pun intended) the model’s intelligence and ability to orchestrate.
+
+Bio: @vercel CEO
+❤️ 664  🔁 40</description>
+      <pubDate>Sat, 12 Sep 2026 15:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guillermo Rauch (@rauchg): The concerns over AI safety and cybersecurity are legitimate, but we’re risking talking America, the...</title>
+      <link>https://x.com/rauchg/status/2098787667030712757</link>
+      <guid isPermaLink="true">https://x.com/rauchg/status/2098787667030712757</guid>
+      <description>The concerns over AI safety and cybersecurity are legitimate, but we’re risking talking America, the global AI leader, into self-inflicted obsolescence and the obscurity of bureaucracy.
+
+The OpenAI hacking HuggingFace argument is spurious. An agent in “ExploitGym”… exploited. Our adversaries have the training techniques, the data, and the will to attack. And they won’t be slowed down with “embedded evaluators.” They’ll likely have embedded accelerators!
+
+Bio: @vercel CEO
+❤️ 2656  🔁 247</description>
+      <pubDate>Sat, 12 Sep 2026 14:55:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alex Albert (@alexalbert__): Worth spending a few minutes this weekend to read this essay in full. 
+
+Embedded evaluators might so...</title>
+      <link>https://x.com/alexalbert__/status/2098814342443761909</link>
+      <guid isPermaLink="true">https://x.com/alexalbert__/status/2098814342443761909</guid>
+      <description>Worth spending a few minutes this weekend to read this essay in full. 
+
+Embedded evaluators might sound unusual in tech but it's pretty normal in other industries. Big banks have federal examiners with desks in the building and every nuclear plant in the US has inspectors who work on site full time. I think frontier AI labs should work the same way and this is a very practical first step.
+
+Bio: Research @AnthropicAI. Opinions are my own!
+❤️ 160  🔁 6</description>
+      <pubDate>Sat, 12 Sep 2026 16:41:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aaron Levie (@levie): Good post. Don’t agree with all of it, but it represents many of the actual practical realities for ...</title>
+      <link>https://x.com/levie/status/2098785357307539882</link>
+      <guid isPermaLink="true">https://x.com/levie/status/2098785357307539882</guid>
+      <description>Good post. Don’t agree with all of it, but it represents many of the actual practical realities for the general path forward in frontier AI whether we like it or not.
+
+At the level of capability we’re seeing from models there will inevitably be some form of coordinated self-regulation of the industry; that’s generally a good thing. The big question will be if everyone can agree to what that is. However, the way things are headed politically there’s a chance that the labs won’t even get a say in it.
+
+And then the bigger question yet is do all the countries participate or not. Any “slow down” hinges on broad participation, which from a game theory standpoint isn’t likely until the risks are more severe and obvious.
+
+Expect this to be pretty messy for a while.
 
 Bio: ceo @box - your business lives in content. unleash it with AI
-❤️ 81  🔁 16</description>
-      <pubDate>Fri, 11 Sep 2026 18:29:01 +0000</pubDate>
+❤️ 251  🔁 22</description>
+      <pubDate>Sat, 12 Sep 2026 14:46:37 +0000</pubDate>
     </item>
     <item>
-      <title>Ryo Lu (@ryolu_): i emptied my house
-said goodbyes
-and moved to taipei
-
-so far so great! 💛 https://t.co/vvAbELmie8</title>
-      <link>https://x.com/ryolu_/status/2098612137321201942</link>
-      <guid isPermaLink="true">https://x.com/ryolu_/status/2098612137321201942</guid>
-      <description>i emptied my house
-said goodbyes
-and moved to taipei
-
-so far so great! 💛 https://t.co/vvAbELmie8
-
-Bio: Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.
-❤️ 1029  🔁 5</description>
-      <pubDate>Sat, 12 Sep 2026 03:18:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ryo Lu (@ryolu_): long-lived agents for your big ideas
-now in Cursor https://t.co/2sa0rX2415</title>
-      <link>https://x.com/ryolu_/status/2098324260867772806</link>
-      <guid isPermaLink="true">https://x.com/ryolu_/status/2098324260867772806</guid>
-      <description>long-lived agents for your big ideas
-now in Cursor https://t.co/2sa0rX2415
-
-Bio: Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.
-❤️ 599  🔁 7</description>
-      <pubDate>Fri, 11 Sep 2026 08:14:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Garry Tan (@garrytan): TBH once you score 1600 you should unlock a second harder test that gives you a second score on top ...</title>
-      <link>https://x.com/garrytan/status/2098615692425851205</link>
-      <guid isPermaLink="true">https://x.com/garrytan/status/2098615692425851205</guid>
-      <description>TBH once you score 1600 you should unlock a second harder test that gives you a second score on top of the 1600— we should have more and higher measures of excellence 
-
-But instead they ban the SAT so that everything turns into random lottery and excellence cannot be recognized https://t.co/BCdZC9tOhY
+      <title>Garry Tan (@garrytan): This is huge https://t.co/3wNhYTyWqH</title>
+      <link>https://x.com/garrytan/status/2098863831732863310</link>
+      <guid isPermaLink="true">https://x.com/garrytan/status/2098863831732863310</guid>
+      <description>This is huge https://t.co/3wNhYTyWqH
 
 Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-❤️ 732  🔁 34</description>
-      <pubDate>Sat, 12 Sep 2026 03:32:26 +0000</pubDate>
+❤️ 339  🔁 11</description>
+      <pubDate>Sat, 12 Sep 2026 19:58:27 +0000</pubDate>
     </item>
     <item>
-      <title>Matt Turck (@mattturck): You can see us on the list of tenants here:
-https://t.co/DuGS9PLTIw
+      <title>Garry Tan (@garrytan): Either you die a system of record or you live long enough to become a domain-specific harness https:...</title>
+      <link>https://x.com/garrytan/status/2098666551629267324</link>
+      <guid isPermaLink="true">https://x.com/garrytan/status/2098666551629267324</guid>
+      <description>Either you die a system of record or you live long enough to become a domain-specific harness https://t.co/bwpSoOeFPr
 
-and you can see part of Kenton'...</title>
-      <link>https://x.com/mattturck/status/2098517023286247675</link>
-      <guid isPermaLink="true">https://x.com/mattturck/status/2098517023286247675</guid>
-      <description>You can see us on the list of tenants here:
-https://t.co/DuGS9PLTIw
-
-and you can see part of Kenton's story here:
-https://t.co/3KVbiF1Nqy
+Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
+❤️ 3705  🔁 221</description>
+      <pubDate>Sat, 12 Sep 2026 06:54:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Matt Turck (@mattturck): Breaking: VCs decide to pace their returns.</title>
+      <link>https://x.com/mattturck/status/2098869942988718426</link>
+      <guid isPermaLink="true">https://x.com/mattturck/status/2098869942988718426</guid>
+      <description>Breaking: VCs decide to pace their returns.
 
 Bio: VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
-❤️ 1  🔁 0</description>
-      <pubDate>Fri, 11 Sep 2026 21:00:21 +0000</pubDate>
+❤️ 86  🔁 8</description>
+      <pubDate>Sat, 12 Sep 2026 20:22:44 +0000</pubDate>
     </item>
     <item>
-      <title>Matt Turck (@mattturck): My 9/11 story
-(lightly updated version of a blog post I wrote in 2016 for the 15th anniversary)
-
-In ...</title>
-      <link>https://x.com/mattturck/status/2098517022049190227</link>
-      <guid isPermaLink="true">https://x.com/mattturck/status/2098517022049190227</guid>
-      <description>My 9/11 story
-(lightly updated version of a blog post I wrote in 2016 for the 15th anniversary)
-
-In September 2001, I was the young co-founder of a NYC tech startup, TripleHop Technologies.   
-
-We were building enterprise search software, using whatever AI existed at the time, building what would be today close to what a Glean does.  
-
-We had maybe 25 people on the team at the time.  Pretty much all of us were at the very begining of our careers, barely out of school, unexperienced, but highly enthusiastic.
-
-Our office was located on the 53rd floor of the North Tower at the World Trade Center.
-
-We had ended up at the World Trade Center fairly randomly.  Our first office was located on Water Street, right above a 24 hour McDonald’s.  It looked more like a decrepit apartment than an actual office, occasionally didn’t smell that great, but it was cheap and good enough.
-
-But after a year or so, the team had grown, and that office had become too small, so we started looking for a bigger one.
-
-At the time, for a reason or another, there wasn’t a lot of office inventory on the market in the area where we wanted to be.  
-
-We looked for a bit, couldn’t find anything suitable, until one of us had the strange idea of inquiring at the World Trade Center, which felt like a long shot. 
-
-Turned out that the World Trade Center had some smaller offices, and some availability.  In those dot-com bubble days, they also were quite eager to attract young tech startups, and were willing to offer us some preferential terms. 
-
-So we went to take a look, and visited two offices in the North Tower. 
-
-One was a large office at the very top of the building, perhaps the 104th floor, I don’t exactly recall. It had unbelievable views, but it really felt like taking that office would be pushing it – even with a good deal, we were just a little seed-funded startup, after all. Also, the elevator ride took forever. 
-
-So instead we chose the smaller, cheaper office on the 53rd floor.  
-
-We really liked our new office, and the World Trade Center in general.  It felt like a little town, with a lot of retail and amenities below the surface, and its own subway station. We ate a bit too often at a Sbarro joint located right outside the ground floor elevator.
-
-The night before 9/11, my co-founder Renaud Laplanche and I worked very late into the evening, as we did most nights.  In true nerdy founder fashion, we played a ping pong game or two, as we did pretty much every time before calling it a night – the ping pong table being our attempt at creating a startup culture.  
-
-I left, and think Renaud may have stayed on that night to finish working on a proposal for a prospective customer.
-
-The morning after, when the plane hit the North Tower at 8:46am, I was home, about to leave for work.   
-
-Like many young tech people, we were night owls but not early birds, typically showing up at the office around 9:30am.  
-
-I had the TV on, and as about to turn it off and walk out of the door, saw the “breaking news” scroll at the bottom of the screen mentioning a plane collision, but no image.    
-
-As I had a faraway view of the World Trade Center from the window of my West Village studio apartment, I looked up and saw what seemed like a little bit of smoke at the top.
-
-I assumed the plane that had hit the tower was a small tourist plane.  We would often see them fly by the office, above the nearby Hudson River, often at altitudes that felt very close to us.  It had crossed my mind more than once that it wouldn’t take that much for one of them to hit the tower by accident.
-
-Then, like so many others, I saw those unbelievable images on TV. I called my family back in France.  Shortly thereafter, phone lines went down. 
-
-The rest of the day was surreal and gut-wrenching, although I remember feeling mostly numb.
-
-I went on a mad scramble to see if everyone at TripleHop was ok. For many hours, we just didn’t know.  With no phone working, we accounted for most people via email, but a number did not reply for a while.
-
-It eventually turned out only one person from the team, Kenton Beerman, was at the office at 8:46am.   He made it out shocked but unscathed.
-
-Perhaps as a way to cope psychologically, or just because they were amazing people, I remember that the team was incredibly focused on saving the business that day.  
-
-This was obviously pre-AWS, we had our own server room in our office, but thankfully our CTO Joaquin Delgado and his team had backed everything up.  By the end of the day, we were essentially back up and running.
-
-After a few days, we found shared office space.  But business didn’t go back to usual. In addition to everything else, 9/11 was the final nail in the coffin for the economy after the dot com bubble burst.  The next couple of years were a complete nuclear winter.
-
-Thankfully, we had raised a $5M Series A (a solid amount at hte time!) a few months before 9/11, which kept us afloat.  We also managed to win a few deals in Europe, which gave us a bit more cash.  
-
-Eventually business picked up strongly in late 2003 and 2004, potential acquirers came knocking, and TripleHop was acquired by Oracle in 2005.
-
-We all went on with our lives.  My co-founder Renaud reached extraordinary entrepreneurial success and defined a whole new industry.
-
-We all have families now.  I occasionally see pictures of beautiful children on my Facebook feed.  
-
-I rarely talk about 9/11, and have tried to not think about it too much. 
-
-It took me a very long time to go visit the 9/11 memorial downtown.  
-
-I finally made it just a few weeks ago, after a board meeting nearby, walking there almost by accident.
-
-Looking at the names engraved in the marble, I was reminded that it wouldn’t have taken much.  An hour later, a few floors lower. Or choosing that office on the 104th floor instead of the other one, a few months prior.
-
-And I feel deeply connected not just to those names, but to New York. 
-
-Before 9/11, New York felt like an exciting, but ultimately foreign, city. After 9/11, I truly started feeling like a New Yorker.  
-
-Everyone remembers where they were on 9/11.  Everyone has a story of some sort, many infinitely more tragic.  
-
-This is just mine.
+      <title>Matt Turck (@mattturck): Breaking: Dario saves humanity but kills an entire industry of mind-blown tweets and breathless AI p...</title>
+      <link>https://x.com/mattturck/status/2098847298335687132</link>
+      <guid isPermaLink="true">https://x.com/mattturck/status/2098847298335687132</guid>
+      <description>Breaking: Dario saves humanity but kills an entire industry of mind-blown tweets and breathless AI podcasts
 
 Bio: VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
-❤️ 129  🔁 0</description>
-      <pubDate>Fri, 11 Sep 2026 21:00:21 +0000</pubDate>
+❤️ 32  🔁 1</description>
+      <pubDate>Sat, 12 Sep 2026 18:52:45 +0000</pubDate>
     </item>
     <item>
-      <title>Zara Zhang (@zarazhangrui): I think the idea of a "one-person company" is overrated
+      <title>Nikunj Kothari (@nikunj): Honestly having kids reduces p(doom) by an exponential amount..
 
-Yes, a person can do a lot more thanks to A...</title>
-      <link>https://x.com/zarazhangrui/status/2098483800456179923</link>
-      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2098483800456179923</guid>
-      <description>I think the idea of a "one-person company" is overrated
+Case in point: We have been playing...</title>
+      <link>https://x.com/nikunj/status/2098961771289870463</link>
+      <guid isPermaLink="true">https://x.com/nikunj/status/2098961771289870463</guid>
+      <description>Honestly having kids reduces p(doom) by an exponential amount..
 
-Yes, a person can do a lot more thanks to AI. But building something new can be a profoundly lonely experience. You need someone to brainstorm together, suffer together, celebrate together...
+Case in point: We have been playing the garbage truck and excavator (techno version) for the past hour. 
 
-It is extremely easy to lose motivation when you don't tie yourself to the mast together with somebody else
+And dancing to it as if we were at a concert. 
 
-Bio: Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd 
-YouTube: https://t.co/8xzbGWsHgY
-❤️ 704  🔁 49</description>
-      <pubDate>Fri, 11 Sep 2026 18:48:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nikunj Kothari (@nikunj): “Success has many fathers, but failure is an orphan.”
-
-I never realized the gravity of this quote ti...</title>
-      <link>https://x.com/nikunj/status/2098550718923997430</link>
-      <guid isPermaLink="true">https://x.com/nikunj/status/2098550718923997430</guid>
-      <description>“Success has many fathers, but failure is an orphan.”
-
-I never realized the gravity of this quote till I saw extremely successful VCs fight for attribution of the hot deals. 
-
-And you realize this viscerally because the large exits (or markups) are genuinely rare and those are the ones you raise the next fund on (your own or part of the firm). 
-
-This is why in the next couple of years you’ll see many names scrubbed (or conveniently omitted) and everyone wanting to revise history to claim some credit for the ones that eventually succeed. 
-
-So many emerging GPs are facing this explicitly as the only thing they can take to their future LPs is their track record. And it’s been sad to see them not get the credit they actually deserve. 
-
-As @AnjneyMidha said, eventually the new guard will shine as they will figure a way out. But in the short term, hold your founders close since they’ll be the real reference checks! 
-
-(this is genuinely NOT a subtweet at any firm, just what I have been noticing across the market as I’m helping emerging managers)
+With a temporary abandon to what the world is fighting about. https://t.co/4v2bM24SAO
 
 Bio: partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-❤️ 39  🔁 2</description>
-      <pubDate>Fri, 11 Sep 2026 23:14:15 +0000</pubDate>
+❤️ 4  🔁 0</description>
+      <pubDate>Sun, 13 Sep 2026 02:27:37 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Steinberger (@steipete): Had to submit a patch to @trycua to make keys work reliable under Linux, dope framework overall tho!</title>
-      <link>https://x.com/steipete/status/2098527982709256637</link>
-      <guid isPermaLink="true">https://x.com/steipete/status/2098527982709256637</guid>
-      <description>Had to submit a patch to @trycua to make keys work reliable under Linux, dope framework overall tho!
+      <title>Peter Steinberger (@steipete): all sorted out. they defo been cookin!</title>
+      <link>https://x.com/steipete/status/2098995230314037516</link>
+      <guid isPermaLink="true">https://x.com/steipete/status/2098995230314037516</guid>
+      <description>all sorted out. they defo been cookin!
 
 Bio: Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
 @OpenClaw🦞 + @OpenAI
-❤️ 18  🔁 2</description>
-      <pubDate>Fri, 11 Sep 2026 21:43:54 +0000</pubDate>
+❤️ 52  🔁 2</description>
+      <pubDate>Sun, 13 Sep 2026 04:40:35 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Steinberger (@steipete): Astra on OC in a cloud session playing Doom with CUA.
-Not quite AGI yet, but probably beats fly brai...</title>
-      <link>https://x.com/steipete/status/2098527519213604889</link>
-      <guid isPermaLink="true">https://x.com/steipete/status/2098527519213604889</guid>
-      <description>Astra on OC in a cloud session playing Doom with CUA.
-Not quite AGI yet, but probably beats fly brain. https://t.co/SrJlaey3MB
+      <title>Peter Steinberger (@steipete): Anyone got an invite code for Meta's Muse? 👉👈
+
+I saw their Soul.md file and now i'm curious.</title>
+      <link>https://x.com/steipete/status/2098931686042210381</link>
+      <guid isPermaLink="true">https://x.com/steipete/status/2098931686042210381</guid>
+      <description>Anyone got an invite code for Meta's Muse? 👉👈
+
+I saw their Soul.md file and now i'm curious.
 
 Bio: Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
 @OpenClaw🦞 + @OpenAI
-❤️ 270  🔁 18</description>
-      <pubDate>Fri, 11 Sep 2026 21:42:03 +0000</pubDate>
+❤️ 998  🔁 23</description>
+      <pubDate>Sun, 13 Sep 2026 00:28:04 +0000</pubDate>
     </item>
     <item>
-      <title>Dan Shipper (@danshipper): okay this is not great https://t.co/yzMDp9dIZh</title>
-      <link>https://x.com/danshipper/status/2098579426178908494</link>
-      <guid isPermaLink="true">https://x.com/danshipper/status/2098579426178908494</guid>
-      <description>okay this is not great https://t.co/yzMDp9dIZh
+      <title>Peter Steinberger (@steipete): This is amazing. Add Master of Orion 2 next! https://t.co/yHjlwsOLaJ</title>
+      <link>https://x.com/steipete/status/2098784877495939145</link>
+      <guid isPermaLink="true">https://x.com/steipete/status/2098784877495939145</guid>
+      <description>This is amazing. Add Master of Orion 2 next! https://t.co/yHjlwsOLaJ
+
+Bio: Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
+❤️ 334  🔁 9</description>
+      <pubDate>Sat, 12 Sep 2026 14:44:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dan Shipper (@danshipper): me asking fable 5.1 ultracode to explain whether the internet is truly a series of pipes https://t.c...</title>
+      <link>https://x.com/danshipper/status/2098905091776373125</link>
+      <guid isPermaLink="true">https://x.com/danshipper/status/2098905091776373125</guid>
+      <description>me asking fable 5.1 ultracode to explain whether the internet is truly a series of pipes https://t.co/Y5Bso2F5C8
 
 Bio: ceo @every | the only subscription you need to stay at the edge of AI
-❤️ 73  🔁 3</description>
-      <pubDate>Sat, 12 Sep 2026 01:08:19 +0000</pubDate>
+❤️ 32  🔁 1</description>
+      <pubDate>Sat, 12 Sep 2026 22:42:24 +0000</pubDate>
     </item>
     <item>
-      <title>Dan Shipper (@danshipper): better benchmark scores don't tell you much about how well a model does on your real work 
-
-that's w...</title>
-      <link>https://x.com/danshipper/status/2098481799047647715</link>
-      <guid isPermaLink="true">https://x.com/danshipper/status/2098481799047647715</guid>
-      <description>better benchmark scores don't tell you much about how well a model does on your real work 
-
-that's why for the last 3 years @every we've done vibe checks on new models: long-form reviews based on hands-on testing on each model for our real work
-
-now we're doubling down, and getting more quantitative
-
-@hammer_mt and @nityeshaga built an internal platform for all of us to make personal benchmarks based on our real day-to-day work
-
-our vibe checks on new models used to be vibes only
-
-now we're starting to get more quantitative with checks
-
-very psyched about this :)
+      <title>Dan Shipper (@danshipper): finally, im an author! https://t.co/brRLLnHA9d</title>
+      <link>https://x.com/danshipper/status/2098898413366435903</link>
+      <guid isPermaLink="true">https://x.com/danshipper/status/2098898413366435903</guid>
+      <description>finally, im an author! https://t.co/brRLLnHA9d
 
 Bio: ceo @every | the only subscription you need to stay at the edge of AI
-❤️ 42  🔁 3</description>
-      <pubDate>Fri, 11 Sep 2026 18:40:23 +0000</pubDate>
+❤️ 14  🔁 0</description>
+      <pubDate>Sat, 12 Sep 2026 22:15:52 +0000</pubDate>
     </item>
     <item>
-      <title>Dan Shipper (@danshipper): join the most ai pilled team on earth
-
-be at the center of the AI wave, with access to the new model...</title>
-      <link>https://x.com/danshipper/status/2098476917448118321</link>
-      <guid isPermaLink="true">https://x.com/danshipper/status/2098476917448118321</guid>
-      <description>join the most ai pilled team on earth
-
-be at the center of the AI wave, with access to the new models, tools, and teams that matter
-
-do the best writing of your life: https://t.co/PDmrEAt4Yk
+      <title>Dan Shipper (@danshipper): Okay for the avoidance of doubt this is a joke. Someone pls community note</title>
+      <link>https://x.com/danshipper/status/2098860370639130859</link>
+      <guid isPermaLink="true">https://x.com/danshipper/status/2098860370639130859</guid>
+      <description>Okay for the avoidance of doubt this is a joke. Someone pls community note
 
 Bio: ceo @every | the only subscription you need to stay at the edge of AI
-❤️ 47  🔁 4</description>
-      <pubDate>Fri, 11 Sep 2026 18:20:59 +0000</pubDate>
+❤️ 73  🔁 1</description>
+      <pubDate>Sat, 12 Sep 2026 19:44:41 +0000</pubDate>
     </item>
     <item>
-      <title>Aditya Agarwal (@adityaag): I often think and hope that I would have had the courage that the people in United 93 had to prevent...</title>
-      <link>https://x.com/adityaag/status/2098580235268899123</link>
-      <guid isPermaLink="true">https://x.com/adityaag/status/2098580235268899123</guid>
-      <description>I often think and hope that I would have had the courage that the people in United 93 had to prevent an attack on the White House.
+      <title>Sam Altman (@sama): I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w...</title>
+      <link>https://x.com/sama/status/2098811563415150910</link>
+      <guid isPermaLink="true">https://x.com/sama/status/2098811563415150910</guid>
+      <description>I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks.
 
-I have been thinking about 9/11 all day…
+Committing to having independent evaluators with employee-like access is a great idea, and we will do the same. We'll have more to share soon. https://t.co/1YhhIybZX7
 
-I was at CMU in a lecture in Wean Hall room 7500. People were very scared because one of the planes was near Pittsburgh.
-
-So many heroes on that day.
-
-Bio: General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
-❤️ 34  🔁 0</description>
-      <pubDate>Sat, 12 Sep 2026 01:11:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aditya Agarwal (@adityaag): RSVP: https://t.co/WiWHBZ8pW7</title>
-      <link>https://x.com/adityaag/status/2098472520798114263</link>
-      <guid isPermaLink="true">https://x.com/adityaag/status/2098472520798114263</guid>
-      <description>RSVP: https://t.co/WiWHBZ8pW7
-
-Bio: General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
-❤️ 2  🔁 0</description>
-      <pubDate>Fri, 11 Sep 2026 18:03:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aditya Agarwal (@adityaag): How do we encourage true innovation in CA?
-
-How do we enable a two-party state? 
-
-How should technol...</title>
-      <link>https://x.com/adityaag/status/2098472517845328303</link>
-      <guid isPermaLink="true">https://x.com/adityaag/status/2098472517845328303</guid>
-      <description>How do we encourage true innovation in CA?
-
-How do we enable a two-party state? 
-
-How should technology be regulated?
-
-We're hosting conversations about tech policy with decision makers at @spc this fall. 
-
-@SteveHiltonx on Sept 23rd. https://t.co/sThS98c6tx
-
-Bio: General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
-❤️ 12  🔁 3</description>
-      <pubDate>Fri, 11 Sep 2026 18:03:30 +0000</pubDate>
+Bio: The mission of OpenAI to ensure that AGI benefits all of humanity
+❤️ 53884  🔁 5637</description>
+      <pubDate>Sat, 12 Sep 2026 16:30:45 +0000</pubDate>
     </item>
   </channel>
 </rss>

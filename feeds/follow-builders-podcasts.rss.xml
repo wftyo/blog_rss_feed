@@ -4,17 +4,14 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Sat, 12 Sep 2026 06:37:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 06:41:38 +0000</lastBuildDate>
     <item>
-      <title>[No Priors] Coinbase’s Everything Exchange: Agentic Finance, Stablecoins, and Tokenization with CEO Brian Armstrong</title>
-      <link>https://www.youtube.com/watch?v=uLDK4l_-gUE</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=uLDK4l_-gUE</guid>
-      <description>Speaker 1 | 00:00 - 00:19
-The minimum fee typically on a debit or credit card transaction is about 30¢ fee flat plus the additional percentage. Arguably, it doesn't really work well for anything under a dollar. Certainly, it doesn't make sense to pay 30¢ to send a 1¢ payment. And I believe the stats we last saw on this are that about, like, 76% of the agent ecommerce transactions we're seeing are under 30¢. We don't want the AIs to be unbanked.
-
-Speaker 1 | 00:19 - 00:37
-You know, if we wanna ba...</description>
-      <pubDate>Thu, 10 Sep 2026 10:00:00 +0000</pubDate>
+      <title>[Unsupervised Learning] Ep 93: CEO of Redwood Research Buck Shlegeris on OpenAI/HuggingFace Revelations, Fixing AI Safety &amp;amp; Takeover Odds</title>
+      <link>https://www.youtube.com/@RedpointAI</link>
+      <guid isPermaLink="true">https://www.youtube.com/@RedpointAI</guid>
+      <description>Speaker 1 | 00:00 - 00:37
+The OpenAI Hugging Face incident has dominated the discourse these past days. It feels straight out of a sci fi novel, some of the things that happened, you know, the agent coordination, the obsession with the scores, and and what they would want. And we had the perfect person on today to just discuss everything that happened and the implications for AI safety going forward in Buck Schlegeris, who's the CEO of Redwood Research. Redwood was deeply involved in the creatio...</description>
+      <pubDate>Thu, 03 Sep 2026 13:03:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
