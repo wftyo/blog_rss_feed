@@ -5,6 +5,24 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Bringing Salesforce into Claude</title>
+      <link>https://claude.com/blog/salesforce-in-claude</link>
+      <guid isPermaLink="true">https://claude.com/blog/salesforce-in-claude</guid>
+      <description>Bringing Salesforce into Claude Bringing Salesforce into Claude</description>
+    </item>
+    <item>
+      <title>Building an AI-native revenue organization</title>
+      <link>https://claude.com/blog/building-an-ai-native-revenue-organization</link>
+      <guid isPermaLink="true">https://claude.com/blog/building-an-ai-native-revenue-organization</guid>
+      <description>Building an AI-native revenue organization Building an AI-native revenue organization</description>
+    </item>
+    <item>
+      <title>Claude for Small Business launches new workflows, integrations, and training programs</title>
+      <link>https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs</link>
+      <guid isPermaLink="true">https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs</guid>
+      <description>Claude for Small Business launches new workflows, integrations, and training programs Claude for Small Business launches new workflows, integrations, and training programs</description>
+    </item>
+    <item>
       <title>Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic</title>
       <link>https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic</link>
       <guid isPermaLink="true">https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic</guid>
@@ -75,24 +93,6 @@
       <link>https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude</link>
       <guid isPermaLink="true">https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude</guid>
       <description>How Warp builds self-improving agents on Claude How Warp builds self-improving agents on Claude</description>
-    </item>
-    <item>
-      <title>Claude in Chrome is generally available</title>
-      <link>https://claude.com/blog/claude-in-chrome-generally-available</link>
-      <guid isPermaLink="true">https://claude.com/blog/claude-in-chrome-generally-available</guid>
-      <description>Claude in Chrome is generally available Claude in Chrome is generally available</description>
-    </item>
-    <item>
-      <title>Claude gets its own browser in Cowork</title>
-      <link>https://claude.com/blog/cowork-built-in-browser</link>
-      <guid isPermaLink="true">https://claude.com/blog/cowork-built-in-browser</guid>
-      <description>Claude gets its own browser in Cowork Claude gets its own browser in Cowork</description>
-    </item>
-    <item>
-      <title>Bain &amp; Company joins the Claude Partner Network as a Global Premier partner</title>
-      <link>https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner</link>
-      <guid isPermaLink="true">https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner</guid>
-      <description>Bain &amp; Company joins the Claude Partner Network as a Global Premier partner Bain &amp; Company joins the Claude Partner Network as a Global Premier partner</description>
     </item>
   </channel>
 </rss>
