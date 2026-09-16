@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Claude Cowork and chat are now one Claude</title>
+      <link>https://claude.com/blog/cowork-is-now-claude</link>
+      <guid isPermaLink="true">https://claude.com/blog/cowork-is-now-claude</guid>
+      <description>Claude Cowork and chat are now one Claude Claude Cowork and chat are now one Claude</description>
+    </item>
+    <item>
       <title>Bringing Salesforce into Claude</title>
       <link>https://claude.com/blog/salesforce-in-claude</link>
       <guid isPermaLink="true">https://claude.com/blog/salesforce-in-claude</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts</guid>
       <description>Claude for Teachers, now available for U.S. K-12 schools and districts Claude for Teachers, now available for U.S. K-12 schools and districts</description>
-    </item>
-    <item>
-      <title>How Warp builds self-improving agents on Claude</title>
-      <link>https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude</link>
-      <guid isPermaLink="true">https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude</guid>
-      <description>How Warp builds self-improving agents on Claude How Warp builds self-improving agents on Claude</description>
     </item>
   </channel>
 </rss>
