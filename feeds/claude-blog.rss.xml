@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Projects redesigned: from folder to conversation</title>
+      <link>https://claude.com/blog/projects-redesigned</link>
+      <guid isPermaLink="true">https://claude.com/blog/projects-redesigned</guid>
+      <description>Projects redesigned: from folder to conversation Projects redesigned: from folder to conversation</description>
+    </item>
+    <item>
       <title>Claude Cowork and chat are now one Claude</title>
       <link>https://claude.com/blog/cowork-is-now-claude</link>
       <guid isPermaLink="true">https://claude.com/blog/cowork-is-now-claude</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/how-anthropic-employees-use-claude-tag</link>
       <guid isPermaLink="true">https://claude.com/blog/how-anthropic-employees-use-claude-tag</guid>
       <description>How Anthropic employees use Claude Tag How Anthropic employees use Claude Tag</description>
-    </item>
-    <item>
-      <title>Claude for Teachers, now available for U.S. K-12 schools and districts</title>
-      <link>https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts</link>
-      <guid isPermaLink="true">https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts</guid>
-      <description>Claude for Teachers, now available for U.S. K-12 schools and districts Claude for Teachers, now available for U.S. K-12 schools and districts</description>
     </item>
   </channel>
 </rss>
