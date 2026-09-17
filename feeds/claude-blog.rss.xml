@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Working at the frontier: How Balyasny Asset Management evaluates and governs Claude Fable 5</title>
+      <link>https://claude.com/blog/working-at-the-frontier-how-balyasny-asset-management-evaluates-and-governs-claude-fable-5</link>
+      <guid isPermaLink="true">https://claude.com/blog/working-at-the-frontier-how-balyasny-asset-management-evaluates-and-governs-claude-fable-5</guid>
+      <description>Working at the frontier: How Balyasny Asset Management evaluates and governs Claude Fable 5 Working at the frontier: How Balyasny Asset Management evaluates and governs Claude Fable 5</description>
+    </item>
+    <item>
       <title>Projects redesigned: from folder to conversation</title>
       <link>https://claude.com/blog/projects-redesigned</link>
       <guid isPermaLink="true">https://claude.com/blog/projects-redesigned</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/claude-for-commerce-agents</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-for-commerce-agents</guid>
       <description>Building commerce agents with Claude Building commerce agents with Claude</description>
-    </item>
-    <item>
-      <title>How Anthropic employees use Claude Tag</title>
-      <link>https://claude.com/blog/how-anthropic-employees-use-claude-tag</link>
-      <guid isPermaLink="true">https://claude.com/blog/how-anthropic-employees-use-claude-tag</guid>
-      <description>How Anthropic employees use Claude Tag How Anthropic employees use Claude Tag</description>
     </item>
   </channel>
 </rss>
