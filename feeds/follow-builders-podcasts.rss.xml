@@ -4,16 +4,17 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Sat, 19 Sep 2026 06:38:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 06:37:56 +0000</lastBuildDate>
     <item>
-      <title>[No Priors] Why Diffusion Will Win AI Inference with Inception Co-Founder and CEO Stefano Ermon</title>
-      <link>https://www.youtube.com/@NoPriorsPodcast</link>
-      <guid isPermaLink="true">https://www.youtube.com/@NoPriorsPodcast</guid>
-      <description>Speaker 1 | 00:05 - 00:31
-Hi, listeners. Welcome back to No Priors. Today, I'm here with Stefano Erman, who is a longtime Stanford professor and now co founder and CEO of Inception. Stefano has a extraordinarily broad body of work around generative modeling, but is especially well known as one of the fathers of diffusion. We talk about his company challenging the large labs and why speed and efficiency are going to be the name of the game in AI over the next few years.
+      <title>[The MAD Podcast with Matt Turck] When AI Improves Itself | Richard Socher (Recursive)</title>
+      <link>https://www.youtube.com/@DataDrivenNYC/videos</link>
+      <guid isPermaLink="true">https://www.youtube.com/@DataDrivenNYC/videos</guid>
+      <description>Speaker 1 | 00:00 - 00:19
+Anything you can simulate, AI will solve. And before you know it, you're in this recursive self improvement loop and we believe that that will be a great unlock. Boy, are we far away from the true upper bounds of any of the spaces of intelligence. And there is still so much further that AI can go.
 
-Speaker 1 | 00:31 - 00:35...</description>
-      <pubDate>Fri, 18 Sep 2026 10:00:00 +0000</pubDate>
+Speaker 2 | 00:19 - 00:47
+Hi. I'm Matt Turk. Welcome back to the MAD podcast. My guest today is Richard Socher, one of the most cited researchers in AI and now at the center ...</description>
+      <pubDate>Thu, 10 Sep 2026 11:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
