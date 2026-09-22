@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>What a task costs on Opus 5.5</title>
+      <link>https://claude.com/blog/what-a-task-costs-on-opus-5-5</link>
+      <guid isPermaLink="true">https://claude.com/blog/what-a-task-costs-on-opus-5-5</guid>
+      <description>What a task costs on Opus 5.5 What a task costs on Opus 5.5</description>
+    </item>
+    <item>
       <title>Working at the frontier: How Balyasny Asset Management evaluates and governs Claude Fable 5</title>
       <link>https://claude.com/blog/working-at-the-frontier-how-balyasny-asset-management-evaluates-and-governs-claude-fable-5</link>
       <guid isPermaLink="true">https://claude.com/blog/working-at-the-frontier-how-balyasny-asset-management-evaluates-and-governs-claude-fable-5</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/the-anatomy-of-effective-commerce-agents</link>
       <guid isPermaLink="true">https://claude.com/blog/the-anatomy-of-effective-commerce-agents</guid>
       <description>A guide to the anatomy of effective commerce agents A guide to the anatomy of effective commerce agents</description>
-    </item>
-    <item>
-      <title>Building commerce agents with Claude</title>
-      <link>https://claude.com/blog/claude-for-commerce-agents</link>
-      <guid isPermaLink="true">https://claude.com/blog/claude-for-commerce-agents</guid>
-      <description>Building commerce agents with Claude Building commerce agents with Claude</description>
     </item>
   </channel>
 </rss>
