@@ -5,10 +5,22 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace</title>
+      <link>https://claude.com/blog/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace</link>
+      <guid isPermaLink="true">https://claude.com/blog/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace</guid>
+      <description>How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace</description>
+    </item>
+    <item>
       <title>How to prepare for AI-driven code modernization projects</title>
       <link>https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects</link>
       <guid isPermaLink="true">https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects</guid>
       <description>How to prepare for AI-driven code modernization projects How to prepare for AI-driven code modernization projects</description>
+    </item>
+    <item>
+      <title>Claude Marketplace: one place to discover plugins, agents, and services from our partners</title>
+      <link>https://claude.com/blog/claude-marketplace</link>
+      <guid isPermaLink="true">https://claude.com/blog/claude-marketplace</guid>
+      <description>Claude Marketplace: one place to discover plugins, agents, and services from our partners Claude Marketplace: one place to discover plugins, agents, and services from our partners</description>
     </item>
     <item>
       <title>What a task costs on Opus 5.5</title>
@@ -81,18 +93,6 @@
       <link>https://claude.com/blog/t-rowe-price-brings-more-of-claude-to-its-investment-process</link>
       <guid isPermaLink="true">https://claude.com/blog/t-rowe-price-brings-more-of-claude-to-its-investment-process</guid>
       <description>T. Rowe Price brings more of Claude to its investment process T. Rowe Price brings more of Claude to its investment process</description>
-    </item>
-    <item>
-      <title>What 1,000 small business owners taught us about AI</title>
-      <link>https://claude.com/blog/what-1-000-small-business-owners-taught-us-about-ai</link>
-      <guid isPermaLink="true">https://claude.com/blog/what-1-000-small-business-owners-taught-us-about-ai</guid>
-      <description>What 1,000 small business owners taught us about AI What 1,000 small business owners taught us about AI</description>
-    </item>
-    <item>
-      <title>Reducing cost and improving performance with Claude Platform</title>
-      <link>https://claude.com/blog/reducing-cost-and-improving-performance-with-claude-platform</link>
-      <guid isPermaLink="true">https://claude.com/blog/reducing-cost-and-improving-performance-with-claude-platform</guid>
-      <description>Reducing cost and improving performance with Claude Platform Reducing cost and improving performance with Claude Platform</description>
     </item>
   </channel>
 </rss>
