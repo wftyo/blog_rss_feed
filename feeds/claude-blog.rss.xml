@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>How to prepare for AI-driven code modernization projects</title>
+      <link>https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects</link>
+      <guid isPermaLink="true">https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects</guid>
+      <description>How to prepare for AI-driven code modernization projects How to prepare for AI-driven code modernization projects</description>
+    </item>
+    <item>
       <title>What a task costs on Opus 5.5</title>
       <link>https://claude.com/blog/what-a-task-costs-on-opus-5-5</link>
       <guid isPermaLink="true">https://claude.com/blog/what-a-task-costs-on-opus-5-5</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/reducing-cost-and-improving-performance-with-claude-platform</link>
       <guid isPermaLink="true">https://claude.com/blog/reducing-cost-and-improving-performance-with-claude-platform</guid>
       <description>Reducing cost and improving performance with Claude Platform Reducing cost and improving performance with Claude Platform</description>
-    </item>
-    <item>
-      <title>A guide to the anatomy of effective commerce agents</title>
-      <link>https://claude.com/blog/the-anatomy-of-effective-commerce-agents</link>
-      <guid isPermaLink="true">https://claude.com/blog/the-anatomy-of-effective-commerce-agents</guid>
-      <description>A guide to the anatomy of effective commerce agents A guide to the anatomy of effective commerce agents</description>
     </item>
   </channel>
 </rss>
