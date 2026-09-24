@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Claude Tag now supports personal connectors in channels</title>
+      <link>https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels</link>
+      <guid isPermaLink="true">https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels</guid>
+      <description>Claude Tag now supports personal connectors in channels Claude Tag now supports personal connectors in channels</description>
+    </item>
+    <item>
       <title>Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.</title>
       <link>https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/how-healthcare-organizations-use-claude-tag</link>
       <guid isPermaLink="true">https://claude.com/blog/how-healthcare-organizations-use-claude-tag</guid>
       <description>How healthcare organizations use Claude Tag How healthcare organizations use Claude Tag</description>
-    </item>
-    <item>
-      <title>Deploying AI from pilot to production</title>
-      <link>https://claude.com/blog/deploying-ai-from-pilot-to-production</link>
-      <guid isPermaLink="true">https://claude.com/blog/deploying-ai-from-pilot-to-production</guid>
-      <description>Deploying AI from pilot to production Deploying AI from pilot to production</description>
     </item>
   </channel>
 </rss>
