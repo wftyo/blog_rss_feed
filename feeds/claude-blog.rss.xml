@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.</title>
+      <link>https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context</link>
+      <guid isPermaLink="true">https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context</guid>
+      <description>Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind. Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.</description>
+    </item>
+    <item>
       <title>How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace</title>
       <link>https://claude.com/blog/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace</link>
       <guid isPermaLink="true">https://claude.com/blog/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/deploying-ai-from-pilot-to-production</link>
       <guid isPermaLink="true">https://claude.com/blog/deploying-ai-from-pilot-to-production</guid>
       <description>Deploying AI from pilot to production Deploying AI from pilot to production</description>
-    </item>
-    <item>
-      <title>T. Rowe Price brings more of Claude to its investment process</title>
-      <link>https://claude.com/blog/t-rowe-price-brings-more-of-claude-to-its-investment-process</link>
-      <guid isPermaLink="true">https://claude.com/blog/t-rowe-price-brings-more-of-claude-to-its-investment-process</guid>
-      <description>T. Rowe Price brings more of Claude to its investment process T. Rowe Price brings more of Claude to its investment process</description>
     </item>
   </channel>
 </rss>
