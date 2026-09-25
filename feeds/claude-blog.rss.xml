@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Build plugins for Claude</title>
+      <link>https://claude.com/blog/build-plugins-for-claude</link>
+      <guid isPermaLink="true">https://claude.com/blog/build-plugins-for-claude</guid>
+      <description>Build plugins for Claude Build plugins for Claude</description>
+    </item>
+    <item>
       <title>Claude Tag now supports personal connectors in channels</title>
       <link>https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels</guid>
@@ -33,12 +39,6 @@
       <link>https://claude.com/blog/claude-marketplace</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-marketplace</guid>
       <description>Claude Marketplace: one place to discover plugins, agents, and services from our partners Claude Marketplace: one place to discover plugins, agents, and services from our partners</description>
-    </item>
-    <item>
-      <title>What a task costs on Opus 5.5</title>
-      <link>https://claude.com/blog/what-a-task-costs-on-opus-5-5</link>
-      <guid isPermaLink="true">https://claude.com/blog/what-a-task-costs-on-opus-5-5</guid>
-      <description>What a task costs on Opus 5.5 What a task costs on Opus 5.5</description>
     </item>
     <item>
       <title>Working at the frontier: How Balyasny Asset Management evaluates and governs Claude Fable 5</title>
