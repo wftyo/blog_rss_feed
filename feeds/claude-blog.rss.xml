@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Giving companies more control over their AI agents, with NVIDIA</title>
+      <link>https://claude.com/blog/giving-companies-more-control-over-their-ai-agents-with-nvidia</link>
+      <guid isPermaLink="true">https://claude.com/blog/giving-companies-more-control-over-their-ai-agents-with-nvidia</guid>
+      <description>Giving companies more control over their AI agents, with NVIDIA Giving companies more control over their AI agents, with NVIDIA</description>
+    </item>
+    <item>
       <title>Build plugins for Claude</title>
       <link>https://claude.com/blog/build-plugins-for-claude</link>
       <guid isPermaLink="true">https://claude.com/blog/build-plugins-for-claude</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/claude-for-financial-advisors</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-for-financial-advisors</guid>
       <description>Claude for Financial Advisors Claude for Financial Advisors</description>
-    </item>
-    <item>
-      <title>How healthcare organizations use Claude Tag</title>
-      <link>https://claude.com/blog/how-healthcare-organizations-use-claude-tag</link>
-      <guid isPermaLink="true">https://claude.com/blog/how-healthcare-organizations-use-claude-tag</guid>
-      <description>How healthcare organizations use Claude Tag How healthcare organizations use Claude Tag</description>
     </item>
   </channel>
 </rss>
