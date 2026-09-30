@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Claude for Government is now generally available</title>
+      <link>https://claude.com/blog/claude-for-government-is-now-generally-available</link>
+      <guid isPermaLink="true">https://claude.com/blog/claude-for-government-is-now-generally-available</guid>
+      <description>Claude for Government is now generally available Claude for Government is now generally available</description>
+    </item>
+    <item>
       <title>How Anthropic's sales team rebuilt inbound with Claude Managed Agents</title>
       <link>https://claude.com/blog/how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents</link>
       <guid isPermaLink="true">https://claude.com/blog/how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/building-an-ai-native-revenue-organization</link>
       <guid isPermaLink="true">https://claude.com/blog/building-an-ai-native-revenue-organization</guid>
       <description>Building an AI-native revenue organization Building an AI-native revenue organization</description>
-    </item>
-    <item>
-      <title>Claude for Small Business launches new workflows, integrations, and training programs</title>
-      <link>https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs</link>
-      <guid isPermaLink="true">https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs</guid>
-      <description>Claude for Small Business launches new workflows, integrations, and training programs Claude for Small Business launches new workflows, integrations, and training programs</description>
     </item>
   </channel>
 </rss>
