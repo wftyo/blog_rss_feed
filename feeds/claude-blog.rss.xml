@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>Customize Claude Code with mods</title>
+      <link>https://claude.com/blog/claude-code-mods</link>
+      <guid isPermaLink="true">https://claude.com/blog/claude-code-mods</guid>
+      <description>Customize Claude Code with mods Customize Claude Code with mods</description>
+    </item>
+    <item>
       <title>Claude for Government is now generally available</title>
       <link>https://claude.com/blog/claude-for-government-is-now-generally-available</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-for-government-is-now-generally-available</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/salesforce-in-claude</link>
       <guid isPermaLink="true">https://claude.com/blog/salesforce-in-claude</guid>
       <description>Bringing Salesforce into Claude Bringing Salesforce into Claude</description>
-    </item>
-    <item>
-      <title>Building an AI-native revenue organization</title>
-      <link>https://claude.com/blog/building-an-ai-native-revenue-organization</link>
-      <guid isPermaLink="true">https://claude.com/blog/building-an-ai-native-revenue-organization</guid>
-      <description>Building an AI-native revenue organization Building an AI-native revenue organization</description>
     </item>
   </channel>
 </rss>
