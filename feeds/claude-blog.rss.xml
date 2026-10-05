@@ -5,6 +5,12 @@
     <link>https://claude.com</link>
     <description>Auto-generated feed for https://claude.com/blog</description>
     <item>
+      <title>How Cresta turned CX expertise into an agent builder on the Claude Agent SDK</title>
+      <link>https://claude.com/blog/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk</link>
+      <guid isPermaLink="true">https://claude.com/blog/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk</guid>
+      <description>How Cresta turned CX expertise into an agent builder on the Claude Agent SDK How Cresta turned CX expertise into an agent builder on the Claude Agent SDK</description>
+    </item>
+    <item>
       <title>Customize Claude Code with mods</title>
       <link>https://claude.com/blog/claude-code-mods</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-code-mods</guid>
@@ -87,12 +93,6 @@
       <link>https://claude.com/blog/cowork-is-now-claude</link>
       <guid isPermaLink="true">https://claude.com/blog/cowork-is-now-claude</guid>
       <description>Claude Cowork and chat are now one Claude Claude Cowork and chat are now one Claude</description>
-    </item>
-    <item>
-      <title>Bringing Salesforce into Claude</title>
-      <link>https://claude.com/blog/salesforce-in-claude</link>
-      <guid isPermaLink="true">https://claude.com/blog/salesforce-in-claude</guid>
-      <description>Bringing Salesforce into Claude Bringing Salesforce into Claude</description>
     </item>
   </channel>
 </rss>
