@@ -4,6 +4,17 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Tue, 06 Oct 2026 06:45:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 06:45:45 +0000</lastBuildDate>
+    <item>
+      <title>[Unsupervised Learning] Ep 94: Applied Compute CEO on the Limits of RL, the New AI Hyperscaler &amp;amp; Why Post-Training Wins Inference</title>
+      <link>https://www.youtube.com/@RedpointAI</link>
+      <guid isPermaLink="true">https://www.youtube.com/@RedpointAI</guid>
+      <description>Speaker 1 | 00:00 - 00:02
+How do you kind of characterize where we are today?
+
+Speaker 2 | 00:02 - 00:25
+What we have with RL is we essentially have a hill climbing machine. The hardest part is actually defining the hill to climb, which is why evals, I think, is like a really important thing for companies to, a, focus on building and b, actually like safeguard pretty carefully. Your employees are not fungible. You would not like be comfortable with them going to another company and doing work th...</description>
+      <pubDate>Tue, 06 Oct 2026 12:50:23 +0000</pubDate>
+    </item>
   </channel>
 </rss>
