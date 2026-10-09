@@ -4,17 +4,14 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Thu, 08 Oct 2026 06:47:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 06:47:48 +0000</lastBuildDate>
     <item>
-      <title>[AI &amp; I by Every] Why Every Traded Personal Agents for One Company Agent</title>
-      <link>https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL</link>
-      <guid isPermaLink="true">https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL</guid>
-      <description>Speaker 1 | 00:00 - 00:12
-The hot thing right now is dots. They're persistent agents from OpenAI. I was there at Dev Day when they launched them. I interviewed Sam about them, and I've been using dots since before they came out. And now we're into week two of dots.
-
-Speaker 1 | 00:12 - 00:46
-So how's it going? If you read my vibe check, you know that I thought they were a little bit rough to begin with, but that the idea of a persistent proactive agent was obviously the future. Even before DOTS ...</description>
-      <pubDate>Wed, 07 Oct 2026 17:11:13 +0000</pubDate>
+      <title>[Training Data] Google's AI Infrastructure Chief, Amin Vahdat, on the Physics &amp;amp; Economics of Frontier AI</title>
+      <link>https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8</link>
+      <guid isPermaLink="true">https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8</guid>
+      <description>Speaker 1 | 00:00 - 00:35
+In hardware, again, as you know, there is this opportunity where the more you specialize to a particular workload, the less flexible it is, the faster, the more power efficient the hardware is gonna be. So it is this art, and it's this projection of what are you designing to and how persistent is that workload. In other words, if it's gonna go away after a month or two months or three months, even if it's big for those three months, you got a really narrow window to int...</description>
+      <pubDate>Tue, 06 Oct 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
