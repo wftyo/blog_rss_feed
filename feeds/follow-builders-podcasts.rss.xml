@@ -4,14 +4,14 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Fri, 09 Oct 2026 06:47:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 06:43:13 +0000</lastBuildDate>
     <item>
-      <title>[Training Data] Google's AI Infrastructure Chief, Amin Vahdat, on the Physics &amp;amp; Economics of Frontier AI</title>
-      <link>https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8</link>
-      <guid isPermaLink="true">https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8</guid>
-      <description>Speaker 1 | 00:00 - 00:35
-In hardware, again, as you know, there is this opportunity where the more you specialize to a particular workload, the less flexible it is, the faster, the more power efficient the hardware is gonna be. So it is this art, and it's this projection of what are you designing to and how persistent is that workload. In other words, if it's gonna go away after a month or two months or three months, even if it's big for those three months, you got a really narrow window to int...</description>
-      <pubDate>Tue, 06 Oct 2026 09:00:00 +0000</pubDate>
+      <title>[No Priors] Beam: The Great American Open Model with ReflectionAI Co-Founder and CEO Misha Laskin</title>
+      <link>https://www.youtube.com/@NoPriorsPodcast</link>
+      <guid isPermaLink="true">https://www.youtube.com/@NoPriorsPodcast</guid>
+      <description>Speaker 1 | 00:00 - 00:26
+When you remove cyber offensive capabilities, you also remove cyber defensive capabilities. The state of the world today is that we have a few 100 safety researchers within closed labs that understand how these things work. And despite their best intentions, is impossible to cover the long tail of unintended consequences that these systems might have. A very powerful closed model went and hacked into another company, and the only way that company could remediate itself ...</description>
+      <pubDate>Fri, 09 Oct 2026 17:24:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
