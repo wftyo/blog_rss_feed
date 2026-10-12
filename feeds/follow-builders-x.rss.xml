@@ -4,263 +4,269 @@
     <title>Follow Builders — X/Twitter</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI builders' latest tweets, curated by follow-builders</description>
-    <lastBuildDate>Sun, 11 Oct 2026 06:43:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 07:04:13 +0000</lastBuildDate>
     <item>
-      <title>Thibault Sottiaux (@thsottiaux): Pro users, would you rather have</title>
-      <link>https://x.com/thsottiaux/status/2109152716954222849</link>
-      <guid isPermaLink="true">https://x.com/thsottiaux/status/2109152716954222849</guid>
-      <description>Pro users, would you rather have
+      <title>Andrej Karpathy (@karpathy): Dusting off this tweet from April because this gap in shared understanding of LLM capability is *wid...</title>
+      <link>https://x.com/karpathy/status/2109361546505966046</link>
+      <guid isPermaLink="true">https://x.com/karpathy/status/2109361546505966046</guid>
+      <description>Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less "two groups of people speaking past each other" and more a sharp funnel.
 
-Bio: Codex &amp; ChatGPT @OpenAI
-❤️ 1235  🔁 102</description>
-      <pubDate>Sun, 11 Oct 2026 05:22:48 +0000</pubDate>
+- Napkin math somewhere around 6B people (~75% of the population) have barely come in contact with LLMs at all.
+- Around 1-2B (~20%) are casual and infrequent users of free-tier ChatGPT-like products. This group sees derpy chatbots and treats them a bit like a better Google search, a writing aid, or etc. Maybe an agent tries to book you a flight. I have non-tech friends who (reasonably, imo) say they have not much use for it at all. Even many professionals outside of math&amp;code are in this tier. For example, execs and many other functions spend a lot of their time talking to other people, so while they understand what is happening intellectually, it is still second-hand and a bit abstract.
+- Now we get to professional use of frontier-grade LLMs in math&amp;code. Somewhere around 20M people (0.2%) see first-hand that large, complex projects that used to take them weeks/months can now be completed by agents with a prompt. Building apps, copying apps, translating apps, decompiling apps from binaries... This has all happened very quickly and recently - less than 1 year ago, I was writing code manually by hand, typing memorized computer code commands into a code editor character by character, occasionally pressing Tab to autocomplete a little chunk of code.
+- And finally we get to the ~5,000 people (~0.00006%) with access to frontier-grade systems internally. The external world has seen the preview. It looks like swarms of thousands of agents collaborating over weeks on software mega projects: minting zero days, running cyber attacks and defenses at machine speeds, discovering new science, advancing the frontier of mathematics. Things that would have taken top professionals in the industry years of work. Meanwhile, human review and comprehension are starting to fall behind. For example, people are still involved in the "archeology" of the OpenAI-HF incident from many months ago. Mathematicians may be poring over the 722 manuscripts on frontier mathematics for a while.
+
+The funnel is driven by a combination of factors:
+1. The impact scales with ambition, problem size, and horizon. A question with a paragraph answer barely stresses the system. You need a reservoir of big, difficult problems that you really care about. This aspect drives the consumer / professional dimension of the funnel.
+2. The jaggedness of the system (which I have written about a lot separately). Capability peaks in domains that are digital, verifiable and economically valuable. This is because LLM capability emerges from reinforcement learning on verifiable rewards on a curated environment mixture driven by revenue potential. This aspect primarily drives the area (e.g. math&amp;code) dimension of the funnel.
+3. Access. Free-tier, paid-tier, internal.
+
+So this is the weirdness of the moment. The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the curve going vertical. And it is all happening at the same time.
+❤️ 30115  🔁 3852</description>
+      <pubDate>Sun, 11 Oct 2026 19:12:37 +0000</pubDate>
     </item>
     <item>
-      <title>Thibault Sottiaux (@thsottiaux): Put the reset in the bag. All propagated. https://t.co/HGxaD3Zdcj</title>
-      <link>https://x.com/thsottiaux/status/2109132167112782291</link>
-      <guid isPermaLink="true">https://x.com/thsottiaux/status/2109132167112782291</guid>
-      <description>Put the reset in the bag. All propagated. https://t.co/HGxaD3Zdcj
+      <title>Swyx (@swyx): reupping my talk tips thread for all our lovely AIE NYC speakers. see you tmr at speaker dinner! htt...</title>
+      <link>https://x.com/swyx/status/2109365419937239158</link>
+      <guid isPermaLink="true">https://x.com/swyx/status/2109365419937239158</guid>
+      <description>reupping my talk tips thread for all our lovely AIE NYC speakers. see you tmr at speaker dinner! https://t.co/1xf4Eblnil
 
-Bio: Codex &amp; ChatGPT @OpenAI
-❤️ 4203  🔁 190</description>
-      <pubDate>Sun, 11 Oct 2026 04:01:09 +0000</pubDate>
+Bio: achieve ambition with intentionality, intensity, integrity &amp; insanity.
+
+affiliations:
+- @smol_ai
+- @dxtipshq
+- @cognition
+- @aidotengineer
+- @latentspacepod
+❤️ 36  🔁 3</description>
+      <pubDate>Sun, 11 Oct 2026 19:28:00 +0000</pubDate>
     </item>
     <item>
-      <title>Thibault Sottiaux (@thsottiaux): The day we reach perfection it will be resets from there onwards https://t.co/I6A9WHOjXT</title>
-      <link>https://x.com/thsottiaux/status/2109090080497508356</link>
-      <guid isPermaLink="true">https://x.com/thsottiaux/status/2109090080497508356</guid>
-      <description>The day we reach perfection it will be resets from there onwards https://t.co/I6A9WHOjXT
+      <title>Thibault Sottiaux (@thsottiaux): The results of this poll has gotten me confused. I definitely thought it would sway much more favora...</title>
+      <link>https://x.com/thsottiaux/status/2109439315570999598</link>
+      <guid isPermaLink="true">https://x.com/thsottiaux/status/2109439315570999598</guid>
+      <description>The results of this poll has gotten me confused. I definitely thought it would sway much more favorably in the 2X direction across Pro 100/200/500 at the cost of bringing back 5h limits in order to smoothen the demand curve. https://t.co/zwn7kboMhT
 
 Bio: Codex &amp; ChatGPT @OpenAI
-❤️ 4085  🔁 99</description>
-      <pubDate>Sun, 11 Oct 2026 01:13:54 +0000</pubDate>
+❤️ 4625  🔁 99</description>
+      <pubDate>Mon, 12 Oct 2026 00:21:38 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Yang (@petergyang): Something went wrong alright https://t.co/AMb3fqmEIL</title>
-      <link>https://x.com/petergyang/status/2109107670229930458</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2109107670229930458</guid>
-      <description>Something went wrong alright https://t.co/AMb3fqmEIL
+      <title>Thibault Sottiaux (@thsottiaux): With this change, we are not charging long context fees for GPT-6.1 Sol when drawing usage from the ...</title>
+      <link>https://x.com/thsottiaux/status/2109430894604026039</link>
+      <guid isPermaLink="true">https://x.com/thsottiaux/status/2109430894604026039</guid>
+      <description>With this change, we are not charging long context fees for GPT-6.1 Sol when drawing usage from the subscription.
+
+Bio: Codex &amp; ChatGPT @OpenAI
+❤️ 2553  🔁 55</description>
+      <pubDate>Sun, 11 Oct 2026 23:48:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thibault Sottiaux (@thsottiaux): Day 7/
+
+We have increased default context length for GPT-6.1 Sol to 500k when used through Codex &amp; W...</title>
+      <link>https://x.com/thsottiaux/status/2109430343346581527</link>
+      <guid isPermaLink="true">https://x.com/thsottiaux/status/2109430343346581527</guid>
+      <description>Day 7/
+
+We have increased default context length for GPT-6.1 Sol to 500k when used through Codex &amp; Work, up from 272k or an ~ 80% increase.
+
+We will go higher in the future, but it helps reduce occurrence of compactions and with tasks that require keeping a lot of context and nuance over periods of time. It was carefully tested and is the new sweet spot for most of our users. You can still override it if you want to be higher our lower, with maximum context length of GPT-6.1 Sol of 1M.
+
+Bio: Codex &amp; ChatGPT @OpenAI
+❤️ 10608  🔁 454</description>
+      <pubDate>Sun, 11 Oct 2026 23:45:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Peter Yang (@petergyang): YouTube comments undefeated the disrespect to @Rasmic  😭 https://t.co/SiPRGxvUwc</title>
+      <link>https://x.com/petergyang/status/2109435203269878242</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2109435203269878242</guid>
+      <description>YouTube comments undefeated the disrespect to @Rasmic  😭 https://t.co/SiPRGxvUwc
 
 Bio: Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-❤️ 6  🔁 0</description>
-      <pubDate>Sun, 11 Oct 2026 02:23:48 +0000</pubDate>
+❤️ 3  🔁 0</description>
+      <pubDate>Mon, 12 Oct 2026 00:05:18 +0000</pubDate>
     </item>
     <item>
-      <title>Nan Yu (@thenanyu): Everything seems to be going as planned https://t.co/dU2vSvR7iu https://t.co/rYrqn0aUhv</title>
-      <link>https://x.com/thenanyu/status/2109035605061693774</link>
-      <guid isPermaLink="true">https://x.com/thenanyu/status/2109035605061693774</guid>
-      <description>Everything seems to be going as planned https://t.co/dU2vSvR7iu https://t.co/rYrqn0aUhv
+      <title>Peter Yang (@petergyang): Building a @modretro game with my daughter and Codex https://t.co/78Ev7iGuG1</title>
+      <link>https://x.com/petergyang/status/2109434554729824397</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2109434554729824397</guid>
+      <description>Building a @modretro game with my daughter and Codex https://t.co/78Ev7iGuG1
 
-Bio: product, codex @openai. prev head of product @linear
-❤️ 20  🔁 0</description>
-      <pubDate>Sat, 10 Oct 2026 21:37:26 +0000</pubDate>
+Bio: Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+❤️ 75  🔁 4</description>
+      <pubDate>Mon, 12 Oct 2026 00:02:43 +0000</pubDate>
     </item>
     <item>
-      <title>Nan Yu (@thenanyu): Yeah, I’ve been feeling this too. Agents make engineers extremely powerful, but PMs are generally st...</title>
-      <link>https://x.com/thenanyu/status/2108976262698115550</link>
-      <guid isPermaLink="true">https://x.com/thenanyu/status/2108976262698115550</guid>
-      <description>Yeah, I’ve been feeling this too. Agents make engineers extremely powerful, but PMs are generally still bottlenecked on their bandwidth they have to talk to customers.
+      <title>Peter Yang (@petergyang): "I'm not at a point where I trust the agent, especially with stuff that people are using."
 
-So the ideal ratio is 1:1 https://t.co/fIWDJeHwtT
+From Mic...</title>
+      <link>https://x.com/petergyang/status/2109433961223180517</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2109433961223180517</guid>
+      <description>"I'm not at a point where I trust the agent, especially with stuff that people are using."
 
-Bio: product, codex @openai. prev head of product @linear
-❤️ 175  🔁 4</description>
-      <pubDate>Sat, 10 Oct 2026 17:41:38 +0000</pubDate>
+From Micky (@Rasmic), who's taught 100K+ people to build with AI:
+
+"The manual review is like the final step. All the work's done, and I have as much evidence from the agent as possible.
+
+With evidence-driven testing, before and after, and even greploop, we're trying to build trust. The agent presents evidence: This is the work that's done, and this is why it's good.
+
+For anyone who's been a developer for any time, manual review is probably the worst part of your job. This sort of helps minimize the friction."
+
+📌 Watch Micky's full 4-step workflow here: https://t.co/ju9aMQKaCE
+
+Bio: Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
+❤️ 24  🔁 1</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:22 +0000</pubDate>
     </item>
     <item>
-      <title>Nan Yu (@thenanyu): Ran outta gas
-Fill issue https://t.co/8i9CRpKMQg</title>
-      <link>https://x.com/thenanyu/status/2108948921007681902</link>
-      <guid isPermaLink="true">https://x.com/thenanyu/status/2108948921007681902</guid>
-      <description>Ran outta gas
-Fill issue https://t.co/8i9CRpKMQg
+      <title>Nan Yu (@thenanyu): Who’s gonna tell him https://t.co/QcAecsogbx</title>
+      <link>https://x.com/thenanyu/status/2109538550421262552</link>
+      <guid isPermaLink="true">https://x.com/thenanyu/status/2109538550421262552</guid>
+      <description>Who’s gonna tell him https://t.co/QcAecsogbx
 
-Bio: product, codex @openai. prev head of product @linear
-❤️ 5  🔁 0</description>
-      <pubDate>Sat, 10 Oct 2026 15:52:59 +0000</pubDate>
+Bio: product, codex @openai. prev head of product @linear</description>
+      <pubDate>Mon, 12 Oct 2026 06:55:58 +0000</pubDate>
     </item>
     <item>
-      <title>Madhu Guru (@realmadhuguru): Agent capabilities will soon evolve at RSI pace. Agentic security (identity, permissions, observabil...</title>
-      <link>https://x.com/realmadhuguru/status/2108982858513776899</link>
-      <guid isPermaLink="true">https://x.com/realmadhuguru/status/2108982858513776899</guid>
-      <description>Agent capabilities will soon evolve at RSI pace. Agentic security (identity, permissions, observability) will need to outpace this.
+      <title>Thariq (@trq212): I think Terrence Tao is directionally correct, we shouldn’t settle for a super intelligence that is ...</title>
+      <link>https://x.com/trq212/status/2109329495341867391</link>
+      <guid isPermaLink="true">https://x.com/trq212/status/2109329495341867391</guid>
+      <description>I think Terrence Tao is directionally correct, we shouldn’t settle for a super intelligence that is opaque.
 
-The evolutionary direction of the broader agents space is capability -&gt; trust -&gt; autonomy
+A key signal of intelligence is communication. We should strive to make products and models that build understanding with humans instead of disintermediating them. https://t.co/p44dDROehA
 
-The first phase has been about capability - can the combination of model + harness + tools + context reliably get work done?
-
-Capabilities have gotten pretty far, so the focus now shifts to trust…does the harness / system take the right action with right permissions? Can we observe it, audit it and establish accountability?
-
-A lot of serious work has already gone into these problems over the last couple of years.
-
-Now the challenge gets more important. and harder.
-
-Bio: Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.
-❤️ 24  🔁 0</description>
-      <pubDate>Sat, 10 Oct 2026 18:07:51 +0000</pubDate>
+Bio: Claude Code @anthropicai. prev YC W20, @spc, @medialab
+❤️ 1219  🔁 59</description>
+      <pubDate>Sun, 11 Oct 2026 17:05:15 +0000</pubDate>
     </item>
     <item>
-      <title>Guillermo Rauch (@rauchg): All plausible science fiction will be realized within our lifetime. If you’re reading this, you’re o...</title>
-      <link>https://x.com/rauchg/status/2109038632518782989</link>
-      <guid isPermaLink="true">https://x.com/rauchg/status/2109038632518782989</guid>
-      <description>All plausible science fiction will be realized within our lifetime. If you’re reading this, you’re one of the luckiest humans to have ever been born (if we play our cards right.)
+      <title>Guillermo Rauch (@rauchg): So cool. The future of learning https://t.co/cT6crizjKp</title>
+      <link>https://x.com/rauchg/status/2109297685392175488</link>
+      <guid isPermaLink="true">https://x.com/rauchg/status/2109297685392175488</guid>
+      <description>So cool. The future of learning https://t.co/cT6crizjKp
 
 Bio: @vercel CEO
-❤️ 2007  🔁 137</description>
-      <pubDate>Sat, 10 Oct 2026 21:49:28 +0000</pubDate>
+❤️ 2659  🔁 94</description>
+      <pubDate>Sun, 11 Oct 2026 14:58:51 +0000</pubDate>
     </item>
     <item>
-      <title>Aaron Levie (@levie): If you want to know where all the tokens will get consumed in the future, here it is. Agent swarms w...</title>
-      <link>https://x.com/levie/status/2109079686286565378</link>
-      <guid isPermaLink="true">https://x.com/levie/status/2109079686286565378</guid>
-      <description>If you want to know where all the tokens will get consumed in the future, here it is. Agent swarms will have massive implications in a number of enterprise domains like software development, cyber, life sciences research, AI research, finance, and more.
+      <title>Aaron Levie (@levie): This is a good way to understand how early we actually are in AI diffusion right now. The vast major...</title>
+      <link>https://x.com/levie/status/2109467575025578330</link>
+      <guid isPermaLink="true">https://x.com/levie/status/2109467575025578330</guid>
+      <description>This is a good way to understand how early we actually are in AI diffusion right now. The vast majority of people are using AI as a chatbot for simple interactions that approximate next-generation search. This is super useful but dramatically underrepresents the full capability of AI.
 
-The ability to parallelize agents against a unified goal where the volume of work is large, or where the search space not entirely known upfront, is going to be massive. 
+On the complete other end of the spectrum, agent swarms represent possibly the ultimate form factor of what agents will do inside of our workflows. Math, cyber, bio, materials science, software engineering, finance, and any other field that has valuable tasks that can be executed in parallel where compute can be applied to accelerate work all have this characteristic.
 
-Agents can fan out and coordinate work together on a specific mission in completely different ways from what humans are able to do. Today even in the most resource-abundant organizations, your ability to parallelize work on most projects is quite limited. Humans run into constraints on being able to communicate with one another, share status, deal with conflicts in work, keep shared context, and so on.
+Less than a fraction of a fraction of the population uses AI in this way right now, due to a mix of the capabilities of models relative to the user's domain, the cost of doing these types of workflows today, the harnesses available to do this style of AI work, and the availability (or lack thereof) of frontier models to the general public.
 
-As AI models can handle larger context without getting confused, and as they’re able to communicate effectively across their work with shared infrastructure, they can avoid many of the pitfalls that people have.
+There will also be a huge amount of change management necessary to get most areas of work -beyond software and AI research- to benefit from this style of agents. Companies need to upgrade their workflows, data needs to integrated and migrated into modern platforms, and companies will need to work through compliance, governance, and security frameworks to pull it off. 
 
-You can see how this can lead to not just faster execution of tasks, but qualitatively different outcomes in medicine, research or defending against cyber attacks, scientific and math discoveries, and so on. This is why we’re going to need 1,000X more compute.
+But this all represents opportunity right now. A lot of this is where the applied layer of AI will really shine in the enterprise because of the domain specificity of this type of work. You can get an early sense of where things are going and the opportunity ahead by seeing through the funnel that Andrej lays out.
 
 Bio: ceo @box - your business lives in content. unleash it with AI
-❤️ 296  🔁 37</description>
-      <pubDate>Sun, 11 Oct 2026 00:32:36 +0000</pubDate>
+❤️ 343  🔁 46</description>
+      <pubDate>Mon, 12 Oct 2026 02:13:56 +0000</pubDate>
     </item>
     <item>
-      <title>Aaron Levie (@levie): Good post to start thinking through the long term safety approaches to managing intelligence in an e...</title>
-      <link>https://x.com/levie/status/2108952226714865966</link>
-      <guid isPermaLink="true">https://x.com/levie/status/2108952226714865966</guid>
-      <description>Good post to start thinking through the long term safety approaches to managing intelligence in an enterprise. As agents begin to do vastly more task execution in the organization than humans, our need to secure, govern, control, and audit that work will become paramount. 
+      <title>Garry Tan (@garrytan): Be part of the 5000 today. It’s amazing
 
-You’ll have agents operating against most of your most valuable data; they’ll be making decisions that will be harder and harder to reverse engineer; we’ll need to understand the liability and accountability regimes when models make decisions for us; and we need ways of containing the blast radius of accidentally or intentionally malicious agents. 
+The lucky thing is the price will come down and more people...</title>
+      <link>https://x.com/garrytan/status/2109418482953814026</link>
+      <guid isPermaLink="true">https://x.com/garrytan/status/2109418482953814026</guid>
+      <description>Be part of the 5000 today. It’s amazing
 
-“Treating frontier closed and open weight models like insider risks is a way to build such a system. Not because they are necessarily malicious, but because any sufficiently capable actor with access to important systems can make mistakes or be compromised, and the architecture of containment and control must account for that”
+The lucky thing is the price will come down and more people will see this, and get a chance to bring it to the world
 
-In a sense, AI will need to have its “zero trust” era that security saw. And all of this leads to needing various layers of protection and auditability of what agents are doing, what data they can work with, and controls for when things go wrong. And a huge opportunity right now for those building such systems across the enterprise.
-
-Bio: ceo @box - your business lives in content. unleash it with AI
-❤️ 215  🔁 23</description>
-      <pubDate>Sat, 10 Oct 2026 16:06:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Garry Tan (@garrytan): https://t.co/0wdR9PQsqC works best with experimental modes including Captain turned on. I end up usi...</title>
-      <link>https://x.com/garrytan/status/2108954741065879945</link>
-      <guid isPermaLink="true">https://x.com/garrytan/status/2108954741065879945</guid>
-      <description>https://t.co/0wdR9PQsqC works best with experimental modes including Captain turned on. I end up using one thread that is able to coordinate and run the merge PR queue, make sure that CI works, and that only green runs with full CI make it into master.
+Greatest alpha fountain in the history of man https://t.co/0CQTE04g9m
 
 Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-❤️ 12  🔁 0</description>
-      <pubDate>Sat, 10 Oct 2026 16:16:07 +0000</pubDate>
+❤️ 1113  🔁 34</description>
+      <pubDate>Sun, 11 Oct 2026 22:58:52 +0000</pubDate>
     </item>
     <item>
-      <title>Garry Tan (@garrytan): I use GStack /autoplan and ask for the agent to ELI5 the plan it comes up with, and I still approve ...</title>
-      <link>https://x.com/garrytan/status/2108954740013043789</link>
-      <guid isPermaLink="true">https://x.com/garrytan/status/2108954740013043789</guid>
-      <description>I use GStack /autoplan and ask for the agent to ELI5 the plan it comes up with, and I still approve plans to make sure it's going down paths I think are likely to work. But only rarely do I have to intervene. The frontier models are fantastic these days.
+      <title>Garry Tan (@garrytan): If you wonder what an SF Public Bank will do for the city…
+
+For you? Absolutely nothing. 
+
+For Jacki...</title>
+      <link>https://x.com/garrytan/status/2109417956929327510</link>
+      <guid isPermaLink="true">https://x.com/garrytan/status/2109417956929327510</guid>
+      <description>If you wonder what an SF Public Bank will do for the city…
+
+For you? Absolutely nothing. 
+
+For Jackie Fielder’s nonprofit grifter cronies? Absolutely everything. https://t.co/rIjHhK7jFI
 
 Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-❤️ 19  🔁 1</description>
-      <pubDate>Sat, 10 Oct 2026 16:16:07 +0000</pubDate>
+❤️ 239  🔁 22</description>
+      <pubDate>Sun, 11 Oct 2026 22:56:46 +0000</pubDate>
     </item>
     <item>
-      <title>Garry Tan (@garrytan): For retrieval/latency data tasks like what GBrain does, setting up clear evals around retrieval, lat...</title>
-      <link>https://x.com/garrytan/status/2108954738540863498</link>
-      <guid isPermaLink="true">https://x.com/garrytan/status/2108954738540863498</guid>
-      <description>For retrieval/latency data tasks like what GBrain does, setting up clear evals around retrieval, latency and cost per compute is useful. That's my repo https://t.co/2rdleyR8Rl which has 40+ categories that each can be auto-researched and auto-improved
+      <title>Garry Tan (@garrytan): Replacing LLM calls with deterministic code is a no brainer and also results in better code that bet...</title>
+      <link>https://x.com/garrytan/status/2109410082769482174</link>
+      <guid isPermaLink="true">https://x.com/garrytan/status/2109410082769482174</guid>
+      <description>Replacing LLM calls with deterministic code is a no brainer and also results in better code that better matches what users want https://t.co/jzOeeoHFMO
 
 Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-❤️ 22  🔁 2</description>
-      <pubDate>Sat, 10 Oct 2026 16:16:06 +0000</pubDate>
+❤️ 1624  🔁 71</description>
+      <pubDate>Sun, 11 Oct 2026 22:25:29 +0000</pubDate>
     </item>
     <item>
-      <title>Zara Zhang (@zarazhangrui): Code is the new medium for creative self-expression https://t.co/jYeBPExlMV</title>
-      <link>https://x.com/zarazhangrui/status/2109087739287384387</link>
-      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2109087739287384387</guid>
-      <description>Code is the new medium for creative self-expression https://t.co/jYeBPExlMV
+      <title>Matt Turck (@mattturck): Please respect my privacy during this difficult time in the family https://t.co/qliJU9WvVY</title>
+      <link>https://x.com/mattturck/status/2109410677526065460</link>
+      <guid isPermaLink="true">https://x.com/mattturck/status/2109410677526065460</guid>
+      <description>Please respect my privacy during this difficult time in the family https://t.co/qliJU9WvVY
+
+Bio: VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
+❤️ 64  🔁 1</description>
+      <pubDate>Sun, 11 Oct 2026 22:27:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Matt Turck (@mattturck): People were punch card operators then they were Lotus Notes admins, then they were Flash developers ...</title>
+      <link>https://x.com/mattturck/status/2109345191010472332</link>
+      <guid isPermaLink="true">https://x.com/mattturck/status/2109345191010472332</guid>
+      <description>People were punch card operators then they were Lotus Notes admins, then they were Flash developers and Dreamweaver webmasters, then they were DevOps and Tableau analysts, and now they’re becoming agent managers and harness engineers.  It will work out just fine.
+
+Bio: VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
+❤️ 54  🔁 0</description>
+      <pubDate>Sun, 11 Oct 2026 18:07:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zara Zhang (@zarazhangrui): The only place where I use Gemini these days is in Chrome</title>
+      <link>https://x.com/zarazhangrui/status/2109483079106740500</link>
+      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2109483079106740500</guid>
+      <description>The only place where I use Gemini these days is in Chrome
 
 Bio: Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEajezlL 
 YouTube: https://t.co/8xzbGWtf6w
-❤️ 74  🔁 4</description>
-      <pubDate>Sun, 11 Oct 2026 01:04:36 +0000</pubDate>
+❤️ 93  🔁 1</description>
+      <pubDate>Mon, 12 Oct 2026 03:15:33 +0000</pubDate>
     </item>
     <item>
-      <title>Nikunj Kothari (@nikunj): Let’s go - only took 23 months 😂 https://t.co/xIJfCRr0hY https://t.co/bLatE5FU7H</title>
-      <link>https://x.com/nikunj/status/2109060688446677004</link>
-      <guid isPermaLink="true">https://x.com/nikunj/status/2109060688446677004</guid>
-      <description>Let’s go - only took 23 months 😂 https://t.co/xIJfCRr0hY https://t.co/bLatE5FU7H
+      <title>Nikunj Kothari (@nikunj): 🔵👼 https://t.co/fCataNatin</title>
+      <link>https://x.com/nikunj/status/2109428362171305984</link>
+      <guid isPermaLink="true">https://x.com/nikunj/status/2109428362171305984</guid>
+      <description>🔵👼 https://t.co/fCataNatin
 
 Bio: partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-❤️ 64  🔁 0</description>
-      <pubDate>Sat, 10 Oct 2026 23:17:07 +0000</pubDate>
+❤️ 20  🔁 0</description>
+      <pubDate>Sun, 11 Oct 2026 23:38:07 +0000</pubDate>
     </item>
     <item>
-      <title>Nikunj Kothari (@nikunj): Ignoring the actors in the latest debacle of VC, “philosophically” you can’t have both.. 
+      <title>Dan Shipper (@danshipper): made a feed that automatically tracks the books im reading (and have read going back to 2012!)
 
-&gt; ask a f...</title>
-      <link>https://x.com/nikunj/status/2109038632975876395</link>
-      <guid isPermaLink="true">https://x.com/nikunj/status/2109038632975876395</guid>
-      <description>Ignoring the actors in the latest debacle of VC, “philosophically” you can’t have both.. 
+mayb...</title>
+      <link>https://x.com/danshipper/status/2109331798282915907</link>
+      <guid isPermaLink="true">https://x.com/danshipper/status/2109331798282915907</guid>
+      <description>made a feed that automatically tracks the books im reading (and have read going back to 2012!)
 
-&gt; ask a fund to show conviction, and ask to double down especially when the chips are down. 
-
-&gt; ask them not do contracted pro rata just because it’s convenient to you from a dilution perspective or the lead fund that’s trying to get their ownership targets. 
-
-Every VC should earn the right to the cap table at every stage. But, this industry runs on contracts and handshakes, and when you break those for short term gain that erodes the already brittle trust. 
-
-For founders, another reminder to choose your partners AND contracts well. It’s so so so important. Get a good independent lawyer who will spell this out for you. 
-
-(This is so timely since just yesterday I was helping my cousin negotiate his preseed term sheet who literally wanted an arm and leg instead of a simple SAFE)
-
-Bio: partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-❤️ 47  🔁 0</description>
-      <pubDate>Sat, 10 Oct 2026 21:49:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Peter Steinberger (@steipete): not as clear-cut, but also yes https://t.co/MYVj0Jb29v</title>
-      <link>https://x.com/steipete/status/2109022454224150707</link>
-      <guid isPermaLink="true">https://x.com/steipete/status/2109022454224150707</guid>
-      <description>not as clear-cut, but also yes https://t.co/MYVj0Jb29v
-
-Bio: Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
-@OpenClaw🦞 + @OpenAI
-❤️ 273  🔁 12</description>
-      <pubDate>Sat, 10 Oct 2026 20:45:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Peter Steinberger (@steipete): JavaScript is not a serious language 🙃 https://t.co/7yeq9rr025</title>
-      <link>https://x.com/steipete/status/2109008513855087082</link>
-      <guid isPermaLink="true">https://x.com/steipete/status/2109008513855087082</guid>
-      <description>JavaScript is not a serious language 🙃 https://t.co/7yeq9rr025
-
-Bio: Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
-@OpenClaw🦞 + @OpenAI
-❤️ 183  🔁 10</description>
-      <pubDate>Sat, 10 Oct 2026 19:49:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dan Shipper (@danshipper): yup 
-
-if your company slack is not a constant source of wonder and inspiration right now something i...</title>
-      <link>https://x.com/danshipper/status/2108941466785439796</link>
-      <guid isPermaLink="true">https://x.com/danshipper/status/2108941466785439796</guid>
-      <description>yup 
-
-if your company slack is not a constant source of wonder and inspiration right now something is wrong https://t.co/5q8OoN1nJx
+maybe we should have a feed for everybody @every could be fun to see https://t.co/rKpU0itSMX
 
 Bio: ceo @every | the only subscription you need to stay at the edge of AI
-❤️ 318  🔁 12</description>
-      <pubDate>Sat, 10 Oct 2026 15:23:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dan Shipper (@danshipper): incredibly interesting research exploration 👇 https://t.co/IV1qOv6zPx</title>
-      <link>https://x.com/danshipper/status/2108893466998571442</link>
-      <guid isPermaLink="true">https://x.com/danshipper/status/2108893466998571442</guid>
-      <description>incredibly interesting research exploration 👇 https://t.co/IV1qOv6zPx
-
-Bio: ceo @every | the only subscription you need to stay at the edge of AI
-❤️ 118  🔁 2</description>
-      <pubDate>Sat, 10 Oct 2026 12:12:38 +0000</pubDate>
+❤️ 73  🔁 4</description>
+      <pubDate>Sun, 11 Oct 2026 17:14:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
