@@ -4,32 +4,16 @@
     <title>Follow Builders — X/Twitter</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI builders' latest tweets, curated by follow-builders</description>
-    <lastBuildDate>Mon, 12 Oct 2026 07:04:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 06:50:13 +0000</lastBuildDate>
     <item>
-      <title>Andrej Karpathy (@karpathy): Dusting off this tweet from April because this gap in shared understanding of LLM capability is *wid...</title>
-      <link>https://x.com/karpathy/status/2109361546505966046</link>
-      <guid isPermaLink="true">https://x.com/karpathy/status/2109361546505966046</guid>
-      <description>Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less "two groups of people speaking past each other" and more a sharp funnel.
+      <title>Swyx (@swyx): @cjav_dev @aiDotEngineer @ricmac @latentspacepod our workshop writeup is live now!
 
-- Napkin math somewhere around 6B people (~75% of the population) have barely come in contact with LLMs at all.
-- Around 1-2B (~20%) are casual and infrequent users of free-tier ChatGPT-like products. This group sees derpy chatbots and treats them a bit like a better Google search, a writing aid, or etc. Maybe an agent tries to book you a flight. I have non-tech friends who (reasonably, imo) say they have not much use for it at all. Even many professionals outside of math&amp;code are in this tier. For example, execs and many other functions spend a lot of their time talking to other people, so while they understand what is happening intellectually, it is still second-hand and a bit abstract.
-- Now we get to professional use of frontier-grade LLMs in math&amp;code. Somewhere around 20M people (0.2%) see first-hand that large, complex projects that used to take them weeks/months can now be completed by agents with a prompt. Building apps, copying apps, translating apps, decompiling apps from binaries... This has all happened very quickly and recently - less than 1 year ago, I was writing code manually by hand, typing memorized computer code commands into a code editor character by character, occasionally pressing Tab to autocomplete a little chunk of code.
-- And finally we get to the ~5,000 people (~0.00006%) with access to frontier-grade systems internally. The external world has seen the preview. It looks like swarms of thousands of agents collaborating over weeks on software mega projects: minting zero days, running cyber attacks and defenses at machine speeds, discovering new science, advancing the frontier of mathematics. Things that would have taken top professionals in the industry years of work. Meanwhile, human review and comprehension are starting to fall behind. For example, people are still involved in the "archeology" of the OpenAI-HF incident from many months ago. Mathematicians may be poring over the 722 manuscripts on frontier mathematics for a while.
+https://t.co/mSZ...</title>
+      <link>https://x.com/swyx/status/2109837651893485844</link>
+      <guid isPermaLink="true">https://x.com/swyx/status/2109837651893485844</guid>
+      <description>@cjav_dev @aiDotEngineer @ricmac @latentspacepod our workshop writeup is live now!
 
-The funnel is driven by a combination of factors:
-1. The impact scales with ambition, problem size, and horizon. A question with a paragraph answer barely stresses the system. You need a reservoir of big, difficult problems that you really care about. This aspect drives the consumer / professional dimension of the funnel.
-2. The jaggedness of the system (which I have written about a lot separately). Capability peaks in domains that are digital, verifiable and economically valuable. This is because LLM capability emerges from reinforcement learning on verifiable rewards on a curated environment mixture driven by revenue potential. This aspect primarily drives the area (e.g. math&amp;code) dimension of the funnel.
-3. Access. Free-tier, paid-tier, internal.
-
-So this is the weirdness of the moment. The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the curve going vertical. And it is all happening at the same time.
-❤️ 30115  🔁 3852</description>
-      <pubDate>Sun, 11 Oct 2026 19:12:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Swyx (@swyx): reupping my talk tips thread for all our lovely AIE NYC speakers. see you tmr at speaker dinner! htt...</title>
-      <link>https://x.com/swyx/status/2109365419937239158</link>
-      <guid isPermaLink="true">https://x.com/swyx/status/2109365419937239158</guid>
-      <description>reupping my talk tips thread for all our lovely AIE NYC speakers. see you tmr at speaker dinner! https://t.co/1xf4Eblnil
+https://t.co/mSZfNrLDTS
 
 Bio: achieve ambition with intentionality, intensity, integrity &amp; insanity.
 
@@ -39,234 +23,414 @@ affiliations:
 - @cognition
 - @aidotengineer
 - @latentspacepod
-❤️ 36  🔁 3</description>
-      <pubDate>Sun, 11 Oct 2026 19:28:00 +0000</pubDate>
+❤️ 4  🔁 0</description>
+      <pubDate>Tue, 13 Oct 2026 02:44:29 +0000</pubDate>
     </item>
     <item>
-      <title>Thibault Sottiaux (@thsottiaux): The results of this poll has gotten me confused. I definitely thought it would sway much more favora...</title>
-      <link>https://x.com/thsottiaux/status/2109439315570999598</link>
-      <guid isPermaLink="true">https://x.com/thsottiaux/status/2109439315570999598</guid>
-      <description>The results of this poll has gotten me confused. I definitely thought it would sway much more favorably in the 2X direction across Pro 100/200/500 at the cost of bringing back 5h limits in order to smoothen the demand curve. https://t.co/zwn7kboMhT
+      <title>Swyx (@swyx): one of the best parts of my job is bringing out the best in ai in each city 
+
+i love new york ♥️ htt...</title>
+      <link>https://x.com/swyx/status/2109797444204572880</link>
+      <guid isPermaLink="true">https://x.com/swyx/status/2109797444204572880</guid>
+      <description>one of the best parts of my job is bringing out the best in ai in each city 
+
+i love new york ♥️ https://t.co/qOCz2NvARw https://t.co/P9qRPhJoYc
+
+Bio: achieve ambition with intentionality, intensity, integrity &amp; insanity.
+
+affiliations:
+- @smol_ai
+- @dxtipshq
+- @cognition
+- @aidotengineer
+- @latentspacepod
+❤️ 97  🔁 2</description>
+      <pubDate>Tue, 13 Oct 2026 00:04:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Swyx (@swyx): @cjav_dev @aiDotEngineer @ricmac @latentspacepod also packed room for @arizeai @seldo workshop at #a...</title>
+      <link>https://x.com/swyx/status/2109772705532715166</link>
+      <guid isPermaLink="true">https://x.com/swyx/status/2109772705532715166</guid>
+      <description>@cjav_dev @aiDotEngineer @ricmac @latentspacepod also packed room for @arizeai @seldo workshop at #aiengineerny!!
+
+ https://t.co/yDGwcBOwEC https://t.co/c1iqN6pOwz
+
+Bio: achieve ambition with intentionality, intensity, integrity &amp; insanity.
+
+affiliations:
+- @smol_ai
+- @dxtipshq
+- @cognition
+- @aidotengineer
+- @latentspacepod
+❤️ 3  🔁 0</description>
+      <pubDate>Mon, 12 Oct 2026 22:26:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Josh Woodward (@joshwoodward): I’ve learned from Lenny for years, but we had never met. What you see is what you get with him: he’s...</title>
+      <link>https://x.com/joshwoodward/status/2109646793713786970</link>
+      <guid isPermaLink="true">https://x.com/joshwoodward/status/2109646793713786970</guid>
+      <description>I’ve learned from Lenny for years, but we had never met. What you see is what you get with him: he’s kind, prepared, and deeply curious. Great interviewers do their homework, and you can tell he’s in that league: he took our conversation to places that I’ve never talked about in public. Enjoy the first 60 minutes of us getting to chat together. 
+
+Thank you @lennysan !
+
+Bio: VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio
+❤️ 342  🔁 15</description>
+      <pubDate>Mon, 12 Oct 2026 14:06:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thibault Sottiaux (@thsottiaux): Good plans are simple. I have one that should result in significantly more usage for everyone. Hope ...</title>
+      <link>https://x.com/thsottiaux/status/2109892247580000595</link>
+      <guid isPermaLink="true">https://x.com/thsottiaux/status/2109892247580000595</guid>
+      <description>Good plans are simple. I have one that should result in significantly more usage for everyone. Hope to get it done soon.
 
 Bio: Codex &amp; ChatGPT @OpenAI
-❤️ 4625  🔁 99</description>
-      <pubDate>Mon, 12 Oct 2026 00:21:38 +0000</pubDate>
+❤️ 2202  🔁 64</description>
+      <pubDate>Tue, 13 Oct 2026 06:21:26 +0000</pubDate>
     </item>
     <item>
-      <title>Thibault Sottiaux (@thsottiaux): With this change, we are not charging long context fees for GPT-6.1 Sol when drawing usage from the ...</title>
-      <link>https://x.com/thsottiaux/status/2109430894604026039</link>
-      <guid isPermaLink="true">https://x.com/thsottiaux/status/2109430894604026039</guid>
-      <description>With this change, we are not charging long context fees for GPT-6.1 Sol when drawing usage from the subscription.
+      <title>Thibault Sottiaux (@thsottiaux): Mashed @poteto on the house.</title>
+      <link>https://x.com/thsottiaux/status/2109873307722121591</link>
+      <guid isPermaLink="true">https://x.com/thsottiaux/status/2109873307722121591</guid>
+      <description>Mashed @poteto on the house.
 
 Bio: Codex &amp; ChatGPT @OpenAI
-❤️ 2553  🔁 55</description>
-      <pubDate>Sun, 11 Oct 2026 23:48:11 +0000</pubDate>
+❤️ 880  🔁 11</description>
+      <pubDate>Tue, 13 Oct 2026 05:06:10 +0000</pubDate>
     </item>
     <item>
-      <title>Thibault Sottiaux (@thsottiaux): Day 7/
-
-We have increased default context length for GPT-6.1 Sol to 500k when used through Codex &amp; W...</title>
-      <link>https://x.com/thsottiaux/status/2109430343346581527</link>
-      <guid isPermaLink="true">https://x.com/thsottiaux/status/2109430343346581527</guid>
-      <description>Day 7/
-
-We have increased default context length for GPT-6.1 Sol to 500k when used through Codex &amp; Work, up from 272k or an ~ 80% increase.
-
-We will go higher in the future, but it helps reduce occurrence of compactions and with tasks that require keeping a lot of context and nuance over periods of time. It was carefully tested and is the new sweet spot for most of our users. You can still override it if you want to be higher our lower, with maximum context length of GPT-6.1 Sol of 1M.
+      <title>Thibault Sottiaux (@thsottiaux): What would you like with your side of reset? It's done. https://t.co/gpNaB6otgy</title>
+      <link>https://x.com/thsottiaux/status/2109873287853707513</link>
+      <guid isPermaLink="true">https://x.com/thsottiaux/status/2109873287853707513</guid>
+      <description>What would you like with your side of reset? It's done. https://t.co/gpNaB6otgy
 
 Bio: Codex &amp; ChatGPT @OpenAI
-❤️ 10608  🔁 454</description>
-      <pubDate>Sun, 11 Oct 2026 23:45:59 +0000</pubDate>
+❤️ 2741  🔁 88</description>
+      <pubDate>Tue, 13 Oct 2026 05:06:06 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Yang (@petergyang): YouTube comments undefeated the disrespect to @Rasmic  😭 https://t.co/SiPRGxvUwc</title>
-      <link>https://x.com/petergyang/status/2109435203269878242</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2109435203269878242</guid>
-      <description>YouTube comments undefeated the disrespect to @Rasmic  😭 https://t.co/SiPRGxvUwc
+      <title>Peter Yang (@petergyang): @Blizzard_Ent I bet if Blizzard crowdfunds Starcraft 3 RTS they'll raise millions</title>
+      <link>https://x.com/petergyang/status/2109822610637017218</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2109822610637017218</guid>
+      <description>@Blizzard_Ent I bet if Blizzard crowdfunds Starcraft 3 RTS they'll raise millions
 
 Bio: Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
 ❤️ 3  🔁 0</description>
-      <pubDate>Mon, 12 Oct 2026 00:05:18 +0000</pubDate>
+      <pubDate>Tue, 13 Oct 2026 01:44:43 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Yang (@petergyang): Building a @modretro game with my daughter and Codex https://t.co/78Ev7iGuG1</title>
-      <link>https://x.com/petergyang/status/2109434554729824397</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2109434554729824397</guid>
-      <description>Building a @modretro game with my daughter and Codex https://t.co/78Ev7iGuG1
+      <title>Peter Yang (@petergyang): So many people’s childhoods were defined by StarCraft even Ben.
+
+Still can’t believe the new game wo...</title>
+      <link>https://x.com/petergyang/status/2109820627561676970</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2109820627561676970</guid>
+      <description>So many people’s childhoods were defined by StarCraft even Ben.
+
+Still can’t believe the new game won’t come out till 2030. 
+
+@Blizzard_Ent should double down on this franchise. Make movies, TV shows, and yes a real time strategy game! https://t.co/vRnuahUusL
 
 Bio: Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-❤️ 75  🔁 4</description>
-      <pubDate>Mon, 12 Oct 2026 00:02:43 +0000</pubDate>
+❤️ 61  🔁 1</description>
+      <pubDate>Tue, 13 Oct 2026 01:36:50 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Yang (@petergyang): "I'm not at a point where I trust the agent, especially with stuff that people are using."
+      <title>Peter Yang (@petergyang): Here's a clip of me explaining why Grok @bot is my favorite agent right now.
 
-From Mic...</title>
-      <link>https://x.com/petergyang/status/2109433961223180517</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2109433961223180517</guid>
-      <description>"I'm not at a point where I trust the agent, especially with stuff that people are using."
+tl;dr It’s built on pe...</title>
+      <link>https://x.com/petergyang/status/2109803399332213090</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2109803399332213090</guid>
+      <description>Here's a clip of me explaining why Grok @bot is my favorite agent right now.
 
-From Micky (@Rasmic), who's taught 100K+ people to build with AI:
+tl;dr It’s built on personas instead of chat threads, so it really feels like hiring employees to work for you. Each owns a specific job:
 
-"The manual review is like the final step. All the work's done, and I have as much evidence from the agent as possible.
+→ Behind the Growth owns customer support
+→ YouTube Producer owns research and prep
+→ Loving Husband owns errands for my family
+→ Health Coach keeps my workouts on track
 
-With evidence-driven testing, before and after, and even greploop, we're trying to build trust. The agent presents evidence: This is the work that's done, and this is why it's good.
-
-For anyone who's been a developer for any time, manual review is probably the worst part of your job. This sort of helps minimize the friction."
-
-📌 Watch Micky's full 4-step workflow here: https://t.co/ju9aMQKaCE
+📌 Watch my latest Grok Bot video covering how I'm using its new features here (free X access, its own email, and Opus): https://t.co/eu1nBVXqyd
 
 Bio: Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-❤️ 24  🔁 1</description>
-      <pubDate>Mon, 12 Oct 2026 00:00:22 +0000</pubDate>
+❤️ 77  🔁 6</description>
+      <pubDate>Tue, 13 Oct 2026 00:28:23 +0000</pubDate>
     </item>
     <item>
-      <title>Nan Yu (@thenanyu): Who’s gonna tell him https://t.co/QcAecsogbx</title>
-      <link>https://x.com/thenanyu/status/2109538550421262552</link>
-      <guid isPermaLink="true">https://x.com/thenanyu/status/2109538550421262552</guid>
-      <description>Who’s gonna tell him https://t.co/QcAecsogbx
+      <title>Nan Yu (@thenanyu): One. Of. Us. https://t.co/lH1Ig61Atm</title>
+      <link>https://x.com/thenanyu/status/2109795153250804076</link>
+      <guid isPermaLink="true">https://x.com/thenanyu/status/2109795153250804076</guid>
+      <description>One. Of. Us. https://t.co/lH1Ig61Atm
 
-Bio: product, codex @openai. prev head of product @linear</description>
-      <pubDate>Mon, 12 Oct 2026 06:55:58 +0000</pubDate>
+Bio: product, codex @openai. prev head of product @linear
+❤️ 55  🔁 2</description>
+      <pubDate>Mon, 12 Oct 2026 23:55:37 +0000</pubDate>
     </item>
     <item>
-      <title>Thariq (@trq212): I think Terrence Tao is directionally correct, we shouldn’t settle for a super intelligence that is ...</title>
-      <link>https://x.com/trq212/status/2109329495341867391</link>
-      <guid isPermaLink="true">https://x.com/trq212/status/2109329495341867391</guid>
-      <description>I think Terrence Tao is directionally correct, we shouldn’t settle for a super intelligence that is opaque.
-
-A key signal of intelligence is communication. We should strive to make products and models that build understanding with humans instead of disintermediating them. https://t.co/p44dDROehA
+      <title>Thariq (@trq212): evergreen https://t.co/vypABFN6PU</title>
+      <link>https://x.com/trq212/status/2109717295631372628</link>
+      <guid isPermaLink="true">https://x.com/trq212/status/2109717295631372628</guid>
+      <description>evergreen https://t.co/vypABFN6PU
 
 Bio: Claude Code @anthropicai. prev YC W20, @spc, @medialab
-❤️ 1219  🔁 59</description>
-      <pubDate>Sun, 11 Oct 2026 17:05:15 +0000</pubDate>
+❤️ 1843  🔁 66</description>
+      <pubDate>Mon, 12 Oct 2026 18:46:14 +0000</pubDate>
     </item>
     <item>
-      <title>Guillermo Rauch (@rauchg): So cool. The future of learning https://t.co/cT6crizjKp</title>
-      <link>https://x.com/rauchg/status/2109297685392175488</link>
-      <guid isPermaLink="true">https://x.com/rauchg/status/2109297685392175488</guid>
-      <description>So cool. The future of learning https://t.co/cT6crizjKp
+      <title>Guillermo Rauch (@rauchg): This is amazing 😂 https://t.co/wuwbLHuLl5</title>
+      <link>https://x.com/rauchg/status/2109771347064922255</link>
+      <guid isPermaLink="true">https://x.com/rauchg/status/2109771347064922255</guid>
+      <description>This is amazing 😂 https://t.co/wuwbLHuLl5
 
 Bio: @vercel CEO
-❤️ 2659  🔁 94</description>
-      <pubDate>Sun, 11 Oct 2026 14:58:51 +0000</pubDate>
+❤️ 125  🔁 1</description>
+      <pubDate>Mon, 12 Oct 2026 22:21:01 +0000</pubDate>
     </item>
     <item>
-      <title>Aaron Levie (@levie): This is a good way to understand how early we actually are in AI diffusion right now. The vast major...</title>
-      <link>https://x.com/levie/status/2109467575025578330</link>
-      <guid isPermaLink="true">https://x.com/levie/status/2109467575025578330</guid>
-      <description>This is a good way to understand how early we actually are in AI diffusion right now. The vast majority of people are using AI as a chatbot for simple interactions that approximate next-generation search. This is super useful but dramatically underrepresents the full capability of AI.
+      <title>Guillermo Rauch (@rauchg): Coding CLIs keep getting more complicated. Daemons, 3 layers of TUIs, client-server architectures.
 
-On the complete other end of the spectrum, agent swarms represent possibly the ultimate form factor of what agents will do inside of our workflows. Math, cyber, bio, materials science, software engineering, finance, and any other field that has valuable tasks that can be executed in parallel where compute can be applied to accelerate work all have this characteristic.
+...</title>
+      <link>https://x.com/rauchg/status/2109734766107099312</link>
+      <guid isPermaLink="true">https://x.com/rauchg/status/2109734766107099312</guid>
+      <description>Coding CLIs keep getting more complicated. Daemons, 3 layers of TUIs, client-server architectures.
 
-Less than a fraction of a fraction of the population uses AI in this way right now, due to a mix of the capabilities of models relative to the user's domain, the cost of doing these types of workflows today, the harnesses available to do this style of AI work, and the availability (or lack thereof) of frontier models to the general public.
+The whole point of a CLI is to deliver intelligence with zero friction, and be unix-like.
 
-There will also be a huge amount of change management necessary to get most areas of work -beyond software and AI research- to benefit from this style of agents. Companies need to upgrade their workflows, data needs to integrated and migrated into modern platforms, and companies will need to work through compliance, governance, and security frameworks to pull it off. 
+💾 Try https://t.co/OL0LzGtvAw. It's 6mb, starts in milliseconds, model-agnostic. It's tastefully minimal: MCP, Skills, Subagents and ACP built-in.
 
-But this all represents opportunity right now. A lot of this is where the applied layer of AI will really shine in the enterprise because of the domain specificity of this type of work. You can get an early sense of where things are going and the opportunity ahead by seeing through the funnel that Andrej lays out.
+Bio: @vercel CEO
+❤️ 539  🔁 27</description>
+      <pubDate>Mon, 12 Oct 2026 19:55:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guillermo Rauch (@rauchg): Muse Wonder on Vercel AI Gateway
+Try with 𝚏𝚡 --𝚖𝚘𝚍𝚎𝚕 𝚖𝚎𝚝𝚊/𝚖𝚞𝚜𝚎-𝚠𝚘𝚗𝚍𝚎𝚛-𝟷.𝟶 https://t.co/OI8lTDKnyZ ht...</title>
+      <link>https://x.com/rauchg/status/2109719267344261375</link>
+      <guid isPermaLink="true">https://x.com/rauchg/status/2109719267344261375</guid>
+      <description>Muse Wonder on Vercel AI Gateway
+Try with 𝚏𝚡 --𝚖𝚘𝚍𝚎𝚕 𝚖𝚎𝚝𝚊/𝚖𝚞𝚜𝚎-𝚠𝚘𝚗𝚍𝚎𝚛-𝟷.𝟶 https://t.co/OI8lTDKnyZ https://t.co/Ckx651xYUJ
+
+Bio: @vercel CEO
+❤️ 179  🔁 5</description>
+      <pubDate>Mon, 12 Oct 2026 18:54:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aaron Levie (@levie): Ok this is quite cool research and ultimately must be the eventual architecture of agents. In the li...</title>
+      <link>https://x.com/levie/status/2109788979952558255</link>
+      <guid isPermaLink="true">https://x.com/levie/status/2109788979952558255</guid>
+      <description>Ok this is quite cool research and ultimately must be the eventual architecture of agents. In the limit, AI will obviously be better at determining its own harness once it sees the task at hand, than us being able to do this in advance: https://t.co/jl6ZdeUFY1 https://t.co/7UOyjCGtdD
 
 Bio: ceo @box - your business lives in content. unleash it with AI
-❤️ 343  🔁 46</description>
-      <pubDate>Mon, 12 Oct 2026 02:13:56 +0000</pubDate>
+❤️ 289  🔁 22</description>
+      <pubDate>Mon, 12 Oct 2026 23:31:05 +0000</pubDate>
     </item>
     <item>
-      <title>Garry Tan (@garrytan): Be part of the 5000 today. It’s amazing
+      <title>Aaron Levie (@levie): What a crazy time in AI with Meta now jumping fully into the frontier. Now that there are multiple p...</title>
+      <link>https://x.com/levie/status/2109711062757216738</link>
+      <guid isPermaLink="true">https://x.com/levie/status/2109711062757216738</guid>
+      <description>What a crazy time in AI with Meta now jumping fully into the frontier. Now that there are multiple players pushing the state of the art, this is going to lead to a further acceleration of advances, as well as the lowering cost of tokens for even the highest levels of capability. https://t.co/w2p4pEMInH https://t.co/UFAnJ5Cj8c
 
-The lucky thing is the price will come down and more people...</title>
-      <link>https://x.com/garrytan/status/2109418482953814026</link>
-      <guid isPermaLink="true">https://x.com/garrytan/status/2109418482953814026</guid>
-      <description>Be part of the 5000 today. It’s amazing
+Bio: ceo @box - your business lives in content. unleash it with AI
+❤️ 487  🔁 32</description>
+      <pubDate>Mon, 12 Oct 2026 18:21:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aaron Levie (@levie): Agent swarms are going to be a core part of many enterprise workflows in the future. The ability to ...</title>
+      <link>https://x.com/levie/status/2109682812811137061</link>
+      <guid isPermaLink="true">https://x.com/levie/status/2109682812811137061</guid>
+      <description>Agent swarms are going to be a core part of many enterprise workflows in the future. The ability to throw compute at problems that you can massively parallelize will be too useful to not take advantage of. 
 
-The lucky thing is the price will come down and more people will see this, and get a chance to bring it to the world
+Cyber will be one of the biggest beneficiaries of this as it’s a space where testing vast number of permutations of attacks (without getting tired or bored) is an incredibly useful property. You have a wide search space of possible risk vectors and you generally need to be able to chain together different scenarios to achieve the exploit. 
 
-Greatest alpha fountain in the history of man https://t.co/0CQTE04g9m
+This will become one of the biggest token uses in large enterprises given the range of IT systems, software, physical infrastructure, and data that needs to be protected at all times. Super interesting times in cyber.
+
+Bio: ceo @box - your business lives in content. unleash it with AI
+❤️ 159  🔁 23</description>
+      <pubDate>Mon, 12 Oct 2026 16:29:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ryo Lu (@ryolu_): syncs to your ryOS Account
+
+Dictionary 👉 https://t.co/TmrRC54XrY
+Fitness 👉 https://t.co/dF2f7cFIuC</title>
+      <link>https://x.com/ryolu_/status/2109569515910836433</link>
+      <guid isPermaLink="true">https://x.com/ryolu_/status/2109569515910836433</guid>
+      <description>syncs to your ryOS Account
+
+Dictionary 👉 https://t.co/TmrRC54XrY
+Fitness 👉 https://t.co/dF2f7cFIuC
+
+Bio: Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.
+❤️ 4  🔁 1</description>
+      <pubDate>Mon, 12 Oct 2026 08:59:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ryo Lu (@ryolu_): new on ryOS: Dictionary + Fitness
+
+learn new words, pronunciation, 漢字. plan workouts, track body and...</title>
+      <link>https://x.com/ryolu_/status/2109568690358555064</link>
+      <guid isPermaLink="true">https://x.com/ryolu_/status/2109568690358555064</guid>
+      <description>new on ryOS: Dictionary + Fitness
+
+learn new words, pronunciation, 漢字. plan workouts, track body and food with AI.
+
+made with @bot @cursor_ai https://t.co/BXEp6UzL3H
+
+Bio: Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.
+❤️ 338  🔁 9</description>
+      <pubDate>Mon, 12 Oct 2026 08:55:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Garry Tan (@garrytan): We need repairmen https://t.co/yHuMos1Mm9</title>
+      <link>https://x.com/garrytan/status/2109852144350470293</link>
+      <guid isPermaLink="true">https://x.com/garrytan/status/2109852144350470293</guid>
+      <description>We need repairmen https://t.co/yHuMos1Mm9
 
 Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-❤️ 1113  🔁 34</description>
-      <pubDate>Sun, 11 Oct 2026 22:58:52 +0000</pubDate>
+❤️ 82  🔁 4</description>
+      <pubDate>Tue, 13 Oct 2026 03:42:05 +0000</pubDate>
     </item>
     <item>
-      <title>Garry Tan (@garrytan): If you wonder what an SF Public Bank will do for the city…
-
-For you? Absolutely nothing. 
-
-For Jacki...</title>
-      <link>https://x.com/garrytan/status/2109417956929327510</link>
-      <guid isPermaLink="true">https://x.com/garrytan/status/2109417956929327510</guid>
-      <description>If you wonder what an SF Public Bank will do for the city…
-
-For you? Absolutely nothing. 
-
-For Jackie Fielder’s nonprofit grifter cronies? Absolutely everything. https://t.co/rIjHhK7jFI
+      <title>Garry Tan (@garrytan): Yeah pro rata matters and is powerful for investors https://t.co/XeNUt0F8NB</title>
+      <link>https://x.com/garrytan/status/2109847735449047295</link>
+      <guid isPermaLink="true">https://x.com/garrytan/status/2109847735449047295</guid>
+      <description>Yeah pro rata matters and is powerful for investors https://t.co/XeNUt0F8NB
 
 Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-❤️ 239  🔁 22</description>
-      <pubDate>Sun, 11 Oct 2026 22:56:46 +0000</pubDate>
+❤️ 167  🔁 11</description>
+      <pubDate>Tue, 13 Oct 2026 03:24:33 +0000</pubDate>
     </item>
     <item>
-      <title>Garry Tan (@garrytan): Replacing LLM calls with deterministic code is a no brainer and also results in better code that bet...</title>
-      <link>https://x.com/garrytan/status/2109410082769482174</link>
-      <guid isPermaLink="true">https://x.com/garrytan/status/2109410082769482174</guid>
-      <description>Replacing LLM calls with deterministic code is a no brainer and also results in better code that better matches what users want https://t.co/jzOeeoHFMO
+      <title>Garry Tan (@garrytan): Nobody is coming to save you
+
+You don’t need saving</title>
+      <link>https://x.com/garrytan/status/2109749184639488265</link>
+      <guid isPermaLink="true">https://x.com/garrytan/status/2109749184639488265</guid>
+      <description>Nobody is coming to save you
+
+You don’t need saving
 
 Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-❤️ 1624  🔁 71</description>
-      <pubDate>Sun, 11 Oct 2026 22:25:29 +0000</pubDate>
+❤️ 176  🔁 8</description>
+      <pubDate>Mon, 12 Oct 2026 20:52:57 +0000</pubDate>
     </item>
     <item>
-      <title>Matt Turck (@mattturck): Please respect my privacy during this difficult time in the family https://t.co/qliJU9WvVY</title>
-      <link>https://x.com/mattturck/status/2109410677526065460</link>
-      <guid isPermaLink="true">https://x.com/mattturck/status/2109410677526065460</guid>
-      <description>Please respect my privacy during this difficult time in the family https://t.co/qliJU9WvVY
+      <title>Zara Zhang (@zarazhangrui): I just heard the most touching AI coding story.
 
-Bio: VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
-❤️ 64  🔁 1</description>
-      <pubDate>Sun, 11 Oct 2026 22:27:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Matt Turck (@mattturck): People were punch card operators then they were Lotus Notes admins, then they were Flash developers ...</title>
-      <link>https://x.com/mattturck/status/2109345191010472332</link>
-      <guid isPermaLink="true">https://x.com/mattturck/status/2109345191010472332</guid>
-      <description>People were punch card operators then they were Lotus Notes admins, then they were Flash developers and Dreamweaver webmasters, then they were DevOps and Tableau analysts, and now they’re becoming agent managers and harness engineers.  It will work out just fine.
+A friend @vicyaqingyang grew up in a modest home fu...</title>
+      <link>https://x.com/zarazhangrui/status/2109673430245421415</link>
+      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2109673430245421415</guid>
+      <description>I just heard the most touching AI coding story.
 
-Bio: VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
-❤️ 54  🔁 0</description>
-      <pubDate>Sun, 11 Oct 2026 18:07:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zara Zhang (@zarazhangrui): The only place where I use Gemini these days is in Chrome</title>
-      <link>https://x.com/zarazhangrui/status/2109483079106740500</link>
-      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2109483079106740500</guid>
-      <description>The only place where I use Gemini these days is in Chrome
+A friend @vicyaqingyang grew up in a modest home full of cockroaches. To turn lemons into lemonade, her mom made killing them a game.
+
+When she told this story to another friend, that friend vibe coded a game from it. You catch cockroaches in a room and compete against Mom.
+
+She cried while playing it.
+
+The game isn’t technically sophisticated. Any model can build it pretty quickly now. What gives it a soul is the human story, experience, and emotion behind it.
+
+Code is the new medium for storytelling.
 
 Bio: Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEajezlL 
 YouTube: https://t.co/8xzbGWtf6w
-❤️ 93  🔁 1</description>
-      <pubDate>Mon, 12 Oct 2026 03:15:33 +0000</pubDate>
+❤️ 64  🔁 1</description>
+      <pubDate>Mon, 12 Oct 2026 15:51:56 +0000</pubDate>
     </item>
     <item>
-      <title>Nikunj Kothari (@nikunj): 🔵👼 https://t.co/fCataNatin</title>
-      <link>https://x.com/nikunj/status/2109428362171305984</link>
-      <guid isPermaLink="true">https://x.com/nikunj/status/2109428362171305984</guid>
-      <description>🔵👼 https://t.co/fCataNatin
+      <title>Nikunj Kothari (@nikunj): Random fact: for some reason, all the Suryas (@sdand @sur4js @kickingkeys) that I know are all goate...</title>
+      <link>https://x.com/nikunj/status/2109763529276559566</link>
+      <guid isPermaLink="true">https://x.com/nikunj/status/2109763529276559566</guid>
+      <description>Random fact: for some reason, all the Suryas (@sdand @sur4js @kickingkeys) that I know are all goated eclectic individuals. 
+
+which brings me to:
+
+1) If there are more Surya's I should meet, please holler 👋
+
+2) Also @kickingkeys &amp; I are hosting a small builder happy hour this Thursday evening in NYC (link here to directly RSVP since I'm delinquent on DMs: https://t.co/Csk6GlA6Er)
 
 Bio: partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-❤️ 20  🔁 0</description>
-      <pubDate>Sun, 11 Oct 2026 23:38:07 +0000</pubDate>
+❤️ 33  🔁 1</description>
+      <pubDate>Mon, 12 Oct 2026 21:49:57 +0000</pubDate>
     </item>
     <item>
-      <title>Dan Shipper (@danshipper): made a feed that automatically tracks the books im reading (and have read going back to 2012!)
+      <title>Peter Steinberger (@steipete): 6.1 Sol ultrafast &amp;gt;&amp;gt;&amp;gt; 6 Astra
 
-mayb...</title>
-      <link>https://x.com/danshipper/status/2109331798282915907</link>
-      <guid isPermaLink="true">https://x.com/danshipper/status/2109331798282915907</guid>
-      <description>made a feed that automatically tracks the books im reading (and have read going back to 2012!)
+~ same cost but whole different game with 250 tpm</title>
+      <link>https://x.com/steipete/status/2109730774593487009</link>
+      <guid isPermaLink="true">https://x.com/steipete/status/2109730774593487009</guid>
+      <description>6.1 Sol ultrafast &amp;gt;&amp;gt;&amp;gt; 6 Astra
 
-maybe we should have a feed for everybody @every could be fun to see https://t.co/rKpU0itSMX
+~ same cost but whole different game with 250 tpm
+
+Bio: Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
+❤️ 2153  🔁 42</description>
+      <pubDate>Mon, 12 Oct 2026 19:39:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Peter Steinberger (@steipete): said that last year, saying it again.
+vibes coding is a slur. https://t.co/hWBfC1e2NA</title>
+      <link>https://x.com/steipete/status/2109724776168300631</link>
+      <guid isPermaLink="true">https://x.com/steipete/status/2109724776168300631</guid>
+      <description>said that last year, saying it again.
+vibes coding is a slur. https://t.co/hWBfC1e2NA
+
+Bio: Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI
+❤️ 1832  🔁 84</description>
+      <pubDate>Mon, 12 Oct 2026 19:15:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dan Shipper (@danshipper): NOTE: this is Muse Wonder Standard. Wonder Full is, inexplicably, not available on the API. Will hav...</title>
+      <link>https://x.com/danshipper/status/2109800647575146906</link>
+      <guid isPermaLink="true">https://x.com/danshipper/status/2109800647575146906</guid>
+      <description>NOTE: this is Muse Wonder Standard. Wonder Full is, inexplicably, not available on the API. Will have a run shortly however
 
 Bio: ceo @every | the only subscription you need to stay at the edge of AI
-❤️ 73  🔁 4</description>
-      <pubDate>Sun, 11 Oct 2026 17:14:24 +0000</pubDate>
+❤️ 16  🔁 0</description>
+      <pubDate>Tue, 13 Oct 2026 00:17:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dan Shipper (@danshipper): I used muse wonder to make a video explaining personal benchmarks..
+
+this is ummm pretty rough
+
+inte...</title>
+      <link>https://x.com/danshipper/status/2109778026091209087</link>
+      <guid isPermaLink="true">https://x.com/danshipper/status/2109778026091209087</guid>
+      <description>I used muse wonder to make a video explaining personal benchmarks..
+
+this is ummm pretty rough
+
+interestingly all of its videos so far are narrated in an Australian accent. I'll leave interpretation to the reader https://t.co/OULxzZFCxt
+
+Bio: ceo @every | the only subscription you need to stay at the edge of AI
+❤️ 43  🔁 1</description>
+      <pubDate>Mon, 12 Oct 2026 22:47:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dan Shipper (@danshipper): and it's back up! still bad https://t.co/TiYMufHUT3</title>
+      <link>https://x.com/danshipper/status/2109776532503732624</link>
+      <guid isPermaLink="true">https://x.com/danshipper/status/2109776532503732624</guid>
+      <description>and it's back up! still bad https://t.co/TiYMufHUT3
+
+Bio: ceo @every | the only subscription you need to stay at the edge of AI
+❤️ 10  🔁 0</description>
+      <pubDate>Mon, 12 Oct 2026 22:41:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aditya Agarwal (@adityaag): There is a big delta in how frontier lab employees use AI and how even the top 1% of AI orgs use AI....</title>
+      <link>https://x.com/adityaag/status/2109748501982872003</link>
+      <guid isPermaLink="true">https://x.com/adityaag/status/2109748501982872003</guid>
+      <description>There is a big delta in how frontier lab employees use AI and how even the top 1% of AI orgs use AI.
+
+This is on public capabilities...I suspect this delta will exist for a while..
+
+I also feel like there is a company opportunity in here that is a horizontal accelerant.
+
+Bio: General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
+❤️ 42  🔁 3</description>
+      <pubDate>Mon, 12 Oct 2026 20:50:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
