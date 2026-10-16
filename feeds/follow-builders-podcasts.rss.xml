@@ -4,17 +4,17 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Thu, 15 Oct 2026 06:43:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 06:42:48 +0000</lastBuildDate>
     <item>
-      <title>[AI &amp; I by Every] How Hugging Face’s Investor Spots Winners</title>
-      <link>https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL</link>
-      <guid isPermaLink="true">https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL</guid>
-      <description>Speaker 1 | 00:00 - 00:17
-The Frontier duopoly is over. This week, we got new Frontier models from Google and from Meta. Google launched Gemini Argon four and Meta launched Wonder, which comes in standard and full. So you can run Wonder full, you know. That's their sense of humor.
+      <title>[The MAD Podcast with Matt Turck] Jev: The AI That Makes Decisions, Not Text - and Why It Changes Everything (Diogo Almeida)</title>
+      <link>https://www.youtube.com/@DataDrivenNYC/videos</link>
+      <guid isPermaLink="true">https://www.youtube.com/@DataDrivenNYC/videos</guid>
+      <description>Speaker 1 | 00:00 - 00:18
+95% Einstein, 5% mister Bean. And if it doesn't tell you when it's the mister Bean, then how are you gonna automate anything? I wrote a document at OpenAI. We could have had AGI last year, and I still believe that to be true. Pre training is a giant dumpster fire of wasting resources.
 
-Speaker 1 | 00:17 - 01:04
-Of course, both new models from these pretty much second tier entrants in the frontier model race topped the benchmarks. But our hands on testing inside of every running running these models ...</description>
-      <pubDate>Wed, 14 Oct 2026 16:22:14 +0000</pubDate>
+Speaker 1 | 00:18 - 00:31
+When I first started this project, I literally thought it would take a week. You can now express things that you couldn't express in software before. I think tha...</description>
+      <pubDate>Thu, 15 Oct 2026 11:30:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
