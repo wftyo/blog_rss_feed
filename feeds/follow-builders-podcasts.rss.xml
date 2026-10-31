@@ -4,17 +4,20 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Fri, 30 Oct 2026 06:32:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 06:25:47 +0000</lastBuildDate>
     <item>
-      <title>[The MAD Podcast with Matt Turck] State of AI 2026: The Biggest Stories of the Year (and AGI in 2027?) | Nathan Benaich</title>
-      <link>https://www.youtube.com/@DataDrivenNYC/videos</link>
-      <guid isPermaLink="true">https://www.youtube.com/@DataDrivenNYC/videos</guid>
-      <description>Speaker 1 | 00:00 - 00:18
-The cyber risk is, like, much more real than, like, AI exterminating humanity. You either, like, die trying to get to the frontier or you just live long enough to eventually serve inference. Individuals would prefer to live next to a nuclear power plant than live next to a data center. It's bananas what's happened in the last year alone, so let's see AGI next year.
+      <title>[No Priors] Taking on ServiceNow: Coding Agents the Rest of Us with Serval Co-Founder and CEO Jake Stauch</title>
+      <link>https://www.youtube.com/@NoPriorsPodcast</link>
+      <guid isPermaLink="true">https://www.youtube.com/@NoPriorsPodcast</guid>
+      <description>Speaker 1 | 00:00 - 00:09
+This is the ultimate moonshot in enterprise software. These agents that go off and do work for you and magically discover all your problems and solve all your problems. And I think no one's really figured out how to do this well.
 
-Speaker 2 | 00:18 - 00:54
-That is Nathan Beneche, venture capitalist and author of the State of AI Report...</description>
-      <pubDate>Thu, 29 Oct 2026 14:11:54 +0000</pubDate>
+Speaker 2 | 00:09 - 00:13
+This is kind of the OpenAI hugging face incidents or other things where agents are given a task and then
+
+Speaker 1 | 00:13 - 00:28
+they do something that's unexpected. The agent becomes pretty competent. They could t...</description>
+      <pubDate>Thu, 29 Oct 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
