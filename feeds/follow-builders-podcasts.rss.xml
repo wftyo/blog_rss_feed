@@ -4,20 +4,17 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Mon, 02 Nov 2026 06:36:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 06:27:56 +0000</lastBuildDate>
     <item>
-      <title>[Unsupervised Learning] Ep 95: Modal CEO on the Future of Inference, the Chaos of the GPU Market &amp;amp; Origins of the Sandbox Bet</title>
-      <link>https://www.youtube.com/@RedpointAI</link>
-      <guid isPermaLink="true">https://www.youtube.com/@RedpointAI</guid>
-      <description>Speaker 1 | 00:00 - 00:04
-How much of, like, an an organized marketplaces compute these days versus, like, the Wild West?
+      <title>[Latent Space] Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora</title>
+      <link>https://www.youtube.com/@LatentSpacePod</link>
+      <guid isPermaLink="true">https://www.youtube.com/@LatentSpacePod</guid>
+      <description>People were asking us about Mythos and everything, even though I think realistically a lot of legal work does not require Mythos-level intelligence. Paralegals, gone. Yeah. Junior lawyers, gone. I don't need them.
 
-Speaker 2 | 00:04 - 00:17
-I went to GTC last year. It was like an open air drug market, but, like, GPUs. Walking around, like, talking to people, trying to get GPUs, and meeting people in hotel lobbies, exchanging numbers. It's very far from an efficient market. I mean, some people are working on this.
+[laughs] Um, that's actually not what we're seeing. And we had one problem where, like, it wouldn't cite properly, and so we were like, "Next model release solved."
 
-Speaker 2 | 00:17 - 00:29
-Compute comes in many different shapes or form...</description>
-      <pubDate>Wed, 28 Oct 2026 13:03:16 +0000</pubDate>
+It went from, like, [laughs] seventy percent to, like, ninety-nine. It's just like we did nothing and, like, great. But...</description>
+      <pubDate>Mon, 02 Nov 2026 20:50:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
