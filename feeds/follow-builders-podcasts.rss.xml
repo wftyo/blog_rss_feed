@@ -4,17 +4,23 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Sat, 07 Nov 2026 06:25:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 06:26:35 +0000</lastBuildDate>
     <item>
-      <title>[Latent Space] Controlling Biology - Fabian Theis, Helmholtz Munich</title>
-      <link>https://www.youtube.com/@LatentSpacePod</link>
-      <guid isPermaLink="true">https://www.youtube.com/@LatentSpacePod</guid>
-      <description>We can really now start guiding the experimentation. So where before you, we built these human cell atlases, we had sort of this mapping aspect. Then we talked about the world models prediction problem.
+      <title>[No Priors] Tokenization, Agentic Trading, Harmonic: Robinhood's Mission to Expand Ownership with CEO Vlad Tenev</title>
+      <link>https://www.youtube.com/@NoPriorsPodcast</link>
+      <guid isPermaLink="true">https://www.youtube.com/@NoPriorsPodcast</guid>
+      <description>Speaker 1 | 00:00 - 00:07
+Prediction markets are an evolution of news. You just can see what's happening and what's likely to happen in the future through the odds.
 
-From mapping, we went to prediction. But now we can go to actually steering the next experiment. But quite frankly, very often the papers ended with some model, right?
+Speaker 2 | 00:07 - 00:11
+What is your reaction to the revolution in math that's happening with AI today?
 
-Maybe some sort of concept figure, maybe add a little bit validation. But then typically you start the next project, right? And...</description>
-      <pubDate>Fri, 06 Nov 2026 14:48:24 +0000</pubDate>
+Speaker 1 | 00:11 - 00:20
+It's too centralized, right? It's like AI companies with their big data centers and their employees using secret models to sort of do all this work.
+
+Speaker 2 | 00:20 - 00:22
+Do you think people will ...</description>
+      <pubDate>Thu, 05 Nov 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
