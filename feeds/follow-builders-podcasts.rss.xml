@@ -4,17 +4,19 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Mon, 09 Nov 2026 06:36:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 06:27:44 +0000</lastBuildDate>
     <item>
-      <title>[Latent Space] [One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco</title>
-      <link>https://www.youtube.com/watch?v=dpY7YzZo4kE</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=dpY7YzZo4kE</guid>
-      <description>Okay, this is a pretty special episode because we're celebrating one million subscribers on the AIU Code, uh, AI, AI Engineer YouTube channel. So go over there and subscribe if you haven't heard about it already.
+      <title>[Latent Space] What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord &amp;amp; Team</title>
+      <link>https://www.youtube.com/@LatentSpacePod</link>
+      <guid isPermaLink="true">https://www.youtube.com/@LatentSpacePod</guid>
+      <description>And so three years ago, this was a billion-dollar market. It's now a $10 billion market. Three years from now, I don't see how it's not a hundred billion dollar market.
 
-The guest is Mihail Eric, who is not only teaching the Modern Software Developer at Stanford, which is going viral right now for basically covering all the AI-native development pract- best practices, uh, but also he is head of AI at Monaco.
+AI is not gonna cure cancer before it can interpret these very basic types of images.
 
-So he's not only a teacher, but he's a prac...</description>
-      <pubDate>Sun, 08 Nov 2026 21:23:29 +0000</pubDate>
+If it's ninety-five percent right, it's a hundred percent wrong because it takes just as much time, if not more time, to fix a flawed output as it is to just build from scratch or use a template.
+
+So you can see the agent did send both the fin...</description>
+      <pubDate>Mon, 09 Nov 2026 16:41:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
