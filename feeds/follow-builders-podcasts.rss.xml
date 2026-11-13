@@ -4,21 +4,14 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Thu, 12 Nov 2026 06:28:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 06:28:38 +0000</lastBuildDate>
     <item>
-      <title>[AI &amp; I by Every] A New Vision for Human Work After Automation</title>
-      <link>https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL</link>
-      <guid isPermaLink="true">https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL</guid>
-      <description>Hey, welcome back to the Every Podcast, where we talk about the future of work.
-
-I'm Natalia Quintero, and at Every, our team of writers and builders use AI every day, so we can tell you how the frontier is shifting, what actually works, and what you need to know.
-
-So last week at Every, we hosted our first ever conference, V.C.S.S.,
-
-It was a full day of talks in Brooklyn featuring speakers from Anthropic, OpenAI, Notion, Lovable, Ode, and many more.
-
-If you missed it, we'll have all of the tal...</description>
-      <pubDate>Wed, 11 Nov 2026 15:30:00 +0000</pubDate>
+      <title>[No Priors] Powering AI-Driven Drug Discovery with President of Isomorphic Labs Max Jaderberg</title>
+      <link>https://www.youtube.com/@NoPriorsPodcast</link>
+      <guid isPermaLink="true">https://www.youtube.com/@NoPriorsPodcast</guid>
+      <description>Speaker 1 | 00:00 - 00:24
+The large part of the industry makes medicines is this very empirically driven process. Where things really fail is in the clinic because we never could see the problems until we get to the point where we put these drugs in patients and we say, Oh no, like, there's toxicity that we didn't account for. And so the really big opportunity is to have much more of that understanding before you go into patients. How can we bring all of that drug discovery work onto a computer?...</description>
+      <pubDate>Thu, 12 Nov 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
