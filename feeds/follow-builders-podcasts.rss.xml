@@ -4,14 +4,14 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Fri, 13 Nov 2026 06:28:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 06:26:10 +0000</lastBuildDate>
     <item>
-      <title>[No Priors] Powering AI-Driven Drug Discovery with President of Isomorphic Labs Max Jaderberg</title>
-      <link>https://www.youtube.com/@NoPriorsPodcast</link>
-      <guid isPermaLink="true">https://www.youtube.com/@NoPriorsPodcast</guid>
-      <description>Speaker 1 | 00:00 - 00:24
-The large part of the industry makes medicines is this very empirically driven process. Where things really fail is in the clinic because we never could see the problems until we get to the point where we put these drugs in patients and we say, Oh no, like, there's toxicity that we didn't account for. And so the really big opportunity is to have much more of that understanding before you go into patients. How can we bring all of that drug discovery work onto a computer?...</description>
-      <pubDate>Thu, 12 Nov 2026 11:00:00 +0000</pubDate>
+      <title>[Training Data] A Model For Everyone: How Ronak From Trajectory Is Building Products For Continual Learning</title>
+      <link>https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8</link>
+      <guid isPermaLink="true">https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8</guid>
+      <description>Speaker 1 | 00:00 - 00:32
+A lot of our philosophy in product actually comes from Apple. In, like, the early two thousands, you had a computer that had access to the Internet, and you had a phone that you could make phone calls. And I think no one really thought to put the two together until Apple said, okay. What if you actually put the Internet on a handheld device and combine the two? And I think by doing this of of basically putting training, eval, and deployment in one place, making that jus...</description>
+      <pubDate>Thu, 05 Nov 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
