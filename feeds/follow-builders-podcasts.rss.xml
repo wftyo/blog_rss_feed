@@ -4,14 +4,17 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Sat, 14 Nov 2026 06:26:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 06:26:56 +0000</lastBuildDate>
     <item>
-      <title>[Training Data] A Model For Everyone: How Ronak From Trajectory Is Building Products For Continual Learning</title>
-      <link>https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8</link>
-      <guid isPermaLink="true">https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8</guid>
-      <description>Speaker 1 | 00:00 - 00:32
-A lot of our philosophy in product actually comes from Apple. In, like, the early two thousands, you had a computer that had access to the Internet, and you had a phone that you could make phone calls. And I think no one really thought to put the two together until Apple said, okay. What if you actually put the Internet on a handheld device and combine the two? And I think by doing this of of basically putting training, eval, and deployment in one place, making that jus...</description>
-      <pubDate>Thu, 05 Nov 2026 10:00:00 +0000</pubDate>
+      <title>[Unsupervised Learning] Ep 97: Jev Creator on Decision Models, Benchmark Fatigue &amp;amp; Why the Labs Missed It</title>
+      <link>https://www.youtube.com/@RedpointAI</link>
+      <guid isPermaLink="true">https://www.youtube.com/@RedpointAI</guid>
+      <description>Speaker 1 | 00:00 - 00:06
+As you think about Anthropic, is that something you're optimistic on? It's like, hey. That's that's undervalued or something you're like, oh, I don't know what's gonna happen to that.
+
+Speaker 2 | 00:06 - 00:32
+I get the sense that a lot of the expectations baked in are ones that are not just product level, but based on, like, misunderstandings of the future of AI and what it can do. So my guess is that because some people might be valuing, like, building god as basical...</description>
+      <pubDate>Thu, 05 Nov 2026 14:05:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
