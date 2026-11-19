@@ -4,14 +4,12 @@
     <title>Follow Builders — X/Twitter</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI builders' latest tweets, curated by follow-builders</description>
-    <lastBuildDate>Wed, 18 Nov 2026 06:28:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 06:30:05 +0000</lastBuildDate>
     <item>
-      <title>Swyx (@swyx): the fact that nobody with decisionmaking power saw this coming a mile away and vetoed the 6.2 astra ...</title>
-      <link>https://x.com/swyx/status/2122862646265520150</link>
-      <guid isPermaLink="true">https://x.com/swyx/status/2122862646265520150</guid>
-      <description>the fact that nobody with decisionmaking power saw this coming a mile away and vetoed the 6.2 astra ad is my primary critique of the astra launch
-
-the model itself is solid minor version improvement guys, efficiency is one of the three most impt RL objectives rn and they are world leading here!!! i am daily driving astra and it is the best workflow automation model i’ve used, no longer getting stuck in horrible loops and efficiently learning thru compactions and skill writing. it’s running a lot of our content publishing pipeline for @latentspacepod and @aiDotEngineer and we wouldnt have nearly the revenue efficiency (&gt;1m/employee) that we have as a bootstrapped business without it
+      <title>Swyx (@swyx): poteto https://t.co/6qMBfvE93k</title>
+      <link>https://x.com/swyx/status/2123298074911248526</link>
+      <guid isPermaLink="true">https://x.com/swyx/status/2123298074911248526</guid>
+      <description>poteto https://t.co/6qMBfvE93k
 
 Bio: achieve ambition with intentionality, intensity, integrity &amp; insanity.
 
@@ -21,20 +19,14 @@ affiliations:
 - @temporalio
 - @aidotengineer
 - @latentspacepod
-❤️ 237  🔁 4</description>
-      <pubDate>Wed, 18 Nov 2026 01:21:10 +0000</pubDate>
+❤️ 2  🔁 0</description>
+      <pubDate>Thu, 19 Nov 2026 06:11:24 +0000</pubDate>
     </item>
     <item>
-      <title>Swyx (@swyx): technical details:
-
-&gt; inter-session context is surfaced by default. Teams now create dedicated bots ...</title>
-      <link>https://x.com/swyx/status/2122818291144229075</link>
-      <guid isPermaLink="true">https://x.com/swyx/status/2122818291144229075</guid>
-      <description>technical details:
-
-&gt; inter-session context is surfaced by default. Teams now create dedicated bots for different projects; while these different devins can talk to each other when necessary, they each have their own individual memory bank and goals. Each bot now has its own, long lived identity.  The transition from "Devin is a swarm of ephemeral agents" to "Devin is a collection of bots, each with their own persistent identity and memory" is changing how people use and prompt Devin.
-
-https://t.co/maw20vdPs8
+      <title>Swyx (@swyx): casting Monica Barbaro as temu Mira Murati is crazy work https://t.co/z241ISoVhl https://t.co/OCZi1t...</title>
+      <link>https://x.com/swyx/status/2123260852984013045</link>
+      <guid isPermaLink="true">https://x.com/swyx/status/2123260852984013045</guid>
+      <description>casting Monica Barbaro as temu Mira Murati is crazy work https://t.co/z241ISoVhl https://t.co/OCZi1tJ2DO
 
 Bio: achieve ambition with intentionality, intensity, integrity &amp; insanity.
 
@@ -44,37 +36,18 @@ affiliations:
 - @temporalio
 - @aidotengineer
 - @latentspacepod
-❤️ 4  🔁 0</description>
-      <pubDate>Tue, 17 Nov 2026 22:24:55 +0000</pubDate>
+❤️ 53  🔁 1</description>
+      <pubDate>Thu, 19 Nov 2026 03:43:30 +0000</pubDate>
     </item>
     <item>
-      <title>Swyx (@swyx): devin bots are multi-agent teams done right:
-- always on, proactive (but tuned for ROI)
-- own outcom...</title>
-      <link>https://x.com/swyx/status/2122746401482592549</link>
-      <guid isPermaLink="true">https://x.com/swyx/status/2122746401482592549</guid>
-      <description>devin bots are multi-agent teams done right:
-- always on, proactive (but tuned for ROI)
-- own outcomes not tasks (but can collab w others)
-- manages teams of subagents (and reviews itself)
-- available everywhere (call text slack whatever hello @interaction)
-- consistent reporting thru interactive artifacts aka devinapps not long chats (HTML is all you need™ @trq212)
+      <title>Swyx (@swyx): fcf profitable!
 
-this is the preview that @walden_yan gave at AIE. i've been trialing them for a week and i've been able to hand over my AEO, QA, cross-platform app porting, personal admin automation, and video editing work (also simultaneously moving from local agent worktree hell to cloud because ofc this is all cloud based thank god)
+https://t.co/ahqTGK5ZQS</title>
+      <link>https://x.com/swyx/status/2123259711785148431</link>
+      <guid isPermaLink="true">https://x.com/swyx/status/2123259711785148431</guid>
+      <description>fcf profitable!
 
-hyped concepts this replaces:
-- /goal
-- "ultracode" / "ultra mode"
-- "loop engineering"
-- "agent to agent"
-- "agent swarms"
-- AI employees (see below)
-
-my main aha moment is that you don't want "AI Employees", we do not have agi yet and you will just fail if you overpromise/overexpect. what you want is the "just" the next level of abstraction above single tasks, and the overwhelming consensus I've had talking to everyone at the frontier of agents (yes incl cog competitors) is agent managers that own outcomes. 
-
-incidentally, as an employer of humans it's also how i distinguish between someone who "has agency" (owns a problem area, finds issues and researches/brings solutions not problems) and who doesn't (only does precisely what i asked, not proactive, doesn't come up with suggestions i didn't think about). guess which one i value more lol.
-
-if youre a startup, reminder that Devin for Startups offers 65k in credits. apply via clanker
+https://t.co/ahqTGK5ZQS
 
 Bio: achieve ambition with intentionality, intensity, integrity &amp; insanity.
 
@@ -84,396 +57,406 @@ affiliations:
 - @temporalio
 - @aidotengineer
 - @latentspacepod
-❤️ 292  🔁 20</description>
-      <pubDate>Tue, 17 Nov 2026 17:39:15 +0000</pubDate>
+❤️ 3  🔁 0</description>
+      <pubDate>Thu, 19 Nov 2026 03:38:58 +0000</pubDate>
     </item>
     <item>
-      <title>Josh Woodward (@joshwoodward): Reply back with tasks that Gemini did for you! 
-https://t.co/CEwsM02goB</title>
-      <link>https://x.com/joshwoodward/status/2122737429476253889</link>
-      <guid isPermaLink="true">https://x.com/joshwoodward/status/2122737429476253889</guid>
-      <description>Reply back with tasks that Gemini did for you! 
-https://t.co/CEwsM02goB
+      <title>Josh Woodward (@joshwoodward): Read more and try it out in @GeminiApp
+
+https://t.co/G8TOtEtbzU</title>
+      <link>https://x.com/joshwoodward/status/2123178015874302328</link>
+      <guid isPermaLink="true">https://x.com/joshwoodward/status/2123178015874302328</guid>
+      <description>Read more and try it out in @GeminiApp
+
+https://t.co/G8TOtEtbzU
 
 Bio: VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio
-❤️ 41  🔁 1</description>
-      <pubDate>Tue, 17 Nov 2026 17:03:36 +0000</pubDate>
+❤️ 25  🔁 1</description>
+      <pubDate>Wed, 18 Nov 2026 22:14:20 +0000</pubDate>
     </item>
     <item>
-      <title>Josh Woodward (@joshwoodward): Gemini can now do your tasks free of charge in six countries! We’ve built it for anyone who has task...</title>
-      <link>https://x.com/joshwoodward/status/2122737427970425171</link>
-      <guid isPermaLink="true">https://x.com/joshwoodward/status/2122737427970425171</guid>
-      <description>Gemini can now do your tasks free of charge in six countries! We’ve built it for anyone who has tasks piling up during all the classes, meetings, and school drop-offs that fill the day. Our goal is for Gemini to get the job done and save you time and money along the way.
-
-3 major updates:
-
-1) Running on our new Gemini 4 Hydrogen model, Gemini can get stuff done at no cost for hundreds of millions of people across the US, Japan, Korea, Canada, Australia, and India.
-
-2) Many highly requested features are rolling out now, starting in the US:
-* Call local businesses (via Google Duplex)
-* Pay and check out (via Google Pay)
-* Text Gemini on Android or iOS (via RCS)
-* Forward emails to Gemini (via Gmail)
-* Sign into sites without sharing passwords outside Google (via Google Password Manager)
-
-3) We’ve also landed our biggest update yet for the Gemini &lt;&gt; Google Workspace integration. The tools trigger more reliably, and you can do much more without ever leaving Gemini. Draft or send emails. Create and edit Docs or Sheets. Add multiple Calendar events at once.
-
-Ready to hand off your next task? We can’t wait to see what Gemini crosses off your list first.
+      <title>Josh Woodward (@joshwoodward): Introducing Gemini 4 Neon. The shipping continues! Frontier-grade intelligence that’s faster, cheape...</title>
+      <link>https://x.com/joshwoodward/status/2123177835254952348</link>
+      <guid isPermaLink="true">https://x.com/joshwoodward/status/2123177835254952348</guid>
+      <description>Introducing Gemini 4 Neon. The shipping continues! Frontier-grade intelligence that’s faster, cheaper, and follows complex instructions well. So good to use! https://t.co/HWBTt61dLn
 
 Bio: VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio
-❤️ 599  🔁 60</description>
-      <pubDate>Tue, 17 Nov 2026 17:03:36 +0000</pubDate>
+❤️ 389  🔁 24</description>
+      <pubDate>Wed, 18 Nov 2026 22:13:37 +0000</pubDate>
     </item>
     <item>
-      <title>Thibault Sottiaux (@thsottiaux): If you have Pro 200/500, I do recommend trying out 6.2 Sol ultrafast, it's quite the blast to use an...</title>
-      <link>https://x.com/thsottiaux/status/2122929829863735594</link>
-      <guid isPermaLink="true">https://x.com/thsottiaux/status/2122929829863735594</guid>
-      <description>If you have Pro 200/500, I do recommend trying out 6.2 Sol ultrafast, it's quite the blast to use and a completely different feel. I'm excited to keep pushing in bringing these speeds to more users over time.
+      <title>Josh Woodward (@joshwoodward): Explore a new Project Genie experience for Google AI Ultra subscribers, featuring Genie 4, the Proje...</title>
+      <link>https://x.com/joshwoodward/status/2123123552052494529</link>
+      <guid isPermaLink="true">https://x.com/joshwoodward/status/2123123552052494529</guid>
+      <description>Explore a new Project Genie experience for Google AI Ultra subscribers, featuring Genie 4, the Project Genie agent, and a community gallery.
+
+https://t.co/SImBT48Ya3
+
+Bio: VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio
+❤️ 18  🔁 1</description>
+      <pubDate>Wed, 18 Nov 2026 18:37:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thibault Sottiaux (@thsottiaux): GPT-6.2 Astra is pretty good at hard things. Here the team shared some results on AMD and Jalapeño c...</title>
+      <link>https://x.com/thsottiaux/status/2123175166519992652</link>
+      <guid isPermaLink="true">https://x.com/thsottiaux/status/2123175166519992652</guid>
+      <description>GPT-6.2 Astra is pretty good at hard things. Here the team shared some results on AMD and Jalapeño chip optimizations.
+
+I do get the feedback on its communication style and we're working on that, but for really the hardest tasks in the world it does seem to be in a league of its own at the moment.
 
 Bio: Codex &amp; ChatGPT @OpenAI
-❤️ 609  🔁 13</description>
-      <pubDate>Wed, 18 Nov 2026 05:48:08 +0000</pubDate>
+❤️ 3021  🔁 100</description>
+      <pubDate>Wed, 18 Nov 2026 22:03:01 +0000</pubDate>
     </item>
     <item>
-      <title>Thibault Sottiaux (@thsottiaux): One of the funny reasons for the difference in vibes between the influencers and the crowd today on ...</title>
-      <link>https://x.com/thsottiaux/status/2122929634916679820</link>
-      <guid isPermaLink="true">https://x.com/thsottiaux/status/2122929634916679820</guid>
-      <description>One of the funny reasons for the difference in vibes between the influencers and the crowd today on 6.2 Sol/Astra is that we gave a few folks access a while ago and then made a lot of changes in the last 3-4 days and I'm pretty sure no re-testing was done within those days and the videos were produced last week.
-
-Don't get me wrong, while the models are a hefty jump compared to their GPT predecessors, they are by no means perfect and there are a few things the teams are excited for the models to get better at in future iterations in terms of taste and niceness of use. Love all the feedback and we hear you!
+      <title>Thibault Sottiaux (@thsottiaux): How is 6.2 Sol treating you today?</title>
+      <link>https://x.com/thsottiaux/status/2123113107048501273</link>
+      <guid isPermaLink="true">https://x.com/thsottiaux/status/2123113107048501273</guid>
+      <description>How is 6.2 Sol treating you today?
 
 Bio: Codex &amp; ChatGPT @OpenAI
-❤️ 3467  🔁 138</description>
-      <pubDate>Wed, 18 Nov 2026 05:47:21 +0000</pubDate>
+❤️ 6038  🔁 100</description>
+      <pubDate>Wed, 18 Nov 2026 17:56:24 +0000</pubDate>
     </item>
     <item>
-      <title>Thibault Sottiaux (@thsottiaux): These models are extremely efficient, which you feel in speed to complete tasks, cost and how much f...</title>
-      <link>https://x.com/thsottiaux/status/2122754551187132438</link>
-      <guid isPermaLink="true">https://x.com/thsottiaux/status/2122754551187132438</guid>
-      <description>These models are extremely efficient, which you feel in speed to complete tasks, cost and how much further your usage goes https://t.co/HIFob2j9Ag
+      <title>Peter Yang (@petergyang): I think we’re all missing some info in this Nvidia saga:
 
-Bio: Codex &amp; ChatGPT @OpenAI
-❤️ 2360  🔁 78</description>
-      <pubDate>Tue, 17 Nov 2026 18:11:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Peter Yang (@petergyang): Ok I'll tell you guys the truth - since I didn't get early access the GPT-6.2 Astra I paid off all t...</title>
-      <link>https://x.com/petergyang/status/2122883865643720927</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2122883865643720927</guid>
-      <description>Ok I'll tell you guys the truth - since I didn't get early access the GPT-6.2 Astra I paid off all the other influencers so they could leave negative reviews.
+1. What led Jensen to resign so abruptly? ...</title>
+      <link>https://x.com/petergyang/status/2123290075882807352</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2123290075882807352</guid>
+      <description>I think we’re all missing some info in this Nvidia saga:
 
-Yes it's indeed a big conspiracy. Also you MUST eat my brisket I won't accept no for an answer.
+1. What led Jensen to resign so abruptly? Was there a smoking gun? 
+
+2. Why has the board who spent so many years with him moved on so quickly?
+
+3. If there is a smoking gun why is the president saying he’s fine with Jensen coming back?
+
+Is this just about some board members losing trust in him that he lied or is there some other info we (and most Nvidia employees) are not aware of?
 
 Bio: Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-❤️ 38  🔁 0</description>
-      <pubDate>Wed, 18 Nov 2026 02:45:29 +0000</pubDate>
+❤️ 20  🔁 1</description>
+      <pubDate>Thu, 19 Nov 2026 05:39:37 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Yang (@petergyang): Ok I've been testing and dare I say Astra 6.2 is better than Fable at website design?
-
- Sharing my u...</title>
-      <link>https://x.com/petergyang/status/2122869524773179771</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2122869524773179771</guid>
-      <description>Ok I've been testing and dare I say Astra 6.2 is better than Fable at website design?
-
- Sharing my unbiased review tmr :)
-
-📌 Sign up here: https://t.co/744uInp9aE https://t.co/6VxRhEMIBN
+      <title>Peter Yang (@petergyang): Like this game wtf is going on https://t.co/69aEp46e5I</title>
+      <link>https://x.com/petergyang/status/2123256168462299291</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2123256168462299291</guid>
+      <description>Like this game wtf is going on https://t.co/69aEp46e5I
 
 Bio: Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-❤️ 16  🔁 0</description>
-      <pubDate>Wed, 18 Nov 2026 01:48:30 +0000</pubDate>
+❤️ 1  🔁 0</description>
+      <pubDate>Thu, 19 Nov 2026 03:24:53 +0000</pubDate>
     </item>
     <item>
-      <title>Peter Yang (@petergyang): Models (except Opus 5.5 and a select few other special ones) are basically software with the shortes...</title>
-      <link>https://x.com/petergyang/status/2122839368444661870</link>
-      <guid isPermaLink="true">https://x.com/petergyang/status/2122839368444661870</guid>
-      <description>Models (except Opus 5.5 and a select few other special ones) are basically software with the shortest shelf life?
-
-A few weeks later and everyone moves onto the next thing. 
-
-So no point in getting emotional about it IMO. More important to make your skills work well across any new model.
+      <title>Peter Yang (@petergyang): Why do people have to make board games that are so complicated</title>
+      <link>https://x.com/petergyang/status/2123247514103304252</link>
+      <guid isPermaLink="true">https://x.com/petergyang/status/2123247514103304252</guid>
+      <description>Why do people have to make board games that are so complicated
 
 Bio: Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6
-❤️ 27  🔁 1</description>
-      <pubDate>Tue, 17 Nov 2026 23:48:40 +0000</pubDate>
+❤️ 21  🔁 1</description>
+      <pubDate>Thu, 19 Nov 2026 02:50:30 +0000</pubDate>
     </item>
     <item>
-      <title>Amjad Masad (@amasad): How scaling agent swarms can optimize software performance. https://t.co/RbOtj6u9aQ</title>
-      <link>https://x.com/amasad/status/2122817367679901830</link>
-      <guid isPermaLink="true">https://x.com/amasad/status/2122817367679901830</guid>
-      <description>How scaling agent swarms can optimize software performance. https://t.co/RbOtj6u9aQ
+      <title>Nan Yu (@thenanyu): also applies to work https://t.co/K8wxqJQoeV</title>
+      <link>https://x.com/thenanyu/status/2123197657896321439</link>
+      <guid isPermaLink="true">https://x.com/thenanyu/status/2123197657896321439</guid>
+      <description>also applies to work https://t.co/K8wxqJQoeV
+
+Bio: product, codex @openai. prev head of product @linear
+❤️ 50  🔁 0</description>
+      <pubDate>Wed, 18 Nov 2026 23:32:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thariq (@trq212): this is one of those reasons why I don't think most people will really generate their own software
+
+...</title>
+      <link>https://x.com/trq212/status/2123106370161705127</link>
+      <guid isPermaLink="true">https://x.com/trq212/status/2123106370161705127</guid>
+      <description>this is one of those reasons why I don't think most people will really generate their own software
+
+good software is a set of strong opinions and I'd rather have something that's been really thought through by someone else
+
+Bio: playing WoW forever, formerly Claude Code @anthropicai
+❤️ 3052  🔁 251</description>
+      <pubDate>Wed, 18 Nov 2026 17:29:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thariq (@trq212): making your own software is tough, even with AI, because it's hard to know what you really want
+
+I d...</title>
+      <link>https://x.com/trq212/status/2123106368492298653</link>
+      <guid isPermaLink="true">https://x.com/trq212/status/2123106368492298653</guid>
+      <description>making your own software is tough, even with AI, because it's hard to know what you really want
+
+I didn't end up sticking with this, the modes weren't the right way for me to organize my work
+
+gonna a different take that’s more to-do oriented https://t.co/6iejoVGp1D
+
+Bio: playing WoW forever, formerly Claude Code @anthropicai
+❤️ 1783  🔁 38</description>
+      <pubDate>Wed, 18 Nov 2026 17:29:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Labs (@GoogleLabs): Create a world from one sentence, then change it while you’re standing inside 🌐
+
+Project Genie now r...</title>
+      <link>https://x.com/GoogleLabs/status/2123118145552749015</link>
+      <guid isPermaLink="true">https://x.com/GoogleLabs/status/2123118145552749015</guid>
+      <description>Create a world from one sentence, then change it while you’re standing inside 🌐
+
+Project Genie now runs on @GoogleDeepMind’s Genie 4. Here’s what’s new:
+— Prompt mid-session to edit your world live
+— Create worlds conversationally with the help of a new agent
+— Explore &amp; remix other users' worlds in the gallery
+
+Available now to eligible Google AI Ultra subscribers
+
+Bio: Google’s home for our latest AI tools and experiments.
+❤️ 266  🔁 29</description>
+      <pubDate>Wed, 18 Nov 2026 18:16:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Labs (@GoogleLabs): 🚨NEW EXPERIMENT 🚨
+
+Please join us in welcoming Stitch Loop, an always-on product agent that works no...</title>
+      <link>https://x.com/GoogleLabs/status/2123102389775573314</link>
+      <guid isPermaLink="true">https://x.com/GoogleLabs/status/2123102389775573314</guid>
+      <description>🚨NEW EXPERIMENT 🚨
+
+Please join us in welcoming Stitch Loop, an always-on product agent that works non-stop to help lean teams build better products.
+
+Join the waitlist: https://t.co/L0cp6slvxZ https://t.co/Ym6uf756GB
+
+Bio: Google’s home for our latest AI tools and experiments.
+❤️ 771  🔁 45</description>
+      <pubDate>Wed, 18 Nov 2026 17:13:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amjad Masad (@amasad): One of the more fascinating things in the OpenAI/Hugging Face incident was reading the message board...</title>
+      <link>https://x.com/amasad/status/2123133509028008331</link>
+      <guid isPermaLink="true">https://x.com/amasad/status/2123133509028008331</guid>
+      <description>One of the more fascinating things in the OpenAI/Hugging Face incident was reading the message boards where agents communicate.
+
+With Replit Missions you can see how the agents are coordinating and talking. https://t.co/5imCE6zYAQ
 
 Bio: ceo @replit. civilizationist
-❤️ 72  🔁 5</description>
-      <pubDate>Tue, 17 Nov 2026 22:21:15 +0000</pubDate>
+❤️ 191  🔁 6</description>
+      <pubDate>Wed, 18 Nov 2026 19:17:29 +0000</pubDate>
     </item>
     <item>
-      <title>Amjad Masad (@amasad): Agent swarms are the next scaling frontier for AI.
-
-For years, we’ve scaled intelligence by training...</title>
-      <link>https://x.com/amasad/status/2122809964649459861</link>
-      <guid isPermaLink="true">https://x.com/amasad/status/2122809964649459861</guid>
-      <description>Agent swarms are the next scaling frontier for AI.
-
-For years, we’ve scaled intelligence by training larger models and giving them more time to think. But there’s another dimension: running many agents in parallel, exploring different approaches, challenging each other, and working together on solutions that no single agent could easily discover.
-
-OpenAI has already demonstrated the potential of this approach with breakthroughs in mathematics.
-
-Until now, experimenting with agent swarms yourself required building complicated orchestration infrastructure.
-
-Starting today on Replit, spinning up a swarm of agents is just one prompt away.
-
-Excited to see what people discover when we make collective machine intelligence programmable by anyone.
-
-Bio: ceo @replit. civilizationist
-❤️ 108  🔁 11</description>
-      <pubDate>Tue, 17 Nov 2026 21:51:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amjad Masad (@amasad): Didn’t think it was possible to do iOS-quality gestures on the web https://t.co/PEnljUKPQI</title>
-      <link>https://x.com/amasad/status/2122805977187549558</link>
-      <guid isPermaLink="true">https://x.com/amasad/status/2122805977187549558</guid>
-      <description>Didn’t think it was possible to do iOS-quality gestures on the web https://t.co/PEnljUKPQI
-
-Bio: ceo @replit. civilizationist
-❤️ 135  🔁 7</description>
-      <pubDate>Tue, 17 Nov 2026 21:35:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Guillermo Rauch (@rauchg): fx is beautiful, try it out! https://t.co/XR5y7bqLD5</title>
-      <link>https://x.com/rauchg/status/2122846434177531945</link>
-      <guid isPermaLink="true">https://x.com/rauchg/status/2122846434177531945</guid>
-      <description>fx is beautiful, try it out! https://t.co/XR5y7bqLD5
+      <title>Guillermo Rauch (@rauchg): Nov 1997 vs Nov 2026 https://t.co/C1zXJavktJ</title>
+      <link>https://x.com/rauchg/status/2123298562960466017</link>
+      <guid isPermaLink="true">https://x.com/rauchg/status/2123298562960466017</guid>
+      <description>Nov 1997 vs Nov 2026 https://t.co/C1zXJavktJ
 
 Bio: @vercel CEO
-❤️ 158  🔁 4</description>
-      <pubDate>Wed, 18 Nov 2026 00:16:45 +0000</pubDate>
+❤️ 48  🔁 1</description>
+      <pubDate>Thu, 19 Nov 2026 06:13:21 +0000</pubDate>
     </item>
     <item>
-      <title>Guillermo Rauch (@rauchg): Actually a huge deal for web performance. 𝚊𝚐𝚎𝚗𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛 𝚟𝚒𝚝𝚊𝚕𝚜 is so smart… self-optimizing software...</title>
-      <link>https://x.com/rauchg/status/2122830064152899991</link>
-      <guid isPermaLink="true">https://x.com/rauchg/status/2122830064152899991</guid>
-      <description>Actually a huge deal for web performance. 𝚊𝚐𝚎𝚗𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛 𝚟𝚒𝚝𝚊𝚕𝚜 is so smart… self-optimizing software is here! https://t.co/rTkIyaUmLh
+      <title>Guillermo Rauch (@rauchg): One of the most impressive things I've seen, and I think this is an important advancement to the sta...</title>
+      <link>https://x.com/rauchg/status/2123237505810178434</link>
+      <guid isPermaLink="true">https://x.com/rauchg/status/2123237505810178434</guid>
+      <description>One of the most impressive things I've seen, and I think this is an important advancement to the state of the art.
+
+Message boards were the enabling technology of both the Navier-Stokes math breakthrough and even the OpenAI/HuggingFace cyber feat.
+
+We built a message board infrastructure primitive. You can think of it as "headless Slack" (or remember IRC?) for agents.
+
+This is an important building block for software factories, self-optimizing systems, and scientific research, where the human prompting is just the seed of the system, and millions of agents can operate in a decentralized fashion.
+
+𝚟𝚎𝚛𝚌𝚎𝚕 𝚋𝚘𝚊𝚛𝚍 is designed to be model, harness and hosting platform agnostic. Just bring your agents, give them our CLI, and watch magic happen.
 
 Bio: @vercel CEO
-❤️ 494  🔁 20</description>
-      <pubDate>Tue, 17 Nov 2026 23:11:42 +0000</pubDate>
+❤️ 844  🔁 32</description>
+      <pubDate>Thu, 19 Nov 2026 02:10:43 +0000</pubDate>
     </item>
     <item>
-      <title>Guillermo Rauch (@rauchg): OpenAI just put out the most cybersecurity-capable models in the world. Excellent timing.
+      <title>Guillermo Rauch (@rauchg): I’m being pitched a new inference neocloud company on average every two days. No exaggeration. I tak...</title>
+      <link>https://x.com/rauchg/status/2123203741570740504</link>
+      <guid isPermaLink="true">https://x.com/rauchg/status/2123203741570740504</guid>
+      <description>I’m being pitched a new inference neocloud company on average every two days. No exaggeration. I take every entrepreneur seriously and I look deeply into each.
 
-Important...</title>
-      <link>https://x.com/rauchg/status/2122812237169426606</link>
-      <guid isPermaLink="true">https://x.com/rauchg/status/2122812237169426606</guid>
-      <description>OpenAI just put out the most cybersecurity-capable models in the world. Excellent timing.
+But it’s hard to fathom this being sustainable. At the same time, AI Gateway token demand on Vercel has been ~40% MoM compounded since the beginning of the year. No signs of stopping.
 
-Important signal: @vercel DeepsecBench is a stealth cyber benchmark. No lab has had access to the codebases to train on.
+One way to reconcile this is that compute is the new economy, and tokens the new energy unit. There’s a new Industrial Revolution taking place. Every aspect of our lives is being replatformed on top of this new system that enhances everything. More like an “oil rush” than a “gold rush”: it’s durable, not a fad.
 
-https://t.co/14WK4F7irU https://t.co/TXMgZ8URsA
+In the short term, I anticipate more expansion, followed by consolidation due to economies of scale, cybersecurity and enterprise requirements (ZDR and cyber being a hot topic for inference providers), capital requirements, and an evolving regulatory landscape.
 
 Bio: @vercel CEO
-❤️ 269  🔁 12</description>
-      <pubDate>Tue, 17 Nov 2026 22:00:51 +0000</pubDate>
+❤️ 1007  🔁 36</description>
+      <pubDate>Wed, 18 Nov 2026 23:56:33 +0000</pubDate>
     </item>
     <item>
-      <title>Ryo Lu (@ryolu_): crazy ideas are now possible
-but it takes just as much care and effort https://t.co/ULe64rH1CZ</title>
-      <link>https://x.com/ryolu_/status/2122929249967554583</link>
-      <guid isPermaLink="true">https://x.com/ryolu_/status/2122929249967554583</guid>
-      <description>crazy ideas are now possible
-but it takes just as much care and effort https://t.co/ULe64rH1CZ
+      <title>Aaron Levie (@levie): Regardless of what it’s called, we’re clearly moving to yet another era of AI agents in our work. 
 
-Bio: Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.
-❤️ 87  🔁 3</description>
-      <pubDate>Wed, 18 Nov 2026 05:45:49 +0000</pubDate>
+...</title>
+      <link>https://x.com/levie/status/2123278949749059756</link>
+      <guid isPermaLink="true">https://x.com/levie/status/2123278949749059756</guid>
+      <description>Regardless of what it’s called, we’re clearly moving to yet another era of AI agents in our work. 
+
+We’ve quickly jumped from agents that spit out a quick answer for you, to today agents that you orchestrate inside of a set of tasks. But as agents can both fan out and work in parallel, handle much larger context, be able to do long running work, and have far greater levels of capabilities, we’re entering yet another level of what we can have AI do for us.
+
+We’ll soon be able to give agents a set of goals, and they can go out and design the best solution for that goal, while also continuously improving it based on the ongoing execution of whatever it built. This will obviously start with engineering because that’s where we’re seeing the best practices emerge first in almost every new era of agents. 
+
+But the impact can be quite massive across the rest of knowledge work. You’ll tell an agent to improve your client onboarding workflow to achieve a certain targeted goal; or have agents go reduce risk in your business; or improve your security posture on an ongoing basis.
+
+These autonomous systems will be able to take on a set of goals, design the best outcome, test and iterate, deploy, and then optimize whatever it built on an ongoing basis. Importantly, this leads to outcomes and results that humans literally couldn’t have accomplished before. This will lead to fairly new levels of productivity with AI.
+
+Bio: ceo @box - your business lives in content. unleash it with AI
+❤️ 90  🔁 8</description>
+      <pubDate>Thu, 19 Nov 2026 04:55:24 +0000</pubDate>
     </item>
     <item>
-      <title>Garry Tan (@garrytan): If you’re a shareholder, employee or former employee your voice is needed here https://t.co/w6gz1FYp...</title>
-      <link>https://x.com/garrytan/status/2122913046603649325</link>
-      <guid isPermaLink="true">https://x.com/garrytan/status/2122913046603649325</guid>
-      <description>If you’re a shareholder, employee or former employee your voice is needed here https://t.co/w6gz1FYpKZ
+      <title>Zara Zhang (@zarazhangrui): Instead of being massively viral for 1 day, it's much better to be just a little bit viral every wee...</title>
+      <link>https://x.com/zarazhangrui/status/2122953849120153714</link>
+      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2122953849120153714</guid>
+      <description>Instead of being massively viral for 1 day, it's much better to be just a little bit viral every week, and watch it compound
 
-Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-❤️ 205  🔁 21</description>
-      <pubDate>Wed, 18 Nov 2026 04:41:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Garry Tan (@garrytan): How fast can they do this? https://t.co/2hyyUWbFHk</title>
-      <link>https://x.com/garrytan/status/2122912201300427198</link>
-      <guid isPermaLink="true">https://x.com/garrytan/status/2122912201300427198</guid>
-      <description>How fast can they do this? https://t.co/2hyyUWbFHk
-
-Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-❤️ 94  🔁 6</description>
-      <pubDate>Wed, 18 Nov 2026 04:38:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Garry Tan (@garrytan): Only three people to remove from the board? Easy work
-
-15% shareholder vote coming https://t.co/X2nv...</title>
-      <link>https://x.com/garrytan/status/2122910329537728747</link>
-      <guid isPermaLink="true">https://x.com/garrytan/status/2122910329537728747</guid>
-      <description>Only three people to remove from the board? Easy work
-
-15% shareholder vote coming https://t.co/X2nvAhGcpi
-
-Bio: President &amp; CEO @ycombinator —Founder @garryslist—Creator of GStack &amp; GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop
-❤️ 2691  🔁 148</description>
-      <pubDate>Wed, 18 Nov 2026 04:30:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Matt Turck (@mattturck): Daytona continues to push agentic infra innovation - first to provide macOS sandboxes, for computer-...</title>
-      <link>https://x.com/mattturck/status/2122726760185741673</link>
-      <guid isPermaLink="true">https://x.com/mattturck/status/2122726760185741673</guid>
-      <description>Daytona continues to push agentic infra innovation - first to provide macOS sandboxes, for computer-use agents on Macs and building and testing Apple apps https://t.co/wAYXaDLpXK
-
-Bio: VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
-❤️ 28  🔁 3</description>
-      <pubDate>Tue, 17 Nov 2026 16:21:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Matt Turck (@mattturck): Building intelligence that compounds: excited to announce our investment in @remanencelabs and partn...</title>
-      <link>https://x.com/mattturck/status/2122717441461739571</link>
-      <guid isPermaLink="true">https://x.com/mattturck/status/2122717441461739571</guid>
-      <description>Building intelligence that compounds: excited to announce our investment in @remanencelabs and partner with @plcedoz, @hparams and Axel Moyal - a $30M seed co-led with @eqt. 
-
-More on continual learning and the thesis here:
-
-https://t.co/RvHyxj2gOo
-
-Bio: VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.
-❤️ 42  🔁 9</description>
-      <pubDate>Tue, 17 Nov 2026 15:44:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zara Zhang (@zarazhangrui): I love old commercials https://t.co/yEXZXxdviY</title>
-      <link>https://x.com/zarazhangrui/status/2122787795634987498</link>
-      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2122787795634987498</guid>
-      <description>I love old commercials https://t.co/yEXZXxdviY
+Build a system that consistently delivers high-quality content over a long period of time
 
 Bio: Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL
-❤️ 16  🔁 0</description>
-      <pubDate>Tue, 17 Nov 2026 20:23:44 +0000</pubDate>
+❤️ 368  🔁 7</description>
+      <pubDate>Wed, 18 Nov 2026 07:23:34 +0000</pubDate>
     </item>
     <item>
-      <title>Zara Zhang (@zarazhangrui): This was one-shotted. DM me if you want the prompt</title>
-      <link>https://x.com/zarazhangrui/status/2122744253302653222</link>
-      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2122744253302653222</guid>
-      <description>This was one-shotted. DM me if you want the prompt
+      <title>Zara Zhang (@zarazhangrui): Can't think of a better way to present books ❤️
+I own 10 out of the 21 stripe press books https://t....</title>
+      <link>https://x.com/zarazhangrui/status/2122943348860506462</link>
+      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2122943348860506462</guid>
+      <description>Can't think of a better way to present books ❤️
+I own 10 out of the 21 stripe press books https://t.co/D9tO5wIAfa
 
 Bio: Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL
-❤️ 6  🔁 0</description>
-      <pubDate>Tue, 17 Nov 2026 17:30:43 +0000</pubDate>
+❤️ 88  🔁 5</description>
+      <pubDate>Wed, 18 Nov 2026 06:41:51 +0000</pubDate>
     </item>
     <item>
-      <title>Zara Zhang (@zarazhangrui): So pretty 😭 🌸 https://t.co/tucjlzCN8B</title>
-      <link>https://x.com/zarazhangrui/status/2122743151127667145</link>
-      <guid isPermaLink="true">https://x.com/zarazhangrui/status/2122743151127667145</guid>
-      <description>So pretty 😭 🌸 https://t.co/tucjlzCN8B
+      <title>Nikunj Kothari (@nikunj): SF VCs (who didn’t invest in Anthropic): Dear Lord, it’d be nice to have some liquidity so that I ca...</title>
+      <link>https://x.com/nikunj/status/2123183421002588327</link>
+      <guid isPermaLink="true">https://x.com/nikunj/status/2123183421002588327</guid>
+      <description>SF VCs (who didn’t invest in Anthropic): Dear Lord, it’d be nice to have some liquidity so that I can raise my next fund. 
 
-Bio: Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL
-❤️ 180  🔁 2</description>
-      <pubDate>Tue, 17 Nov 2026 17:26:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nikunj Kothari (@nikunj): Grateful for another trip around the sun today with the best family, friends and founders/coworkers ...</title>
-      <link>https://x.com/nikunj/status/2122889175053832557</link>
-      <guid isPermaLink="true">https://x.com/nikunj/status/2122889175053832557</guid>
-      <description>Grateful for another trip around the sun today with the best family, friends and founders/coworkers ✌️
+Lord: Tathastu
 
-Life’s been chaotically busy with just work, computer, family and some sleep. 
-
-Not much time for anything else. 
-
-Goal for next year is to do all of those, get fit, be present and be funmaxxing as much as possible. 
-
-Send me your best tips on how to do it all!
+VC: No, not that kind of liquidity 🤦‍♂️ https://t.co/4PlobnPg4n
 
 Bio: partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-❤️ 123  🔁 0</description>
-      <pubDate>Wed, 18 Nov 2026 03:06:35 +0000</pubDate>
+❤️ 108  🔁 6</description>
+      <pubDate>Wed, 18 Nov 2026 22:35:49 +0000</pubDate>
     </item>
     <item>
-      <title>Nikunj Kothari (@nikunj): The model vibes yo-yo in the X sphere is freaking wild..
+      <title>Nikunj Kothari (@nikunj): Ok this happens a lot so I thought I’ll lay it out here..
 
-For the last few months, it felt like @Ope...</title>
-      <link>https://x.com/nikunj/status/2122833396787495317</link>
-      <guid isPermaLink="true">https://x.com/nikunj/status/2122833396787495317</guid>
-      <description>The model vibes yo-yo in the X sphere is freaking wild..
+founder friend: my pitch isn’t working on...</title>
+      <link>https://x.com/nikunj/status/2123066196052381864</link>
+      <guid isPermaLink="true">https://x.com/nikunj/status/2123066196052381864</guid>
+      <description>Ok this happens a lot so I thought I’ll lay it out here..
 
-For the last few months, it felt like @OpenAI had the mantle.
+founder friend: my pitch isn’t working on the fundraising side. haaalp. 
 
-Now @AnthropicAI with their 5.5 release and @GeminiApp with their Carbon release seem to be getting all the accolades. 
+*proceeds to give me the pitch*
 
-Your turn @grok to surprise us all!
+me: ambition is what’s being rewarded right now. what do you believe to be true if everything you laid out works? think about the second and third order effects as a result of you being successful. 
+
+founder: err, if everything works out, then “this” happens. 
+
+me: put “this” in the pitch in the first slide and walk the investor how you get to “this” by building what you’re building in the first place and how you earn the right to get there. 
+
+founder: no, they’ll think I’m crazy
+
+me: try it. what do you have to lose?
+
+*tries it very reluctantly*
+
+founder (4 days later): you *insert expletive*.. it worked. 
+
+me: see. you always had it in you, you just had to tell it. 
+
+—
+
+If you’re an ambitious founder reading this and having the same issue, try this, I think it’ll work. If it does, please tell me!!
 
 Bio: partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian &amp; others. love @shimoleejhaveri + 👦👧
-❤️ 13  🔁 0</description>
-      <pubDate>Tue, 17 Nov 2026 23:24:56 +0000</pubDate>
+❤️ 1042  🔁 27</description>
+      <pubDate>Wed, 18 Nov 2026 14:50:00 +0000</pubDate>
     </item>
     <item>
-      <title>Dan Shipper (@danshipper): the @every team's full ratings for Astra and Sol 6.2
-
-hard to remember a frontier model release like...</title>
-      <link>https://x.com/danshipper/status/2122858139989012510</link>
-      <guid isPermaLink="true">https://x.com/danshipper/status/2122858139989012510</guid>
-      <description>the @every team's full ratings for Astra and Sol 6.2
-
-hard to remember a frontier model release like this. opus 5 is the closest comp
-https://t.co/j5t0TLxxcn https://t.co/PgB9RcUE4w
+      <title>Dan Shipper (@danshipper): Legggoooo https://t.co/plMcv2r3X0</title>
+      <link>https://x.com/danshipper/status/2123196924421661149</link>
+      <guid isPermaLink="true">https://x.com/danshipper/status/2123196924421661149</guid>
+      <description>Legggoooo https://t.co/plMcv2r3X0
 
 Bio: ceo @every | the only subscription you need to stay at the edge of AI
-❤️ 125  🔁 4</description>
-      <pubDate>Wed, 18 Nov 2026 01:03:16 +0000</pubDate>
+❤️ 74  🔁 1</description>
+      <pubDate>Wed, 18 Nov 2026 23:29:28 +0000</pubDate>
     </item>
     <item>
-      <title>Dan Shipper (@danshipper): introducing the inverse @roon bench from @every https://t.co/A62NFjZICb</title>
-      <link>https://x.com/danshipper/status/2122852558007894417</link>
-      <guid isPermaLink="true">https://x.com/danshipper/status/2122852558007894417</guid>
-      <description>introducing the inverse @roon bench from @every https://t.co/A62NFjZICb
+      <title>Dan Shipper (@danshipper): almost 4k people on the stream, come hang! https://t.co/5lrvOqim4p</title>
+      <link>https://x.com/danshipper/status/2123163857128702053</link>
+      <guid isPermaLink="true">https://x.com/danshipper/status/2123163857128702053</guid>
+      <description>almost 4k people on the stream, come hang! https://t.co/5lrvOqim4p
 
 Bio: ceo @every | the only subscription you need to stay at the edge of AI
-❤️ 33  🔁 0</description>
-      <pubDate>Wed, 18 Nov 2026 00:41:05 +0000</pubDate>
+❤️ 12  🔁 1</description>
+      <pubDate>Wed, 18 Nov 2026 21:18:04 +0000</pubDate>
     </item>
     <item>
-      <title>Dan Shipper (@danshipper): if your team isn't generating videos like this instead of decks to explain new product direction...n...</title>
-      <link>https://x.com/danshipper/status/2122827759932051751</link>
-      <guid isPermaLink="true">https://x.com/danshipper/status/2122827759932051751</guid>
-      <description>if your team isn't generating videos like this instead of decks to explain new product direction...ngmi https://t.co/4HXxWDJBmx
+      <title>Dan Shipper (@danshipper): https://t.co/bq9xLeT1bL</title>
+      <link>https://x.com/danshipper/status/2123146907681980688</link>
+      <guid isPermaLink="true">https://x.com/danshipper/status/2123146907681980688</guid>
+      <description>https://t.co/bq9xLeT1bL
 
-Bio: ceo @every | the only subscription you need to stay at the edge of AI
-❤️ 109  🔁 5</description>
-      <pubDate>Tue, 17 Nov 2026 23:02:32 +0000</pubDate>
+Bio: ceo @every | the only subscription you need to stay at the edge of AI</description>
+      <pubDate>Wed, 18 Nov 2026 20:10:43 +0000</pubDate>
     </item>
     <item>
-      <title>Sam Altman (@sama): Although the new models are very smart, we have more work ahead of us on making the models nice to w...</title>
-      <link>https://x.com/sama/status/2122798042734633452</link>
-      <guid isPermaLink="true">https://x.com/sama/status/2122798042734633452</guid>
-      <description>Although the new models are very smart, we have more work ahead of us on making the models nice to work with, and will prioritize that for upcoming releases.
+      <title>Aditya Agarwal (@adityaag): This completely tracks with our data as well.
 
-But even if it takes a little extra work, the intelligence and capability are extraordinary.
+I have always thought it was copium when early stage ...</title>
+      <link>https://x.com/adityaag/status/2123293726110020052</link>
+      <guid isPermaLink="true">https://x.com/adityaag/status/2123293726110020052</guid>
+      <description>This completely tracks with our data as well.
+
+I have always thought it was copium when early stage VCs complained that they could not do “AI”.
+
+You just have to take more risk and be non-consensus. And work on frontier problems. https://t.co/Skc0x1ZRBh
+
+Bio: General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
+❤️ 12  🔁 0</description>
+      <pubDate>Thu, 19 Nov 2026 05:54:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aditya Agarwal (@adityaag): Stablecoins will likely be one of the biggest ways for America to exert soft power.
+
+If you are livi...</title>
+      <link>https://x.com/adityaag/status/2123262616776921257</link>
+      <guid isPermaLink="true">https://x.com/adityaag/status/2123262616776921257</guid>
+      <description>Stablecoins will likely be one of the biggest ways for America to exert soft power.
+
+If you are living in most countries outside of India and China, then you 100% would prefer to own dollars. Ditto for businesses.
+
+🇺🇸🇺🇸
+
+Bio: General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad
+❤️ 25  🔁 0</description>
+      <pubDate>Thu, 19 Nov 2026 03:50:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sam Altman (@sama): So fun to do DealBook with my friend and partner of 11 years, @gdb. Thrilled the world got to see th...</title>
+      <link>https://x.com/sama/status/2123103873166381287</link>
+      <guid isPermaLink="true">https://x.com/sama/status/2123103873166381287</guid>
+      <description>So fun to do DealBook with my friend and partner of 11 years, @gdb. Thrilled the world got to see the brilliant, fiercely determined leader I have the privilege of working with every day.
+
+Greg’s role at OpenAI has evolved from writing code 100 hours a week in the early days to now leading some of the hardest and most consequential parts of our business.
+
+One thing that has not changed is his extraordinary commitment to our mission. I can say with confidence that OpenAI would not exist without Greg, and I believe the world would be on a much worse path toward the AI future without him.
 
 Bio: The mission of OpenAI is to ensure that AGI benefits all of humanity
-❤️ 2990  🔁 91</description>
-      <pubDate>Tue, 17 Nov 2026 21:04:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sam Altman (@sama): 6.2 Sol and Astra are out.
-
-These models can do amazing things and are very token-efficient; we hope...</title>
-      <link>https://x.com/sama/status/2122798039899263456</link>
-      <guid isPermaLink="true">https://x.com/sama/status/2122798039899263456</guid>
-      <description>6.2 Sol and Astra are out.
-
-These models can do amazing things and are very token-efficient; we hope people will get great value from them.
-
-In particular, 6.2 Sol ultrafast is something I think people will really enjoy. https://t.co/KNjtDKRwj7
-
-Bio: The mission of OpenAI is to ensure that AGI benefits all of humanity
-❤️ 7670  🔁 336</description>
-      <pubDate>Tue, 17 Nov 2026 21:04:27 +0000</pubDate>
+❤️ 4111  🔁 146</description>
+      <pubDate>Wed, 18 Nov 2026 17:19:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
