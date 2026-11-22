@@ -4,19 +4,14 @@
     <title>Follow Builders — Podcasts</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
     <description>AI podcasts tracked by follow-builders</description>
-    <lastBuildDate>Sat, 21 Nov 2026 06:27:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 06:27:17 +0000</lastBuildDate>
     <item>
-      <title>[Latent Space] Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO</title>
-      <link>https://www.youtube.com/watch?v=x0VSm6IjcDQ</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=x0VSm6IjcDQ</guid>
-      <description>Kari writing this blog post, like issue tracking is dead. Yeah.
-
-So like how do you explain to your customers that like, "Hey, you know, our entire business was issue tracking before, and now our CEO just wrote this blog post"?
-
-The great thing about our business is that we're not like so big to like kill ourselves, right? [laughs] Yeah. Like [laughs] um- [laughs]...
-
-it's probably really hard if you're Google to like kill the search business, right? Yeah. And put an AI, you know, box at the top...</description>
-      <pubDate>Thu, 19 Nov 2026 23:38:57 +0000</pubDate>
+      <title>[No Priors] Powering AI-Driven Drug Discovery with President of Isomorphic Labs Max Jaderberg</title>
+      <link>https://www.youtube.com/watch?v=IiKf3BgBezE</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=IiKf3BgBezE</guid>
+      <description>Speaker 1 | 00:00 - 00:24
+The large part of the industry makes medicines is this very empirically driven process. Where things really fail is in the clinic because we never could see the problems until we get to the point where we put these drugs in patients and we say, Oh no, like, there's toxicity that we didn't account for. And so the really big opportunity is to have much more of that understanding before you go into patients. How can we bring all of that drug discovery work onto a computer?...</description>
+      <pubDate>Thu, 12 Nov 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
